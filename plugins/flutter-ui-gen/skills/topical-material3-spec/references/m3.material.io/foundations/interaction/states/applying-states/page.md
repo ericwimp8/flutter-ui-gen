@@ -6,7 +6,7 @@ Source: https://m3.material.io/foundations/interaction/states/applying-states
 
 An enabled state communicates an interactive component or element. Enabled states use the default styling for each interactive component.
 
-![Enabled state of 4 components.](assets/asset-001-button-fab-switch-text-field-0835334ea1.png)
+![Enabled state of 4 components.](assets/asset-001-button-fab-switch-text-field-0835334ea1.webp)
 
 *Button; FAB; Switch; Text field*
 
@@ -16,7 +16,7 @@ A disabled state communicates when a component or element isn’t interactive. T
 
 Disabled states don't need to meet Material's contrast requirements.
 
-![Low opacity solitary button labeled disabled, indicates a disabled/inoperable state.](assets/asset-002-disabled-button-dcf648e9e6.png)
+![Low opacity solitary button labeled disabled, indicates a disabled/inoperable state.](assets/asset-002-disabled-button-dcf648e9e6.webp)
 
 *Disabled button*
 
@@ -31,7 +31,7 @@ Disabled states are inherited by action, selection, and input components:
 - Switches
 - Text fields
 
-![Inoperable state of 4 components.](assets/asset-003-checkbox-icon-button-radio-button-segmented-button-60d2cdc45c.png)
+![Inoperable state of 4 components.](assets/asset-003-checkbox-icon-button-radio-button-segmented-button-60d2cdc45c.webp)
 
 *Checkbox; Icon button; Radio button; Segmented button*
 
@@ -47,7 +47,7 @@ Disabled states aren't inherited by communication, containment, navigation, and 
 - Tabs
 - Tooltips
 
-![Screen erroneously showing edit FAB in inoperable state, though the edit function is unavailable.](assets/asset-004-don-t-if-the-action-represented-in-the-6824de2c40.png)
+![Screen erroneously showing edit FAB in inoperable state, though the edit function is unavailable.](assets/asset-004-don-t-if-the-action-represented-in-the-6824de2c40.webp)
 
 *Don’t If the action represented in the FAB is unavailable, the FAB shouldn't appear*
 
@@ -61,7 +61,7 @@ Disabled components can’t be focused, dragged, or pressed, and they don’t ch
 
 There can be any number of disabled states in a layout.
 
-![Disabled components on a screen.](assets/asset-006-disabled-redo-icon-button-disabled-checklist-icon-button-83fc1569f1.png)
+![Disabled components on a screen.](assets/asset-006-disabled-redo-icon-button-disabled-checklist-icon-button-83fc1569f1.webp)
 
 *Disabled redo icon button; Disabled checklist icon button*
 
@@ -71,7 +71,7 @@ Hover states are initiated by the user pausing over an interactive element using
 
 The lower-emphasis surface overlay for hover states can be applied to the entire component, elements within a component, or as a circular shape over part of the component.
 
-![Cursor moves toward button which reads “enabled” and when the cursor touches the button text changes to “hovered.”](assets/asset-007-hovered-button-2faebc6b73.png)
+![Cursor moves toward button which reads “enabled” and when the cursor touches the button text changes to “hovered.”](assets/asset-007-hovered-button-2faebc6b73.webp)
 
 *Hovered button*
 
@@ -87,7 +87,7 @@ Hover states are inherited by action, selection, and input components:
 - Switch
 - Text fields
 
-![Hover state of 4 components.](assets/asset-008-fab-icon-button-chip-segmented-buttons-6cb86b3bbc.png)
+![Hover state of 4 components.](assets/asset-008-fab-icon-button-chip-segmented-buttons-6cb86b3bbc.webp)
 
 *FAB; Icon button; Chip; Segmented buttons*
 
@@ -101,7 +101,7 @@ Hover states aren’t inherited by communication, containment, or navigation com
 - Sheets
 - Tabs
 
-![Mobile screen with the whole app bar wrongly in hover state.](assets/asset-009-don-t-the-individual-components-that-are-actionable-58ea82f0af.png)
+![Mobile screen with the whole app bar wrongly in hover state.](assets/asset-009-don-t-the-individual-components-that-are-actionable-58ea82f0af.webp)
 
 *Don’t The individual components that are actionable within the app bar inherit hover states, not the whole app bar*
 
@@ -131,7 +131,7 @@ A focused state communicates when a user has highlighted an element using a keyb
 
 The higher-emphasis surface overlay for focused states can be applied to the entire component, elements within a component, or as a circular shape over part of the component.
 
-![A button in focused state.](assets/asset-013-focused-button-b1e83040ec.png)
+![A button in focused state.](assets/asset-013-focused-button-b1e83040ec.webp)
 
 *Focused button*
 
@@ -146,7 +146,7 @@ Focus states are inherited by action, selection, and input components:
 - Selection controls
 - Text fields
 
-![Focus state of 4 components.](assets/asset-014-fab-icon-button-chip-segmented-buttons-6d4097879e.png)
+![Focus state of 4 components.](assets/asset-014-fab-icon-button-chip-segmented-buttons-6d4097879e.webp)
 
 *FAB; Icon button; Chip; Segmented buttons*
 
@@ -160,7 +160,7 @@ Focus states aren’t inherited by most communication, containment, or navigatio
 - Navigation bar, drawer, and rail
 - Sheets
 
-![Mobile screen showing entire app bar in focus state, which is an error.](assets/asset-015-don-t-the-individual-components-that-are-actionable-95b244fc2a.png)
+![Mobile screen showing entire app bar in focus state, which is an error.](assets/asset-015-don-t-the-individual-components-that-are-actionable-95b244fc2a.webp)
 
 *Don’t The individual components that are actionable within the app bar inherit focus states, not the whole app bar*
 
@@ -172,7 +172,7 @@ When an element is tabbed to, it appears in its focused state with a ring-like k
 
 While focused, an element can be acted on with the keyboard.
 
-![A single filled button in focused state, displaying the keyboard focus indicator.](assets/asset-016-keyboard-focus-indicator-for-a-filled-button-009f2c3715.png)
+![A single filled button in focused state, displaying the keyboard focus indicator.](assets/asset-016-keyboard-focus-indicator-for-a-filled-button-009f2c3715.webp)
 
 *Keyboard focus indicator for a filled button*
 
@@ -182,7 +182,7 @@ Focus states are initiated by the user by pressing the Tab key on the keyboard (
 
 Focus states can be represented in combination with hover, activated, or selected states.
 
-![A single filter chip simultaneously in selected state and focus state.](assets/asset-017-a-selected-filter-chip-in-both-selected-and-89b64b1f09.png)
+![A single filter chip simultaneously in selected state and focus state.](assets/asset-017-a-selected-filter-chip-in-both-selected-and-89b64b1f09.webp)
 
 *A selected filter chip in both selected and focused states*
 
@@ -200,13 +200,13 @@ Pressed states trigger a change in composition and should be high-emphasis.
 
 A ripple overlay signifies a pressed state. It can be applied to an entire component or elements within a component, or as a circular shape over part of the component.
 
-![Button using a ripple overlay to signify it’s in a pressed state.](assets/asset-019-pressed-button-215fed8af7.png)
+![Button using a ripple overlay to signify it’s in a pressed state.](assets/asset-019-pressed-button-215fed8af7.webp)
 
 *Pressed button*
 
 Some components, such as buttons or cards, can inherit elevation to signify a pressed state.
 
-![Button using elevation to signify it’s in a pressed state.](assets/asset-020-pressed-button-with-elevation-a02068d32a.png)
+![Button using elevation to signify it’s in a pressed state.](assets/asset-020-pressed-button-with-elevation-a02068d32a.webp)
 
 *Pressed button with elevation*
 
@@ -219,7 +219,7 @@ Pressed states are inherited by action, selection, and some containment componen
 - List items
 - Text fields
 
-![Four components shown in pressed state.](assets/asset-021-fab-icon-button-chip-segmented-button-a0ba48c51a.png)
+![Four components shown in pressed state.](assets/asset-021-fab-icon-button-chip-segmented-button-a0ba48c51a.webp)
 
 *FAB; Icon button; Chip; Segmented button*
 
@@ -233,7 +233,7 @@ Pressed states aren’t inherited by communication, navigation, or some containm
 - Sheets
 - Tabs
 
-![Mobile screen showing entire app bar in pressed state is an error.](assets/asset-022-don-t-the-individual-components-that-are-actionable-098f7cd894.png)
+![Mobile screen showing entire app bar in pressed state is an error.](assets/asset-022-don-t-the-individual-components-that-are-actionable-098f7cd894.webp)
 
 *Don’t The individual components that are actionable within the app bar inherit pressed states, not the whole app bar*
 
@@ -265,7 +265,7 @@ Dragged states use a lower emphasis overlay. It can be applied to the entire com
 
 Some components, such as list items, chips, or cards, can inherit elevation to signify a dragged state.
 
-![List item shown in dragged state.](assets/asset-026-dragged-list-item-2a6a4737e9.png)
+![List item shown in dragged state.](assets/asset-026-dragged-list-item-2a6a4737e9.webp)
 
 *Dragged list item*
 
@@ -276,7 +276,7 @@ Dragged states are inherited by some containment and selection components:
 - List items
 - Sliders
 
-![A chip and a card both shown in dragged state.](assets/asset-027-chip-card-f7302b0acf.png)
+![A chip and a card both shown in dragged state.](assets/asset-027-chip-card-f7302b0acf.webp)
 
 *Chip; Card*
 
@@ -289,7 +289,7 @@ Dragged states aren’t inherited by action, communication, navigation, or some 
 - Menus
 - Navigation bar, drawer, and rail
 
-![Mobile screen with app bar in dragged state is an error.](assets/asset-028-don-t-components-like-an-app-bar-that-146c5cdca3.png)
+![Mobile screen with app bar in dragged state is an error.](assets/asset-028-don-t-components-like-an-app-bar-that-146c5cdca3.webp)
 
 *Don’t Components like an app bar that require consistent placement should not inherit dragged states*
 

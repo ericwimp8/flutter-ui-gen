@@ -8,7 +8,7 @@ Source: https://m3.material.io/components/text-fields/overview
 - Keep labels and error messages brief and easy to act on
 - Text fields commonly appear in forms and dialogs (Dialogs provide important prompts in a user flow. [More on dialogs](https://m3.material.io/m3/pages/dialogs/overview))
 
-![2 variants of text fields, filled and outlined.](assets/asset-001-filled-text-field-outlined-text-field-ab37c2dc69.png)
+![2 variants of text fields, filled and outlined.](assets/asset-001-filled-text-field-outlined-text-field-ab37c2dc69.webp)
 
 *Filled text field; Outlined text field*
 
@@ -26,6 +26,6 @@ Source: https://m3.material.io/components/text-fields/overview
 
 - Color: New color mappings and compatibility with dynamic color (Dynamic color takes a single color from a user's wallpaper or in-app content and creates an accessible color scheme assigned to elements in the UI. [More on dynamic color](https://m3.material.io/m3/pages/dynamic/choosing-a-source))
 
-![A filled and outlined text field with M3 color mappings.](assets/asset-002-text-fields-have-new-color-mappings-3fef548e97.png)
+![A filled and outlined text field with M3 color mappings.](assets/asset-002-text-fields-have-new-color-mappings-3fef548e97.webp)
 
 *Text fields have new color mappings*

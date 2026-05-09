@@ -4,7 +4,7 @@ Source: https://m3.material.io/components/all-buttons
 
 ##### There are 10 types of buttons in Material 3.
 
-![10 types of buttons.](assets/asset-001-button-toggle-button-icon-button-toggle-icon-button-78d98fa18f.png)
+![10 types of buttons.](assets/asset-001-button-toggle-button-icon-button-toggle-icon-button-78d98fa18f.webp)
 
 *Button; Toggle button; Icon button; Toggle icon button; Split button; Standard button group; Connected button group; Floating action button (FAB); Extended FAB; FAB menu*
 
@@ -33,7 +33,7 @@ Other buttons
 
 A product can show more than one button at a time in a layout. Use different color styles to create visual hierarchy and indicate the importance of each button.
 
-![3 types of hierarchy: high emphasis, medium emphasis, and low emphasis.](assets/asset-002-a-button-s-level-of-emphasis-helps-determine-d89cd45937.png)
+![3 types of hierarchy: high emphasis, medium emphasis, and low emphasis.](assets/asset-002-a-button-s-level-of-emphasis-helps-determine-d89cd45937.webp)
 
 *A button’s level of emphasis helps determine its appearance, typography, and placement*
 
@@ -41,26 +41,26 @@ A product can show more than one button at a time in a layout. Use different col
 
 Use a combination of button styles on the same screen to focus attention on a primary action, while offering alternatives.
 
-![Newsfeed screen with 3 different types of buttons following the emphasis hierarchy.](assets/asset-003-a-filled-button-for-a-high-emphasis-action-d225b693fe.png)
+![Newsfeed screen with 3 different types of buttons following the emphasis hierarchy.](assets/asset-003-a-filled-button-for-a-high-emphasis-action-d225b693fe.webp)
 
 *A filled button for a high-emphasis action; A text button for a low-emphasis action; An extended FAB for the highest emphasis action*
 
-![Text button to the left of a filled button.](assets/asset-004-do-for-multiple-actions-choose-a-higher-emphasis-31540a2331.png)
+![Text button to the left of a filled button.](assets/asset-004-do-for-multiple-actions-choose-a-higher-emphasis-31540a2331.webp)
 
 *Do For multiple actions, choose a higher-emphasis button for the more important action, such as a filled button next to a text button*
 
-![Outlined button to the left of a filled button.](assets/asset-005-do-when-using-multiple-buttons-you-can-place-5b8c4f6765.png)
+![Outlined button to the left of a filled button.](assets/asset-005-do-when-using-multiple-buttons-you-can-place-5b8c4f6765.webp)
 
 *Do When using multiple buttons, you can place an outlined button (medium emphasis) next to a filled button (high emphasis)*
 
-![Text button to the left of an outlined button.](assets/asset-006-do-when-using-multiple-buttons-you-can-place-2268d3794a.png)
+![Text button to the left of an outlined button.](assets/asset-006-do-when-using-multiple-buttons-you-can-place-2268d3794a.webp)
 
 *Do When using multiple buttons, you can place a text button (low emphasis) next to an outlined button (medium emphasis)*
 
-![Single filled button at the bottom of a mobile screen.](assets/asset-007-do-use-a-filled-button-on-its-own-af9ba26bd4.png)
+![Single filled button at the bottom of a mobile screen.](assets/asset-007-do-use-a-filled-button-on-its-own-af9ba26bd4.webp)
 
 *Do Use a filled button on its own for a single important action*
 
-![Filled button stacked above a text button.](assets/asset-008-don-t-avoid-placing-a-button-below-another-56303d28b7.png)
+![Filled button stacked above a text button.](assets/asset-008-don-t-avoid-placing-a-button-below-another-56303d28b7.webp)
 
 *Don’t Avoid placing a button below another button if there's space to place them side-by-side*

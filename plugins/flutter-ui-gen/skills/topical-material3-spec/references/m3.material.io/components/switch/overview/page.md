@@ -6,7 +6,7 @@ Source: https://m3.material.io/components/switch/overview
 - Switches are the best way to let people adjust settings
 - Make sure the switch’s selection (Selection lets users choose specific items to act on. [More on selection](https://m3.material.io/m3/pages/selection)) (on or off) is visible at a glance
 
-![A switch in two states, off and on.](assets/asset-001-switches-can-be-toggled-on-and-off-3a9f132e6e.png)
+![A switch in two states, off and on.](assets/asset-001-switches-can-be-toggled-on-and-off-3a9f132e6e.webp)
 
 *Switches can be toggled on and off*
 
@@ -27,10 +27,10 @@ Source: https://m3.material.io/components/switch/overview
 - Icons: Ability to have an optional icon within the switch handle
 - Layout: Track is taller and wider
 
-![M2 switches in off and on states.](assets/asset-002-m2-switches-have-a-circular-handle-that-extends-efe4c57193.png)
+![M2 switches in off and on states.](assets/asset-002-m2-switches-have-a-circular-handle-that-extends-efe4c57193.webp)
 
 *M2: Switches have a circular handle that extends beyond the edge of the track*
 
-![M3 switch shown toggled off and toggled on. When switched on, it has a checkmark icon.](assets/asset-003-m3-switches-have-a-taller-and-wider-track-1b20483554.png)
+![M3 switch shown toggled off and toggled on. When switched on, it has a checkmark icon.](assets/asset-003-m3-switches-have-a-taller-and-wider-track-1b20483554.webp)
 
 *M3: Switches have a taller and wider track, new color mappings, and the ability to show an icon in the handle*

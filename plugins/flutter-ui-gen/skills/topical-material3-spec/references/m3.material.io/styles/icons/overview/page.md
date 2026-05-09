@@ -22,7 +22,7 @@ Source: https://m3.material.io/styles/icons/overview
 
 You can now copy and paste icons from [Google Fonts](http://fonts.google.com/icons). Once you search for and select the desired icon, options will appear in the right-hand panel to resize, recolor, and copy the customized icon to clipboard.
 
-![Panel showing options to size, recolor, and copy selected icon.](assets/asset-002-icons-can-now-be-copied-with-a-single-5f5018e65b.png)
+![Panel showing options to size, recolor, and copy selected icon.](assets/asset-002-icons-can-now-be-copied-with-a-single-5f5018e65b.webp)
 
 *Icons can now be copied with a single click*
 
@@ -30,7 +30,7 @@ You can now copy and paste icons from [Google Fonts](http://fonts.google.com/ico
 
 The new variable icon font set supports three styles: outlined, rounded, and sharp. All Material Symbols are newly drawn to be pixel-crisp and modernized.
 
-![Twelve icons depicted in three styles: outlined, with rounded corners, and sharp.](assets/asset-003-outlined-rounded-sharp-d9c4e371a2.png)
+![Twelve icons depicted in three styles: outlined, with rounded corners, and sharp.](assets/asset-003-outlined-rounded-sharp-d9c4e371a2.webp)
 
 *Outlined; Rounded; Sharp*
 
@@ -46,6 +46,6 @@ Material Symbols have four adjustable stylistic variable font attributes called 
 
 Easily [incorporate Material Symbols](http://goo.gle/material-symbols-figma) into your latest designs on Figma.
 
-![Screenshot of Material Symbols plugin in Figma.](assets/asset-005-figma-symbols-plugin-ac5a538ddb.png)
+![Screenshot of Material Symbols plugin in Figma.](assets/asset-005-figma-symbols-plugin-ac5a538ddb.webp)
 
 *Figma Symbols plugin*

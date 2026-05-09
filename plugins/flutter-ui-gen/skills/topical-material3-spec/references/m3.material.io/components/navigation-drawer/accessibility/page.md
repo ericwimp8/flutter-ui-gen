@@ -36,7 +36,7 @@ Cursor: Hover, Click
 
 Initial focus lands directly on the first navigation item, since that is the first interactive element of the component.
 
-![1. Tab lands on the first navigation item, Inbox. 2. Down arrow to get to the second navigation item, Outbox.](assets/asset-002-focus-lands-on-first-navigation-item-1140ec97cd.png)
+![1. Tab lands on the first navigation item, Inbox. 2. Down arrow to get to the second navigation item, Outbox.](assets/asset-002-focus-lands-on-first-navigation-item-1140ec97cd.webp)
 
 *Focus lands on first navigation item*
 
@@ -44,7 +44,7 @@ Initial focus lands directly on the first navigation item, since that is the fir
 
 The modal navigation drawer can be dismissed by selecting the scrim that covers the rest of the screen.
 
-![A navigation drawer with a scrim covering the body content. A touch target is selecting the scrim.](assets/asset-003-select-the-scrim-to-close-the-navigation-drawer-c76edc8915.png)
+![A navigation drawer with a scrim covering the body content. A touch target is selecting the scrim.](assets/asset-003-select-the-scrim-to-close-the-navigation-drawer-c76edc8915.webp)
 
 *Select the scrim to close the navigation drawer*
 
@@ -52,19 +52,19 @@ The modal navigation drawer can be dismissed by selecting the scrim that covers 
 
 Icons are the primary focus of the navigation and such give the dominant cue of its state (States show the interaction status of a component or UI element. [More on states](https://m3.material.io/m3/pages/interaction-states/overview)). Use a filled icon for the selected destination to differentiate from the outlined icons of non-selected destinations.
 
-![Space + enter is used to select the navigation item inbox.](assets/asset-004-the-navigation-item-is-selected-via-space-enter-7835d262e3.png)
+![Space + enter is used to select the navigation item inbox.](assets/asset-004-the-navigation-item-is-selected-via-space-enter-7835d262e3.webp)
 
 *The navigation item is selected via Space /Enter*
 
-![A navigation drawer with the home destination using a filled icon.](assets/asset-005-do-use-a-filled-icon-for-the-selected-a17c8eea86.png)
+![A navigation drawer with the home destination using a filled icon.](assets/asset-005-do-use-a-filled-icon-for-the-selected-a17c8eea86.webp)
 
 *Do Use a filled icon for the selected navigation destination to differentiate from the other destinations*
 
-![A navigation drawer with the home destination using an outlined icon.](assets/asset-006-don-t-avoid-keeping-the-icon-style-for-f47443e594.png)
+![A navigation drawer with the home destination using an outlined icon.](assets/asset-006-don-t-avoid-keeping-the-icon-style-for-f47443e594.webp)
 
 *Don’t Avoid keeping the icon style for the selected navigation destination the same as unselected destination's icons. This removes an important visual indicator of which destination is active.*
 
-![A selected home icon using a filled icon and active indicator and a unselected home icon using an outlined icon.](assets/asset-007-when-selected-the-icon-fills-darkens-in-light-8c08fa7a21.png)
+![A selected home icon using a filled icon and active indicator and a unselected home icon using an outlined icon.](assets/asset-007-when-selected-the-icon-fills-darkens-in-light-8c08fa7a21.webp)
 
 *When selected, the icon fills, darkens in light theme (or lightens in dark theme), and is backed by an active indicator shape*
 
@@ -80,12 +80,12 @@ Icons are the primary focus of the navigation and such give the dominant cue of 
 
 The accessibility (Accessible design makes products usable for people with all kinds of abilities. [More on accessibility](https://m3.material.io/m3/pages/overview/principles)) label for a navigation item is typically the same as the destination name. If the UI text is correctly linked, assistive tech (such as a screenreader) will read the UI text followed by the component’s role. For MDC-Android, a more descriptive accessibility label is not available to be set and the role is not announced.
 
-![A navigation drawer item’s label text and accessibility label both read “photos.” The role is “tab.”](assets/asset-008-a-navigation-drawer-s-accessibility-label-can-incorporate-7f1057e612.png)
+![A navigation drawer item’s label text and accessibility label both read “photos.” The role is “tab.”](assets/asset-008-a-navigation-drawer-s-accessibility-label-can-incorporate-7f1057e612.webp)
 
 *A navigation drawer’s accessibility label can incorporate its adjacent UI text*
 
 When the visible UI text is ambiguous, accessibility labels need to be more descriptive. For example, a navigation destination visibly labeled Recents would benefit from additional information in its accessibility label to clarify the destination’s intent.
 
-![A navigation drawer item’s label text is “recents”, the accessibility label is “recent images.” The role is “tab.”](assets/asset-009-while-the-visible-label-text-reads-recents-the-05fa1c7823.png)
+![A navigation drawer item’s label text is “recents”, the accessibility label is “recent images.” The role is “tab.”](assets/asset-009-while-the-visible-label-text-reads-recents-the-05fa1c7823.webp)
 
 *While the visible label text reads Recents, the accessibility label for this destination clarifies its function: Recent images*

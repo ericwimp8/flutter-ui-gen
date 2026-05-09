@@ -14,13 +14,13 @@ Select a component variant below to see its elements, attributes, tokens, and th
 
 ### Time picker dial
 
-![Diagram indicating the 14 elements of a time picker dial.](assets/asset-001-headline-time-selector-separator-container-period-selector-container-da6bb1d4f4.png)
+![Diagram indicating the 14 elements of a time picker dial.](assets/asset-001-headline-time-selector-separator-container-period-selector-container-da6bb1d4f4.webp)
 
 *Headline; Time selector separator; Container; Period selector container; Period selector label text; Clock dial selector center; Clock dial selector track; Text button; Icon button; Clock dial selector container; Clock dial label text; Clock dial container; Time selector label text; Time selector container*
 
 ### Time picker input
 
-![Diagram indicating the 10 elements of a time picker input.](assets/asset-002-headline-time-input-field-seperator-container-period-selector-a0e9f1e06c.png)
+![Diagram indicating the 10 elements of a time picker input.](assets/asset-002-headline-time-input-field-seperator-container-period-selector-a0e9f1e06c.webp)
 
 *Headline; Time input field seperator; Container; Period selector container; Period selector label text; Text button; Icon button; Time input field supporting text; Time input field label text; Time input field container*
 
@@ -42,7 +42,7 @@ Color values are implemented through design tokens (Design tokens are the buildi
 
 ## States
 
-![Diagram showing the 4 interactive states of a time picker, in both light theme and dark theme.](assets/asset-005-enabled-hover-focus-pressed-8eaeed5fe2.png)
+![Diagram showing the 4 interactive states of a time picker, in both light theme and dark theme.](assets/asset-005-enabled-hover-focus-pressed-8eaeed5fe2.webp)
 
 *Enabled; Hover; Focus; Pressed*
 
@@ -52,7 +52,7 @@ Color values are implemented through design tokens (Design tokens are the buildi
 
 ### Time picker dial - vertical
 
-![Diagram of vertical time picker dial measurements.](assets/asset-006-vertical-time-picker-dial-padding-and-size-measurements-eab1f99410.png)
+![Diagram of vertical time picker dial measurements.](assets/asset-006-vertical-time-picker-dial-padding-and-size-measurements-eab1f99410.webp)
 
 *Vertical time picker dial padding and size measurements*
 
@@ -77,7 +77,7 @@ Color values are implemented through design tokens (Design tokens are the buildi
 
 ### Time picker dial - horizontal
 
-![Diagram of horizontal time picker dial measurements.](assets/asset-007-horizontal-time-picker-dial-padding-and-size-measurements-ee51128c04.png)
+![Diagram of horizontal time picker dial measurements.](assets/asset-007-horizontal-time-picker-dial-padding-and-size-measurements-ee51128c04.webp)
 
 *Horizontal time picker dial padding and size measurements*
 
@@ -102,7 +102,7 @@ Color values are implemented through design tokens (Design tokens are the buildi
 
 ### Time picker input
 
-![Diagram of time picker input measurements.](assets/asset-008-time-picker-input-padding-and-size-measurements-977b6061ad.png)
+![Diagram of time picker input measurements.](assets/asset-008-time-picker-input-padding-and-size-measurements-977b6061ad.webp)
 
 *Time picker input padding and size measurements*
 
@@ -122,18 +122,18 @@ Color values are implemented through design tokens (Design tokens are the buildi
 
 ### Vertical orientation and horizontal orientation
 
-![Comparing vertical and horizontal time picker dials.](assets/asset-009-vertical-layout-default-on-mobile-horizontal-layout-798e901f05.png)
+![Comparing vertical and horizontal time picker dials.](assets/asset-009-vertical-layout-default-on-mobile-horizontal-layout-798e901f05.webp)
 
 *Vertical layout (default on mobile); Horizontal layout*
 
 ### 24-hour time picker dial
 
-![2 24-hour time picker dials with vertical and horizontal layouts.](assets/asset-010-24h-dial-in-vertical-layout-default-on-mobile-7c8aac7a45.png)
+![2 24-hour time picker dials with vertical and horizontal layouts.](assets/asset-010-24h-dial-in-vertical-layout-default-on-mobile-7c8aac7a45.webp)
 
 *24h dial in vertical layout (default on mobile); 24h dial in horizontal layout*
 
 ### 12-hour and 24-hour time picker inputs
 
-![Compare 12-hour and 24-hour time picker inputs.](assets/asset-011-12h-input-24h-input-83fbaea68c.png)
+![Compare 12-hour and 24-hour time picker inputs.](assets/asset-011-12h-input-24h-input-83fbaea68c.webp)
 
 *12h input; 24h input*

@@ -8,7 +8,7 @@ Source: https://m3.material.io/foundations/layout/understanding-layout/overview
 - Consider how spacing and the parts of the layout work together
 - Material layout guidance applies to Android and the web
 
-![Terms shown on a screen. Window means the whole screen. From left to right are columns, a middle fold with a spacer, a pane and a right-side margin.](assets/asset-001-column-fold-margin-pane-drag-handle-spacer-window-6c8f96f7f5.png)
+![Terms shown on a screen. Window means the whole screen. From left to right are columns, a middle fold with a spacer, a pane and a right-side margin.](assets/asset-001-column-fold-margin-pane-drag-handle-spacer-window-6c8f96f7f5.webp)
 
 *Column; Fold; Margin; Pane; Drag handle; Spacer; Window*
 
@@ -18,7 +18,7 @@ Source: https://m3.material.io/foundations/layout/understanding-layout/overview
 - [Window size classes](https://m3.material.io/m3/pages/applying-layout/window-size-classes) are opinionated breakpoints. Material Design recommends you create layouts for five window size classes: compact (Window widths smaller than 600dp, such as a phone in portrait orientation. [More on compact window size class](https://m3.material.io/m3/pages/applying-layout/compact)), medium (Window widths from 600dp to 839dp, such as a tablet or foldable in portrait orientation. [More on medium window size class](https://m3.material.io/m3/pages/applying-layout/medium)), expanded (Window widths 840dp to 1199dp, such as a tablet or foldable in landscape orientation, or desktop. [More on expanded window size class](https://m3.material.io/m3/pages/applying-layout/expanded)), large (Window widths 1200dp to 1599dp, such as desktop. [More on large window size](https://m3.material.io/m3/pages/applying-layout/large-extra-large)), and extra-large (Window widths 1600dp and larger, such as ultra-wide monitors. [More on extra-large window size](https://m3.material.io/m3/pages/applying-layout/large-extra-large))
 - Layouts with multiple panes of content can be resized with a drag handle
 
-![Different layouts for differently sized screens](assets/asset-002-m3-considers-multiple-layouts-for-a-variety-of-6b6765259b.png)
+![Different layouts for differently sized screens](assets/asset-002-m3-considers-multiple-layouts-for-a-variety-of-6b6765259b.webp)
 
 *M3 considers multiple layouts for a variety of sizes*
 

@@ -5,7 +5,7 @@ Source: https://m3.material.io/foundations/content-design/overview
 - UI text should be clear to anyone
 - Follow [Associated Press (AP) Style](http://www.apstylebook.com/) unless noted otherwise
 
-![UI content templates for various components.](assets/asset-001-ui-content-templates-for-various-components-36c50b15b2.png)
+![UI content templates for various components.](assets/asset-001-ui-content-templates-for-various-components-36c50b15b2.webp)
 
 ## Resources
 

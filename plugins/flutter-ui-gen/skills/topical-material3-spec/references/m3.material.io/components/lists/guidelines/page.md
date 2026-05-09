@@ -2,7 +2,7 @@
 
 Source: https://m3.material.io/components/lists/guidelines
 
-![3 list items show different layout options, with varying sizes of elements in the leading slot.](assets/asset-001-leading-images-videos-icons-or-avatars-trailing-text-c5d21caa5a.png)
+![3 list items show different layout options, with varying sizes of elements in the leading slot.](assets/asset-001-leading-images-videos-icons-or-avatars-trailing-text-c5d21caa5a.webp)
 
 *Leading images, videos, icons, or avatars; Trailing text, icons, or icon buttons*
 
@@ -12,13 +12,13 @@ Lists are vertical groups of text, icons, images, and other elements, optimized 
 
 List items can contain multiple actions at once, like selection, icon buttons, overflow menus, and more.
 
-![3 list items with avatars using different expressive shapes.](assets/asset-002-a-clear-visual-hierarchy-makes-lists-easy-to-77677b5281.png)
+![3 list items with avatars using different expressive shapes.](assets/asset-002-a-clear-visual-hierarchy-makes-lists-easy-to-77677b5281.webp)
 
 *A clear visual hierarchy makes lists easy to scan and read*
 
 Use lists for communicating or selecting discrete items, such as choosing from a set of colors.
 
-![A list of colors with Periwinkle selected.](assets/asset-003-lists-are-an-organized-way-to-add-imagery-d09a3a19ed.png)
+![A list of colors with Periwinkle selected.](assets/asset-003-lists-are-an-organized-way-to-add-imagery-d09a3a19ed.webp)
 
 *Lists are an organized way to add imagery and supporting elements to selection. In this color selection example, the list contains color swatches, color names, and a checkbox action.*
 
@@ -28,7 +28,7 @@ Place supporting visuals and primary text in the same position in each list item
 
 Don’t vary the position of elements within a list.
 
-![4 versions of the same list highlighting avatar and text alignment.](assets/asset-004-sample-list-content-placement-in-a-row-supporting-9ae587c7f5.png)
+![4 versions of the same list highlighting avatar and text alignment.](assets/asset-004-sample-list-content-placement-in-a-row-supporting-9ae587c7f5.webp)
 
 *Sample list; Content placement in a row; Supporting visuals are aligned for easy scanning; Primary text is aligned for easy scanning*
 
@@ -38,13 +38,13 @@ Label text only A list item can contain a single line of label text. If the text
 
 Label text with supporting text A list item can include supporting text below the label text. Both the label and supporting text can wrap or be truncated.
 
-![3 lists show items with label text only, label text with 1-line of supporting text, and label text with 2-lines of supporting text.](assets/asset-005-label-text-only-label-text-with-supporting-text-0426b72d63.png)
+![3 lists show items with label text only, label text with 1-line of supporting text, and label text with 2-lines of supporting text.](assets/asset-005-label-text-only-label-text-with-supporting-text-0426b72d63.webp)
 
 *Label text only; Label text with supporting text on one line; Label text with supporting text that wraps to two lines*
 
 ## Anatomy
 
-![List diagram with 10 elements.](assets/asset-006-container-label-text-supporting-text-trailing-text-trailing-5d26e323e3.png)
+![List diagram with 10 elements.](assets/asset-006-container-label-text-supporting-text-trailing-text-trailing-5d26e323e3.webp)
 
 *Container; Label text; Supporting text; Trailing text; Trailing icon; Trailing selection control - checkbox, radio button, switch; Leading avatar container; Leading avatar text; Leading icon; Leading media - image or video*
 
@@ -67,7 +67,7 @@ Keep label text brief. To ensure list items are scannable:
 
 [See adaptive guidance](https://m3.material.io/m3/pages/lists/guidelines#561cc637-aa43-4055-be1e-0716faeef7af)
 
-![A list item with a leading image, concise label text “Art events”, and 2 lines of truncated supporting text.](assets/asset-008-limit-supporting-text-to-one-to-three-lines-cd331d62e1.png)
+![A list item with a leading image, concise label text “Art events”, and 2 lines of truncated supporting text.](assets/asset-008-limit-supporting-text-to-one-to-three-lines-cd331d62e1.webp)
 
 *Limit supporting text to one to three lines*
 
@@ -77,7 +77,7 @@ Leading icon A leading icon should provide a quick visual cue that relates to th
 
 Trailing icon A trailing icon is often used to communicate status or indicate an action, like Show more.
 
-![Leading icons should relate to the label text A list of items with leading and trailing icons on a mobile device.](assets/asset-009-leading-icons-should-relate-to-the-label-text-b6f3a1796d.png)
+![Leading icons should relate to the label text A list of items with leading and trailing icons on a mobile device.](assets/asset-009-leading-icons-should-relate-to-the-label-text-b6f3a1796d.webp)
 
 *Leading icons should relate to the label text; Trailing icons can communicate an action*
 
@@ -87,11 +87,11 @@ List items can contain a leading avatar, image, or video. Anchor visuals to the 
 
 Leading video thumbnails can open a video player or even play within the list.
 
-![A list of plants with images at leading edge.](assets/asset-010-do-place-supporting-visuals-like-thumbnails-at-the-d9c23b7c7c.png)
+![A list of plants with images at leading edge.](assets/asset-010-do-place-supporting-visuals-like-thumbnails-at-the-d9c23b7c7c.webp)
 
 *Do Place supporting visuals, like thumbnails, at the leading edge of a row to improve scannability*
 
-![A list of plants with an image in the middle of the row makes it difficult to align the name and price.](assets/asset-011-caution-avoid-placing-visuals-in-the-center-of-b3200682b2.png)
+![A list of plants with an image in the middle of the row makes it difficult to align the name and price.](assets/asset-011-caution-avoid-placing-visuals-in-the-center-of-b3200682b2.webp)
 
 *Caution Avoid placing visuals in the center of a row because it makes the list difficult to scan*
 
@@ -99,7 +99,7 @@ Avatars List items can include images in circular or expressive shapes to repres
 
 Use square or rectangular images for other content, such as products or videos.
 
-![List of contacts with avatars with a circular, expressive crop to indicate a person.](assets/asset-012-use-an-expressive-circular-avatar-to-represent-a-e868a29c0b.png)
+![List of contacts with avatars with a circular, expressive crop to indicate a person.](assets/asset-012-use-an-expressive-circular-avatar-to-represent-a-e868a29c0b.webp)
 
 *Use an expressive, circular avatar to represent a person or entity*
 
@@ -107,11 +107,11 @@ Primary & secondary actions
 
 Use spacing to draw attention to the most important aspect of the list item, usually the primary action area or key content.
 
-![A folder icon in the primary action area takes up the full height of the list item.](assets/asset-013-the-primary-action-takes-up-more-space-1-65feb5558b.png)
+![A folder icon in the primary action area takes up the full height of the list item.](assets/asset-013-the-primary-action-takes-up-more-space-1-65feb5558b.webp)
 
 *The primary action takes up more space: 1. Primary action area 2. Secondary action area*
 
-![A list item has an avatar in the more distinguishing content position on the left, and “15 min” trailing text on the right.](assets/asset-014-align-content-by-importance-1-more-distinguishing-content-ee7c6465ca.png)
+![A list item has an avatar in the more distinguishing content position on the left, and “15 min” trailing text on the right.](assets/asset-014-align-content-by-importance-1-more-distinguishing-content-ee7c6465ca.webp)
 
 *Align content by importance: 1. More distinguishing content 2. Less distinguishing content*
 
@@ -119,7 +119,7 @@ Use spacing to draw attention to the most important aspect of the list item, usu
 
 Trailing text can provide additional meta-information about a list item, such as a price, count, or other details.
 
-![The date “Nov 17” as trailing text in a concert ticket list item.](assets/asset-015-use-trailing-text-for-supplemental-details-like-a-ad73a93aaf.png)
+![The date “Nov 17” as trailing text in a concert ticket list item.](assets/asset-015-use-trailing-text-for-supplemental-details-like-a-ad73a93aaf.webp)
 
 *Use trailing text for supplemental details, like a price, count, or date*
 
@@ -131,7 +131,7 @@ Selection (Selection lets users choose specific items to act on. [More on select
 - Use switches (Switches toggle the state of an item on or off. [More on switches](https://m3.material.io/m3/pages/switch/overview)) to toggle settings on or off
 - Use radio buttons (Radio buttons let people select one option from a set of options. [More on radio buttons](https://m3.material.io/m3/pages/radio-button/overview)) to select a single item
 
-![3 lists with different selection controls.](assets/asset-016-checkboxes-switches-radio-buttons-bfe69d7d1a.png)
+![3 lists with different selection controls.](assets/asset-016-checkboxes-switches-radio-buttons-bfe69d7d1a.webp)
 
 *Checkboxes; Switches; Radio buttons*
 
@@ -142,11 +142,11 @@ Gaps or dividers can separate lists into items and groups:
 - Use gaps for contained lists. Gaps leverage expressive shape and containment tactics.
 - Limit dividers to uncontained or complex lists, only when a stronger visual separation is necessary.
 
-![Filled list items in an inbox separated by gaps.](assets/asset-017-do-use-segmented-gaps-and-filled-list-items-7ade0b6dbd.png)
+![Filled list items in an inbox separated by gaps.](assets/asset-017-do-use-segmented-gaps-and-filled-list-items-7ade0b6dbd.webp)
 
 *Do Use segmented gaps and filled list items to define a list group*
 
-![An uncontained list with city names separated by dividers.](assets/asset-018-caution-limit-the-use-of-dividers-to-uncontained-3fbe9fa31b.png)
+![An uncontained list with city names separated by dividers.](assets/asset-018-caution-limit-the-use-of-dividers-to-uncontained-3fbe9fa31b.webp)
 
 *Caution Limit the use of dividers to uncontained lists*
 
@@ -156,19 +156,19 @@ Gaps or dividers can separate lists into items and groups:
 
 In fluid layouts (Layout is the visual arrangement of elements on the screen. [More on layout](https://m3.material.io/m3/pages/understanding-layout/overview)), avoid excessively long lines of text when expanding containers and text-heavy components. This often means changing margins (Margins are the spaces between the edge of a nested element and its parent element, such as the space between a button's label text and the edge of its container. [More on margins](https://m3.material.io/m3/pages/understanding-layout/spacing#0678ba2e-1bce-49b8-8591-e471d6417011)) and typography properties as the container scales.
 
-![4 list items with 2-line supporting text have adjusted margins to preserve readability.](assets/asset-019-do-adjust-margins-to-create-a-more-comfortable-ea178cacaf.png)
+![4 list items with 2-line supporting text have adjusted margins to preserve readability.](assets/asset-019-do-adjust-margins-to-create-a-more-comfortable-ea178cacaf.webp)
 
 *Do Adjust margins to create a more comfortable line length for reading*
 
 Adapt the width of the list container based on a line’s length, or by switching to a multi-column layout.
 
-![List items in a 2-column layout, with each item showing text preview.](assets/asset-020-do-a-multi-column-layout-can-help-break-403d1af2e6.png)
+![List items in a 2-column layout, with each item showing text preview.](assets/asset-020-do-a-multi-column-layout-can-help-break-403d1af2e6.webp)
 
 *Do A multi-column layout can help break up content when needed*
 
 The ideal line length for text is typically between 40 to 60 characters, but large-screen devices can accommodate up to 120 characters per line. If a line of text is close to 120 characters in length, consider increasing the line height to improve readability.
 
-![List items with elongated line length.](assets/asset-021-don-t-scale-components-without-adjusting-other-affected-cbb13be318.png)
+![List items with elongated line length.](assets/asset-021-don-t-scale-components-without-adjusting-other-affected-cbb13be318.webp)
 
 *Don’t scale components without adjusting other affected areas of the screen, such as text length. This can result in line lengths that make reading difficult.*
 
@@ -212,7 +212,7 @@ Medium (Window widths from 600dp to 839dp, such as a tablet or foldable in portr
 
 For example, a list and the detailed information can appear side-by-side.
 
-![A larger screen displays list items and a detailed expansion of one item on the same screen.](assets/asset-026-on-larger-screens-a-list-detail-view-can-5199d78649.png)
+![A larger screen displays list items and a detailed expansion of one item on the same screen.](assets/asset-026-on-larger-screens-a-list-detail-view-can-5199d78649.webp)
 
 *On larger screens, a list-detail view can be more appropriate*
 
@@ -246,7 +246,7 @@ Single-select list items:
 - Can’t have secondary nested actions
 - Shouldn’t use checkboxes
 
-![A 3-item list with radio buttons, with 1 item selected.](assets/asset-029-use-radio-buttons-to-allow-a-single-selection-3c502f7cec.png)
+![A 3-item list with radio buttons, with 1 item selected.](assets/asset-029-use-radio-buttons-to-allow-a-single-selection-3c502f7cec.webp)
 
 *Use radio buttons to allow a single selection in a list*
 
@@ -260,7 +260,7 @@ Multi-select list items:
 - Can’t have secondary nested actions
 - Shouldn’t use radio buttons
 
-![A 3-item list with checkboxes and 2 items selected.](assets/asset-030-use-checkboxes-or-switches-for-multi-select-lists-edc109f335.png)
+![A 3-item list with checkboxes and 2 items selected.](assets/asset-030-use-checkboxes-or-switches-for-multi-select-lists-edc109f335.webp)
 
 *Use checkboxes or switches for multi-select lists*
 
@@ -273,7 +273,7 @@ Single-action list items:
 - Can’t have secondary nested actions
 - Can’t be toggled into a persistent selected state
 
-![A 3-item list where each item is a single tappable area.](assets/asset-031-use-a-single-action-list-for-a-primary-f7aa5953c0.png)
+![A 3-item list where each item is a single tappable area.](assets/asset-031-use-a-single-action-list-for-a-primary-f7aa5953c0.webp)
 
 *Use a single-action list for a primary action, like navigation*
 
@@ -287,7 +287,7 @@ Place supplementary actions, like a bookmark or menu, in the trailing position.
 
 [More on multi-action accessibility](https://m3.material.io/m3/pages/lists/accessibility#b69b89a9-7ca0-4249-b25b-2d0c85a41dc0)
 
-![A 3-item song list where each item has 2 trailing icons: a bookmark and overflow menu.](assets/asset-032-place-supplementary-actions-in-the-trailing-position-of-f18dd40e0d.png)
+![A 3-item song list where each item has 2 trailing icons: a bookmark and overflow menu.](assets/asset-032-place-supplementary-actions-in-the-trailing-position-of-f18dd40e0d.webp)
 
 *Place supplementary actions in the trailing position of a list item*
 
@@ -295,7 +295,7 @@ Non-interactive
 
 Non-interactive lists can organize information in a scannable way. They don’t perform any actions and can’t be selected.
 
-![A 3-item non-interactive list showing a historic timeline of space travel.](assets/asset-033-use-non-interactive-lists-to-make-information-easy-acf62193ad.png)
+![A 3-item non-interactive list showing a historic timeline of space travel.](assets/asset-033-use-non-interactive-lists-to-make-information-easy-acf62193ad.webp)
 
 *Use non-interactive lists to make information easy to scan*
 

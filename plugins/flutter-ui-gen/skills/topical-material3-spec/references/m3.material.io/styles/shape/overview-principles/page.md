@@ -7,7 +7,7 @@ Source: https://m3.material.io/styles/shape/overview-principles
 - Rectangular shapes are fully rounded in all corners by default
 - Individual corners can be adjusted to create asymmetrical rectangular shapes
 
-![Illustration of range of irregular shapes.](assets/asset-001-abstract-shapes-can-help-people-express-themselves-6007fbcff6.png)
+![Illustration of range of irregular shapes.](assets/asset-001-abstract-shapes-can-help-people-express-themselves-6007fbcff6.webp)
 
 *Abstract shapes can help people express themselves*
 
@@ -42,7 +42,7 @@ Added corner radii tokens:
 
 ## Shape library
 
-![35 shapes in the shape set.](assets/asset-003-m3-has-35-shapes-to-easily-apply-to-6845798f82.png)
+![35 shapes in the shape set.](assets/asset-003-m3-has-35-shapes-to-easily-apply-to-6845798f82.webp)
 
 *M3 has 35 shapes to easily apply to designs*
 
@@ -52,7 +52,7 @@ Shapes are expressive elements of Material 3 that echo key visual attributes of 
 
 Use shape and type together for products to feel cohesive and polished.
 
-![Fonts and mock UI screens showing a wide range of square, round, thin, and thick shapes.](assets/asset-004-m3-shapes-and-google-sans-flex-share-roundness-93af4e3685.png)
+![Fonts and mock UI screens showing a wide range of square, round, thin, and thick shapes.](assets/asset-004-m3-shapes-and-google-sans-flex-share-roundness-93af4e3685.webp)
 
 *M3 shapes and Google Sans Flex share roundness visual attributes*
 
@@ -78,7 +78,7 @@ Material historically focused on rounded shapes. However, using sharp shapes, th
 
 This tension can be used in many ways, like conveying states, drawing attention to an element, or to improve the visual aesthetic.
 
-![Round and square shape side-by-side.](assets/asset-006-create-tension-by-using-a-combination-of-round-328e15b78f.png)
+![Round and square shape side-by-side.](assets/asset-006-create-tension-by-using-a-combination-of-round-328e15b78f.webp)
 
 *Create tension by using a combination of round and square shapes*
 
@@ -98,7 +98,7 @@ Be intentional when using shapes in product UI. Don’t compromise clarity for t
 
 When incorporating diverse shapes, think about how they fit into the overall design and consider how they balance with the entire composition. Ensure that shapes resonate with the product's narrative. Consider the 'why' behind their inclusion and the value they contribute to the overall user experience.
 
-![8 shapes with icons.](assets/asset-008-caution-shapes-without-clear-meaning-behind-why-they-be5c529976.png)
+![8 shapes with icons.](assets/asset-008-caution-shapes-without-clear-meaning-behind-why-they-be5c529976.webp)
 
 *Caution Shapes without clear meaning behind why they’re different can add more visual clutter than delight*
 

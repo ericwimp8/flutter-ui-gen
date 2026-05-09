@@ -11,7 +11,7 @@ With a dynamic content-based color scheme, end-users see
 - The product (and possibly system UI) change to a color corresponding to on-screen imagery
 - A product that looks "smart"
 
-![Screenshot of a messaging app on a tablet screen.](assets/asset-001-messaging-app-with-content-based-color-eb365e5c67.png)
+![Screenshot of a messaging app on a tablet screen.](assets/asset-001-messaging-app-with-content-based-color-eb365e5c67.webp)
 
 *Messaging app with content-based color*
 

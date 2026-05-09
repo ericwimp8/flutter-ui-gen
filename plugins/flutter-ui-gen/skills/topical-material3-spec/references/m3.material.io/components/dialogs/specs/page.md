@@ -12,7 +12,7 @@ Select a component variant below to see its elements, attributes, tokens (Design
 
 ## Basic dialogs
 
-![Anatomy diagram numbering dialog elements.](assets/asset-001-container-icon-optional-headline-optional-supporting-text-divider-32be629fe3.png)
+![Anatomy diagram numbering dialog elements.](assets/asset-001-container-icon-optional-headline-optional-supporting-text-divider-32be629fe3.webp)
 
 *Container; Icon (optional); Headline (optional); Supporting text; Divider (optional); Button label text; Scrim*
 
@@ -20,13 +20,13 @@ Select a component variant below to see its elements, attributes, tokens (Design
 
 Color values are implemented through design tokens (Design tokens are the building blocks of all UI elements. The same tokens are used in designs, tools, and code. [More on tokens](https://m3.material.io/m3/pages/design-tokens/overview)). For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](https://m3.material.io/m3/pages/design-tokens/overview)
 
-![Color mapping diagram labeling 6 color roles across the dialog and scrim.](assets/asset-002-surface-container-high-secondary-on-surface-on-surface-5b0e7a8be8.png)
+![Color mapping diagram labeling 6 color roles across the dialog and scrim.](assets/asset-002-surface-container-high-secondary-on-surface-on-surface-5b0e7a8be8.webp)
 
 *Surface container high; Secondary; On surface; On surface variant; Primary; Scrim*
 
 ### Basic dialog measurements
 
-![Annotated diagram showing padding values.](assets/asset-003-basic-dialog-padding-and-size-measurements-ff56eeee4a.png)
+![Annotated diagram showing padding values.](assets/asset-003-basic-dialog-padding-and-size-measurements-ff56eeee4a.webp)
 
 *Basic dialog padding and size measurements*
 
@@ -49,7 +49,7 @@ Color values are implemented through design tokens (Design tokens are the buildi
 
 ## Full-screen dialogs
 
-![Diagram numbering 6 full-screen dialog elements.](assets/asset-004-container-header-icon-close-affordance-headline-optional-text-6ba14bf86b.png)
+![Diagram numbering 6 full-screen dialog elements.](assets/asset-004-container-header-icon-close-affordance-headline-optional-text-6ba14bf86b.webp)
 
 *Container; Header; Icon (close affordance); Headline (optional); Text button; Divider (optional)*
 
@@ -57,13 +57,13 @@ Color values are implemented through design tokens (Design tokens are the buildi
 
 Color values are implemented through design tokens (Design tokens are the building blocks of all UI elements. The same tokens are used in designs, tools, and code. [More on tokens](https://m3.material.io/m3/pages/design-tokens/overview)). For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value.
 
-![Color mapping diagram shows 5 callout markers across the dialog.](assets/asset-005-surface-container-high-on-surface-on-surface-primary-c3ae1d34b0.png)
+![Color mapping diagram shows 5 callout markers across the dialog.](assets/asset-005-surface-container-high-on-surface-on-surface-primary-c3ae1d34b0.webp)
 
 *Surface container high; On surface; On surface; Primary; On surface variant*
 
 ### Full-screen dialog measurements
 
-![Diagram noting layout measurements for padding values, title, height, and action regions.](assets/asset-006-full-screen-dialog-padding-and-size-measurements-0967eb6c8d.png)
+![Diagram noting layout measurements for padding values, title, height, and action regions.](assets/asset-006-full-screen-dialog-padding-and-size-measurements-0967eb6c8d.webp)
 
 *Full-screen dialog padding and size measurements*
 

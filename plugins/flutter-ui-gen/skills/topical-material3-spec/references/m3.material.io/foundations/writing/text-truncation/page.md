@@ -19,11 +19,11 @@ Content, understandability, and functionality must not be lost when users modify
 - “Wrapped” text extends from one line to another, increasing the height of the text container
 - Text should be wrapped when it’s critical, to ensure understandability, or when there’s space in the component
 
-![Body copy text wrapped inside a dialogue with an option to expand content.](assets/asset-001-do-wrap-text-and-if-it-still-doesn-a13767f46e.png)
+![Body copy text wrapped inside a dialogue with an option to expand content.](assets/asset-001-do-wrap-text-and-if-it-still-doesn-a13767f46e.webp)
 
 *Do Wrap text, and if it still doesn’t fit, provide a way for users to see more*
 
-![Body copy text wrapped inside a dialogue, cut off at the bottom, without an option to expand.](assets/asset-002-don-t-cut-off-text-without-providing-a-643fe5a26a.png)
+![Body copy text wrapped inside a dialogue, cut off at the bottom, without an option to expand.](assets/asset-002-don-t-cut-off-text-without-providing-a-643fe5a26a.webp)
 
 *Don’t cut off text without providing a way for users to view it*
 
@@ -31,11 +31,11 @@ Content, understandability, and functionality must not be lost when users modify
 
 - Some components can extend vertically or horizontally for more text
 
-![Layout of UI- cards of different sizes organized in a stacked grid.](assets/asset-003-do-use-flexible-component-containers-that-change-size-8788e66abe.png)
+![Layout of UI- cards of different sizes organized in a stacked grid.](assets/asset-003-do-use-flexible-component-containers-that-change-size-8788e66abe.webp)
 
 *Do Use flexible component containers that change size to fit their content*
 
-![A stretched UI card with a small headline and a large photograph.](assets/asset-004-don-t-avoid-setting-text-size-limits-that-737dd7dfcb.png)
+![A stretched UI card with a small headline and a large photograph.](assets/asset-004-don-t-avoid-setting-text-size-limits-that-737dd7dfcb.webp)
 
 *Don’t Avoid setting text size limits that don’t fit the space in a component. Use all space available.*
 
@@ -50,6 +50,6 @@ Content, understandability, and functionality must not be lost when users modify
 
 *Do Use links to reveal truncated text when space is limited, such as the ability to click a linked card to see an expanded view of its text*
 
-![On a multiple selection list, the marked checkbox’s label is truncated by an ellipsis.](assets/asset-006-don-t-truncate-content-without-providing-users-another-0152d0b220.png)
+![On a multiple selection list, the marked checkbox’s label is truncated by an ellipsis.](assets/asset-006-don-t-truncate-content-without-providing-users-another-0152d0b220.webp)
 
 *Don’t truncate content without providing users another way to see it*

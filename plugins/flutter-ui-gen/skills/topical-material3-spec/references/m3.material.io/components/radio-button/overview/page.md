@@ -6,7 +6,7 @@ Source: https://m3.material.io/components/radio-button/overview
 - Label should be scannable
 - Selected items are more prominent than unselected items
 
-![1 radio button is selected from a list of 4 radio buttons of different ringtones.](assets/asset-001-radio-buttons-can-be-selected-ede0954945.png)
+![1 radio button is selected from a list of 4 radio buttons of different ringtones.](assets/asset-001-radio-buttons-can-be-selected-ede0954945.webp)
 
 *Radio buttons can be selected*
 
@@ -24,6 +24,6 @@ Source: https://m3.material.io/components/radio-button/overview
 
 - Color: New color mappings and compatibility with dynamic color (Dynamic color takes a single color from a user's wallpaper or in-app content and creates an accessible color scheme assigned to elements in the UI. [More on dynamic color](https://m3.material.io/m3/pages/dynamic-color/overview))
 
-![App screen with 1 active button selected from list of 3 buttons.](assets/asset-002-radio-buttons-feature-new-color-mappings-630f97311f.png)
+![App screen with 1 active button selected from list of 3 buttons.](assets/asset-002-radio-buttons-feature-new-color-mappings-630f97311f.webp)
 
 *Radio buttons feature new color mappings*

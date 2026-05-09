@@ -9,15 +9,15 @@ With a dynamic user-generated color scheme, end-users see
 - Their apps and system UI change to a color pulled from their device wallpaper
 - A product that looks personalized
 
-![Mobile screenshot of Google Photos](assets/asset-001-dynamic-color-in-a-work-app-9b36f42e00.png)
+![Mobile screenshot of Google Photos](assets/asset-001-dynamic-color-in-a-work-app-9b36f42e00.webp)
 
 *Dynamic color in a work app*
 
-![Mobile screenshot of Gmail in light theme.](assets/asset-002-dynamic-color-in-a-work-app-946a9093f6.png)
+![Mobile screenshot of Gmail in light theme.](assets/asset-002-dynamic-color-in-a-work-app-946a9093f6.webp)
 
 *Dynamic color in a work app*
 
-![Mobile screenshot of Gmail.](assets/asset-003-dynamic-color-in-a-work-app-bfeeaba248.png)
+![Mobile screenshot of Gmail.](assets/asset-003-dynamic-color-in-a-work-app-bfeeaba248.webp)
 
 *Dynamic color in a work app*
 

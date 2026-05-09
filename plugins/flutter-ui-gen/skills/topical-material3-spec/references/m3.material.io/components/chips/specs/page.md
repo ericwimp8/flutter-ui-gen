@@ -12,7 +12,7 @@ Select a component variant below to see its elements, attributes, tokens, and va
 
 ## Assist chip
 
-![Assist chip diagram numbering 3 elements.](assets/asset-001-container-label-text-leading-icon-64d9390aaf.png)
+![Assist chip diagram numbering 3 elements.](assets/asset-001-container-label-text-leading-icon-64d9390aaf.webp)
 
 *Container; Label text; Leading icon*
 
@@ -20,7 +20,7 @@ Select a component variant below to see its elements, attributes, tokens, and va
 
 Color values are implemented through design tokens (Design tokens are the building blocks of all UI elements. The same tokens are used in designs, tools, and code. [More on tokens](https://m3.material.io/m3/pages/design-tokens/overview)). For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](https://m3.material.io/m3/pages/design-tokens/overview)
 
-![Assist chip diagram numbering 4 color elements.](assets/asset-002-surface-container-low-optional-on-surface-outline-primary-7b703229e4.png)
+![Assist chip diagram numbering 4 color elements.](assets/asset-002-surface-container-low-optional-on-surface-outline-primary-7b703229e4.webp)
 
 *Surface container low (optional); On surface; Outline; Primary*
 
@@ -28,13 +28,13 @@ Color values are implemented through design tokens (Design tokens are the buildi
 
 States (States show the interaction status of a component or UI element. [More on states](https://m3.material.io/m3/pages/interaction-states/overview)) are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](https://m3.material.io/m3/pages/interaction-states/overview)
 
-![36 assist chips illustrating combinations of styles, selection and non-selection, and 6 interaction states.](assets/asset-003-enabled-disabled-hovered-focused-pressed-dragged-ab32fedda6.png)
+![36 assist chips illustrating combinations of styles, selection and non-selection, and 6 interaction states.](assets/asset-003-enabled-disabled-hovered-focused-pressed-dragged-ab32fedda6.webp)
 
 *Enabled; Disabled; Hovered; Focused; Pressed; Dragged*
 
 ### Assist chip measurements
 
-![3 assist chips with measurements shown for variants with and without a leading icon.](assets/asset-004-assist-chip-padding-and-size-measurements-c1be994502.png)
+![3 assist chips with measurements shown for variants with and without a leading icon.](assets/asset-004-assist-chip-padding-and-size-measurements-c1be994502.webp)
 
 *Assist chip padding and size measurements*
 
@@ -51,7 +51,7 @@ States (States show the interaction status of a component or UI element. [More o
 
 ## Filter chip
 
-![Filter chip diagram numbering 4 elements.](assets/asset-005-container-label-text-leading-icon-trailing-icon-a090743353.png)
+![Filter chip diagram numbering 4 elements.](assets/asset-005-container-label-text-leading-icon-trailing-icon-a090743353.webp)
 
 *Container; Label text; Leading icon; Trailing icon*
 
@@ -59,7 +59,7 @@ States (States show the interaction status of a component or UI element. [More o
 
 Color values are implemented through design tokens (Design tokens are the building blocks of all UI elements. The same tokens are used in designs, tools, and code. [More on tokens](https://m3.material.io/m3/pages/design-tokens/overview)). For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](https://m3.material.io/m3/pages/design-tokens/overview)
 
-![Filter chip diagram numbering 4 color elements.](assets/asset-006-on-surface-variant-on-secondary-container-secondary-container-4412fb4a19.png)
+![Filter chip diagram numbering 4 color elements.](assets/asset-006-on-surface-variant-on-secondary-container-secondary-container-4412fb4a19.webp)
 
 *On surface variant; On secondary container; Secondary container; Outline variant; Surface container low (optional)*
 
@@ -67,13 +67,13 @@ Color values are implemented through design tokens (Design tokens are the buildi
 
 States (States show the interaction status of a component or UI element. [More on states](https://m3.material.io/m3/pages/interaction-states/overview)) are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](https://m3.material.io/m3/pages/interaction-states/overview)
 
-![24 filter chips showing combinations of elevated, non-elevated, selected, and non-selected styles, and 6 interaction states.](assets/asset-007-enabled-disabled-hovered-focused-pressed-dragged-df55c0a06c.png)
+![24 filter chips showing combinations of elevated, non-elevated, selected, and non-selected styles, and 6 interaction states.](assets/asset-007-enabled-disabled-hovered-focused-pressed-dragged-df55c0a06c.webp)
 
 *Enabled; Disabled; Hovered; Focused; Pressed; Dragged*
 
 ### Filter chip measurements
 
-![3 filter chips with measurements shown for types with and without a leading icon and trailing icon.](assets/asset-008-filter-chip-padding-and-size-measurements-1b3b01a122.png)
+![3 filter chips with measurements shown for types with and without a leading icon and trailing icon.](assets/asset-008-filter-chip-padding-and-size-measurements-1b3b01a122.webp)
 
 *Filter chip padding and size measurements*
 
@@ -90,7 +90,7 @@ States (States show the interaction status of a component or UI element. [More o
 
 ## Input chip
 
-![Input chip diagram numbering 4 elements.](assets/asset-009-container-label-text-trailing-icon-leading-icon-306e7ae395.png)
+![Input chip diagram numbering 4 elements.](assets/asset-009-container-label-text-trailing-icon-leading-icon-306e7ae395.webp)
 
 *Container; Label text; Trailing icon; Leading icon*
 
@@ -98,7 +98,7 @@ States (States show the interaction status of a component or UI element. [More o
 
 Color values are implemented through design tokens (Design tokens are the building blocks of all UI elements. The same tokens are used in designs, tools, and code. [More on tokens](https://m3.material.io/m3/pages/design-tokens/overview)). For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](https://m3.material.io/m3/pages/design-tokens/overview)
 
-![Input chip diagram numbering 5 color elements.](assets/asset-010-on-surface-variant-surface-container-low-optional-on-39dd4c81e2.png)
+![Input chip diagram numbering 5 color elements.](assets/asset-010-on-surface-variant-surface-container-low-optional-on-39dd4c81e2.webp)
 
 *On surface variant; Surface container low (optional); On surface variant; On surface variant; Outline variant; Primary; Secondary container; On secondary container; On secondary container*
 
@@ -106,13 +106,13 @@ Color values are implemented through design tokens (Design tokens are the buildi
 
 States (States show the interaction status of a component or UI element. [More on states](https://m3.material.io/m3/pages/interaction-states/overview)) are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](https://m3.material.io/m3/pages/interaction-states/overview)
 
-![33 input chips illustrating combinations of styles, selection and non-selection, and 6 interaction states.](assets/asset-011-enabled-disabled-hovered-focused-pressed-dragged-27de09300f.png)
+![33 input chips illustrating combinations of styles, selection and non-selection, and 6 interaction states.](assets/asset-011-enabled-disabled-hovered-focused-pressed-dragged-27de09300f.webp)
 
 *Enabled; Disabled; Hovered; Focused; Pressed; Dragged*
 
 ### Input chip measurements
 
-![2 input chips with measurements: 1 with a trailing icon only; 1 with an avatar as a leading icon and a trailing icon.](assets/asset-012-input-chip-padding-and-size-measurements-8bbf5ec6c5.png)
+![2 input chips with measurements: 1 with a trailing icon only; 1 with an avatar as a leading icon and a trailing icon.](assets/asset-012-input-chip-padding-and-size-measurements-8bbf5ec6c5.webp)
 
 *Input chip padding and size measurements*
 
@@ -133,7 +133,7 @@ States (States show the interaction status of a component or UI element. [More o
 
 ## Suggestion chip
 
-![Suggestion chip diagram numbering 2 elements.](assets/asset-013-container-label-text-2fb96b6481.png)
+![Suggestion chip diagram numbering 2 elements.](assets/asset-013-container-label-text-2fb96b6481.webp)
 
 *Container; Label text*
 
@@ -141,7 +141,7 @@ States (States show the interaction status of a component or UI element. [More o
 
 Color values are implemented through design tokens (Design tokens are the building blocks of all UI elements. The same tokens are used in designs, tools, and code. [More on tokens](https://m3.material.io/m3/pages/design-tokens/overview)). For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](https://m3.material.io/m3/pages/design-tokens/overview)
 
-![Suggestion chip diagram numbering 3 color elements.](assets/asset-014-outline-surface-container-low-optional-on-surface-variant-dc228d7ee9.png)
+![Suggestion chip diagram numbering 3 color elements.](assets/asset-014-outline-surface-container-low-optional-on-surface-variant-dc228d7ee9.webp)
 
 *Outline; Surface container low (optional); On surface variant*
 
@@ -149,13 +149,13 @@ Color values are implemented through design tokens (Design tokens are the buildi
 
 States (States show the interaction status of a component or UI element. [More on states](https://m3.material.io/m3/pages/interaction-states/overview)) are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](https://m3.material.io/m3/pages/interaction-states/overview)
 
-![24 suggestion chips illustrating combinations of styles across 6 interaction states.](assets/asset-015-enabled-disabled-hovered-focused-pressed-dragged-79fab168e3.png)
+![24 suggestion chips illustrating combinations of styles across 6 interaction states.](assets/asset-015-enabled-disabled-hovered-focused-pressed-dragged-79fab168e3.webp)
 
 *Enabled; Disabled; Hovered; Focused; Pressed; Dragged*
 
 ### Suggestion chip measurements
 
-![2 suggestion chips with measurements shown for variants with and without a leading icon.](assets/asset-016-suggestion-chip-padding-and-size-measurements-c776e7cd28.png)
+![2 suggestion chips with measurements shown for variants with and without a leading icon.](assets/asset-016-suggestion-chip-padding-and-size-measurements-c776e7cd28.webp)
 
 *Suggestion chip padding and size measurements*
 

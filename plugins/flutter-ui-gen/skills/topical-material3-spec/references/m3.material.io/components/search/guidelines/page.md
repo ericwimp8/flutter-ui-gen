@@ -10,7 +10,7 @@ Source: https://m3.material.io/components/search/guidelines
 
 Search helps people find information quickly. Use search for products with many items to manage, such as files or messages.
 
-![Mobile UI shows a search bar at the top of a message inbox.](assets/asset-002-search-helps-people-find-information-in-large-inboxes-3d5479d1fb.png)
+![Mobile UI shows a search bar at the top of a message inbox.](assets/asset-002-search-helps-people-find-information-in-large-inboxes-3d5479d1fb.webp)
 
 *Search helps people find information in large inboxes like messages or emails*
 
@@ -22,15 +22,15 @@ The search entry point is dependent on a product’s needs, and should be easy t
 - Search app bar (Search app bars provide an emphasized entry-point to open search. [More on search app bars](https://m3.material.io/m3/pages/app-bars/guidelines#ed1f4c54-fc2d-4544-b1ed-ac667181dabe)): Use this app bar (App bars contain page navigation and information at the top of a screen. [More on app bars](https://m3.material.io/m3/pages/app-bars/overview)) variant when search is the primary, global function
 - Search icon button (Icon buttons help people take minor actions with one tap. [More on icon buttons](https://m3.material.io/m3/pages/icon-buttons/overview)): Use when search is a secondary action or not the main focus
 
-![A mobile app with a search bar below the page title.](assets/asset-003-add-a-search-bar-below-a-title-to-c9b3ff7a0e.png)
+![A mobile app with a search bar below the page title.](assets/asset-003-add-a-search-bar-below-a-title-to-c9b3ff7a0e.webp)
 
 *Add a search bar below a title to search specific content*
 
-![A mobile app with a search app bar.](assets/asset-004-for-global-search-use-a-persistent-search-app-1ea3f90b95.png)
+![A mobile app with a search app bar.](assets/asset-004-for-global-search-use-a-persistent-search-app-1ea3f90b95.webp)
 
 *For global search, use a persistent search app bar, integrated into an app bar*
 
-![A mobile app with a magnifying glass icon on the leading side of the app bar.](assets/asset-005-use-a-search-icon-button-when-search-is-4655c87ae3.png)
+![A mobile app with a magnifying glass icon on the leading side of the app bar.](assets/asset-005-use-a-search-icon-button-when-search-is-4655c87ae3.webp)
 
 *Use a search icon button when search is a secondary action*
 
@@ -44,13 +44,13 @@ When a search entry point is selected, it opens focused (A focused state communi
 
 [More on search states](https://m3.material.io/m3/pages/search/specs#65c58b10-4569-43d6-9c11-64a5b02f3099)
 
-![Focused search with a list of suggestions on a mobile screen.](assets/asset-006-when-focused-a-search-bar-expands-to-show-db14ee2ee0.png)
+![Focused search with a list of suggestions on a mobile screen.](assets/asset-006-when-focused-a-search-bar-expands-to-show-db14ee2ee0.webp)
 
 *When focused, a search bar expands to show search suggestions or results in a list*
 
 If search is the primary action, focused search can be a standalone destination reached from a navigation bar (Navigation bars let people switch between UI views on smaller devices. [More on navigation bars](https://m3.material.io/m3/pages/navigation-bar/overview)).
 
-![Focused search on a mobile screen with a list of suggested contacts.](assets/asset-007-focused-search-can-be-a-standalone-destination-reached-633554fd28.png)
+![Focused search on a mobile screen with a list of suggested contacts.](assets/asset-007-focused-search-can-be-a-standalone-destination-reached-633554fd28.webp)
 
 *Focused search can be a standalone destination, reached by selecting an item in a navigation bar*
 
@@ -63,7 +63,7 @@ Search suggestions and results both appear in a list (Lists are continuous, vert
 - Avatars or other high-priority items
 - Filter chips to narrow down results
 
-![Search with suggestions organized in a column, ending with a row of 5 contact avatars with names.](assets/asset-008-include-high-priority-items-like-avatars-in-search-fe4c7d7fa6.png)
+![Search with suggestions organized in a column, ending with a row of 5 contact avatars with names.](assets/asset-008-include-high-priority-items-like-avatars-in-search-fe4c7d7fa6.webp)
 
 *Include high-priority items like avatars in search suggestions or results*
 
@@ -71,7 +71,7 @@ Search suggestions and results both appear in a list (Lists are continuous, vert
 
 Use gaps to separate a list of suggestions or results into groups. [More on using gaps in lists](https://m3.material.io/m3/pages/lists/guidelines#9e96fd72-5bf3-49df-9baf-e025dcca344d)
 
-![A gap separates the location and calendar list items from people and pets avatars.](assets/asset-009-to-separate-list-items-into-distinct-groups-use-05dbd48ae4.png)
+![A gap separates the location and calendar list items from people and pets avatars.](assets/asset-009-to-separate-list-items-into-distinct-groups-use-05dbd48ae4.webp)
 
 *To separate list items into distinct groups, use a gap*
 
@@ -79,15 +79,15 @@ Use gaps to separate a list of suggestions or results into groups. [More on usin
 
 A search bar is typically placed at the top of a screen to remain prominent and accessible. Its location depends on whether search is the primary focus of a product or a secondary action.
 
-![Mobile UI with a search bar directly below a Settings headline.](assets/asset-010-a-search-bar-can-be-the-primary-focus-3d7e779d62.png)
+![Mobile UI with a search bar directly below a Settings headline.](assets/asset-010-a-search-bar-can-be-the-primary-focus-3d7e779d62.webp)
 
 *A search bar can be the primary focus of a page*
 
-![Mobile UI with a search bar centered at the top of the screen, above a row of Favorites avatars.](assets/asset-011-search-bars-should-usually-be-placed-at-the-36a822d4a1.png)
+![Mobile UI with a search bar centered at the top of the screen, above a row of Favorites avatars.](assets/asset-011-search-bars-should-usually-be-placed-at-the-36a822d4a1.webp)
 
 *Search bars should usually be placed at the top of the content*
 
-![A photos app with a search icon.](assets/asset-012-search-can-be-a-secondary-action-562cfe29a7.png)
+![A photos app with a search icon.](assets/asset-012-search-can-be-a-secondary-action-562cfe29a7.webp)
 
 *Search can be a secondary action*
 
@@ -100,17 +100,17 @@ When focused, search suggestions and results appear in a list below the search b
 
 [More on adaptive design](https://m3.material.io/m3/pages/search/guidelines#eb45ccc4-d1b5-4ea1-bee5-ea1c3d1c5436)
 
-![Tablet UI shows a list of search results docked below the search bar.](assets/asset-013-docked-layout-on-a-tablet-766bb5fbdf.png)
+![Tablet UI shows a list of search results docked below the search bar.](assets/asset-013-docked-layout-on-a-tablet-766bb5fbdf.webp)
 
 *Docked layout on a tablet*
 
-![Mobile UI shows a list of search results filling the screen.](assets/asset-014-full-screen-layout-on-mobile-27ea97db6c.png)
+![Mobile UI shows a list of search results filling the screen.](assets/asset-014-full-screen-layout-on-mobile-27ea97db6c.webp)
 
 *Full-screen layout on mobile*
 
 ## Anatomy
 
-![6 elements of search.](assets/asset-015-search-bar-container-leading-icon-supporting-text-avatar-6d406785a7.png)
+![6 elements of search.](assets/asset-015-search-bar-container-leading-icon-supporting-text-avatar-6d406785a7.webp)
 
 *Search bar container; Leading icon; Supporting text; Avatar or trailing icon (optional); Input text; Container for search suggestions or results*
 
@@ -123,7 +123,7 @@ In the contained style, the search bar container remains the same shape in both 
 
 In the divided (baseline) style, a divider separates the search bar and results.
 
-![Side-by-side comparison of a search container in unfocused and focused states.](assets/asset-016-search-bar-containers-have-persistent-rounded-corners-244a5000a6.png)
+![Side-by-side comparison of a search container in unfocused and focused states.](assets/asset-016-search-bar-containers-have-persistent-rounded-corners-244a5000a6.webp)
 
 *Search bar containers have persistent, rounded corners*
 
@@ -131,13 +131,13 @@ In the divided (baseline) style, a divider separates the search bar and results.
 
 Search bars use the surface container high color role (Material has 26 standard color roles organized into six groups: primary, secondary, tertiary, error, surface, and outline. [More on color roles](https://m3.material.io/m3/pages/color-roles?s=m3)). This role applies when the screen background is white or a tonal surface color, ensuring the container has clear contrast.
 
-![2 mobile UIs show search bars on white and tonal backgrounds.](assets/asset-017-search-bars-use-surface-container-high-to-provide-fd9aac0455.png)
+![2 mobile UIs show search bars on white and tonal backgrounds.](assets/asset-017-search-bars-use-surface-container-high-to-provide-fd9aac0455.webp)
 
 *Search bars use surface container high to provide clear contrast*
 
 Avoid using a surface container high color on a surface container background. This can cause the search bar to blend in, making it difficult for people to find. To ensure proper contrast, use surface container roles that are more than one step apart.
 
-![A “surface container high” search bar on a “surface container” background.](assets/asset-018-caution-using-a-surface-container-high-color-on-315acffa27.png)
+![A “surface container high” search bar on a “surface container” background.](assets/asset-018-caution-using-a-surface-container-high-color-on-315acffa27.webp)
 
 *Caution Using a surface container high color on a surface container background reduces contrast and may affect accessibility*
 
@@ -150,7 +150,7 @@ The leading side of a search bar should include either:
 - A navigational icon button, such as a menu or arrow
 - A non-functional search icon
 
-![A search bar on a tablet screen contains a non-functional search icon and a trailing avatar.](assets/asset-019-a-search-bar-can-contain-a-non-functional-0d0aae9127.png)
+![A search bar on a tablet screen contains a non-functional search icon and a trailing avatar.](assets/asset-019-a-search-bar-can-contain-a-non-functional-0d0aae9127.webp)
 
 *A search bar can contain a non-functional search icon*
 
@@ -163,15 +163,15 @@ A search bar should have one or two trailing icons or icon buttons. Trailing act
 - An overflow menu
 - A decorative search icon
 
-![A search bar with 2 trailing icon buttons: a microphone and an overflow menu.](assets/asset-020-use-a-maximum-of-two-trailing-icons-e586e1b66a.png)
+![A search bar with 2 trailing icon buttons: a microphone and an overflow menu.](assets/asset-020-use-a-maximum-of-two-trailing-icons-e586e1b66a.webp)
 
 *Use a maximum of two trailing icons*
 
-![A search bar with a trailing microphone icon and avatar.](assets/asset-021-combine-an-avatar-with-up-to-one-other-e2a9cc376c.png)
+![A search bar with a trailing microphone icon and avatar.](assets/asset-021-combine-an-avatar-with-up-to-one-other-e2a9cc376c.webp)
 
 *Combine an avatar with up to one other trailing icon button*
 
-![Focused search with a trailing x icon to clear input text.](assets/asset-022-focused-search-can-show-an-optional-clear-icon-828d1e97d7.png)
+![Focused search with a trailing x icon to clear input text.](assets/asset-022-focused-search-can-show-an-optional-clear-icon-828d1e97d7.webp)
 
 *Focused search can show an optional clear icon to remove input text*
 
@@ -211,7 +211,7 @@ When focused, search can switch between showing suggestions or results in a:
 
 [More on search layouts](https://m3.material.io/m3/pages/search/specs#fc12e839-f356-4f48-9bd5-0ed210565bfe)
 
-![Search suggestions in docked and full screen layouts.](assets/asset-025-a-docked-layout-on-a-large-screen-a-9657e01801.png)
+![Search suggestions in docked and full screen layouts.](assets/asset-025-a-docked-layout-on-a-large-screen-a-9657e01801.webp)
 
 *A docked layout on a large screen; A full-screen layout, the default for compact screens*
 
@@ -261,7 +261,7 @@ To execute a search, a person can:
 
 Search results appear in a list (Lists are continuous, vertical indexes of text and images. [More on lists](https://m3.material.io/m3/pages/lists/overview/4c963afe-70e3-4795-9077-8d371038bacb?edit=true)) below the bar, and scroll beneath the bar. For accessibility, focused search needs a clear status indicator that it’s searching content, like a search icon or Results label. [More on search accessibility](https://m3.material.io/m3/pages/search/accessibility/)
 
-![“Peanut” is the entered search query and the first suggestion in the list.](assets/asset-030-show-search-results-in-a-compact-organized-list-2bacc5d301.png)
+![“Peanut” is the entered search query and the first suggestion in the list.](assets/asset-030-show-search-results-in-a-compact-organized-list-2bacc5d301.webp)
 
 *Show search results in a compact, organized list, with an indicator like Quick results*
 

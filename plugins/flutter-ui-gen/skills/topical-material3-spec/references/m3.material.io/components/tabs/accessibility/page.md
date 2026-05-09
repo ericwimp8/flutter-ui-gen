@@ -79,6 +79,6 @@ On arrow/tab in a tab menu (Menus display a list of choices on a temporary surfa
 
 When the visible UI text is ambiguous, or there is no visible UI text, accessibility (Accessible design makes products usable for people with all kinds of abilities. [More on accessibility](https://m3.material.io/m3/pages/overview)) labels need to be more descriptive. For example, an icon button (Icon buttons help people take minor actions with one tap. [More on icon buttons](https://m3.material.io/m3/pages/icon-buttons/overview)) that visually represents a “video camera” requires additional information in its accessibility label to clarify the icon’s intent.
 
-![Small device screen with the tab highlighted and the label and role illustrated.](assets/asset-006-while-the-icon-visually-represents-a-video-camera-0028e4572b.png)
+![Small device screen with the tab highlighted and the label and role illustrated.](assets/asset-006-while-the-icon-visually-represents-a-video-camera-0028e4572b.webp)
 
 *While the icon visually represents a “Video camera,” the accessibility label for this tab clarifies its function: “Video format media content”*

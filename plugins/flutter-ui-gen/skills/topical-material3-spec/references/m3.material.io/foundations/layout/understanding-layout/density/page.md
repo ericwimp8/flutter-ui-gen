@@ -40,15 +40,15 @@ A layout’s spacing dimensions, including margins, spacers, and padding, can ch
 
 Consider density settings in the context of a device. Although a user may prefer a denser layout for desktop, they may not for mobile. Density shouldn’t automatically change across window-size classes or device orientation without users changing it.
 
-![High density layout](assets/asset-004-do-consider-using-higher-density-information-design-when-380947552f.png)
+![High density layout](assets/asset-004-do-consider-using-higher-density-information-design-when-380947552f.webp)
 
 *Do Consider using higher density information design when users need to scan lots of information*
 
-![News website on desktop displaying a high information density.](assets/asset-005-consider-the-amount-and-priority-of-information-on-cf1d33c4f0.png)
+![News website on desktop displaying a high information density.](assets/asset-005-consider-the-amount-and-priority-of-information-on-cf1d33c4f0.webp)
 
 *Consider the amount and priority of information on-screen. Higher density can be useful for data-rich sites (news, financial portals, dashboards) where users expect lots of information quickly.*
 
-![News website on desktop displaying a low information density.](assets/asset-006-lower-density-can-be-better-for-sites-prioritizing-77379609ec.png)
+![News website on desktop displaying a low information density.](assets/asset-006-lower-density-can-be-better-for-sites-prioritizing-77379609ec.webp)
 
 *Lower density can be better for sites prioritizing aesthetics, a focused message, less information, or easier navigation*
 
@@ -60,7 +60,7 @@ The density scale is numbered, starting at 0 for a component’s default density
 
 Higher density is typically applied by decreasing the top and bottom padding or overall height by 4dp.
 
-![Three buttons, with densities of +1, 0, and -1.](assets/asset-007-buttons-in-3-different-densities-apply-button-density-270d1aee14.png)
+![Three buttons, with densities of +1, 0, and -1.](assets/asset-007-buttons-in-3-different-densities-apply-button-density-270d1aee14.webp)
 
 *Buttons in 3 different densities. Apply button density based on the needs and layout of a design.*
 
@@ -68,19 +68,19 @@ Center the grouped element within the component container.
 
 Text size shouldn’t change as the container size scales.
 
-![Stacked element showing 20 dp between label and input](assets/asset-008-the-measurement-between-the-label-and-input-is-816a580843.png)
+![Stacked element showing 20 dp between label and input](assets/asset-008-the-measurement-between-the-label-and-input-is-816a580843.webp)
 
 *The measurement between the label and input is 20dp*
 
-![Parent container showing label above input.](assets/asset-009-the-label-and-input-are-centered-within-their-152179749b.png)
+![Parent container showing label above input.](assets/asset-009-the-label-and-input-are-centered-within-their-152179749b.webp)
 
 *The label and input are centered within their parent container*
 
-![Dropdown menu selectable space height of 36 dp](assets/asset-010-don-t-increase-density-in-uis-that-involve-e543f64744.png)
+![Dropdown menu selectable space height of 36 dp](assets/asset-010-don-t-increase-density-in-uis-that-involve-e543f64744.webp)
 
 *Don’t increase density in UIs that involve focused tasks, such as selecting from a menu. It reduces usability by limiting selectable space.*
 
-![Single-line snackbar](assets/asset-011-don-t-don-t-increase-the-density-in-6e3a2eb8b3.png)
+![Single-line snackbar](assets/asset-011-don-t-don-t-increase-the-density-in-6e3a2eb8b3.webp)
 
 *Don’t Don't increase the density in components that alert the user of changes, such as snackbars or dialogs*
 
@@ -93,23 +93,23 @@ People should be able to opt in to dense layouts and components.
 
 To ensure that density settings can be easily reverted, targets in settings interactions must follow defaults (48x48 CSS pixels).
 
-![A density menu with large, medium, and small options to customize the screen layout of a table on desktop.](assets/asset-012-a-density-menu-with-large-medium-and-small-92c58a1615.png)
+![A density menu with large, medium, and small options to customize the screen layout of a table on desktop.](assets/asset-012-a-density-menu-with-large-medium-and-small-92c58a1615.webp)
 
 ## Targets
 
 Dense components can be less accessible because interactive elements are smaller, so use caution when increasing information density.
 
-![Selectable target of only 40 dp](assets/asset-013-caution-use-caution-when-applying-component-scaling-where-0c941bfb9f.png)
+![Selectable target of only 40 dp](assets/asset-013-caution-use-caution-when-applying-component-scaling-where-0c941bfb9f.webp)
 
 *Caution Use caution when applying component scaling where selectable targets will be reduced to less than the 48x48dp best practice and only apply density where it provides a better user experience.*
 
 Use caution when applying density to interaction targets. Following best practices, accessible targets should retain a minimum of 48x48dp, even if their visual element (such as an icon) is smaller.
 
-![Settings button is 24 by 24 dp, but has interaction target of 48 x 48 dp.](assets/asset-014-the-target-should-remain-48x48-even-if-the-71c68b5fbc.png)
+![Settings button is 24 by 24 dp, but has interaction target of 48 x 48 dp.](assets/asset-014-the-target-should-remain-48x48-even-if-the-71c68b5fbc.webp)
 
 *The target should remain 48x48, even if the icon is smaller.*
 
-![Button with height of 36 dp and interaction target of 48 dp](assets/asset-015-the-interaction-target-of-a-common-button-can-0eb804ae05.png)
+![Button with height of 36 dp and interaction target of 48 dp](assets/asset-015-the-interaction-target-of-a-common-button-can-0eb804ae05.webp)
 
 *The interaction target of a common button can be larger, as long as it meets the 48x48dp minimum size.*
 
@@ -121,11 +121,11 @@ To calculate pixel density:
 
 Screen density = Screen width (or height) in pixels / Screen width (or height) in inches
 
-![Magnified UI element showing a high number pixels in the focus area](assets/asset-016-a-high-density-ui-element-68e9e03ca2.png)
+![Magnified UI element showing a high number pixels in the focus area](assets/asset-016-a-high-density-ui-element-68e9e03ca2.webp)
 
 *A high-density ui element*
 
-![Magnified UI element showing the low number of pixels in the focus area](assets/asset-017-a-low-density-ui-element-5ea4cb7794.png)
+![Magnified UI element showing the low number of pixels in the focus area](assets/asset-017-a-low-density-ui-element-5ea4cb7794.webp)
 
 *A low-density UI element*
 
@@ -137,11 +137,11 @@ A dp is equal to one physical pixel on a screen with a density of 160.
 
 To calculate dp: dp = (width in pixels * 160) / screen density
 
-![Screen with grid representing low number of pixels](assets/asset-018-low-density-screen-displayed-with-density-independence-051193286c.png)
+![Screen with grid representing low number of pixels](assets/asset-018-low-density-screen-displayed-with-density-independence-051193286c.webp)
 
 *Low-density screen displayed with density independence*
 
-![Screen with grid representing high number of pixels](assets/asset-019-high-density-screen-displayed-with-density-independence-835daf393f.png)
+![Screen with grid representing high number of pixels](assets/asset-019-high-density-screen-displayed-with-density-independence-835daf393f.webp)
 
 *High-density screen displayed with density independence*
 

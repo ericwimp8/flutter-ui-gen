@@ -4,7 +4,7 @@ Source: https://m3.material.io/styles/color/advanced/overview
 
 From changing a component’s default color mapping to creating additional color roles, advanced customizations fall within one of three general actions: applying, defining, or adjusting colors.
 
-![Collage of green primary color mapped to a custom volume component; a custom teal tertiary color role applied to a weather widget; a custom orange caution color; and an illustration of an avatar in yellow, red, and green color themes](assets/asset-001-advanced-customizations-include-the-ability-to-remap-colors-27a71a9949.png)
+![Collage of green primary color mapped to a custom volume component; a custom teal tertiary color role applied to a weather widget; a custom orange caution color; and an illustration of an avatar in yellow, red, and green color themes](assets/asset-001-advanced-customizations-include-the-ability-to-remap-colors-27a71a9949.webp)
 
 *Advanced customizations include the ability to remap colors on components; define new colors in addition to the scheme; define custom color roles; and apply dynamic color to imagery.*
 

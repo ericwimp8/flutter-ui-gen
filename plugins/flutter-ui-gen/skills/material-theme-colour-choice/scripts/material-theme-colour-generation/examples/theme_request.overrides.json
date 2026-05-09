@@ -2,7 +2,7 @@
   "userIntent": "orange with red highlights and warm cream surfaces",
   "recipe": "vibrant",
   "sourceColor": "#C75A32",
-  "contrastLevel": 0.0,
+  "contrastLevel": "normal",
   "paletteOverrides": {
     "tertiary": "#B3261E",
     "neutral": {

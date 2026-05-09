@@ -21,7 +21,7 @@ Menus have two color mappings:
 
 Vibrant menus are more prominent, and should be used sparingly.
 
-![Menu shows item “Line spacing” opening a submenu. In the second menu, “Custom 1.2” is selected with vibrant color.](assets/asset-002-on-web-menus-can-open-submenus-55cac710a7.png)
+![Menu shows item “Line spacing” opening a submenu. In the second menu, “Custom 1.2” is selected with vibrant color.](assets/asset-002-on-web-menus-can-open-submenus-55cac710a7.webp)
 
 *On web, menus can open submenus*
 
@@ -41,7 +41,7 @@ Use menus in situations that need extra actions, like:
 - Select menus
 - Context menus
 
-![A grouped menu with Undo, Redo, Cut, Copy, and Paste options appear over highlighted text in an ebook.](assets/asset-003-menus-appear-in-front-of-all-other-ui-5ef243b304.png)
+![A grouped menu with Undo, Redo, Cut, Copy, and Paste options appear over highlighted text in an ebook.](assets/asset-003-menus-appear-in-front-of-all-other-ui-5ef243b304.webp)
 
 *Menus appear in front of all other UI elements*
 
@@ -51,7 +51,7 @@ Vertical menu items can be grouped by adding a divider or small gap. Use groups 
 
 [Gaps and dividers guidelines](https://m3.material.io/m3/pages/menus/guidelines#d75ac70c-9122-4b4c-bd60-b856bc66c9bc)
 
-![2 vertical menus: a standard menu with no gap and a grouped menu with 1 gap.](assets/asset-004-standard-vertical-menu-grouped-vertical-menu-744b38f0cc.png)
+![2 vertical menus: a standard menu with no gap and a grouped menu with 1 gap.](assets/asset-004-standard-vertical-menu-grouped-vertical-menu-744b38f0cc.webp)
 
 *Standard vertical menu; Grouped vertical menu*
 
@@ -59,13 +59,13 @@ Vertical menu items can be grouped by adding a divider or small gap. Use groups 
 
 Context menus provide a list of additional actions a person can take on an item. A secondary click, like a right-click on a mouse or a two-finger tap on a trackpad, opens a context menu.
 
-![A context menu pops up from a newspaper link. The menu items are: Open in new window, Save link as, Copy address, and Inspect.](assets/asset-005-a-context-menu-appears-when-right-clicking-with-e94ab1767b.png)
+![A context menu pops up from a newspaper link. The menu items are: Open in new window, Save link as, Copy address, and Inspect.](assets/asset-005-a-context-menu-appears-when-right-clicking-with-e94ab1767b.webp)
 
 *A context menu appears when right clicking with a mouse or trackpad. It can reveal key actions related to the associated content.*
 
 ## Anatomy
 
-![Diagram outlining 11 elements of a menu’s anatomy.](assets/asset-006-menu-item-leading-icon-optional-menu-item-text-3c2d3dd655.png)
+![Diagram outlining 11 elements of a menu’s anatomy.](assets/asset-006-menu-item-leading-icon-optional-menu-item-text-3c2d3dd655.webp)
 
 *Menu item; Leading icon (optional); Menu item text; Trailing icon (optional); Badge (optional); Trailing text (optional); Container; Supporting text (optional); Label text (optional); Gap (optional); Divider (optional)*
 
@@ -75,7 +75,7 @@ Menu items can include label text, leading icons, trailing icons, and keyboard c
 
 When a menu item can only be used under specific conditions, it should appear disabled (A disabled state communicates a non-interactive component or element. [More on disabled state](https://m3.material.io/m3/pages/interaction-states/applying-states#4aff9c51-d20f-4580-a510-862d2e25e931)) rather than be removed.
 
-![Menu shows 1 item that’s disabled, “Redo”. The text color of the disabled item is lighter than the active items.](assets/asset-007-the-redo-action-is-disabled-when-that-action-fae8198f4d.png)
+![Menu shows 1 item that’s disabled, “Redo”. The text color of the disabled item is lighter than the active items.](assets/asset-007-the-redo-action-is-disabled-when-that-action-fae8198f4d.webp)
 
 *The Redo action is disabled when that action isn’t available*
 
@@ -91,7 +91,7 @@ Use a gap to visually divide menu items into distinct groups. Gaps are more expr
 - Limit the number of gaps in a menu to one or two
 - Don’t use gaps in scrollable menus
 
-![2 vertical menus with 5 items. A gap separates items into a group of 3 and group of 2.](assets/asset-008-gaps-separate-menu-items-using-expressive-shapes-a8b73756ab.png)
+![2 vertical menus with 5 items. A gap separates items into a group of 3 and group of 2.](assets/asset-008-gaps-separate-menu-items-using-expressive-shapes-a8b73756ab.webp)
 
 *Gaps separate menu items using expressive shapes*
 
@@ -104,7 +104,7 @@ Dividers create a more subtle separation between items. Use a divider for:
 
 On web, use a divider to separate menu items.
 
-![A menu on a web interface with items separated by a divider line.](assets/asset-009-dividers-separate-menu-items-in-baseline-menus-and-6d35fc6cec.png)
+![A menu on a web interface with items separated by a divider line.](assets/asset-009-dividers-separate-menu-items-in-baseline-menus-and-6d35fc6cec.webp)
 
 *Dividers separate menu items in baseline menus and on web*
 
@@ -120,7 +120,7 @@ Slots work best with simple content such as:
 - Progress indicators
 - Color swatches
 
-![A menu showing an undefined slot that could be used for a different element, such as an image.](assets/asset-010-slots-can-appear-anywhere-in-a-menu-2b50d4eaf6.png)
+![A menu showing an undefined slot that could be used for a different element, such as an image.](assets/asset-010-slots-can-appear-anywhere-in-a-menu-2b50d4eaf6.webp)
 
 *Slots can appear anywhere in a menu*
 
@@ -135,7 +135,7 @@ Don't add buttons, switches, or other direct actions into the menu item. Nested 
 
 [More on required accessibility guidelines](https://m3.material.io/m3/pages/menus/accessibility/)
 
-![1 diagram and 1 menu showing icons in each item’s leading slot.](assets/asset-011-caution-reserve-the-use-of-slots-for-use-47e147feb8.png)
+![1 diagram and 1 menu showing icons in each item’s leading slot.](assets/asset-011-caution-reserve-the-use-of-slots-for-use-47e147feb8.webp)
 
 *Caution Reserve the use of slots for use cases that maintain the menu’s accessibility and functionality*
 
@@ -145,7 +145,7 @@ A menu is positioned relative to the window edge. It typically appears below, ne
 
 If a menu is in a position to be cut off, it should automatically reposition to appear to the left, right, or above the element that generates it.
 
-![6 abstract shapes showing how a menu can extend from the edge of the screen.](assets/asset-012-menus-can-appear-around-or-in-front-of-2247211a2d.png)
+![6 abstract shapes showing how a menu can extend from the edge of the screen.](assets/asset-012-menus-can-appear-around-or-in-front-of-2247211a2d.webp)
 
 *Menus can appear around or in front of the element that opened them*
 
@@ -155,7 +155,7 @@ Submenus should open next to the parent menu item without overlapping it.
 
 Submenus are best used on large screens where there's space. [See adaptive guidance](https://m3.material.io/m3/pages/menus/guidelines#e588ae16-7a76-4bf9-8532-8d931a13ca35) for alternatives on mobile.
 
-![A submenu opens to the right of its parent menu item, and doesn’t cover it. A selected submenu item includes a checkmark and vibrant highlight.](assets/asset-013-position-submenus-to-the-side-of-the-parent-ba1ba6c872.png)
+![A submenu opens to the right of its parent menu item, and doesn’t cover it. A selected submenu item includes a checkmark and vibrant highlight.](assets/asset-013-position-submenus-to-the-side-of-the-parent-ba1ba6c872.webp)
 
 *Position submenus to the side of the parent item*
 
@@ -165,7 +165,7 @@ Submenus are best used on large screens where there's space. [See adaptive guida
 
 Consider adapting menus into bottom sheets (Bottom sheets show secondary content anchored to the bottom of the screen. [More on bottom sheets](https://m3.material.io/m3/pages/bottom-sheets/overview)) on small screens. They have more space to display additional items and longer labels.
 
-![A bottom sheet shows longer labels and improved readability on a compact window.](assets/asset-014-a-bottom-sheet-can-replace-a-menu-on-2ca149ded5.png)
+![A bottom sheet shows longer labels and improved readability on a compact window.](assets/asset-014-a-bottom-sheet-can-replace-a-menu-on-2ca149ded5.webp)
 
 *A bottom sheet can replace a menu on smaller screens*
 
@@ -173,7 +173,7 @@ Consider adapting menus into bottom sheets (Bottom sheets show secondary content
 
 On medium (Window widths from 600dp to 839dp, such as a tablet or foldable in portrait orientation. [More on medium window size class](https://m3.material.io/m3/pages/applying-layout/medium)) and expanded (Window widths 840dp to 1199dp, such as a tablet or foldable in landscape orientation, or desktop. [More on expanded window size class](https://m3.material.io/m3/pages/applying-layout/expanded)) windows, menus are most effective as they appear in context with the content. On larger screens, menus can also display more items, and can use submenus to organize complex sets of options.
 
-![A menu with vibrant color on a mid-size screen, with the same elements as a bottom sheet.](assets/asset-015-on-large-screens-a-menu-is-often-more-7b38ac80d3.png)
+![A menu with vibrant color on a mid-size screen, with the same elements as a bottom sheet.](assets/asset-015-on-large-screens-a-menu-is-often-more-7b38ac80d3.webp)
 
 *On large screens, a menu is often more appropriate than a bottom sheet*
 
@@ -249,7 +249,7 @@ When a menu is opened, the corresponding button (Buttons let people take action 
 
 This should happen even when opening from a keyboard shortcut.
 
-![The overflow icon remains the same, even after the menu is opened.](assets/asset-025-tapping-the-icon-triggers-a-menu-choosing-a-66b45649b4.png)
+![The overflow icon remains the same, even after the menu is opened.](assets/asset-025-tapping-the-icon-triggers-a-menu-choosing-a-66b45649b4.webp)
 
 *Tapping the icon triggers a menu. Choosing a menu option doesn’t change the icon generating the menu.*
 
@@ -262,7 +262,7 @@ Menus can allow either single-select or multi-select actions:
 
 [More on selection accessibility requirements](https://m3.material.io/m3/pages/menus/accessibility#149778c9-eb42-4a56-8a0b-9932181ac2cd)
 
-![1 menu for dietary options shows a single selection, Vegan. Another menu shows Vegan and Nut-free selections at the same time.](assets/asset-026-menus-can-be-single-or-multi-select-0824559f14.png)
+![1 menu for dietary options shows a single selection, Vegan. Another menu shows Vegan and Nut-free selections at the same time.](assets/asset-026-menus-can-be-single-or-multi-select-0824559f14.webp)
 
 *Menus can be single- or multi-select*
 
@@ -282,6 +282,6 @@ As a person moves from one submenu to the next, the corners of the focused subme
 
 On web only, density levels control the spacing between elements. Increasing density decreases the top and bottom padding. [More on layout density](https://m3.material.io/m3/pages/understanding-layout/density)
 
-![4 menus becoming increasingly dense and compressed.](assets/asset-028-density-of-menus-from-0-to-3-849d750d30.png)
+![4 menus becoming increasingly dense and compressed.](assets/asset-028-density-of-menus-from-0-to-3-849d750d30.webp)
 
 *Density of menus from 0 to -3*

@@ -6,7 +6,7 @@ Source: https://m3.material.io/styles/typography/overview
 - Use variable fonts for more control over expression in editorial treatments
 - Use Material tokens to easily define font, line height, size, tracking, weight, and more
 
-![Type at different scales.](assets/asset-001-type-at-different-scales-c6107b6f76.png)
+![Type at different scales.](assets/asset-001-type-at-different-scales-c6107b6f76.webp)
 
 ## Availability & resources
 
@@ -40,7 +40,7 @@ Roboto Flex can be used on its own to show a range of emotional states, but is n
 
 [More on M3 Expressive](https://m3.material.io/blog/building-with-m3-expressive)
 
-![Type scale showing roles for “display”, “headline,” “title,” “label,” and “body.”](assets/asset-002-the-expressive-type-scale-includes-fifteen-baseline-type-c04bc21d1c.png)
+![Type scale showing roles for “display”, “headline,” “title,” “label,” and “body.”](assets/asset-002-the-expressive-type-scale-includes-fifteen-baseline-type-c04bc21d1c.webp)
 
 *The expressive type scale includes fifteen baseline type styles and fifteen emphasized type styles*
 
@@ -52,7 +52,7 @@ Emphasized tokens allow for clearer hierarchies and prioritized components withi
 
 Type roles describe size—such as small, medium, and large—enabling them to adapt and respond to the device or context.
 
-![Close crop of markdown text showing type scales referenced as “display-large” and “display-large-emphasized.”](assets/asset-003-typography-tokens-describe-scalable-size-that-adapts-to-a70f7511b1.png)
+![Close crop of markdown text showing type scales referenced as “display-large” and “display-large-emphasized.”](assets/asset-003-typography-tokens-describe-scalable-size-that-adapts-to-a70f7511b1.webp)
 
 *Typography tokens describe scalable size that adapts to devices or settings, including updating the style on boldness*
 
@@ -64,7 +64,7 @@ Roboto Flex, Roboto Serif, & Roboto Mono
 
 Updated considerations for using variable fonts and different combinations of their customizable axes (An axis refers to an attribute of a font, such as weight or width, that can be altered to create visual variations. [Learn more about variable fonts](https://fonts.google.com/knowledge/introducing_type/introducing_variable_fonts)), including grade, width, weight, slant, and optical size.
 
-![Roboto Flex, Roboto Mono, and Roboto Serif type rendered in different weights.](assets/asset-004-roboto-flex-roboto-serif-and-roboto-mono-have-816d75f8bb.png)
+![Roboto Flex, Roboto Mono, and Roboto Serif type rendered in different weights.](assets/asset-004-roboto-flex-roboto-serif-and-roboto-mono-have-816d75f8bb.webp)
 
 *Roboto Flex, Roboto Serif, and Roboto Mono have a fluid range of axes, like weight, across all optical sizes*
 
@@ -74,6 +74,6 @@ Type styles are defined by five roles: display, headline, title, body, and label
 
 These names are more descriptive, allowing for easier matching of type style to use case.
 
-![Different examples of Roboto scaled to their respective roles: display, headline, title, body, and label.](assets/asset-005-m3-has-five-distinct-type-styles-display-headline-4728472d7e.png)
+![Different examples of Roboto scaled to their respective roles: display, headline, title, body, and label.](assets/asset-005-m3-has-five-distinct-type-styles-display-headline-4728472d7e.webp)
 
 *M3 has five distinct type styles: display, headline, title, body, and label*

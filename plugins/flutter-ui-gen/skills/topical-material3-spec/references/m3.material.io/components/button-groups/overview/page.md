@@ -8,7 +8,7 @@ Source: https://m3.material.io/components/button-groups/overview
 - Works with all button sizes: XS, S, M, L, and XL
 - Support for single-select, multi-select, and selection-required
 
-![A standard button group and a segmented button group.](assets/asset-001-button-groups-can-contain-buttons-and-icon-buttons-c4a09f8bea.png)
+![A standard button group and a segmented button group.](assets/asset-001-button-groups-can-contain-buttons-and-icon-buttons-c4a09f8bea.webp)
 
 *Button groups can contain buttons and icon buttons*
 
@@ -39,6 +39,6 @@ Configurations:
 - Works with all button sizes: XS, S, M, L, and XL
 - Applies default shape to all buttons: round or square
 
-![Standard button group in 3 of 5 available sizes, and segmented button group with just icon buttons and just common buttons.](assets/asset-002-button-groups-are-containers-that-hold-buttons-of-1d835e7c57.png)
+![Standard button group in 3 of 5 available sizes, and segmented button group with just icon buttons and just common buttons.](assets/asset-002-button-groups-are-containers-that-hold-buttons-of-1d835e7c57.webp)
 
 *Button groups are containers that hold buttons of many shapes and sizes*

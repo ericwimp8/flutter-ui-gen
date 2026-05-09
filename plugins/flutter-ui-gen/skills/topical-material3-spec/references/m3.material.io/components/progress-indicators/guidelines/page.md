@@ -53,7 +53,7 @@ Circular indicators are best when centered in an element.
 
 A process should be represented by the same variant of progress indicator throughout the product. For example, if refreshing uses a circular indicator in one place, it should use circular indicators everywhere.
 
-![1. A primary colored horizontal line fills a contrasting track from left to right. 2. A circle appears from 0 to 360 degrees.](assets/asset-007-linear-indicator-circular-indicator-4f1d6a70e5.png)
+![1. A primary colored horizontal line fills a contrasting track from left to right. 2. A circle appears from 0 to 360 degrees.](assets/asset-007-linear-indicator-circular-indicator-4f1d6a70e5.webp)
 
 *Linear indicator; Circular indicator*
 
@@ -94,7 +94,7 @@ In indeterminate processes, it grows and shrinks along the track repeatedly.
 
 The active indicator appears as soon as progress begins. At low percentages where space is limited, this should appear as a dot to help people understand that there’s progress underway.
 
-![A linear and circular progress indicator at 1% progress, where the active indicator has only just appeared.](assets/asset-012-when-progress-first-begins-the-active-indicator-appears-e805f5f7a1.png)
+![A linear and circular progress indicator at 1% progress, where the active indicator has only just appeared.](assets/asset-012-when-progress-first-begins-the-active-indicator-appears-e805f5f7a1.webp)
 
 *When progress first begins, the active indicator appears as a dot*
 
@@ -116,11 +116,11 @@ It's not used for indeterminate or circular progress indicators.
 
 The stop indicator is required if the track has a contrast below 3:1 with its container or the surface behind the container.
 
-![A primary colored horizontal line fills a contrasting line from left to right.](assets/asset-014-do-use-a-stop-indicator-when-placing-the-b4ab0e63b0.png)
+![A primary colored horizontal line fills a contrasting line from left to right.](assets/asset-014-do-use-a-stop-indicator-when-placing-the-b4ab0e63b0.webp)
 
 *Do Use a stop indicator when placing the progress indicator inside a container with low contrast*
 
-![An invisible circular track fills with color from 0 to 360 degrees.](assets/asset-015-caution-only-remove-the-end-stop-indicator-if-dd7d4712a3.png)
+![An invisible circular track fills with color from 0 to 360 degrees.](assets/asset-015-caution-only-remove-the-end-stop-indicator-if-dd7d4712a3.webp)
 
 *Caution Only remove the end stop indicator if there's a visual contrast of at least 3:1 with surrounding surfaces*
 
@@ -180,7 +180,7 @@ Linear progress indicators should be mirrored horizontally for products using ri
 
 Circular progress indicators don’t need to be mirrored.
 
-![Mirrored right-to-left progress indicator.](assets/asset-023-linear-progress-indicators-can-flow-from-right-to-563cde30e8.png)
+![Mirrored right-to-left progress indicator.](assets/asset-023-linear-progress-indicators-can-flow-from-right-to-563cde30e8.webp)
 
 *Linear progress indicators can flow from right to left in right-to-left (RTL) languages*
 
@@ -190,7 +190,7 @@ Circular progress indicators have flexible sizes. They can range from 24dp to 24
 
 Reserve very large progress indicators for large and extra-large windows, such as desktop.
 
-![Circular progress indicators can range in size from 24dps to 240dps.](assets/asset-024-the-waveform-should-scale-with-the-size-so-09a97ce599.png)
+![Circular progress indicators can range in size from 24dps to 240dps.](assets/asset-024-the-waveform-should-scale-with-the-size-so-09a97ce599.webp)
 
 *The waveform should scale with the size so the proportions look the same across sizes*
 
@@ -198,6 +198,6 @@ Linear progress indicators dynamically adjust to fit the width of the window or 
 
 The padding on each end should be 4dp minimum, but can be modified.
 
-![Linear progress indicators can dynamically adjust to any width.](assets/asset-025-the-linear-progress-indicator-should-always-span-the-012e58fb78.png)
+![Linear progress indicators can dynamically adjust to any width.](assets/asset-025-the-linear-progress-indicator-should-always-span-the-012e58fb78.webp)
 
 *The linear progress indicator should always span the width of the UI element it’s placed within*

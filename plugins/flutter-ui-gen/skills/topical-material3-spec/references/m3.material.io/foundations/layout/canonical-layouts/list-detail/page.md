@@ -12,7 +12,7 @@ Key use cases for this layout include parent-child pairings of information like:
 - Settings + category detail
 - Email inbox + selected email
 
-![An email app in a list-detail layout in a medium window size.](assets/asset-001-list-detail-422c7c113b.png)
+![An email app in a list-detail layout in a medium window size.](assets/asset-001-list-detail-422c7c113b.webp)
 
 *List; Detail*
 
@@ -20,13 +20,13 @@ Key use cases for this layout include parent-child pairings of information like:
 
 Use the list-detail view for displaying browsable content and quickly showing details. Examples include: showing a series of conversations and a text message; browsing files and seeing their details; or browsing multiple albums and seeing individual track information in an adjacent view.
 
-![Several stacked cards make up the list area on the left pane, while the detail area is a single section on the right pane.](assets/asset-002-list-area-detail-area-3d718ab1f1.png)
+![Several stacked cards make up the list area on the left pane, while the detail area is a single section on the right pane.](assets/asset-002-list-area-detail-area-3d718ab1f1.webp)
 
 *List area; Detail area*
 
 ## Dividing space
 
-![Compact windows have 1 pane, while medium and expanded windows can have 2 panes for list-detailed views.](assets/asset-003-the-most-basic-list-detail-views-for-compact-d1567bc572.png)
+![Compact windows have 1 pane, while medium and expanded windows can have 2 panes for list-detailed views.](assets/asset-003-the-most-basic-list-detail-views-for-compact-d1567bc572.webp)
 
 *The most basic list-detail views for compact, medium, and expanded layouts*
 
@@ -47,7 +47,7 @@ A list-detail view uses two panes: one for a list or group of items and the othe
 - Use a single-pane layout
 - Only one view is visible at a time (either list or detail)
 
-![Single pane layout on 3 devices with compact window sizes.](assets/asset-004-phone-in-portrait-orientation-closed-foldable-tablet-in-c4e77320e2.png)
+![Single pane layout on 3 devices with compact window sizes.](assets/asset-004-phone-in-portrait-orientation-closed-foldable-tablet-in-c4e77320e2.webp)
 
 *Phone in portrait orientation; Closed foldable; Tablet in split-screen mode*
 
@@ -55,14 +55,14 @@ A list-detail view uses two panes: one for a list or group of items and the othe
 
 - Use a single-pane layout for information-dense content or longer interactions
 
-![Single-pane layout on a foldable open flat and a tablet in portrait orientation.](assets/asset-005-foldable-open-flat-tablet-in-portrait-orientation-10c495ba62.png)
+![Single-pane layout on a foldable open flat and a tablet in portrait orientation.](assets/asset-005-foldable-open-flat-tablet-in-portrait-orientation-10c495ba62.webp)
 
 *Foldable open flat; Tablet in portrait orientation*
 
 1. Use a two-pane layout for information-dense content, or quicker interactions
 2. To avoid cramped pane widths, use a bottom navigation bar or modal navigation drawer with two-pane layouts in medium only
 
-![Two-pane layout on a foldable open flat and a tablet in portrait orientation.](assets/asset-006-foldable-open-flat-tablet-in-portrait-orientation-8d1d57d26b.png)
+![Two-pane layout on a foldable open flat and a tablet in portrait orientation.](assets/asset-006-foldable-open-flat-tablet-in-portrait-orientation-8d1d57d26b.webp)
 
 *Foldable open flat; Tablet in portrait orientation*
 
@@ -70,7 +70,7 @@ A list-detail view uses two panes: one for a list or group of items and the othe
 
 - Use a two-pane layout
 
-![Two-pane layout on a phone and tablet, both in landscape orientation.](assets/asset-007-phone-in-landscape-orientation-tablet-in-landscape-orientation-16af9d94bd.png)
+![Two-pane layout on a phone and tablet, both in landscape orientation.](assets/asset-007-phone-in-landscape-orientation-tablet-in-landscape-orientation-16af9d94bd.webp)
 
 *Phone in landscape orientation; Tablet in landscape orientation*
 
@@ -82,7 +82,7 @@ A list-detail view uses two panes: one for a list or group of items and the othe
 - Selected state: Appears only in list view for two-pane layouts
 - Visual focus: Use [explicit and implicit grouping](https://m3.material.io/m3/pages/understanding-layout/spacing#efb4667d-f942-4019-8cd8-1fcb366e392d) to direct focus in two-pane layouts
 
-![A two-pane layout shows the selected list item, while a single pane layout uses a Back button to return to the list.](assets/asset-008-navigating-between-list-and-detail-views-is-different-853756c21d.png)
+![A two-pane layout shows the selected list item, while a single pane layout uses a Back button to return to the list.](assets/asset-008-navigating-between-list-and-detail-views-is-different-853756c21d.webp)
 
 *Navigating between list and detail views is different in each layout*
 

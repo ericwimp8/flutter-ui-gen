@@ -18,7 +18,7 @@ If a screen is not large enough to display the dial selector, consider displayin
 
 The input selector should be accessible from the dial selector via the keyboard icon. This interaction allows multiple input methods and makes the time picker accessible for assistive technology users.
 
-![Time picker with active manual text input for hours.](assets/asset-001-for-time-selection-that-doesn-t-require-a-9675ccbb38.png)
+![Time picker with active manual text input for hours.](assets/asset-001-for-time-selection-that-doesn-t-require-a-9675ccbb38.webp)
 
 *For time selection that doesn’t require a dial view, make a time input picker the default option*
 
@@ -26,7 +26,7 @@ The input selector should be accessible from the dial selector via the keyboard 
 
 Targets for dial selectors should be 48x48dp.
 
-![Time picker dial selector specs, selecting hour 7.](assets/asset-002-dial-selector-targets-should-be-48x48dp-89076ab708.png)
+![Time picker dial selector specs, selecting hour 7.](assets/asset-002-dial-selector-targets-should-be-48x48dp-89076ab708.webp)
 
 *Dial selector targets should be 48x48dp*
 
@@ -41,13 +41,13 @@ Targets for dial selectors should be 48x48dp.
 
 If the input text is correctly linked, assistive tech like a screenreader will read the component’s role first, then the UI text.
 
-![Accessibility tags on the time picker's hour input field.](assets/asset-003-the-hour-and-minute-fields-have-the-text-236e21b8a3.png)
+![Accessibility tags on the time picker's hour input field.](assets/asset-003-the-hour-and-minute-fields-have-the-text-236e21b8a3.webp)
 
 *The hour and minute fields have the text input role*
 
 The dial selector will read a selection of total hours, such as Hour 7 of 12.
 
-![Accessibility tag on the time picker's dial selector.](assets/asset-004-a-screen-reader-reads-the-text-label-of-03e308fdd5.png)
+![Accessibility tag on the time picker's dial selector.](assets/asset-004-a-screen-reader-reads-the-text-label-of-03e308fdd5.webp)
 
 *A screen reader reads the text label of a dial selector*
 

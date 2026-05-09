@@ -4,7 +4,7 @@ Source: https://m3.material.io/components/sliders/specs
 
 ## Variants
 
-![3 variants of sliders.](assets/asset-001-standard-centered-range-0c6e9433d2.png)
+![3 variants of sliders.](assets/asset-001-standard-centered-range-0c6e9433d2.webp)
 
 *Standard; Centered; Range*
 
@@ -17,11 +17,11 @@ Source: https://m3.material.io/components/sliders/specs
 
 ## Configurations
 
-![Orientation and size configurations of sliders.](assets/asset-002-orientation-horizontal-vertical-size-xs-s-m-l-0e4184729c.png)
+![Orientation and size configurations of sliders.](assets/asset-002-orientation-horizontal-vertical-size-xs-s-m-l-0e4184729c.webp)
 
 *Orientation: Horizontal, vertical; Size: XS, S, M, L, XL*
 
-![Optional anatomy configurations of sliders.](assets/asset-003-inset-icon-stops-value-indicator-d120e76e45.png)
+![Optional anatomy configurations of sliders.](assets/asset-003-inset-icon-stops-value-indicator-d120e76e45.webp)
 
 *Inset icon; Stops; Value indicator*
 
@@ -45,29 +45,29 @@ Slider tokens are organized into a common token set, and token sets for each siz
 
 ## Anatomy
 
-![6 elements of a slider.](assets/asset-004-value-indicator-optional-stop-indicators-optional-active-track-e491ef6c4d.png)
+![6 elements of a slider.](assets/asset-004-value-indicator-optional-stop-indicators-optional-active-track-e491ef6c4d.webp)
 
 *Value indicator (optional); Stop indicators (optional); Active track; Handle; Inactive track; Inset icon (optional)*
 
 ## Color
 
-![9 color roles of a slider.](assets/asset-005-inverse-surface-inverse-on-surface-primary-on-primary-945341d2ab.png)
+![9 color roles of a slider.](assets/asset-005-inverse-surface-inverse-on-surface-primary-on-primary-945341d2ab.webp)
 
 *Inverse surface; Inverse on surface; Primary; On primary; Primary; Secondary container; On secondary container; On secondary container; On primary*
 
 ## States
 
-![5 states of sliders in light and dark schemes.](assets/asset-006-enabled-disabled-hovered-focused-pressed-2e293c79b4.png)
+![5 states of sliders in light and dark schemes.](assets/asset-006-enabled-disabled-hovered-focused-pressed-2e293c79b4.webp)
 
 *Enabled; Disabled; Hovered; Focused; Pressed*
 
 ## Measurements
 
-![Common slider padding and size measurements.](assets/asset-007-padding-and-size-measurements-for-common-sliders-357f56dfa5.png)
+![Common slider padding and size measurements.](assets/asset-007-padding-and-size-measurements-for-common-sliders-357f56dfa5.webp)
 
 *Padding and size measurements for common sliders*
 
-![Slider padding and size measurements at each size configuration, XS to XL.](assets/asset-008-padding-and-size-measurements-for-xs-s-m-768ebd4259.png)
+![Slider padding and size measurements at each size configuration, XS to XL.](assets/asset-008-padding-and-size-measurements-for-xs-s-m-768ebd4259.webp)
 
 *Padding and size measurements for XS, S, M, L, and XL sliders*
 

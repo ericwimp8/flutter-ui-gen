@@ -8,7 +8,7 @@ Color and contrast can be used to help users see and interpret your app’s cont
 
 Color can help communicate mood, tone, and critical information. Primary, secondary, and accent colors can be selected to support usability. Sufficient color contrast between elements can help users with low vision see and use your app.
 
-![two colors applied to button container and UI surface with contrast that passes 3:1 minimum](assets/asset-001-two-colors-applied-to-button-container-and-ui-b8a49b0500.png)
+![two colors applied to button container and UI surface with contrast that passes 3:1 minimum](assets/asset-001-two-colors-applied-to-button-container-and-ui-b8a49b0500.webp)
 
 ### Contrast ratios
 
@@ -35,26 +35,26 @@ Elements that are clustered with others, such as a group of buttons, require the
 
 These elements benefit from 3:1 contrast between themselves and the background.
 
-![Two colors applied to button container and UI surface with contrast that fails 3:1 minimum.](assets/asset-002-the-contrast-of-the-button-container-color-against-f5c025bdfa.png)
+![Two colors applied to button container and UI surface with contrast that fails 3:1 minimum.](assets/asset-002-the-contrast-of-the-button-container-color-against-f5c025bdfa.webp)
 
 *The contrast of the button container color against the background color is less than Material's required contrast of 3:1*
 
-![Two colors applied to button container and UI surface with contrast that passes 3:1 minimum.](assets/asset-003-the-container-color-exceeds-material-s-required-minimum-5852357f5b.png)
+![Two colors applied to button container and UI surface with contrast that passes 3:1 minimum.](assets/asset-003-the-container-color-exceeds-material-s-required-minimum-5852357f5b.webp)
 
 *The container color exceeds Material's required minimum contrast of 3:1 against background color*
 
 Elements that stand on their own and apart from other elements on the screen, such as a FAB, are already distinguishable to users because of their prominence. These elements don’t benefit from 3:1 contrast between themselves and the background.
 
-![Two colors applied to the FAB container and UI surface that fail the minimum contrast of 3:1.](assets/asset-004-standalone-components-such-as-fabs-don-t-need-a0cc554144.png)
+![Two colors applied to the FAB container and UI surface that fail the minimum contrast of 3:1.](assets/asset-004-standalone-components-such-as-fabs-don-t-need-a0cc554144.webp)
 
 *Standalone components, such as FABs, don’t need to meet Material's minimum contrast of 3:1 between the container and background colors because of their prominence*
 
 When placing components together in a cluster, use components or types of components that each achieve at least 3:1 contrast between themselves and the background.
 
-![A cluster of three buttons with the same container color that fails the minimum contrast of 3:1 with the UI surface.](assets/asset-005-each-button-s-container-color-has-less-than-1179b9eaae.png)
+![A cluster of three buttons with the same container color that fails the minimum contrast of 3:1 with the UI surface.](assets/asset-005-each-button-s-container-color-has-less-than-1179b9eaae.webp)
 
 *Each button's container color has less than Material's required minimum contrast of 3:1 against the UI background, leading to poor contrast support for users with low vision*
 
-![A cluster of three buttons with the same container color that passes the minimum contrast of 3:1 with the UI surface.](assets/asset-006-each-button-s-container-color-has-contrast-of-460d6e4931.png)
+![A cluster of three buttons with the same container color that passes the minimum contrast of 3:1 with the UI surface.](assets/asset-006-each-button-s-container-color-has-contrast-of-460d6e4931.webp)
 
 *Each button's container color has contrast of at least 3:1 against the UI background, leading to better contrast support for users with low vision*

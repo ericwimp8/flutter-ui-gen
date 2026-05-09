@@ -27,7 +27,7 @@ Focus refers to which control is currently the active target of user interaction
 
 Define the initial focus when a user loads a screen, as well as initial focus for components with multiple interactive elements, like a complex card or a dialog.
 
-![A Google home screen showing the initial focus on the search bar.](assets/asset-001-in-the-case-of-the-google-homepage-even-d4705a973a.png)
+![A Google home screen showing the initial focus on the search bar.](assets/asset-001-in-the-case-of-the-google-homepage-even-d4705a973a.webp)
 
 *In the case of the Google homepage, even though there are links and buttons above and surrounding the search field on the page, it makes sense to put the user's initial focus on the element that supports the most common user goal*
 
@@ -38,7 +38,7 @@ For example, when a dialog is triggered, check for the following:
 - Focus is set to the dialog component, likely to a specific interactive element within the dialog such as a text input field or edit button
 - When the user closes or cancels the dialog, focus returns to the interactive element that initiated the action
 
-![Diagram showing changing points of focus as a user opens and closes a calendar card.](assets/asset-002-define-initial-focus-and-component-level-focus-8d540631d3.png)
+![Diagram showing changing points of focus as a user opens and closes a calendar card.](assets/asset-002-define-initial-focus-and-component-level-focus-8d540631d3.webp)
 
 *Define initial focus and component-level focus*
 
@@ -46,7 +46,7 @@ For example, when a dialog is triggered, check for the following:
 
 Users should be able to complete the primary and secondary user journeys using tab, arrow keys, and other keyboard shortcuts.
 
-![Card with three interactive elements in the top right corner.](assets/asset-003-navigating-the-interactive-elements-on-a-card-via-667d55b291.png)
+![Card with three interactive elements in the top right corner.](assets/asset-003-navigating-the-interactive-elements-on-a-card-via-667d55b291.webp)
 
 *Navigating the interactive elements on a card via tab*
 
@@ -56,7 +56,7 @@ Arrow keys are typically used to navigate within components (for example, moving
 
 Enter activates a link or button, or sends a form when a form item has focus.
 
-![Diagram showing a group of three sub-elements, with navigation within the group assigned to arrow keys.](assets/asset-004-using-tab-navigation-to-focus-group-using-arrrow-08e15a6270.png)
+![Diagram showing a group of three sub-elements, with navigation within the group assigned to arrow keys.](assets/asset-004-using-tab-navigation-to-focus-group-using-arrrow-08e15a6270.webp)
 
 *Using Tab navigation to focus group; Using arrrow key to traverse sub-elements*
 

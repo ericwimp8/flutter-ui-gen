@@ -2,7 +2,7 @@
 
 Source: https://m3.material.io/components/switch/specs
 
-![3 elements of a switch.](assets/asset-001-track-handle-formerly-thumb-icon-973f55170a.png)
+![3 elements of a switch.](assets/asset-001-track-handle-formerly-thumb-icon-973f55170a.webp)
 
 *Track; Handle (formerly "thumb"); Icon*
 
@@ -17,7 +17,7 @@ Browse the component elements, attributes, tokens, and their values. [Learn more
 
 Color values are implemented through design tokens (Design tokens are the building blocks of all UI elements. The same tokens are used in designs, tools, and code. [More on tokens](https://m3.material.io/m3/pages/design-tokens/overview)). For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](https://m3.material.io/m3/pages/design-tokens/overview/)
 
-![6 color roles of a switch in light and dark themes.](assets/asset-002-surface-container-highest-outline-outline-primary-on-primary-06d541fe40.png)
+![6 color roles of a switch in light and dark themes.](assets/asset-002-surface-container-highest-outline-outline-primary-on-primary-06d541fe40.webp)
 
 *Surface container highest; Outline; Outline; Primary; On primary; On primary container*
 
@@ -25,7 +25,7 @@ Color values are implemented through design tokens (Design tokens are the buildi
 
 Use the color role (Color roles are assigned to UI elements based on emphasis, container type, and relationship with other elements. This ensures proper contrast and usage in any color scheme. [More on color roles](https://m3.material.io/m3/pages/color-roles)) on surface for adjacent text labels. This remains the same even if interacting with the label or component.
 
-![The large body text adjacent to switches uses "on surface" color and the body text uses "on surface variant."](assets/asset-003-the-text-label-uses-on-surface-supporting-text-4f10932044.png)
+![The large body text adjacent to switches uses "on surface" color and the body text uses "on surface variant."](assets/asset-003-the-text-label-uses-on-surface-supporting-text-4f10932044.webp)
 
 *The text label uses on surface. Supporting text may use on surface variant.*
 
@@ -33,7 +33,7 @@ Use the color role (Color roles are assigned to UI elements based on emphasis, c
 
 States (States show the interaction status of a component or UI element. [More on states](https://m3.material.io/m3/pages/interaction-states/overview)) are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](https://m3.material.io/m3/pages/interaction-states)
 
-![5 states of a switch shown in light and dark themes.](assets/asset-004-enabled-hovered-focused-pressed-disabled-5d450640f7.png)
+![5 states of a switch shown in light and dark themes.](assets/asset-004-enabled-hovered-focused-pressed-disabled-5d450640f7.webp)
 
 *Enabled; Hovered; Focused; Pressed; Disabled*
 
@@ -41,19 +41,19 @@ States (States show the interaction status of a component or UI element. [More o
 
 ## Measurements
 
-![Measurements of switches without icons.](assets/asset-005-switches-without-icons-2a5a6a2ce0.png)
+![Measurements of switches without icons.](assets/asset-005-switches-without-icons-2a5a6a2ce0.webp)
 
 *Switches without icons*
 
-![Measurements of pressed switches without icons.](assets/asset-006-pressed-switches-without-icons-af98acff32.png)
+![Measurements of pressed switches without icons.](assets/asset-006-pressed-switches-without-icons-af98acff32.webp)
 
 *Pressed switches without icons*
 
-![Measurements of switches with icons.](assets/asset-007-switches-with-icons-17e5adb5bd.png)
+![Measurements of switches with icons.](assets/asset-007-switches-with-icons-17e5adb5bd.webp)
 
 *Switches with icons*
 
-![Measurements of pressed switches with icons.](assets/asset-008-pressed-switches-with-icons-13c998a739.png)
+![Measurements of pressed switches with icons.](assets/asset-008-pressed-switches-with-icons-13c998a739.webp)
 
 *Pressed switches with icons*
 
@@ -84,4 +84,4 @@ States (States show the interaction status of a component or UI element. [More o
 2. Icon on selected switch
 3. Icon on selected and unselected switch
 
-![3 example switches with and without icons in on and off states.](assets/asset-009-3-example-switches-with-and-without-icons-in-657af88feb.png)
+![3 example switches with and without icons in on and off states.](assets/asset-009-3-example-switches-with-and-without-icons-in-657af88feb.webp)

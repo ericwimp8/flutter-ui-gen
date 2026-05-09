@@ -14,7 +14,7 @@ People should be able to use assistive technology to:
 
 Users should be able to select either the text label or the checkbox to select an option.
 
-![In a list, checkboxes for 2 items are selected via their text labels.](assets/asset-001-a-checkbox-selected-via-the-text-label-d148d092e9.png)
+![In a list, checkboxes for 2 items are selected via their text labels.](assets/asset-001-a-checkbox-selected-via-the-text-label-d148d092e9.webp)
 
 *A checkbox selected via the text label*
 
@@ -24,7 +24,7 @@ Checkboxes can be selected or unselected regardless of the state of the other ch
 
 If some, but not all, child checkboxes are checked, the parent checkbox becomes indeterminate. Selecting an indeterminate parent checkbox will check all of its child checkboxes.
 
-![In a list, a child checkbox for 1 item is selected and the parent checkbox is in indeterminate state.](assets/asset-002-an-indeterminate-selection-indicating-that-at-least-one-2f5d3a90c7.png)
+![In a list, a child checkbox for 1 item is selected and the parent checkbox is in indeterminate state.](assets/asset-002-an-indeterminate-selection-indicating-that-at-least-one-2f5d3a90c7.webp)
 
 *An indeterminate selection indicating that at least one checkbox is selected within a group*
 
@@ -49,6 +49,6 @@ If the UI text is correctly linked to the checkbox, assistive tech (such as a sc
 
 The accessibility (Accessible design makes products usable for people with all kinds of abilities. [More on accessibility](https://m3.material.io/m3/pages/overview/principles)) label for an individual checkbox is typically the same as its adjacent text label.
 
-![Accessibility labels of a checkbox.](assets/asset-003-the-accessibility-label-clearly-states-the-text-label-c7f0c3c69c.png)
+![Accessibility labels of a checkbox.](assets/asset-003-the-accessibility-label-clearly-states-the-text-label-c7f0c3c69c.webp)
 
 *The accessibility label clearly states the text label of the checkbox*

@@ -6,7 +6,7 @@ Source: https://m3.material.io/components/checkbox/overview
 - Label should be scannable
 - Selected items are more prominent than unselected items
 
-![3 checkboxes in a diagram demonstrating all three states.](assets/asset-001-unselected-selected-hover-and-indeterminate-checkboxes-c0aa153f3a.png)
+![3 checkboxes in a diagram demonstrating all three states.](assets/asset-001-unselected-selected-hover-and-indeterminate-checkboxes-c0aa153f3a.webp)
 
 *Unselected, selected (hover), and indeterminate checkboxes*
 
@@ -25,10 +25,10 @@ Source: https://m3.material.io/components/checkbox/overview
 - Color: New color mappings and compatibility with dynamic color (Dynamic color takes a single color from a user's wallpaper or in-app content and creates an accessible color scheme assigned to elements in the UI. [More on dynamic color](https://m3.material.io/m3/pages/dynamic-color/overview))
 - States (States show the interaction status of a component or UI element. [More on states](https://m3.material.io/m3/pages/interaction-states/overview)): New indeterminate states as well as error states for unselected, selected, and indeterminate
 
-![Color mapping of a checkbox in M2.](assets/asset-002-m2-3488269e81.png)
+![Color mapping of a checkbox in M2.](assets/asset-002-m2-3488269e81.webp)
 
 *M2*
 
-![Color mapping of a checkbox in M3 with new color.](assets/asset-003-m3-c10b374351.png)
+![Color mapping of a checkbox in M3 with new color.](assets/asset-003-m3-c10b374351.webp)
 
 *M3*

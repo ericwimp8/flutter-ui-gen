@@ -2,7 +2,7 @@
 
 Source: https://m3.material.io/foundations/customization
 
-![Examples of 4 identical mobile UI screens using 4 different color sets](assets/asset-001-examples-of-4-identical-mobile-ui-screens-using-2db7a71aa0.png)
+![Examples of 4 identical mobile UI screens using 4 different color sets](assets/asset-001-examples-of-4-identical-mobile-ui-screens-using-2db7a71aa0.webp)
 
 ## Dynamic color makes personal devices feel personal
 
@@ -30,7 +30,7 @@ In order for your app to respect a user's device and app-level settings, you'll 
 
 Additionally, using a custom theme ensures that your app has a fallback color scheme available for users who don't enable dynamic color.
 
-![collage of views of a mobile UI that show a user's setting and preference for a green primary color flows through system UI harmoniously](assets/asset-003-a-user-generated-color-scheme-can-flow-through-a8256d6c07.png)
+![collage of views of a mobile UI that show a user's setting and preference for a green primary color flows through system UI harmoniously](assets/asset-003-a-user-generated-color-scheme-can-flow-through-a8256d6c07.webp)
 
 *A user-generated color scheme can flow through apps that use a custom theme*
 
@@ -55,7 +55,7 @@ The Material Theme Builder creates color and type tokens that can be exported in
 
 [Material tokens](https://github.com/material-foundation/material-tokens) are ready to use in formatted theme files, including [Design System Package (DSP)](https://github.com/AdobeXD/design-system-package-dsp). A DSP is a cross-platform file format that represents design system information. [Learn more about design tokens](https://m3.material.io/m3/pages/design-tokens/overview).
 
-![Example of the start screen for the Material Theme Builder Figma plugin. The plugin UI is shown alongside a range of purple tones as an example of a color palette that can be generated.](assets/asset-004-the-material-theme-builder-figma-plugin-helps-you-37d7a8e11e.png)
+![Example of the start screen for the Material Theme Builder Figma plugin. The plugin UI is shown alongside a range of purple tones as an example of a color palette that can be generated.](assets/asset-004-the-material-theme-builder-figma-plugin-helps-you-37d7a8e11e.webp)
 
 *The Material Theme Builder Figma plugin helps you create custom color schemes and export to multiple code formats*
 
@@ -71,7 +71,7 @@ Brand colors can be added to the tool as a single-use color or as a complete bra
 
 If your app uses a single brand color or a limited brand palette, you can input your primary brand color as your custom color scheme's source color. The input color will be used to generate a scheme that provides you with complementary tones to round out a scheme.
 
-![Four color swatches are seen first in isolation and then as inputs to the material theme builder UI. Then, the color inspiration and typeface combine in a final UI for a plant brand app.](assets/asset-005-examples-of-brand-attributes-left-that-can-be-841eddc5f1.png)
+![Four color swatches are seen first in isolation and then as inputs to the material theme builder UI. Then, the color inspiration and typeface combine in a final UI for a plant brand app.](assets/asset-005-examples-of-brand-attributes-left-that-can-be-841eddc5f1.webp)
 
 *Examples of brand attributes (left) that can be used to generate and apply a dynamic color scheme (right)*
 
@@ -87,6 +87,6 @@ Depending on the purpose in a UI, key colors are assigned roles that map to elem
 
 An input color generates a tonal palette that's used to fill the range of color roles needed, such as primary, on-primary, and primary container. [Learn more about using color roles](https://m3.material.io/m3/pages/color-roles/)
 
-![A mobile UI is seen with diagram labels showing where specifc elements have been mapped to specific colors, such as on-surface, or primary.](assets/asset-006-examples-of-color-roles-in-the-plant-care-aa65ada37f.png)
+![A mobile UI is seen with diagram labels showing where specifc elements have been mapped to specific colors, such as on-surface, or primary.](assets/asset-006-examples-of-color-roles-in-the-plant-care-aa65ada37f.webp)
 
 *Examples of color roles in the Plant Care UI mapped to design tokens*

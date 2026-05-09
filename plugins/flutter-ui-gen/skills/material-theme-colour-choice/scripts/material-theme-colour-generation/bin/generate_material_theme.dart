@@ -13,6 +13,9 @@
 /// The request JSON must provide a `recipe` and `sourceColor`. It may also
 /// provide `userIntent`, `contrastLevel`, and `paletteOverrides`.
 ///
+/// `contrastLevel` may be a numeric Material Color Utilities contrast level or
+/// one of `low`, `normal`, `medium`, or `high`.
+///
 /// Supported `recipe` values are `content`, `expressive`, `fidelity`,
 /// `fruitSalad`, `monochrome`, `neutral`, `rainbow`, `tonalSpot`, and
 /// `vibrant`.
@@ -61,6 +64,13 @@ const _supportedPaletteOverrides = {
   'neutral',
   'neutralVariant',
   'error',
+};
+const _namedContrastLevels = {
+  'normal': 0.0,
+  'standard': 0.0,
+  'low': -1.0,
+  'medium': 0.5,
+  'high': 1.0,
 };
 
 void main(List<String> arguments) {
@@ -113,17 +123,13 @@ _GeneratedTheme _generateTheme(Map<String, Object?> request) {
   final userIntent = _optionalString(request, 'userIntent');
   final recipe = _string(request, 'recipe');
   final sourceColorHex = _string(request, 'sourceColor');
-  final contrastLevel = _number(request, 'contrastLevel', defaultValue: 0.0);
+  final contrastLevel = _contrastLevel(request);
 
   if (!_supportedRecipes.contains(recipe)) {
     throw FormatException(
       'Unsupported recipe "$recipe". Supported recipes: ${_supportedRecipes.join(', ')}.',
     );
   }
-  if (contrastLevel < -1.0 || contrastLevel > 1.0) {
-    throw const FormatException('contrastLevel must be between -1.0 and 1.0.');
-  }
-
   final sourceArgb = _parseHexColor(sourceColorHex);
   final sourceHct = Hct.fromInt(sourceArgb);
   final paletteOverrides = _paletteOverrides(request['paletteOverrides']);
@@ -578,6 +584,32 @@ double _number(Map<String, Object?> map, String key, {double? defaultValue}) {
   throw FormatException('$key must be a number.');
 }
 
+double _contrastLevel(Map<String, Object?> map) {
+  final value = map['contrastLevel'];
+  if (value == null) {
+    return 0.0;
+  }
+  if (value is String) {
+    final contrastLevel = _namedContrastLevels[value.trim().toLowerCase()];
+    if (contrastLevel != null) {
+      return contrastLevel;
+    }
+    throw FormatException(
+      'contrastLevel "$value" is not supported. Use low, normal, medium, high, or a number from -1.0 to 1.0.',
+    );
+  }
+  if (value is num) {
+    final contrastLevel = value.toDouble();
+    if (contrastLevel >= -1.0 && contrastLevel <= 1.0) {
+      return contrastLevel;
+    }
+    throw const FormatException('contrastLevel must be between -1.0 and 1.0.');
+  }
+  throw const FormatException(
+    'contrastLevel must be low, normal, medium, high, or a number from -1.0 to 1.0.',
+  );
+}
+
 int _parseHexColor(String value) {
   final normalized = value.trim().replaceFirst('#', '').replaceFirst('0x', '');
   if (normalized.length == 6) {
@@ -625,7 +657,7 @@ Input JSON fields:
   recipe            Required string: content, expressive, fidelity, fruitSalad,
                     monochrome, neutral, rainbow, tonalSpot, or vibrant.
   sourceColor       Required string: #RRGGBB or #AARRGGBB.
-  contrastLevel     Optional number from -1.0 to 1.0. Defaults to 0.0.
+  contrastLevel     Optional name (low, normal, medium, high) or number from -1.0 to 1.0. Defaults to normal.
   paletteOverrides  Optional object keyed by primary, secondary, tertiary,
                     neutral, neutralVariant, or error.
 

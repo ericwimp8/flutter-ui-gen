@@ -8,7 +8,7 @@ Source: https://m3.material.io/components/dialogs/overview
 - Can also display information relevant to the task
 - Commonly used to confirm high-risk actions like deleting progress
 
-![Basic and full-screen dialog.](assets/asset-001-basic-dialog-full-screen-dialog-1847c95b3c.png)
+![Basic and full-screen dialog.](assets/asset-001-basic-dialog-full-screen-dialog-1847c95b3c.webp)
 
 *Basic dialog; Full-screen dialog*
 
@@ -30,6 +30,6 @@ Source: https://m3.material.io/components/dialogs/overview
 - Shape: Increased corner-radius
 - Typography: Larger and darker headline
 
-![Basic dialog with rounded corner, larger headline.](assets/asset-002-new-updates-to-color-layout-position-shape-and-efb7ee40de.png)
+![Basic dialog with rounded corner, larger headline.](assets/asset-002-new-updates-to-color-layout-position-shape-and-efb7ee40de.webp)
 
 *New updates to color, layout, position, shape, and typography*

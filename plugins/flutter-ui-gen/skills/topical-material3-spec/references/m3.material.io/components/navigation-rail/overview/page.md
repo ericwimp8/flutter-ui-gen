@@ -49,7 +49,7 @@ Configurations:
 
 - Active label on vertical items changed from on surface variant to secondary
 
-![A collapsed and expanded navigation rail.](assets/asset-001-the-collapsed-and-expanded-navigation-rails-match-visually-f829512819.png)
+![A collapsed and expanded navigation rail.](assets/asset-001-the-collapsed-and-expanded-navigation-rails-match-visually-f829512819.webp)
 
 *The collapsed and expanded navigation rails match visually and can transition into each other*
 
@@ -59,10 +59,10 @@ Configurations:
 - Color: New color mappings and compatibility with dynamic color
 - States: The active destination can be indicated with a pill shape in a contrasting color
 
-![M2 navigation rail with 1 colored and filled icon showing the active state and 3 inactive icons.](assets/asset-002-m2-the-navigation-rail-uses-icon-color-weight-b0a0f2d37a.png)
+![M2 navigation rail with 1 colored and filled icon showing the active state and 3 inactive icons.](assets/asset-002-m2-the-navigation-rail-uses-icon-color-weight-b0a0f2d37a.webp)
 
 *M2: The navigation rail uses icon color, weight, and fill to communicate which destination is active*
 
-![M3 navigation rail with 1 icon surrounded by a pill shape in contrasting color to show the active state.](assets/asset-003-m3-the-navigation-rail-uses-a-pill-shaped-af1b23c975.png)
+![M3 navigation rail with 1 icon surrounded by a pill shape in contrasting color to show the active state.](assets/asset-003-m3-the-navigation-rail-uses-a-pill-shaped-af1b23c975.webp)
 
 *M3: The navigation rail uses a pill-shaped active indicator to communicate which destination is active*

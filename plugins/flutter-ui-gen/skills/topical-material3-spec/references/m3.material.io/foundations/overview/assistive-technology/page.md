@@ -6,7 +6,7 @@ Source: https://m3.material.io/foundations/overview/assistive-technology
 
 Assistive technology helps increase, maintain, or improve the functional capabilities of individuals with disabilities. People can live more independently by engaging with technology through devices like keyboards, screen readers, and braille displays, as well as tracking input, magnifiers, and voice input.
 
-![Examples of icons with target sizes indicated beyond the actual size of the icon](assets/asset-001-icons-are-one-example-of-interactive-elements-that-4fc3e6621f.png)
+![Examples of icons with target sizes indicated beyond the actual size of the icon](assets/asset-001-icons-are-one-example-of-interactive-elements-that-4fc3e6621f.webp)
 
 *Icons are one example of interactive elements that require an understanding of different input methods and user needs. In this example the target area of the icon is identified to show how the expanded icon perimeter makes interacting with an action more accessible.*
 

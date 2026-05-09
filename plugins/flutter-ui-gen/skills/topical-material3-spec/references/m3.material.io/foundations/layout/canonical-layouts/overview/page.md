@@ -23,7 +23,7 @@ Use the three canonical layouts as starting points for organizing common element
 
 Use a feed layout to arrange content elements like cards in a configurable grid for quick, convenient viewing of a large amount of content.
 
-![Feed layout of a news app's top stories. One large story fills the first pane, and multiple smaller stories and live events are on the second pane.](assets/asset-001-example-feed-layout-110ffa5ed8.png)
+![Feed layout of a news app's top stories. One large story fills the first pane, and multiple smaller stories and live events are on the second pane.](assets/asset-001-example-feed-layout-110ffa5ed8.webp)
 
 *Example feed layout*
 
@@ -31,7 +31,7 @@ Use a feed layout to arrange content elements like cards in a configurable grid 
 
 Use the list-detail layout to display explorable lists of items alongside each item’s supplementary information—the item detail. This layout divides the app window into two side-by-side panes.
 
-![List-detail layout of a messaging app. The first pane lists all conversations. The second pane is for messaging in the selected conversation.](assets/asset-002-example-list-detail-layout-3043eb363f.png)
+![List-detail layout of a messaging app. The first pane lists all conversations. The second pane is for messaging in the selected conversation.](assets/asset-002-example-list-detail-layout-3043eb363f.webp)
 
 *Example list-detail layout*
 
@@ -39,6 +39,6 @@ Use the list-detail layout to display explorable lists of items alongside each i
 
 Use the supporting pane layout to organize app content into primary and secondary display areas. The primary display area occupies the majority of the app window (typically about two thirds) and contains the main content. The secondary display area is a panel that takes up the remainder of the app window and presents content that supports the main content.
 
-![Supporting pane layout of a video app. The large, primary pane has the video, title, and actions. The small, secondary pane has queued and recommended videos.](assets/asset-003-example-supporting-pane-layout-a7a22d889c.png)
+![Supporting pane layout of a video app. The large, primary pane has the video, title, and actions. The small, secondary pane has queued and recommended videos.](assets/asset-003-example-supporting-pane-layout-a7a22d889c.webp)
 
 *Example supporting pane layout*

@@ -6,7 +6,7 @@ Source: https://m3.material.io/components/extended-fab/overview
 - Three variants: small, medium, and large
 - Use instead of FAB when label text is needed to understand action
 
-![3 extended fab sizes.](assets/asset-001-small-extended-fab-medium-extended-fab-large-extended-e2fa3bc90c.png)
+![3 extended fab sizes.](assets/asset-001-small-extended-fab-medium-extended-fab-large-extended-e2fa3bc90c.webp)
 
 *Small extended FAB; Medium extended FAB; Large extended FAB*
 
@@ -45,7 +45,7 @@ Updates:
 
 - Adjusted typography to be larger
 
-![The baseline extended FAB and the small, medium, and large extended FABs from the expressive update.](assets/asset-002-the-baseline-extended-fab-is-replaced-with-a-261748aa24.png)
+![The baseline extended FAB and the small, medium, and large extended FABs from the expressive update.](assets/asset-002-the-baseline-extended-fab-is-replaced-with-a-261748aa24.webp)
 
 *The baseline extended FAB is replaced with a set of small, medium, and large extended FABs with new typography*
 
@@ -55,10 +55,10 @@ Updates:
 - Layout: Extended FAB is the same height as the FAB
 - Shape: Boxier style with smaller corner radius
 
-![Diagram comparing the M2 FAB and extended FAB.](assets/asset-003-m2-extended-fabs-are-pill-shaped-and-have-54ce09fbc1.png)
+![Diagram comparing the M2 FAB and extended FAB.](assets/asset-003-m2-extended-fabs-are-pill-shaped-and-have-54ce09fbc1.webp)
 
 *M2: Extended FABs are pill-shaped and have a different height and elevation*
 
-![Diagram comparing the M3 FAB and extended FAB.](assets/asset-004-m3-extended-fabs-share-the-same-height-boxier-2f8758c29e.png)
+![Diagram comparing the M3 FAB and extended FAB.](assets/asset-004-m3-extended-fabs-share-the-same-height-boxier-2f8758c29e.webp)
 
 *M3: Extended FABs share the same height, boxier shape, and simpler elevation model as FABs*

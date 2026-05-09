@@ -10,7 +10,7 @@ Color roles are like the "numbers" in a paint-by-number canvas. They're the conn
 - Color roles ensure accessibility The color system is built on accessible color pairings (For example, a dark surface color is algorithmically paired with a light text label color so the UI automatically meets contrast requirements. [More on color relationships](https://m3.material.io/m3/pages/color/how-the-system-works#e1e92a3b-8702-46b6-8132-58321aa600bd)). These color pairs provide an accessible minimum 3:1 contrast.
 - Color roles are tokenized Roles are implemented in design and code through tokens. A design token (Design tokens are the building blocks of all UI elements. The same tokens are used in designs, tools, and code. [More on tokens](https://m3.material.io/m3/pages/design-tokens/overview)) represents a small, reusable design decision that’s part of a design system's visual style.
 
-![Example color swatches for all 45 color roles including Primary, Secondary, Tertiary, Error, Surfaces, Inverse roles, Scrim and Shadow roles.](assets/asset-001-diagram-of-all-material-color-roles-including-optional-24de09dcbf.png)
+![Example color swatches for all 45 color roles including Primary, Secondary, Tertiary, Error, Surfaces, Inverse roles, Scrim and Shadow roles.](assets/asset-001-diagram-of-all-material-color-roles-including-optional-24de09dcbf.webp)
 
 *Diagram of all Material color roles, including optional add-on roles for surface colors and fixed accent colors*
 
@@ -30,11 +30,11 @@ To ensure accessible visual contrast in your app, apply colors only in the inten
 
 Combining colors improperly may break contrast necessary for visual accessibility, particularly when colors are adjusted through dynamic color (Dynamic color takes a single color from a user's wallpaper or in-app content and creates an accessible color scheme assigned to elements in the UI. [More on dynamic color](https://m3.material.io/m3/pages/dynamic/choosing-a-source)) features such as user-controlled contrast (User-controlled contrast is a dynamic color feature enabling users to choose from one of three levels of color contrast: standard, medium, and high. [More on user-controlled contrast](https://m3.material.io/m3/pages/color/how-the-system-works/#a360c176-b99e-4804-8034-9884833009c8)).
 
-![Pair of buttons shown at three different contrast levels. At every level, the text on the button is legible because the color roles are properly applied to the buttons.](assets/asset-002-do-pair-and-layer-color-roles-as-intended-dee343f4e2.png)
+![Pair of buttons shown at three different contrast levels. At every level, the text on the button is legible because the color roles are properly applied to the buttons.](assets/asset-002-do-pair-and-layer-color-roles-as-intended-dee343f4e2.webp)
 
 *Do Pair and layer color roles as intended to ensure expected visual results and accessibility. In this example, the two buttons mapped with (1) primary, (2) on primary, (3) secondary container, and (4) on secondary container stay legible as the contrast level changes.*
 
-![Pair of buttons shown at 3 different contrast levels. The text on the button becomes illegible because the color roles are improperly applied to the buttons.](assets/asset-003-don-t-improper-color-mappings-can-produce-unintended-e7106d6cb7.png)
+![Pair of buttons shown at 3 different contrast levels. The text on the button becomes illegible because the color roles are improperly applied to the buttons.](assets/asset-003-don-t-improper-color-mappings-can-produce-unintended-e7106d6cb7.webp)
 
 *Don’t Improper color mappings can produce unintended visual results and break accessibility. In this example, the two buttons mapped with (1) primary, (2) primary container, (3) secondary container, and (4) on surface become illegible as the contrast level changes.*
 
@@ -46,7 +46,7 @@ Accent color roles include primary, secondary, and tertiary. Assign them to elem
 - Secondary roles are for elements that don’t need immediate attention and don’t need emphasis, like the selected state of a navigation icon or a dismissive button.
 - Tertiary roles are for smaller elements that need special emphasis but don't require immediate attention, such as a badge or notification.
 
-![A mail app showing a mix of primary, secondary, and tertiary accent colors used across the screen.](assets/asset-004-primary-colors-are-used-for-the-most-important-ffbe9fe8e6.png)
+![A mail app showing a mix of primary, secondary, and tertiary accent colors used across the screen.](assets/asset-004-primary-colors-are-used-for-the-most-important-ffbe9fe8e6.webp)
 
 *Primary colors are used for the most important elements, like a starred message and FAB to start a new message; Tertiary colors are used for smaller emphasized elements, like a badge suggesting a follow up; Secondary colors are used for less urgent elements, like the background of an inactive star icon and the selection state of an inbox icon*
 
@@ -59,15 +59,15 @@ Use primary roles for the most prominent components across the UI, such as the F
 - Primary container: Standout fill color against surface, for key components like FAB
 - On primary container: Text and icons against primary container
 
-![4 color swatches: primary, on primary, primary container and on primary container.](assets/asset-005-primary-color-roles-include-primary-and-primary-container-a8e786faac.png)
+![4 color swatches: primary, on primary, primary container and on primary container.](assets/asset-005-primary-color-roles-include-primary-and-primary-container-a8e786faac.webp)
 
 *Primary color roles include primary and primary container, with their respective “On” colors*
 
-![Primary color used for filled button, and "on primary" color used for the text within that button.](assets/asset-006-on-primary-primary-114a5dda37.png)
+![Primary color used for filled button, and "on primary" color used for the text within that button.](assets/asset-006-on-primary-primary-114a5dda37.webp)
 
 *On primary; Primary*
 
-!["Primary container" color used for FAB and "on primary container" color used for the text and icon within.](assets/asset-007-on-primary-container-primary-container-92b8a5ba3a.png)
+!["Primary container" color used for FAB and "on primary container" color used for the text and icon within.](assets/asset-007-on-primary-container-primary-container-92b8a5ba3a.webp)
 
 *On primary container; Primary container*
 
@@ -82,11 +82,11 @@ There are four secondary roles:
 - Secondary container: Less prominent fill color against surface, for recessive components like tonal buttons
 - On secondary container: Text and icons against secondary container
 
-![4 color swatches: secondary, on secondary, secondary container, and on secondary container.](assets/asset-008-secondary-color-roles-include-secondary-and-secondary-container-1cf65fc4cc.png)
+![4 color swatches: secondary, on secondary, secondary container, and on secondary container.](assets/asset-008-secondary-color-roles-include-secondary-and-secondary-container-1cf65fc4cc.webp)
 
 *Secondary color roles include secondary and secondary container, with their respective "On" colors*
 
-![An icon button using "secondary container" color, and an icon using "on secondary color."](assets/asset-009-icon-on-secondary-container-button-secondary-container-77711c6ef6.png)
+![An icon button using "secondary container" color, and an icon using "on secondary color."](assets/asset-009-icon-on-secondary-container-button-secondary-container-77711c6ef6.webp)
 
 *Icon: On secondary container; Button: Secondary container*
 
@@ -101,13 +101,13 @@ There are four tertiary roles:
 - Tertiary container: Complementary container color against surface, for components like input fields
 - On tertiary container: Text and icons against tertiary container
 
-![4 color swatches: tertiary, on tertiary, tertiary container, and on tertiary container.](assets/asset-010-tertiary-color-roles-include-tertiary-and-tertiary-container-7b7dd02b96.png)
+![4 color swatches: tertiary, on tertiary, tertiary container, and on tertiary container.](assets/asset-010-tertiary-color-roles-include-tertiary-and-tertiary-container-7b7dd02b96.webp)
 
 *Tertiary color roles include tertiary and tertiary container, with their respective "On" colors*
 
 The tertiary color roles can be applied at the designer's discretion. They're intended to support broader color expression.
 
-![A selected element using Tertiary Container as a background color and On Tertiary Container for text.](assets/asset-011-on-tertiary-container-tertiary-container-d3b8fa010d.png)
+![A selected element using Tertiary Container as a background color and On Tertiary Container for text.](assets/asset-011-on-tertiary-container-tertiary-container-d3b8fa010d.webp)
 
 *On tertiary container; Tertiary container*
 
@@ -124,7 +124,7 @@ There are four error roles:
 
 Error is an example of a static color (it doesn't change even in dynamic color schemes). Error color roles are made static by default with any dynamic color scheme. They still adapt to light and dark theme.
 
-![4 color swatches: Error, On error, Error container and On error container roles.](assets/asset-012-error-color-roles-include-error-and-error-container-fc233c6f58.png)
+![4 color swatches: Error, On error, Error container and On error container roles.](assets/asset-012-error-color-roles-include-error-and-error-container-fc233c6f58.webp)
 
 *Error color roles include error and error container with their respective "On" colors.*
 
@@ -138,7 +138,7 @@ There are three surface roles:
 - On surface: Text and icons against any surface or surface container color
 - On surface variant: Lower-emphasis color for text and icons against any surface or surface container color
 
-![3 color swatches: Surface, On surface and On surface variant.](assets/asset-013-surface-and-on-surface-roles-in-light-theme-865415d176.png)
+![3 color swatches: Surface, On surface and On surface variant.](assets/asset-013-surface-and-on-surface-roles-in-light-theme-865415d176.webp)
 
 *Surface and on surface roles in light theme*
 
@@ -160,13 +160,13 @@ The most common combination of surface roles uses surface for a background area 
 
 Text and icons typically use on surface and on surface variant on all types of surfaces.
 
-![Email app using Surface for the main background color and Surface Container for the navigation bar background](assets/asset-015-surface-surface-container-40d68a814c.png)
+![Email app using Surface for the main background color and Surface Container for the navigation bar background](assets/asset-015-surface-surface-container-40d68a814c.webp)
 
 *Surface; Surface container*
 
 All color mappings – but especially surface colors – should remain the same for layout regions across window size classes (Window size classes are opinionated breakpoints where layouts need to change to optimize for available space, device conventions, and ergonomics.). For example, the body area will use the surface (Color role used for the default color for backgrounds.) color and the navigation area will use the surface container (Default color role used for container color.) color on both mobile and tablet.
 
-![Mobile and tablet screens both using Surface for main background and surface container for navigation background.](assets/asset-016-surface-surface-container-103b37abb0.png)
+![Mobile and tablet screens both using Surface for main background and surface container for navigation background.](assets/asset-016-surface-surface-container-103b37abb0.webp)
 
 *Surface; Surface container*
 
@@ -176,7 +176,7 @@ In this example, the body and navigation regions have the same color roles acros
 
 By default, neutral-colored components such as navigation bars, menus, or dialogs are mapped to specific surface container roles, but these [roles can be remapped](https://m3.material.io/m3/pages/advanced/overview) by makers to suit user needs.
 
-![Surface container low applied to an elevated button and card, surface container applied to the top and bottom bar, surface container high applied to the FAB and basic dialog, surface container highest applied to an input label and off switch.](assets/asset-017-surface-container-low-surface-container-surface-container-high-713689ed2e.png)
+![Surface container low applied to an elevated button and card, surface container applied to the top and bottom bar, surface container high applied to the FAB and basic dialog, surface container highest applied to an input label and off switch.](assets/asset-017-surface-container-low-surface-container-surface-container-high-713689ed2e.webp)
 
 *Surface container low; Surface container; Surface container high; Surface container highest*
 
@@ -188,11 +188,11 @@ Inverse roles are applied selectively to components to achieve colors that are t
 - Inverse on surface: Text and icons against inverse surface
 - I nverse primary: Actionable elements, such as text buttons, against inverse surface
 
-![3 color swatches: Inverse surface, inverse on surface and inverse primary roles.](assets/asset-018-inverse-surface-inverse-on-surface-and-inverse-primary-dc69ef777c.png)
+![3 color swatches: Inverse surface, inverse on surface and inverse primary roles.](assets/asset-018-inverse-surface-inverse-on-surface-and-inverse-primary-dc69ef777c.webp)
 
 *Inverse surface, inverse on surface, and inverse primary roles in the color scheme, shown in light theme*
 
-![Snackbar component using inverse surface for its background, inverse on surface for its text and inverse primary of its text button, shown in light theme](assets/asset-019-inverse-surface-for-its-background-inverse-on-surface-8a16b20e22.png)
+![Snackbar component using inverse surface for its background, inverse on surface for its text and inverse primary of its text button, shown in light theme](assets/asset-019-inverse-surface-for-its-background-inverse-on-surface-8a16b20e22.webp)
 
 *Inverse surface for its background; Inverse on surface for its text; Inverse primary for its text button*
 
@@ -203,27 +203,27 @@ There are two outline colors to be used against a surface:
 - Outline: Important boundaries, such as a text field outline
 - Outline variant: Decorative elements, such as dividers, and when other elements provide 4.5:1 contrast
 
-![2 color swatches: Outline and outline variant](assets/asset-020-outlin-e-and-outline-variant-roles-in-the-22fbd89216.png)
+![2 color swatches: Outline and outline variant](assets/asset-020-outlin-e-and-outline-variant-roles-in-the-22fbd89216.webp)
 
 *Outlin e and outline variant roles in the color scheme, shown in light theme*
 
-![Diagram comparing used of outline and outline variant.](assets/asset-021-a-text-field-which-uses-outline-for-its-c0a67fe3e3.png)
+![Diagram comparing used of outline and outline variant.](assets/asset-021-a-text-field-which-uses-outline-for-its-c0a67fe3e3.webp)
 
 *A text field which uses outline for its container border; A list item which uses outline variant for its divider line*
 
-![Outline color incorrectly used for dividers](assets/asset-022-don-t-use-the-outli-ne-color-for-6235e39c11.png)
+![Outline color incorrectly used for dividers](assets/asset-022-don-t-use-the-outli-ne-color-for-6235e39c11.webp)
 
 *Don’t use the outli ne color for dividers since they have different contrast requirements. Instead, use outline variant.*
 
-![Outline color incorrectly used for cards.](assets/asset-023-don-t-use-the-outline-color-for-components-deb5257841.png)
+![Outline color incorrectly used for cards.](assets/asset-023-don-t-use-the-outline-color-for-components-deb5257841.webp)
 
 *Don’t use the outline color for components that contain multiple elements, such as cards. Instead, use outline variant.*
 
-![Outline variant color incorrectly used for input and filter chips.](assets/asset-024-don-t-use-the-outline-variant-color-to-9f14eb16df.png)
+![Outline variant color incorrectly used for input and filter chips.](assets/asset-024-don-t-use-the-outline-variant-color-to-9f14eb16df.webp)
 
 *Don’t use the outline variant color to create visual hierarchy or define the visual boundary of targets. Instead, use the outline color or another color providing 3:1 contrast with the surface color.*
 
-![Outline variant incorrectly color used for chips.](assets/asset-025-caution-the-outline-variant-color-can-be-used-85b23ed226.png)
+![Outline variant incorrectly color used for chips.](assets/asset-025-caution-the-outline-variant-color-can-be-used-85b23ed226.webp)
 
 *Caution The outline variant color can be used for the border of targets like chips and buttons, provided that those targets contain elements inside them that provide visual contrast. In this example of chips and buttons, the icons and text inside the targets meet 4.5:1 contrast.*
 
@@ -237,27 +237,27 @@ Primary fixed, secondary fixed, and t ertiary fixed are fill colors used against
 
 The primary fixed dim, secondary fixed dim, and tertiary fixed dim roles provide a stronger, more emphasized tone relative to the equivalent fixed color. They may be used where a deeper color but the same fixed behavior is desired.
 
-![6 color swatches: Primary, secondary and tertiary fixed swatches, along with their darker Dim counterparts, shown in both light and dark theme.](assets/asset-026-fixed-and-fixed-dim-color-roles-for-the-f7a3dc3205.png)
+![6 color swatches: Primary, secondary and tertiary fixed swatches, along with their darker Dim counterparts, shown in both light and dark theme.](assets/asset-026-fixed-and-fixed-dim-color-roles-for-the-f7a3dc3205.webp)
 
 *Fixed and fixed dim color roles for the primary, secondary, and tertiary color groups, shown in both light and dark themes. Note how the colors stay the same between themes.*
 
-![FAB in light and dark theme, using the primary fixed role for its container fill color.](assets/asset-027-a-fab-which-uses-primary-fixed-1-for-4829d7c8fa.png)
+![FAB in light and dark theme, using the primary fixed role for its container fill color.](assets/asset-027-a-fab-which-uses-primary-fixed-1-for-4829d7c8fa.webp)
 
 *A FAB which uses primary fixed (1) for its container fill color, shown in light and dark themes. Note how the container color stays the same between themes.*
 
-![FAB in light and dark theme, using the primary container role for its container fill color.](assets/asset-028-for-comparison-a-fab-which-uses-primary-container-fbb699461a.png)
+![FAB in light and dark theme, using the primary container role for its container fill color.](assets/asset-028-for-comparison-a-fab-which-uses-primary-container-fbb699461a.webp)
 
 *For comparison, a FAB which uses primary container (2) for its container fill color, shown in light and dark themes. Note how the container color changes tone between themes.*
 
-![2 email app screens using primary fixed and primary fixed dim.](assets/asset-029-primary-fixed-for-a-fab-container-color-primary-02190310e8.png)
+![2 email app screens using primary fixed and primary fixed dim.](assets/asset-029-primary-fixed-for-a-fab-container-color-primary-02190310e8.webp)
 
 *Primary fixed for a FAB container color; Primary fixed dim for an icon button container*
 
-![Permissions screen with Surface used for the background and Primary Fixed incorrectly used for the button fill.](assets/asset-030-don-t-fixed-colors-don-t-change-based-cfd90562fb.png)
+![Permissions screen with Surface used for the background and Primary Fixed incorrectly used for the button fill.](assets/asset-030-don-t-fixed-colors-don-t-change-based-cfd90562fb.webp)
 
 *Don’t Fixed colors don't change based on light or dark theme, so they're likely to cause contrast issues. Avoid using them where contrast is necessary.*
 
-![Permissions screen with Surface used for the background and Primary correctly used for the button fill.](assets/asset-031-do-use-primary-secondary-and-tertiary-roles-for-3bcf125503.png)
+![Permissions screen with Surface used for the background and Primary correctly used for the button fill.](assets/asset-031-do-use-primary-secondary-and-tertiary-roles-for-3bcf125503.webp)
 
 *Do Use primary, secondary, and tertiary roles for accent colors where contrast is needed*
 
@@ -267,11 +267,11 @@ On fixed colors are used for text and icons which sit on top of the correspondin
 
 On fixed variant colors are used for text and icons needing lower emphasis against the corresponding fixed color. For example, on primary fixed variant is used for low emphasis text and icons against the primary fixed color. The same usage applies for the equivalent secondary and tertiary colors.
 
-![6 color swatches for on fixed and on fixed variant](assets/asset-032-on-fixed-and-on-fixed-variant-color-roles-cbf58d8536.png)
+![6 color swatches for on fixed and on fixed variant](assets/asset-032-on-fixed-and-on-fixed-variant-color-roles-cbf58d8536.webp)
 
 *On fixed and on fixed variant color roles for the primary, secondary, and tertiary accent groups, shown in both light and dark themes*
 
-![Banner in a news app using on primary fixed variant and on primary fixed](assets/asset-033-a-customized-banner-which-uses-on-primary-fixed-68323660be.png)
+![Banner in a news app using on primary fixed variant and on primary fixed](assets/asset-033-a-customized-banner-which-uses-on-primary-fixed-68323660be.webp)
 
 *A customized banner which uses on primary fixed variant (1) for its deemphasized text and (2) on primary fixed for its emphasized text*
 
@@ -282,11 +282,11 @@ There are two add-on surface roles:
 - Surface dim: Dimmest surface color in light and dark themes
 - Surface bright: Brightest surface color in light and dark themes
 
-![3 color swatches: Surface dim, surface, and surface bright](assets/asset-034-surface-dim-surface-and-surface-bright-in-light-b429579560.png)
+![3 color swatches: Surface dim, surface, and surface bright](assets/asset-034-surface-dim-surface-and-surface-bright-in-light-b429579560.webp)
 
 *Surface dim, surface, and surface bright in light theme*
 
-![3 color swatches: Surface dim, surface, and surface bright](assets/asset-035-surface-dim-surface-and-surface-bright-in-dark-f50f52a2cb.png)
+![3 color swatches: Surface dim, surface, and surface bright](assets/asset-035-surface-dim-surface-and-surface-bright-in-dark-f50f52a2cb.webp)
 
 *Surface dim, surface, and surface bright in dark theme*
 
@@ -294,22 +294,22 @@ While the default surface color automatically inverts between light and dark the
 
 For example, in an interface using the default surface role, the mapped area is the brightest in light theme and the dimmest in dark theme. In an interface using the surface bright role, the mapped area is the brightest in both light and dark theme.
 
-![UI with surface role applied to the body area and surface container applied to the navigation area, shown in light theme.](assets/asset-036-surface-surface-container-e7a0791ce2.png)
+![UI with surface role applied to the body area and surface container applied to the navigation area, shown in light theme.](assets/asset-036-surface-surface-container-e7a0791ce2.webp)
 
 *Surface; Surface container*
 
-![UI with surface role applied to the body area and surface container applied to the navigation area, shown in dark theme.](assets/asset-037-surface-surface-container-8c22d66a8c.png)
+![UI with surface role applied to the body area and surface container applied to the navigation area, shown in dark theme.](assets/asset-037-surface-surface-container-8c22d66a8c.webp)
 
 *Surface; Surface container*
 
-![UI with surface bright role applied to the body area and surface container applied to the navigation area, shown in light theme.](assets/asset-038-surface-bright-surface-container-c5b6da4449.png)
+![UI with surface bright role applied to the body area and surface container applied to the navigation area, shown in light theme.](assets/asset-038-surface-bright-surface-container-c5b6da4449.webp)
 
 *Surface bright; Surface container*
 
-![UI with surface bright role applied to the body area and surface container applied to the navigation area, shown in dark theme.](assets/asset-039-surface-bright-surface-container-6556c6b9fe.png)
+![UI with surface bright role applied to the body area and surface container applied to the navigation area, shown in dark theme.](assets/asset-039-surface-bright-surface-container-6556c6b9fe.webp)
 
 *Surface bright; Surface container*
 
-![Large screen chat UI. The surface dim role is applied to the left navigation rail and the surface bright role is applied to the chat window.](assets/asset-040-navigation-rail-with-surface-dim-background-chat-window-4bc32dd9b8.png)
+![Large screen chat UI. The surface dim role is applied to the left navigation rail and the surface bright role is applied to the chat window.](assets/asset-040-navigation-rail-with-surface-dim-background-chat-window-4bc32dd9b8.webp)
 
 *Navigation rail with surface dim background; Chat window with surface bright background*

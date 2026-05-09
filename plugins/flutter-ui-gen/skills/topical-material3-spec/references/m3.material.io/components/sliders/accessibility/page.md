@@ -38,13 +38,13 @@ Use arrow keys to change the slider value
 
 Use visual anchors so the end of the slider’s inactive track has at least 3:1 contrast with the background. The stop indicator makes the end easily visible on most backgrounds.
 
-![The inactive track has contrast below 3:1 with the background. The stop indicator is above 3:1. Slider is accessible.](assets/asset-002-a-stop-indicator-on-the-inactive-track-makes-5d5d6bdd29.png)
+![The inactive track has contrast below 3:1 with the background. The stop indicator is above 3:1. Slider is accessible.](assets/asset-002-a-stop-indicator-on-the-inactive-track-makes-5d5d6bdd29.webp)
 
 *A stop indicator on the inactive track makes it easier to identify the end of the slider on a low-contrast background*
 
 Alternatively, icons or other elements that have a 3:1 contrast with the background can be used to indicate the ends of the slider’s inactive track.
 
-![The inactive track has contrast ratio below 3:1 with the background. The icon is above 3:1. The slider is accessible.](assets/asset-003-icons-make-it-easier-to-identify-the-ends-ffa02023de.png)
+![The inactive track has contrast ratio below 3:1 with the background. The icon is above 3:1. The slider is accessible.](assets/asset-003-icons-make-it-easier-to-identify-the-ends-ffa02023de.webp)
 
 *Icons make it easier to identify the ends of the slider on a low-contrast background*
 
@@ -61,12 +61,12 @@ Alternatively, icons or other elements that have a 3:1 contrast with the backgro
 
 The accessibility label for a slider is typically the same as the slider's adjacent text label. It should have the slider role.
 
-![Annotated aria tags of a slider.](assets/asset-004-a-slider-s-accessibility-label-should-match-the-c21d04cef5.png)
+![Annotated aria tags of a slider.](assets/asset-004-a-slider-s-accessibility-label-should-match-the-c21d04cef5.webp)
 
 *A slider’s accessibility label should match the adjacent UI text*
 
 If the UI text is correctly linked to the slider, assistive tech (such as a screenreader) will read the UI text followed by the component’s role.
 
-![Annotated aria tags of a slider with stepper icons.](assets/asset-005-icon-buttons-placed-outside-the-slider-should-have-23f9f17242.png)
+![Annotated aria tags of a slider with stepper icons.](assets/asset-005-icon-buttons-placed-outside-the-slider-should-have-23f9f17242.webp)
 
 *Icon buttons placed outside the slider should have the button role*

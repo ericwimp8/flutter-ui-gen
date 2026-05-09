@@ -6,7 +6,7 @@ Source: https://m3.material.io/components/chips/overview
 - Four variants: assist (Assist chips represent smart or automated actions that can span multiple apps, such as opening a calendar event from the home screen.), filter (Filter chips use tags or descriptive words to filter content. They can be a good alternative to toggle buttons or checkboxes.), input (Input chips represent discrete pieces of information entered by a user, such as Gmail contacts or filter options within a search field.), and suggestion (Suggestion chips help narrow a user’s intent by presenting dynamically generated suggestions, such as suggested responses or search filters.)
 - Chip elevation (Elevation is the distance between two surfaces on the z-axis. [More on elevation](https://m3.material.io/m3/pages/elevation/overview)) defaults to 0 but can be elevated if they need more visual separation
 
-![4 chip variants.](assets/asset-001-assist-chip-filter-chip-input-chip-suggestion-chip-ee3a06cb08.png)
+![4 chip variants.](assets/asset-001-assist-chip-filter-chip-input-chip-suggestion-chip-ee3a06cb08.webp)
 
 *Assist chip; Filter chip; Input chip; Suggestion chip*
 
@@ -26,7 +26,7 @@ Aug 2024
 
 Updated stroke color from outline to outline variant.
 
-![A chip with a clear outline is now a chip with a subtle outline.](assets/asset-002-the-stroke-color-was-softened-to-improve-visual-4ca2755f3b.png)
+![A chip with a clear outline is now a chip with a subtle outline.](assets/asset-002-the-stroke-color-was-softened-to-improve-visual-4ca2755f3b.webp)
 
 *The stroke color was softened to improve visual hierarchy between chips and buttons*
 
@@ -36,10 +36,10 @@ Updated stroke color from outline to outline variant.
 - Shape: Rounded rectangle
 - Variants: Action chips have been separated into assist chips (Assist chips represent smart or automated actions that can span multiple apps, such as opening a calendar event from the home screen.) and suggestion chips (Suggestion chips help narrow a user’s intent by presenting dynamically generated suggestions, such as suggested responses or search filters.). Choice chips are now a subset of filter chips (Filter chips use tags or descriptive words to filter content. They can be a good alternative to toggle buttons or checkboxes.)
 
-![M2 chip variants.](assets/asset-003-m2-variants-of-chips-are-input-choice-filter-28d91bc972.png)
+![M2 chip variants.](assets/asset-003-m2-variants-of-chips-are-input-choice-filter-28d91bc972.webp)
 
 *M2: Variants of chips are input, choice, filter, and action chips*
 
-![M3 chip variants.](assets/asset-004-m3-variants-of-chips-updated-to-assist-filter-e6d915c1ce.png)
+![M3 chip variants.](assets/asset-004-m3-variants-of-chips-updated-to-assist-filter-e6d915c1ce.webp)
 
 *M3: Variants of chips updated to assist, filter, input, and suggestion chips*

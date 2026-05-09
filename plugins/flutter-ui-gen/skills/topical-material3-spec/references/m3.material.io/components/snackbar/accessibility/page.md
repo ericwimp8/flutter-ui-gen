@@ -18,13 +18,13 @@ Snackbars without actions can auto-dismiss after a sufficient amount of time, ho
 
 Each platform has its own requirements for auto-dismiss durations, however common acceptable durations are 4–10 seconds.
 
-![A snackbar saying "Email marked as read" with no button.](assets/asset-001-auto-dismissing-snackbars-should-remain-on-screen-long-2dca445137.png)
+![A snackbar saying "Email marked as read" with no button.](assets/asset-001-auto-dismissing-snackbars-should-remain-on-screen-long-2dca445137.webp)
 
 *Auto-dismissing snackbars should remain on screen long enough to read the information*
 
 Snackbars use a color intended to stand out against UI elements. Use the default color mapping to avoid color conflict issues.
 
-![Snackbar with a dark container on a UI page in light theme.](assets/asset-002-snackbar-should-visually-stand-out-92dd40fb69.png)
+![Snackbar with a dark container on a UI page in light theme.](assets/asset-002-snackbar-should-visually-stand-out-92dd40fb69.webp)
 
 *Snackbar should visually stand out*
 
@@ -42,7 +42,7 @@ For example, update the label on a "Save" button to “Saved”, and trigger an 
 
 Alternatively, add actions to the snackbar so it doesn't dismiss until acted on. Actionable snackbars shouldn't auto-dismiss.
 
-![A "save" button changes to say "saved", alongside a snackbar that confirms changes were saved.](assets/asset-003-communicate-snackbar-information-near-the-action-that-triggered-e922e23de5.png)
+![A "save" button changes to say "saved", alongside a snackbar that confirms changes were saved.](assets/asset-003-communicate-snackbar-information-near-the-action-that-triggered-e922e23de5.webp)
 
 *Communicate snackbar information near the action that triggered the snackbar*
 
@@ -86,6 +86,6 @@ Snackbars should be announced once they appear on the screen, but shouldn’t gr
 
 If a snackbar appears when the app is launched, it should be announced after the page’s title, but not receive focus.
 
-![Snackbar accessibility label examples.](assets/asset-006-snackbars-are-announced-when-they-appear-but-don-5a931d9433.png)
+![Snackbar accessibility label examples.](assets/asset-006-snackbars-are-announced-when-they-appear-but-don-5a931d9433.webp)
 
 *Snackbars are announced when they appear, but don't trap focus*

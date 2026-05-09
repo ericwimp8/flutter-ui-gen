@@ -7,7 +7,7 @@ Source: https://m3.material.io/components/side-sheets/overview
 - People can navigate to another region within the sheet
 - Side sheets can contain a back icon for navigation
 
-![The 2 variants of side sheets.](assets/asset-001-standard-side-sheet-modal-side-sheet-7036e2301a.png)
+![The 2 variants of side sheets.](assets/asset-001-standard-side-sheet-modal-side-sheet-7036e2301a.webp)
 
 *Standard side sheet; Modal side sheet*
 
@@ -27,6 +27,6 @@ Source: https://m3.material.io/components/side-sheets/overview
 - Color: New color mappings and compatibility with dynamic color (Dynamic color takes a single color from a user's wallpaper or in-app content and creates an accessible color scheme assigned to elements in the UI. [More on dynamic color](https://m3.material.io/m3/pages/dynamic/choosing-a-source))
 - Shape: Modal side sheets (Modal side sheets appear in front of app content, disabling all other app functionality when they appear, and remaining on screen until confirmed, dismissed, or a required action has been taken. They're often used in compact window sizes, like mobile, due to limited screen size.) have a 16dp corner radius
 
-![A modal side sheet showing the 16dp corner radius.](assets/asset-002-side-sheets-have-new-color-mappings-to-support-1c837cb2ab.png)
+![A modal side sheet showing the 16dp corner radius.](assets/asset-002-side-sheets-have-new-color-mappings-to-support-1c837cb2ab.webp)
 
 *Side sheets have new color mappings to support dynamic color*

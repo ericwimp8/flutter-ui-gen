@@ -6,7 +6,7 @@ Source: https://m3.material.io/components/navigation-bar/overview
 - Can contain 3-5 destinations of equal importance
 - Destinations don't change. They should be consistent across app screens.
 
-![Two navigation bars of different widths with 4 destinations.](assets/asset-001-navigation-bar-for-compact-and-medium-window-sizes-e231057621.png)
+![Two navigation bars of different widths with 4 destinations.](assets/asset-001-navigation-bar-for-compact-and-medium-window-sizes-e231057621.webp)
 
 *Navigation bar for compact and medium window sizes*
 
@@ -41,7 +41,7 @@ Color:
 
 - Active label changed from on-surface-variant to secondary
 
-![Navigation bar in M3 Expressive. It’s shorter than the baseline nav bar.](assets/asset-002-the-flexible-navigation-bar-is-shorter-and-can-4a30824f15.png)
+![Navigation bar in M3 Expressive. It’s shorter than the baseline nav bar.](assets/asset-002-the-flexible-navigation-bar-is-shorter-and-can-4a30824f15.webp)
 
 *The flexible navigation bar is shorter and can be used in medium windows with horizontal nav items*
 
@@ -53,10 +53,10 @@ Color:
 - States: The active destination can be indicated with a pill shape in a contrasting color
 - Name: Bottom navigation has been renamed navigation bar
 
-![M2 nav bar with a drop shadow and no active indicator.](assets/asset-003-m2-a-drop-shadow-indicates-placement-on-top-b8e7df9680.png)
+![M2 nav bar with a drop shadow and no active indicator.](assets/asset-003-m2-a-drop-shadow-indicates-placement-on-top-b8e7df9680.webp)
 
 *M2: A drop shadow indicates placement on top of content. Filled and regular weight icons indicate active states.*
 
-![M3 nav bar with a surface color and active indicator.](assets/asset-004-m3-taller-and-no-drop-shadow-filled-icons-bb911ce186.png)
+![M3 nav bar with a surface color and active indicator.](assets/asset-004-m3-taller-and-no-drop-shadow-filled-icons-bb911ce186.webp)
 
 *M3: Taller and no drop shadow. Filled icons and an active indicator indicate active state.*

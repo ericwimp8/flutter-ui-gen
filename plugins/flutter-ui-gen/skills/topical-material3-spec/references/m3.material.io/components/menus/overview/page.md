@@ -6,7 +6,7 @@ Source: https://m3.material.io/components/menus/overview
 - Menus can open from many components, including icon buttons (Icon buttons help people take minor actions with one tap. [More on icon buttons](https://m3.material.io/m3/pages/icon-buttons/overview)), split buttons (The split button opens a menu to give people more options related to an action. [More on split buttons](https://m3.material.io/m3/pages/split-buttons/overview)), and text fields (Text fields let users enter text into a UI. [More on text fields](https://m3.material.io/m3/pages/text-fields/overview))
 - Context menus provide actions for a specific element, like an image or highlighted text, and usually open with a secondary click
 
-![1 vertical menu with vibrant colors opens from a split button, and 1 vertical menu with a submenu.](assets/asset-001-vertical-menus-can-include-vibrant-colors-gaps-dividers-0330b21040.png)
+![1 vertical menu with vibrant colors opens from a split button, and 1 vertical menu with a submenu.](assets/asset-001-vertical-menus-can-include-vibrant-colors-gaps-dividers-0330b21040.webp)
 
 *Vertical menus can include vibrant colors, gaps, dividers, and submenus to organize a list of choices*
 
@@ -39,7 +39,7 @@ Color styles:
 - Standard
 - Vibrant
 
-![A vertical menu using shape and vibrant color to show a selected state.](assets/asset-002-vibrant-colors-help-selected-menu-items-stand-out-289602c3cb.png)
+![A vertical menu using shape and vibrant color to show a selected state.](assets/asset-002-vibrant-colors-help-selected-menu-items-stand-out-289602c3cb.webp)
 
 *Vibrant colors help selected menu items stand out*
 
@@ -48,10 +48,10 @@ Color styles:
 - Color: New color mappings and compatibility with dynamic color (Dynamic color takes a single color from a user's wallpaper or in-app content and creates an accessible color scheme assigned to elements in the UI. [More on dynamic color](https://m3.material.io/m3/pages/dynamic/choosing-a-source))
 - Variants: Dropdown menu and exposed dropdown menu are now both referred to as menu, since they differ only in the element which opens the menu surface
 
-![Menu with gray color.](assets/asset-003-m2-former-menu-colors-don-t-contrast-with-b5c1ecbb56.png)
+![Menu with gray color.](assets/asset-003-m2-former-menu-colors-don-t-contrast-with-b5c1ecbb56.webp)
 
 *M2: Former menu colors don’t contrast with the background*
 
-![Menu with purple background and outline.](assets/asset-004-m3-menus-feature-new-color-mappings-and-dynamic-919245dfb9.png)
+![Menu with purple background and outline.](assets/asset-004-m3-menus-feature-new-color-mappings-and-dynamic-919245dfb9.webp)
 
 *M3: Menus feature new color mappings and dynamic color*

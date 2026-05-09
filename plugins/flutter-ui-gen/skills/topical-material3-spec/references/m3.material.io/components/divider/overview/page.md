@@ -6,7 +6,7 @@ Source: https://m3.material.io/components/divider/overview
 - Only use dividers if items can’t be grouped with open space
 - Use dividers to group things, not separate individual items
 
-![Screen shot of five stacked dividers](assets/asset-001-dividers-separating-items-in-a-list-30fb5a637e.png)
+![Screen shot of five stacked dividers](assets/asset-001-dividers-separating-items-in-a-list-30fb5a637e.webp)
 
 *Dividers separating items in a list*
 
@@ -25,6 +25,6 @@ Source: https://m3.material.io/components/divider/overview
 - Color: New color mappings and compatibility with dynamic color
 - Configurations: Ability to have vertical dividers
 
-![Screen shot of three dividers](assets/asset-002-dividers-have-new-color-mappings-c0b490c439.png)
+![Screen shot of three dividers](assets/asset-002-dividers-have-new-color-mappings-c0b490c439.webp)
 
 *Dividers have new color mappings*

@@ -12,7 +12,7 @@ Material 3 has one type scale containing two sets of type styles: 15 baseline an
 
 The emphasized styles were added in the expressive update (The expressive update is a major update to Material 3, adding visually stunning features, components, and variants, plus updates to the shape, motion, and typography systems. [More on M3 Expressive](https://m3.material.io/blog/building-with-m3-expressive)). They have a higher weight and other minor adjustments compared to the baseline styles, and are best applied to bold, selection, and other areas of emphasis. Baseline and emphasized styles are meant to be used together.
 
-![Diagram of the M3 type scale.](assets/asset-001-the-scale-is-a-range-of-contrasting-styles-a897b2c35a.png)
+![Diagram of the M3 type scale.](assets/asset-001-the-scale-is-a-range-of-contrasting-styles-a897b2c35a.webp)
 
 *The scale is a range of contrasting styles that support the needs of various product contexts and content. No single product will use all the styles. Instead, select styles from the scale that are most appropriate.*
 
@@ -61,7 +61,7 @@ Use emphasized styles to draw attention to specifics aspects of components, such
 
 Emphasized context and weight can be used at the same time.
 
-![Diagram showing emphasized styles being applied in and UI of an active call with live translation turned on.](assets/asset-002-weight-apply-emphasized-styles-to-text-already-bolded-54953a7787.png)
+![Diagram showing emphasized styles being applied in and UI of an active call with live translation turned on.](assets/asset-002-weight-apply-emphasized-styles-to-text-already-bolded-54953a7787.webp)
 
 *Weight: Apply emphasized styles to text already bolded for an expressive style; Context: Apply emphasized styles to text in selective places to better communicate hierarchy or state*
 
@@ -75,7 +75,7 @@ The M3 type scale has the option to set different typefaces at different sizes.
 
 Consider replacing Roboto with different typefaces to boost brand expression in your product. On emphasized styles, this can help important text stand out even more.
 
-![Diagram showing emphasized styles being applied in a UI of an active call with live translation turned on.](assets/asset-003-roboto-can-be-replaced-with-another-font-like-706a5068b0.png)
+![Diagram showing emphasized styles being applied in a UI of an active call with live translation turned on.](assets/asset-003-roboto-can-be-replaced-with-another-font-like-706a5068b0.webp)
 
 *Roboto can be replaced with another font, like Roboto Flex*
 
@@ -96,13 +96,13 @@ Heavier fonts may require wider letter spacing, while fonts with long ascenders 
 
 Note: Customizing the M3 type scale or individual styles may prevent you from receiving typography token updates from Material.
 
-![Example type scales with custom typefaces and weights.](assets/asset-004-adjust-variable-axes-like-weight-and-width-to-947936d680.png)
+![Example type scales with custom typefaces and weights.](assets/asset-004-adjust-variable-axes-like-weight-and-width-to-947936d680.webp)
 
 *Adjust variable axes, like weight and width, to customize fonts like Roboto Flex*
 
 Different typefaces can be used for baseline and emphasized type styles.
 
-![Example type scales with custom typefaces and weights.](assets/asset-005-custom-typefaces-can-be-used-together-like-baskervville-b1b2e61155.png)
+![Example type scales with custom typefaces and weights.](assets/asset-005-custom-typefaces-can-be-used-together-like-baskervville-b1b2e61155.webp)
 
 *Custom typefaces can be used together, like Baskervville and Jacquard*
 
@@ -112,21 +112,21 @@ When different sizes from the defaults are needed, such as for different devices
 
 Material Design uses the [Major Second](https://cieden.com/book/sub-atomic/typography/different-type-scale-types#:~:text=with%2520dense%2520content.-,Major%2520Second%2520(1.125),-The%2520Major%2520Second) type scale with 14 as its key base size. This anchors to the most essential style used most often for typesetting body text.
 
-![Material Design’s default type scale; showing display, headline, and title sizes shown next to the Major Second type scale.](assets/asset-006-the-material-design-type-scale-uses-the-major-7b0f72d0be.png)
+![Material Design’s default type scale; showing display, headline, and title sizes shown next to the Major Second type scale.](assets/asset-006-the-material-design-type-scale-uses-the-major-7b0f72d0be.webp)
 
 *The Material Design type scale uses the Major Second scale (1.125)*
 
 Sizes on the rendered type scale should aim to provide impactful contrast between sizes by avoiding small differences.
 
-![Material Design’s default type scale; showing display, headline, and title sizes shown next to the Major Second type scale](assets/asset-007-material-s-default-typescale-of-15-styles-allows-f6ee9b95ec.png)
+![Material Design’s default type scale; showing display, headline, and title sizes shown next to the Major Second type scale](assets/asset-007-material-s-default-typescale-of-15-styles-allows-f6ee9b95ec.webp)
 
 *Material’s default typescale of 15 styles allows distinction between each*
 
-![Display, headline, and title sizes shown next to the Major Second type scale.](assets/asset-008-your-product-likely-will-not-need-all-15-d58bc6e9e2.png)
+![Display, headline, and title sizes shown next to the Major Second type scale.](assets/asset-008-your-product-likely-will-not-need-all-15-d58bc6e9e2.webp)
 
 *Your product likely will not need all 15 default styles from the Material Design type scale. In this example, five sizes are chosen for a reduced set while the rest are removed.*
 
-![A size modification of Material Design’s default type scale where display medium is a larger size than the original scale.](assets/asset-009-if-the-default-sizes-from-the-material-design-36a69c4b45.png)
+![A size modification of Material Design’s default type scale where display medium is a larger size than the original scale.](assets/asset-009-if-the-default-sizes-from-the-material-design-36a69c4b45.webp)
 
 *If the default sizes from the Material Design type scale do not meet your needs, values can be changed instead. Here the default size of display medium is adjusted to another size from the Major Second type scale.*
 

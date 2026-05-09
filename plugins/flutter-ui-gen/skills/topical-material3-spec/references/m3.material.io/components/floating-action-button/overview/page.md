@@ -7,7 +7,7 @@ Source: https://m3.material.io/components/floating-action-button/overview
 - FABs persist on the screen when content is scrolling
 - Three variants: FAB, medium FAB, large FAB
 
-![The 3 sizes of floating action buttons.](assets/asset-001-fab-medium-fab-large-fab-05f7bd51a9.png)
+![The 3 sizes of floating action buttons.](assets/asset-001-fab-medium-fab-large-fab-05f7bd51a9.webp)
 
 *FAB; Medium FAB; Large FAB*
 
@@ -52,16 +52,16 @@ Color:
 - Tertiary to Tertiary container
 - The values haven't changed
 
-![4 FABs showing the colors available after the expressive update.](assets/asset-002-fabs-have-updated-colors-and-sizes-76ca205136.png)
+![4 FABs showing the colors available after the expressive update.](assets/asset-002-fabs-have-updated-colors-and-sizes-76ca205136.webp)
 
 *FABs have updated colors and sizes*
 
 ## Differences from M2
 
-![M2 circular FAB with a plus icon.](assets/asset-003-m2-fabs-are-circles-and-always-have-a-aab986a3f8.png)
+![M2 circular FAB with a plus icon.](assets/asset-003-m2-fabs-are-circles-and-always-have-a-aab986a3f8.webp)
 
 *M2: FABs are circles and always have a drop shadow*
 
-![M3 rounded corner square FAB with an artist’s palette icon.](assets/asset-004-m3-fabs-have-a-boxier-shape-can-use-92557ce548.png)
+![M3 rounded corner square FAB with an artist’s palette icon.](assets/asset-004-m3-fabs-have-a-boxier-shape-can-use-92557ce548.webp)
 
 *M3: FABs have a boxier shape, can use dynamic color, and include a new large FAB variation*

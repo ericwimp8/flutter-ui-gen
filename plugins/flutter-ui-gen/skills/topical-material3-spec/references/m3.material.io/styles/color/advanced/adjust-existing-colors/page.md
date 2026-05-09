@@ -12,7 +12,7 @@ You can input colors to define your own baseline scheme.
 
 You may want to define your own baseline scheme so your app’s colors stay static (ie. does not change with dynamic color), such as to reflect your brand colors. By providing your own custom input colors for the primary, secondary, tertiary, and neutral colors in the scheme, Material will provide back the scheme’s regular color roles with values derived from your reference colors.
 
-![Above, a logo of two trees featuring dark green, orange, and pale blue colors. Below, each of those colors is show as a circle, with an arrow pointing from it to a set of chips showing color roles produced from the original color.](assets/asset-001-you-can-input-your-own-colors-to-produce-1d1a8e080b.png)
+![Above, a logo of two trees featuring dark green, orange, and pale blue colors. Below, each of those colors is show as a circle, with an arrow pointing from it to a set of chips showing color roles produced from the original color.](assets/asset-001-you-can-input-your-own-colors-to-produce-1d1a8e080b.webp)
 
 *You can input your own colors to produce a static baseline scheme. In this example, colors from the logo are inputted to produce primary, secondary, and tertiary colors.*
 
@@ -34,7 +34,7 @@ You can define color algorithm rules to produce your own dynamic scheme.
 
 Control the appearance of your app’s colors while respecting dynamic color. For example, you may want your app to match the user’s wallpaper theme, but appear more vibrant than the default dynamic theme colors.
 
-![Thumbnail of a red floral wallpaper with two arrows leading out of it, labeled 1 and 2. Arrow 1 leads to a set of red colors chips produced from the wallpaper. Arrow 2 points to another set of red color chips, which appear more vibrant than the first.](assets/asset-002-colors-produced-dynamically-from-a-user-s-red-96c54958de.png)
+![Thumbnail of a red floral wallpaper with two arrows leading out of it, labeled 1 and 2. Arrow 1 leads to a set of red colors chips produced from the wallpaper. Arrow 2 points to another set of red color chips, which appear more vibrant than the first.](assets/asset-002-colors-produced-dynamically-from-a-user-s-red-96c54958de.webp)
 
 *Colors produced dynamically from a user's red wallpaper following default specs; Colors produced dynamically from the same wallpaper following custom-defined specs*
 
@@ -57,7 +57,7 @@ You can apply color fidelity to make scheme colors better match your input color
 
 Material scheme colors are mapped to tones (lightness or darkness) to achieve visually accessible color pairings with sufficient contrast between foreground and background elements. In some cases, these tones can prevent colors from appearing as intended, such as when a color is too light to appear vibrant. Color fidelity is a feature that adjusts tones in these cases to produce the intended visual results without harming visual contrast.
 
-![Above, a dark purple circle with an arrow labeled 1 pointing to a set of color chips, whose colors appear similarly dark. Below, a dark purple circle with an arrow labeled 2 pointing to a set of color chips, whose colors appear lighter.](assets/asset-003-color-roles-produced-with-color-fidelity-color-roles-f4311d8e13.png)
+![Above, a dark purple circle with an arrow labeled 1 pointing to a set of color chips, whose colors appear similarly dark. Below, a dark purple circle with an arrow labeled 2 pointing to a set of color chips, whose colors appear lighter.](assets/asset-003-color-roles-produced-with-color-fidelity-color-roles-f4311d8e13.webp)
 
 *Color roles produced with color fidelity; Color roles produced without color fidelity*
 
@@ -81,13 +81,13 @@ Static colors (Static colors are UI colors that don't change based on the user's
 
 Colors that are closer in hue (Hue is the perception of a color as red, orange, yellow, green, blue, violet, and so on. [More on hue, chroma, and tone](https://m3.material.io/m3/pages/color/how-the-system-works/#199a8fa2-6510-4bca-b22a-3387f857a580)) appear more pleasing together than colors with hues farther apart. Based on this principle, harmonization adjusts the hue of static colors, making them closer to the hue of the scheme’s primary color.
 
-![Diagram comparing static colors in an app to harmonized static colors](assets/asset-004-in-this-example-the-color-scheme-has-green-29409ff9e8.png)
+![Diagram comparing static colors in an app to harmonized static colors](assets/asset-004-in-this-example-the-color-scheme-has-green-29409ff9e8.webp)
 
 *In this example, the color scheme has:Green as the primary color Static blue Static orange; Green as the primary color; Static blue; Static orange; When harmonized, those static colors change hue, moving closer to the primary color on the color wheel. The resulting colors appear more visually pleasing together because they are closer in hue.*
 
 To preserve the semantic meaning of static colors (such as a red to communicate errors), harmonization limits the amount that a color’s hue can change. Harmonized colors will become warmer or cooler in hue without appearing like another type of color.
 
-![Diagram showing the limited range of harmonized hues](assets/asset-005-to-preserve-the-semantic-meaning-of-colors-harmonization-d8fbf8a9c2.png)
+![Diagram showing the limited range of harmonized hues](assets/asset-005-to-preserve-the-semantic-meaning-of-colors-harmonization-d8fbf8a9c2.webp)
 
 *To preserve the semantic meaning of colors, harmonization limits the amount that a color’s hue can change. For example, a red color (1) can become cooler (2) or warmer (3) in hue, but will not appear purple or orange.*
 

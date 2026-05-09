@@ -19,7 +19,7 @@ Working with static color will be the most like other color workflows you may ha
 
 Material provides a static baseline color scheme including default color assignments and mappings.
 
-![Email UI in blue baseline scheme, shown in dark and light theme.](assets/asset-002-colors-are-static-in-the-baseline-color-scheme-bc300ecf63.png)
+![Email UI in blue baseline scheme, shown in dark and light theme.](assets/asset-002-colors-are-static-in-the-baseline-color-scheme-bc300ecf63.webp)
 
 *Colors are static in the baseline color scheme*
 

@@ -8,7 +8,7 @@ Editorial treatments are standalone, showcase moments driven by type. They invol
 
 In the expressive system, editorial treatments can be combined with elements such as motion, shape, or color, to create product-wide hero moments.
 
-![A series of editorial moments making dynamic use of type, including a calculator, lock screen, and temperature.](assets/asset-001-in-editorial-treatments-type-can-freely-dominate-the-3278b26f3f.png)
+![A series of editorial moments making dynamic use of type, including a calculator, lock screen, and temperature.](assets/asset-001-in-editorial-treatments-type-can-freely-dominate-the-3278b26f3f.webp)
 
 *In editorial treatments, type can freely dominate the screen*
 
@@ -22,7 +22,7 @@ Editorial treatments can dramatically take over the screen to mark a particular 
 
 Try matching the text to the tone of the product or a strong emotion, like a narrow, thin style for serenity, or a bolder, italicized style for liveliness.
 
-![Large type reading “Mesa Verde National Park” with a hiker in the foreground.](assets/asset-002-use-an-exuberant-cover-image-for-a-photo-c81cfab74e.png)
+![Large type reading “Mesa Verde National Park” with a hiker in the foreground.](assets/asset-002-use-an-exuberant-cover-image-for-a-photo-c81cfab74e.webp)
 
 *Use an exuberant cover image for a photo album, here shown with Roboto Flex*
 
@@ -32,7 +32,7 @@ Express the voice of the user by letting them personalize the appearance of typo
 
 Use customization selectively to frame a user’s mood and make it stand out.
 
-![A text exchange in which one party is responding enthusiastically in extremely large letters.](assets/asset-003-a-response-with-the-right-type-treatment-can-cf6df94f96.png)
+![A text exchange in which one party is responding enthusiastically in extremely large letters.](assets/asset-003-a-response-with-the-right-type-treatment-can-cf6df94f96.webp)
 
 *A response with the right type treatment can convey ecstatic emotion. Here, the text is shown in Roboto Flex and PT Serif Caption.*
 
@@ -40,7 +40,7 @@ Use customization selectively to frame a user’s mood and make it stand out.
 
 Editorial treatments can also be used to help express moments of unique functionality within the product experience.
 
-![A slider to adjust bedroom lights. The characters increase in width and weight as the brightness is increased.](assets/asset-004-the-increase-in-the-bedroom-light-brightness-prompts-9a71bb3f0b.png)
+![A slider to adjust bedroom lights. The characters increase in width and weight as the brightness is increased.](assets/asset-004-the-increase-in-the-bedroom-light-brightness-prompts-9a71bb3f0b.webp)
 
 *The increase in the bedroom light brightness prompts an algorithmic response in the width and weight axes*
 
@@ -55,11 +55,11 @@ These best practices include:
 - Not mixing multiple or clashing styles in the same layout
 - Not mimicking personalization theming
 
-![A UI showing two instances of editorial treatments with consistent styling.](assets/asset-005-do-create-tokens-for-editorial-treatments-to-apply-4bd39e105c.png)
+![A UI showing two instances of editorial treatments with consistent styling.](assets/asset-005-do-create-tokens-for-editorial-treatments-to-apply-4bd39e105c.webp)
 
 *Do Create tokens for editorial treatments to apply them consistently in your product*
 
-![A UI featuring a name in which the first is using a different custom type treatment than the last.](assets/asset-006-caution-use-caution-when-mixing-different-editorial-treatments-7bb37dc14e.png)
+![A UI featuring a name in which the first is using a different custom type treatment than the last.](assets/asset-006-caution-use-caution-when-mixing-different-editorial-treatments-7bb37dc14e.webp)
 
 *Caution Use caution when mixing different editorial treatments in the same layout. Try to keep them consistent.*
 
@@ -75,15 +75,15 @@ If the typeface is variable, it provides a full, continuous range of stroke thic
 
 [Learn more about weight on Google Fonts](https://fonts.google.com/knowledge/choosing_type/exploring_typefaces_with_multiple_weights_or_grades)
 
-![Many examples of Roboto Flex weights.](assets/asset-007-a-variable-font-roboto-flex-offers-a-fluid-050ffa124b.png)
+![Many examples of Roboto Flex weights.](assets/asset-007-a-variable-font-roboto-flex-offers-a-fluid-050ffa124b.webp)
 
 *A variable font, Roboto Flex offers a fluid range of weights*
 
-![Light text in use as body text.](assets/asset-008-caution-be-careful-when-using-very-light-weight-30983708c0.png)
+![Light text in use as body text.](assets/asset-008-caution-be-careful-when-using-very-light-weight-30983708c0.webp)
 
 *Caution Be careful when using very light weight for body text. Lower-resolution displays can struggle to show thin typography, especially at small sizes. Instead, consider lighter weights at larger font sizes, such as display type.*
 
-![Navigation bar using bold typography for label text, making it challenging to read.](assets/asset-009-caution-excessive-weight-at-smaller-sizes-can-make-09897359e9.png)
+![Navigation bar using bold typography for label text, making it challenging to read.](assets/asset-009-caution-excessive-weight-at-smaller-sizes-can-make-09897359e9.webp)
 
 *Caution Excessive weight at smaller sizes can make text harder to read*
 
@@ -93,15 +93,15 @@ Grade is a secondary modifier of a typeface’s optical weight, independent of t
 
 [Learn more about grade on Google Fonts](https://fonts.google.com/knowledge/choosing_type/exploring_typefaces_with_multiple_weights_or_grades)
 
-![Three ampersands set in Roboto Flex without grade over Roboto Flex with 150 grade.](assets/asset-010-roboto-flex-offers-a-positive-grade-of-150-b53858f98d.png)
+![Three ampersands set in Roboto Flex without grade over Roboto Flex with 150 grade.](assets/asset-010-roboto-flex-offers-a-positive-grade-of-150-b53858f98d.webp)
 
 *Roboto Flex offers a positive grade of 150 and a negative grade of 200*
 
-![A light and dark screen each showing the letter B.](assets/asset-011-when-switching-between-dark-and-light-mode-the-22ff2edd6f.png)
+![A light and dark screen each showing the letter B.](assets/asset-011-when-switching-between-dark-and-light-mode-the-22ff2edd6f.webp)
 
 *When switching between dark and light mode, the same text may appear heavier despite having the same settings. Consider using a negative grade to counteract this.*
 
-![A list of amenities where the filter chip for “Elevator” and “Cats OK” are selected and have a heavier grade applied.](assets/asset-012-grade-can-change-the-emphasis-without-reflowing-text-4fd91c5534.png)
+![A list of amenities where the filter chip for “Elevator” and “Cats OK” are selected and have a heavier grade applied.](assets/asset-012-grade-can-change-the-emphasis-without-reflowing-text-4fd91c5534.webp)
 
 *Grade can change the emphasis without reflowing text*
 
@@ -113,15 +113,15 @@ A narrow width allows more characters to fit per line while a wider width may of
 
 [Learn more about width on Google Fonts](https://fonts.google.com/knowledge/glossary/width)
 
-![The letter ‘N’, set in Roboto Flex, rendered in varying widths.](assets/asset-013-roboto-flex-offers-a-fluid-range-of-widths-8b2d6c18c0.png)
+![The letter ‘N’, set in Roboto Flex, rendered in varying widths.](assets/asset-013-roboto-flex-offers-a-fluid-range-of-widths-8b2d6c18c0.webp)
 
 *Roboto Flex offers a fluid range of widths, from 25 to 150*
 
-![A bottom navigation bar with four icons using narrow label text under the icons.](assets/asset-014-do-a-thinner-width-can-allow-for-more-080306df7d.png)
+![A bottom navigation bar with four icons using narrow label text under the icons.](assets/asset-014-do-a-thinner-width-can-allow-for-more-080306df7d.webp)
 
 *Do A thinner width can allow for more characters to fit at small sizes, such as in a label*
 
-![Top app bar with the title best thrift stores in wide type next to three icons.](assets/asset-015-don-t-since-wider-styles-take-up-more-cd4128cf0d.png)
+![Top app bar with the title best thrift stores in wide type next to three icons.](assets/asset-015-don-t-since-wider-styles-take-up-more-cd4128cf0d.webp)
 
 *Don’t Since wider styles take up more space, avoid using them for areas with limited space, such as in a top app bar*
 
@@ -133,14 +133,14 @@ Small size designs focus on enhancing readability, while large size designs can 
 
 [Learn about choosing typefaces that have optical sizes.](https://fonts.google.com/knowledge/choosing_type/choosing_typefaces_that_have_optical_sizes)
 
-![The word hello at a small optical size overlaid over the word hello at a large optical size.](assets/asset-016-the-typeface-literata-has-a-continuous-range-of-d72ea0abb4.png)
+![The word hello at a small optical size overlaid over the word hello at a large optical size.](assets/asset-016-the-typeface-literata-has-a-continuous-range-of-d72ea0abb4.webp)
 
 *The typeface Literata has a continuous range of optical size, from 7pt to 72pt*
 
-![The words “massive” and “tiny” with optical sizes that match their type size.](assets/asset-017-do-use-an-optical-size-that-matches-your-2085d63c7c.png)
+![The words “massive” and “tiny” with optical sizes that match their type size.](assets/asset-017-do-use-an-optical-size-that-matches-your-2085d63c7c.webp)
 
 *Do Use an optical size that matches your type size*
 
-![Two paragraphs of text set with an optical size larger than the type size.](assets/asset-018-don-t-use-large-optical-type-sizes-at-bd99c2fc74.png)
+![Two paragraphs of text set with an optical size larger than the type size.](assets/asset-018-don-t-use-large-optical-type-sizes-at-bd99c2fc74.webp)
 
 *Don’t use large optical type sizes at small sizes. Instead use a smaller optical size, if available.*

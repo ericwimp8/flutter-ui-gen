@@ -4,7 +4,7 @@ Source: https://m3.material.io/foundations/layout/applying-layout/expanded
 
 Layouts for expanded window size classes are for screen widths 840dp to 1199dp.
 
-![An expanded window size with a video app in 2 pane mode.](assets/asset-001-video-app-on-an-expanded-window-size-class-d201186e06.png)
+![An expanded window size with a video app in 2 pane mode.](assets/asset-001-video-app-on-an-expanded-window-size-class-d201186e06.webp)
 
 *Video app on an expanded window size class*
 
@@ -18,7 +18,7 @@ The navigation rail can be hidden in secondary destinations as long as the prima
 
 For sorting, filtering, or secondary navigation, use tabs or other components directly in the body.
 
-![The navigation area is a vertical bar at the left of the screen. To its right, the body pane fills the rest of the window.](assets/asset-002-navigation-body-de99675d5f.png)
+![The navigation area is a vertical bar at the left of the screen. To its right, the body pane fills the rest of the window.](assets/asset-002-navigation-body-de99675d5f.webp)
 
 *Navigation; Body*
 
@@ -28,7 +28,7 @@ Use a single pane layout or two-pane layout.
 
 A two-pane layout is often best for expanded window classes. However, a single pane layout can work when displaying visually dense or information-dense content, such as videos.
 
-![The single body pane layout covers most of the expanded screen except for the navigation area and margins.](assets/asset-003-an-expanded-window-size-class-with-a-single-d974977f44.png)
+![The single body pane layout covers most of the expanded screen except for the navigation area and margins.](assets/asset-003-an-expanded-window-size-class-with-a-single-d974977f44.webp)
 
 *An expanded window size class with a single pane layout*
 
@@ -48,7 +48,7 @@ Expanded layouts have a left and right margin of 24dp.
 
 The spacer between panes is 24dp.
 
-![Two pane layout with 24dp margins and 24dp space between panes.](assets/asset-005-pane-second-pane-25bb62f923.png)
+![Two pane layout with 24dp margins and 24dp space between panes.](assets/asset-005-pane-second-pane-25bb62f923.webp)
 
 *Pane; Second pane*
 

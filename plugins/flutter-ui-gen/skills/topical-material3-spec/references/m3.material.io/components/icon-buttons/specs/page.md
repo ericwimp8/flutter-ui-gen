@@ -4,7 +4,7 @@ Source: https://m3.material.io/components/icon-buttons/specs
 
 ## Variants
 
-![Side by side view of default and toggle icon buttons.](assets/asset-001-default-icon-button-toggle-icon-button-d30a97b564.png)
+![Side by side view of default and toggle icon buttons.](assets/asset-001-default-icon-button-toggle-icon-button-d30a97b564.webp)
 
 *Default icon button; Toggle icon button*
 
@@ -15,7 +15,7 @@ Source: https://m3.material.io/components/icon-buttons/specs
 
 ## Configurations
 
-![Side by side view of size, shape, color, and width variations.](assets/asset-002-five-sizes-two-shapes-four-color-styles-three-7dc8d0c293.png)
+![Side by side view of size, shape, color, and width variations.](assets/asset-002-five-sizes-two-shapes-four-color-styles-three-7dc8d0c293.webp)
 
 *Five sizes; Two shapes; Four color styles; Three widths*
 
@@ -39,7 +39,7 @@ Icon button token sets are organized by common tokens, color, and size. Select t
 
 ## Anatomy
 
-![Diagram indicating anatomy of filled icon button.](assets/asset-003-icon-container-c4151bc8b6.png)
+![Diagram indicating anatomy of filled icon button.](assets/asset-003-icon-container-c4151bc8b6.webp)
 
 *Icon; Container*
 
@@ -49,7 +49,7 @@ Color values are implemented through design tokens (Design tokens are the buildi
 
 There are four built-in color styles: filled, tonal, outlined, and standard. Default and toggle buttons use different color roles per style.
 
-![Color roles of default and toggle buttons in 4 visual styles.](assets/asset-004-default-toggle-unselected-toggle-selected-b8c2cce547.png)
+![Color roles of default and toggle buttons in 4 visual styles.](assets/asset-004-default-toggle-unselected-toggle-selected-b8c2cce547.webp)
 
 *Default; Toggle, unselected; Toggle, selected*
 
@@ -68,13 +68,13 @@ States (States show the interaction status of a component or UI element. [More o
 
 #### Default
 
-![5 states of filled icon button.](assets/asset-005-enabled-disabled-10-state-layer-hovered-8-state-d672a77ed1.png)
+![5 states of filled icon button.](assets/asset-005-enabled-disabled-10-state-layer-hovered-8-state-d672a77ed1.webp)
 
 *Enabled; Disabled (10% state layer); Hovered (8% state layer); Focused (10% state layer); Pressed (10% state layer)*
 
 #### Toggle
 
-![5 states of filled toggle icon button.](assets/asset-006-enabled-disabled-10-state-layer-hovered-8-state-2460370f2a.png)
+![5 states of filled toggle icon button.](assets/asset-006-enabled-disabled-10-state-layer-hovered-8-state-2460370f2a.webp)
 
 *Enabled; Disabled (10% state layer); Hovered (8% state layer); Focused (10% state layer); Pressed (10% state layer)*
 
@@ -82,13 +82,13 @@ States (States show the interaction status of a component or UI element. [More o
 
 #### Default
 
-![5 states of tonal icon button.](assets/asset-007-enabled-disabled-10-state-layer-hovered-8-state-853210f7c0.png)
+![5 states of tonal icon button.](assets/asset-007-enabled-disabled-10-state-layer-hovered-8-state-853210f7c0.webp)
 
 *Enabled; Disabled (10% state layer); Hovered (8% state layer); Focused (10% state layer); Pressed (10% state layer)*
 
 #### Toggle
 
-![5 states of tonal toggle icon button.](assets/asset-008-enabled-disabled-10-state-layer-hovered-8-state-ad0b373ba2.png)
+![5 states of tonal toggle icon button.](assets/asset-008-enabled-disabled-10-state-layer-hovered-8-state-ad0b373ba2.webp)
 
 *Enabled; Disabled (10% state layer); Hovered (8% state layer); Focused (10% state layer); Pressed (10% state layer)*
 
@@ -96,13 +96,13 @@ States (States show the interaction status of a component or UI element. [More o
 
 #### Default
 
-![5 states of outlined icon button.](assets/asset-009-enabled-disabled-10-state-layer-hovered-8-state-00046e67e6.png)
+![5 states of outlined icon button.](assets/asset-009-enabled-disabled-10-state-layer-hovered-8-state-00046e67e6.webp)
 
 *Enabled; Disabled (10% state layer); Hovered (8% state layer); Focused (10% state layer); Pressed (10% state layer)*
 
 #### Toggle
 
-![5 states of outlined toggle icon button.](assets/asset-010-enabled-disabled-10-state-layer-hovered-8-state-88611b3b45.png)
+![5 states of outlined toggle icon button.](assets/asset-010-enabled-disabled-10-state-layer-hovered-8-state-88611b3b45.webp)
 
 *Enabled; Disabled (10% state layer); Hovered (8% state layer); Focused (10% state layer); Pressed (10% state layer)*
 
@@ -112,13 +112,13 @@ The standard icon button’s container is invisible at rest, but visible when th
 
 #### Default
 
-![5 states of standard icon button.](assets/asset-011-enabled-disabled-10-state-layer-hovered-8-state-230406cd41.png)
+![5 states of standard icon button.](assets/asset-011-enabled-disabled-10-state-layer-hovered-8-state-230406cd41.webp)
 
 *Enabled; Disabled (10% state layer); Hovered (8% state layer); Focused (10% state layer); Pressed (10% state layer)*
 
 #### Toggle
 
-![5 states of standard toggle icon button.](assets/asset-012-enabled-disabled-10-state-layer-hovered-8-state-83bd01c1b2.png)
+![5 states of standard toggle icon button.](assets/asset-012-enabled-disabled-10-state-layer-hovered-8-state-83bd01c1b2.webp)
 
 *Enabled; Disabled (10% state layer); Hovered (8% state layer); Focused (10% state layer); Pressed (10% state layer)*
 
@@ -130,7 +130,7 @@ While pressed, icon buttons can morph to become more square.
 
 Both round and square icon buttons should have the same pressed shape radius. The corner radius value differs for each button size. [See full icon button corner measurements](https://m3.material.io/m3/pages/icon-buttons/specs#b3df1f02-d313-44e9-9542-37f7e0e24dc7)
 
-![Shape changes for round and square icon buttons in 3 states.](assets/asset-013-enabled-hovered-pressed-21d1e14c60.png)
+![Shape changes for round and square icon buttons in 3 states.](assets/asset-013-enabled-hovered-pressed-21d1e14c60.webp)
 
 *Enabled; Hovered; Pressed*
 
@@ -138,13 +138,13 @@ Both round and square icon buttons should have the same pressed shape radius. Th
 
 In addition to changing shape when pressed, toggle icon buttons also change the resting shape from round (unselected) to square (selected) by default. If the resting shape is square, the selected shape should be round.
 
-![Shape changes for round and square toggle icon buttons in 3 states.](assets/asset-014-enabled-hovered-pressed-selected-a6b2421347.png)
+![Shape changes for round and square toggle icon buttons in 3 states.](assets/asset-014-enabled-hovered-pressed-selected-a6b2421347.webp)
 
 *Enabled; Hovered; Pressed; Selected*
 
 ## Measurements
 
-![Diagram of 5 sizes of icon buttons in 4 widths.](assets/asset-015-icon-size-default-width-size-narrow-width-size-39a467d110.png)
+![Diagram of 5 sizes of icon buttons in 4 widths.](assets/asset-015-icon-size-default-width-size-narrow-width-size-39a467d110.webp)
 
 *Icon size; Default width size; Narrow width size; Wide width size*
 
@@ -152,13 +152,13 @@ In addition to changing shape when pressed, toggle icon buttons also change the 
 
 Extra small and small icon buttons must have a target size of 48x48dp or larger to be accessible.
 
-![Diagram of target sizes.](assets/asset-016-narrow-width-default-width-wide-width-01fd75c507.png)
+![Diagram of target sizes.](assets/asset-016-narrow-width-default-width-wide-width-01fd75c507.webp)
 
 *Narrow width; Default width; Wide width*
 
 ### Button corner radius
 
-![Diagram of icon button corner radius.](assets/asset-017-diagram-of-icon-button-corner-radius-db89ecead6.png)
+![Diagram of icon button corner radius.](assets/asset-017-diagram-of-icon-button-corner-radius-db89ecead6.webp)
 
 |  | XS | S | M | L | XL |
 | --- | --- | --- | --- | --- | --- |

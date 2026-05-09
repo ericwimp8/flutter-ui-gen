@@ -44,8 +44,17 @@ Required fields:
 Optional fields:
 
 - `userIntent`: original user colour description.
-- `contrastLevel`: number from `-1.0` to `1.0`; defaults to `0.0`.
+- `contrastLevel`: `low`, `normal`, `medium`, `high`, or a number from `-1.0` to `1.0`; defaults to `normal`.
 - `paletteOverrides`: object keyed by `primary`, `secondary`, `tertiary`, `neutral`, `neutralVariant`, or `error`.
+
+Named contrast levels map to Material Color Utilities anchors:
+
+- `low` -> `-1.0`; Material minimum contrast
+- `normal` -> `0.0`; Material default contrast
+- `medium` -> `0.5`; Material medium contrast
+- `high` -> `1.0`; Material high contrast
+
+Numeric values remain available for advanced use.
 
 Each `paletteOverrides` value must be one of:
 

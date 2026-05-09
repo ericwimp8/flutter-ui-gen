@@ -39,6 +39,6 @@ Color styles:
 - Tonal
 - Outlined
 
-![5 sizes of split buttons.](assets/asset-002-split-buttons-have-the-same-five-recommended-sizes-df7243a35f.png)
+![5 sizes of split buttons.](assets/asset-002-split-buttons-have-the-same-five-recommended-sizes-df7243a35f.webp)
 
 *Split buttons have the same five recommended sizes as label and icon buttons*

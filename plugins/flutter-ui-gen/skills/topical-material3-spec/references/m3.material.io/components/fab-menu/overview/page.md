@@ -7,7 +7,7 @@ Source: https://m3.material.io/components/fab-menu/overview
 - Not used with extended FABs (Extended floating action buttons (extended FABs) help people take primary actions. [More on extended FABs](https://m3.material.io/m3/pages/extended-fab/overview))
 - Available in primary, secondary, and tertiary color sets
 
-![3 FAB menus in different color schemes.](assets/asset-001-the-fab-menu-comes-in-three-color-sets-b607f62227.png)
+![3 FAB menus in different color schemes.](assets/asset-001-the-fab-menu-comes-in-three-color-sets-b607f62227.webp)
 
 *The FAB menu comes in three color sets: primary, secondary, tertiary*
 
@@ -37,16 +37,16 @@ Color:
 - Supports dynamic color
 - Compatible with any FAB color style
 
-![4 screens. The FAB menu is on the first, and 3 FABs of different sizes are on the others.](assets/asset-002-the-fab-menu-uses-contrasting-color-and-large-4fea8fecc0.png)
+![4 screens. The FAB menu is on the first, and 3 FABs of different sizes are on the others.](assets/asset-002-the-fab-menu-uses-contrasting-color-and-large-4fea8fecc0.webp)
 
 *The FAB menu uses contrasting color and large items to focus attention. It can open from any size FAB.*
 
 ## Differences from M2
 
-![M2 speed dial.](assets/asset-003-m2-the-speed-dial-used-small-round-fabs-bddb57a342.png)
+![M2 speed dial.](assets/asset-003-m2-the-speed-dial-used-small-round-fabs-bddb57a342.webp)
 
 *M2: The speed dial used small round FABs*
 
-![GM3 FAB menu.](assets/asset-004-m3-the-fab-menu-uses-dynamic-color-and-17a17538d8.png)
+![GM3 FAB menu.](assets/asset-004-m3-the-fab-menu-uses-dynamic-color-and-17a17538d8.webp)
 
 *M3: The FAB menu uses dynamic color and a larger item size*

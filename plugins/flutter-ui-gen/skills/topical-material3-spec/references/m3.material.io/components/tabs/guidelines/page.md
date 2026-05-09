@@ -6,7 +6,7 @@ Source: https://m3.material.io/components/tabs/guidelines
 
 Tabs organize groups of related content that are at the same level of hierarchy.
 
-![Mobile screen with 3 tabs: video, photos and audio. Each tab has an an icon and text.](assets/asset-001-tab-labels-can-include-icons-and-text-text-44ddac121e.png)
+![Mobile screen with 3 tabs: video, photos and audio. Each tab has an an icon and text.](assets/asset-001-tab-labels-can-include-icons-and-text-text-44ddac121e.webp)
 
 *Tab labels can include icons and text. Text labels should be short.*
 
@@ -17,7 +17,7 @@ There are two variants of tabs:
 
 Primary tabs are placed at the top of the content pane (Panes are layout containers that house other components and elements within a single app. A pane can be: fixed, flexible, floating, or semi permanent. [More on panes](https://m3.material.io/m3/pages/understanding-layout/parts-of-layout#667b32c0-56e2-4fc2-a618-4066c79a894e)) under an app bar (App bars display information and actions at the top of a screen. [More on app bars](https://m3.material.io/m3/pages/app-bars/overview)). They display the main content destinations. Secondary tabs are used within a content area to further separate related content and establish hierarchy.
 
-![3 primary tabs above 3 secondary tabs.](assets/asset-002-primary-tabs-secondary-tabs-39b0137c2c.png)
+![3 primary tabs above 3 secondary tabs.](assets/asset-002-primary-tabs-secondary-tabs-39b0137c2c.webp)
 
 *Primary tabs; Secondary tabs*
 
@@ -25,17 +25,17 @@ Primary tabs are placed at the top of the content pane (Panes are layout contain
 
 Use tabs to group related content, not sequential content.
 
-![Scrolling up and down through content, then swiping left through tabs.](assets/asset-003-do-utilize-tabs-to-categorize-related-groups-of-632ea587a9.png)
+![Scrolling up and down through content, then swiping left through tabs.](assets/asset-003-do-utilize-tabs-to-categorize-related-groups-of-632ea587a9.webp)
 
 *Do Utilize tabs to categorize related groups of content into clearly defined sets*
 
-![Mobile screen with scrollable tabs of sequential content: Chapter 1, Chapter 2, Chapter 3 and Chapter 4.](assets/asset-004-don-t-use-tabs-to-move-through-sequential-c519403dfd.png)
+![Mobile screen with scrollable tabs of sequential content: Chapter 1, Chapter 2, Chapter 3 and Chapter 4.](assets/asset-004-don-t-use-tabs-to-move-through-sequential-c519403dfd.webp)
 
 *Don’t use tabs to move through sequential content that needs to be read in a particular order. Instead, create hierarchy within the content using techniques like typography style and open space.*
 
 ## Anatomy
 
-![Six components of tabs.](assets/asset-005-container-icon-optional-badge-optional-label-divider-active-7425aec0dd.png)
+![Six components of tabs.](assets/asset-005-container-icon-optional-badge-optional-label-divider-active-7425aec0dd.webp)
 
 *Container; Icon (optional); Badge (optional); Label; Divider; Active indicator*
 
@@ -43,7 +43,7 @@ Use tabs to group related content, not sequential content.
 
 The container holds multiple tabs. Its contents can be fixed or scrollable. The container should always extend the full width of the window and be divided into equal sections, one for each tab. The container is defined by a divider (Dividers are thin lines that group content in lists or other containers. [More on dividers](https://m3.material.io/m3/pages/divider/overview)) on the bottom edge to separate it from the content below. Content may scroll under the container.
 
-![Mobile screen with fixed tabs with a dotted border to illustrate the container area.](assets/asset-006-the-container-is-the-area-that-contains-the-e6eb0a3b3a.png)
+![Mobile screen with fixed tabs with a dotted border to illustrate the container area.](assets/asset-006-the-container-is-the-area-that-contains-the-e6eb0a3b3a.webp)
 
 *The container is the area that contains the tabs directly under the title above*
 
@@ -51,17 +51,17 @@ The container holds multiple tabs. Its contents can be fixed or scrollable. The 
 
 Icons communicate the kind of content within a tab. Icons should be simple and recognizable.
 
-![Mobile screen with tabs that use both icons and labels.](assets/asset-007-tabs-can-use-a-combination-of-labels-and-3a7f72536e.png)
+![Mobile screen with tabs that use both icons and labels.](assets/asset-007-tabs-can-use-a-combination-of-labels-and-3a7f72536e.webp)
 
 *Tabs can use a combination of labels and icons*
 
 Icons alone aren’t as effective as text labels at communicating complex content. Use caution when representing tab content with icons alone, as an icon’s meaning may not be clear.
 
-![Mobile screen with tabs represented by icons for “wishlist” and “location”.](assets/asset-008-do-use-icons-that-are-globally-recognized-when-67165cf148.png)
+![Mobile screen with tabs represented by icons for “wishlist” and “location”.](assets/asset-008-do-use-icons-that-are-globally-recognized-when-67165cf148.webp)
 
 *Do Use icons that are globally recognized when using icons alone*
 
-![Mobile screen where "purchases” tab has text only and “wishlist” tab has text and icon.](assets/asset-009-don-t-use-tabs-with-both-icons-and-d03db6fd24.png)
+![Mobile screen where "purchases” tab has text only and “wishlist” tab has text and icon.](assets/asset-009-don-t-use-tabs-with-both-icons-and-d03db6fd24.webp)
 
 *Don’t use tabs with both icons and text labels on only some tabs, but not others*
 
@@ -69,7 +69,7 @@ Icons alone aren’t as effective as text labels at communicating complex conten
 
 Text labels should clearly and succinctly describe the content within the tab. Tab labels appear in a single row. Labels can use a second line if needed, with truncated text. Alternatively, scrollable tabs can allow room for longer titles.
 
-![Mobile screen with scrollable tabs in a single row.](assets/asset-010-tab-labels-should-be-short-and-succinct-there-8b560dffb3.png)
+![Mobile screen with scrollable tabs in a single row.](assets/asset-010-tab-labels-should-be-short-and-succinct-there-8b560dffb3.webp)
 
 *Tab labels should be short and succinct. There should be a clear relationship to the title above.*
 
@@ -77,11 +77,11 @@ When using scrollable tabs, the first visible tab should be offset by 52dp from 
 
 Avoid using inconsistent padding on each tab.
 
-![Screen with scrollable tabs offset from the leading edge by 52dp.](assets/asset-011-do-offset-the-first-scrollable-tab-52dp-from-f165b624a5.png)
+![Screen with scrollable tabs offset from the leading edge by 52dp.](assets/asset-011-do-offset-the-first-scrollable-tab-52dp-from-f165b624a5.webp)
 
 *Do Offset the first scrollable tab 52dp from the leading edge so it's clear that more content is available*
 
-![Screen with scrollable tabs, 2 of which are truncated to “Australian” showing how truncation can confuse users.](assets/asset-012-don-t-truncate-labels-unless-required-as-truncated-df484f7b91.png)
+![Screen with scrollable tabs, 2 of which are truncated to “Australian” showing how truncation can confuse users.](assets/asset-012-don-t-truncate-labels-unless-required-as-truncated-df484f7b91.webp)
 
 *Don’t truncate labels unless required, as truncated text can impede comprehension*
 
@@ -93,7 +93,7 @@ Once the user views the relevant content in the tab, the badge value should upda
 
 Small and large badges can both be used with tabs. Read the [badge guidance](https://m3.material.io/m3/pages/badges/overview) for more details.
 
-![Mobile screen with tabs that use both icons and labels.](assets/asset-013-badges-are-used-to-highlight-notifications-related-to-c81b0010df.png)
+![Mobile screen with tabs that use both icons and labels.](assets/asset-013-badges-are-used-to-highlight-notifications-related-to-c81b0010df.webp)
 
 *Badges are used to highlight notifications related to tab specific content*
 
@@ -111,7 +111,7 @@ Primary tabs (Primary tabs display an app's main content destinations. They're a
 
 Secondary tabs (Secondary tabs display related content within a content area. They're always placed below primary tabs.) are necessary when a screen requires more than one level of tabs. These tabs use a simpler style of indicator, but their function is identical to primary tabs.
 
-![Mobile screen with primary tabs near the top of the screen.](assets/asset-015-tabs-can-be-joined-with-components-like-app-779a7fa2fd.png)
+![Mobile screen with primary tabs near the top of the screen.](assets/asset-015-tabs-can-be-joined-with-components-like-app-779a7fa2fd.webp)
 
 *Tabs can be joined with components like app bars, embedded in a specific UI region, or nested within components like cards and sheets. Tabs control the UI region displayed below them.*
 
@@ -119,7 +119,7 @@ Secondary tabs (Secondary tabs display related content within a content area. Th
 
 Tabs are displayed in a single row, with each tab connected to the content it represents. As a set, all tabs are unified by a shared topic. Secondary tabs (Secondary tabs display related content within a content area. They're always placed below primary tabs.) should always be placed below primary tabs (Primary tabs display an app's main content destinations. They're are placed at the top of the screen, often under a top app bar.).
 
-![Mobile screen with secondary tabs below the primary tabs.](assets/asset-016-secondary-tabs-are-found-within-other-content-to-2c2771f0dd.png)
+![Mobile screen with secondary tabs below the primary tabs.](assets/asset-016-secondary-tabs-are-found-within-other-content-to-2c2771f0dd.webp)
 
 *Secondary tabs are found within other content to assist users with greater detail*
 
@@ -129,7 +129,7 @@ For fixed tabs, the maximum width for each tab should be determined by the width
 
 Avoid using more than four tabs at once. At five or more tabs, the container becomes cramped.
 
-![Four fixed tabs spaced to match one another.](assets/asset-017-tabs-can-grow-in-width-in-relation-to-fd57efeb2a.png)
+![Four fixed tabs spaced to match one another.](assets/asset-017-tabs-can-grow-in-width-in-relation-to-fd57efeb2a.webp)
 
 *Tabs can grow in width in relation to the number of items contained within*
 
@@ -139,7 +139,7 @@ Avoid using more than four tabs at once. At five or more tabs, the container bec
 
 By default, tabs inherit enabled (An enabled state communicates an interactive component or element. [More on enabled state](https://m3.material.io/m3/pages/interaction-states/applying-states#39b2fc90-01db-41b5-b6f8-47be61ed1479)) states (States show the interaction status of a component or UI element. [More on states](https://m3.material.io/m3/pages/interaction-states/overview)) with one active state.The inactive and active states of a tab can inherit a hover (A hover state communicates when a user has placed a cursor above an interactive element. [More on hover state](https://m3.material.io/m3/pages/interaction-states/applying-states#71c347c2-dd75-485b-892e-04d2900bd844)), focus (A focused state communicates when a user has highlighted an element, using an input method such as a keyboard or voice. [More on focused state](https://m3.material.io/m3/pages/interaction-states/applying-states#bc6d6853-48ef-490e-8076-448e89e69f0f)), and pressed (A pressed state communicates a user tap. [More on pressed state](https://m3.material.io/m3/pages/interaction-states/applying-states#c3690714-b741-492d-97b0-5fc1960e43e6)) states.
 
-![Four states of a tab.](assets/asset-018-active-hover-focused-and-pressed-states-3d86830969.png)
+![Four states of a tab.](assets/asset-018-active-hover-focused-and-pressed-states-3d86830969.webp)
 
 *Active, hover, focused, and pressed states*
 

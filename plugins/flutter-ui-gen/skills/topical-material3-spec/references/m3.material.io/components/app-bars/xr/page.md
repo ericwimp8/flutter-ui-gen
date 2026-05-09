@@ -8,13 +8,13 @@ Extended reality (XR) interfaces have special design requirements, like showing 
 
 There is one app bar orbiter (Orbiters are floating elements that control the content within spatial panels. [More on orbiters](https://developer.android.com/design/ui/xr/guides/spatial-ui#orbiters)). It closely aligns with the small app bar (Small app bars display information and actions in compact layouts. They're often used for scrolled views on subpages that require back navigation and multiple actions. [More on small app bars](https://m3.material.io/m3/pages/app-bars/overview)). It can be configured to be center-aligned or left-aligned.
 
-![Center and left-aligned app bar orbiters.](assets/asset-001-center-aligned-app-bar-left-aligned-app-bar-3124b6303e.png)
+![Center and left-aligned app bar orbiters.](assets/asset-001-center-aligned-app-bar-left-aligned-app-bar-3124b6303e.webp)
 
 *Center-aligned app bar; Left-aligned app bar*
 
 ## Anatomy
 
-![Diagrams of app bar orbiters identifying 4 internal elements.](assets/asset-002-container-headline-trailing-icons-leading-icon-e8f4cdcb35.png)
+![Diagrams of app bar orbiters identifying 4 internal elements.](assets/asset-002-container-headline-trailing-icons-leading-icon-e8f4cdcb35.webp)
 
 *Container; Headline; Trailing icons; Leading icon*
 
@@ -22,13 +22,13 @@ There is one app bar orbiter (Orbiters are floating elements that control the co
 
 XR uses color to communicate the elevation of UI elements and orbiters. With [spatial elevation](https://developer.android.com/design/ui/xr/guides/spatial-ui#spatial-elevation), the app bar displays above the spatial panel (In Android XR, a spatial panel is a container for UI elements, interactive components, and immersive content. [More on spatial panels](https://developer.android.com/design/ui/xr/guides/spatial-ui#spatial-panels)) on the Z-axis. Elevated app bars can use any of these color options:
 
-![3 versions of app bar elevation color strategy.](assets/asset-003-surface-container-surface-container-high-surface-container-highest-c78963f072.png)
+![3 versions of app bar elevation color strategy.](assets/asset-003-surface-container-surface-container-high-surface-container-highest-c78963f072.webp)
 
 *Surface container; Surface container high; Surface container highest*
 
 ## Measurements
 
-![Diagrams with measurements and padding for app bar orbiters.](assets/asset-004-measurements-and-padding-for-app-bar-orbiters-704f31bdc6.png)
+![Diagrams with measurements and padding for app bar orbiters.](assets/asset-004-measurements-and-padding-for-app-bar-orbiters-704f31bdc6.webp)
 
 *Measurements and padding for app bar orbiters*
 
@@ -76,7 +76,7 @@ In most cases, apps should only have one app bar orbiter, placed in global conte
 
 ### Offset and inset positioning
 
-![App bar orbiter with offset positioning.](assets/asset-009-do-include-a-20dp-margin-this-visually-separates-defae79f6d.png)
+![App bar orbiter with offset positioning.](assets/asset-009-do-include-a-20dp-margin-this-visually-separates-defae79f6d.webp)
 
 *Do Include a 20dp margin. This visually separates the app bar orbiter from the spatial panel, and prevents content obstruction.*
 
@@ -86,11 +86,11 @@ In most cases, apps should only have one app bar orbiter, placed in global conte
 
 ### Horizontal alignment
 
-![An app bar orbiter placed within the bounds of its spatial panel.](assets/asset-011-do-always-align-the-app-bar-orbiter-within-c944a930e2.png)
+![An app bar orbiter placed within the bounds of its spatial panel.](assets/asset-011-do-always-align-the-app-bar-orbiter-within-c944a930e2.webp)
 
 *Do Always align the app bar orbiter within the bounds of nearby spatial panels*
 
-![An app bar orbiter that extends beyond the width of its spatial panel.](assets/asset-012-don-t-the-app-bar-orbiter-shouldn-t-6a64ad399d.png)
+![An app bar orbiter that extends beyond the width of its spatial panel.](assets/asset-012-don-t-the-app-bar-orbiter-shouldn-t-6a64ad399d.webp)
 
 *Don’t The app bar orbiter shouldn’t exceed the width of adjacent spatial panels*
 
@@ -108,7 +108,7 @@ An app bar orbiter’s width should adjust to stay in a person’s [field of vie
 
 This makes crucial navigation elements easy to find.
 
-![An app bar orbiter with a width that fits in a person’s field of view.](assets/asset-014-do-adjust-the-width-of-the-app-bar-84cb92bf66.png)
+![An app bar orbiter with a width that fits in a person’s field of view.](assets/asset-014-do-adjust-the-width-of-the-app-bar-84cb92bf66.webp)
 
 *Do Adjust the width of the app bar orbiter to fit in a person’s field of view*
 
@@ -116,7 +116,7 @@ It’s not recommended to increase the width of an app bar orbiter beyond a pers
 
 This creates a visual imbalance and makes it difficult to find navigation elements.
 
-![An app bar orbiter that exceeds the panel’s width and a person’s field of view.](assets/asset-015-don-t-avoid-expanding-the-app-bar-orbiter-4e8a1abecc.png)
+![An app bar orbiter that exceeds the panel’s width and a person’s field of view.](assets/asset-015-don-t-avoid-expanding-the-app-bar-orbiter-4e8a1abecc.webp)
 
 *Don’t Avoid expanding the app bar orbiter beyond the adjacent panel’s width and a person’s field of view*
 

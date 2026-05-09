@@ -6,7 +6,7 @@ Extended reality (XR) interfaces have special design requirements, like showing 
 
 ## Anatomy
 
-![Diagram of navigation bar orbiter identifying 7 internal elements of the component.](assets/asset-001-container-icon-active-indicator-small-badge-optional-large-969381266a.png)
+![Diagram of navigation bar orbiter identifying 7 internal elements of the component.](assets/asset-001-container-icon-active-indicator-small-badge-optional-large-969381266a.webp)
 
 *Container; Icon; Active indicator; Small badge (optional); Large badge (optional); Large badge label (optional); Label text*
 
@@ -14,13 +14,13 @@ Extended reality (XR) interfaces have special design requirements, like showing 
 
 On XR, color is used to highlight elevated UI elements and orbiters (Orbiters are floating elements that control the content within spatial panels. [More on orbiters](https://developer.android.com/design/ui/xr/guides/spatial-ui#orbiters)). With [spatial elevation](https://developer.android.com/design/ui/xr/guides/spatial-ui#spatial-elevation), the navigation bar displays above the spatial panel (In Android XR, a spatial panel is a container for UI elements, interactive components, and immersive content. [More on spatial panels](https://developer.android.com/design/ui/xr/guides/spatial-ui#spatial-panels)), on the Z-axis. Color communicates elevation on UI elements and orbiters. Elevated nav bars can use any of these color options:
 
-![4 versions of elevation color strategy.](assets/asset-002-surface-container-surface-container-high-surface-container-highest-c1f0a55c97.png)
+![4 versions of elevation color strategy.](assets/asset-002-surface-container-surface-container-high-surface-container-highest-c1f0a55c97.webp)
 
 *Surface container; Surface container high; Surface container highest; Tertiary container*
 
 ## Measurements
 
-![Measurements and padding for navigation bar orbiter.](assets/asset-003-navigation-bar-orbiter-padding-and-measurements-113cbc69c9.png)
+![Measurements and padding for navigation bar orbiter.](assets/asset-003-navigation-bar-orbiter-padding-and-measurements-113cbc69c9.webp)
 
 *Navigation bar orbiter padding and measurements*
 

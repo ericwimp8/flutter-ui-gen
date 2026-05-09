@@ -20,7 +20,7 @@ Choose a user-generated color source if:
 
 [Get started with user-generated color](https://m3.material.io/m3/pages/dynamic/user-generated-source)
 
-![Thumbnail of a floral red wallpaper with a line pointing to an app screen with a red color scheme.](assets/asset-001-an-app-colored-with-a-dynamic-user-generated-398f69610d.png)
+![Thumbnail of a floral red wallpaper with a line pointing to an app screen with a red color scheme.](assets/asset-001-an-app-colored-with-a-dynamic-user-generated-398f69610d.webp)
 
 *An app colored with a dynamic user-generated scheme sourced from the user's red wallpaper.*
 
@@ -35,7 +35,7 @@ Choose a content-based color source if:
 
 [Get started with content-based color](https://m3.material.io/m3/pages/dynamic/content-based-source)
 
-![A thumbnail of a teal album art with a line pointing to an app screen with a teal color scheme.](assets/asset-002-an-app-colored-with-a-dynamic-content-based-ee2e34671d.png)
+![A thumbnail of a teal album art with a line pointing to an app screen with a teal color scheme.](assets/asset-002-an-app-colored-with-a-dynamic-content-based-ee2e34671d.webp)
 
 *An app colored with a dynamic content-based scheme sourced from the in-app album art.*
 
@@ -48,6 +48,6 @@ Choose to use multiple color sources if:
 
 [Get started with user-generated color](https://m3.material.io/m3/pages/dynamic/user-generated-source) before customizing
 
-![Thumbnail of green plants with a line (1) indicating green edit buttons in a photo app. Thumbnail of red wallpaper with a line (2) indicating red share buttons in the same photo app.](assets/asset-003-content-based-color-sourced-from-the-in-app-a0a9852902.png)
+![Thumbnail of green plants with a line (1) indicating green edit buttons in a photo app. Thumbnail of red wallpaper with a line (2) indicating red share buttons in the same photo app.](assets/asset-003-content-based-color-sourced-from-the-in-app-a0a9852902.webp)
 
 *Content-based color sourced from the in-app photo; User-generated color sourced from the user's wallpaper*

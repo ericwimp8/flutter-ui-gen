@@ -2,7 +2,7 @@
 
 Source: https://m3.material.io/components/cards/guidelines
 
-![3 variants of cards: elevated, filled, and outlined.](assets/asset-001-3-variants-of-cards-elevated-filled-and-outlined-e337041551.png)
+![3 variants of cards: elevated, filled, and outlined.](assets/asset-001-3-variants-of-cards-elevated-filled-and-outlined-e337041551.webp)
 
 ## Usage
 
@@ -12,27 +12,27 @@ Cards should be easy to scan for relevant and actionable information.
 
 Elements like text and images should be placed on cards in a way that clearly indicates hierarchy.
 
-![Example card containing an image, title, text, and button.](assets/asset-002-cards-can-display-content-and-actions-on-a-a5d093e5ef.png)
+![Example card containing an image, title, text, and button.](assets/asset-002-cards-can-display-content-and-actions-on-a-a5d093e5ef.webp)
 
 *Cards can display content and actions on a single topic*
 
 Cards can serve as entry points into deeper levels of detail or navigation, such as a music album or details on an upcoming vacation.
 
-![Example world tour card.](assets/asset-003-card-text-and-image-show-a-clear-hierarchy-42d4648d36.png)
+![Example world tour card.](assets/asset-003-card-text-and-image-show-a-clear-hierarchy-42d4648d36.webp)
 
 *Card text and image show a clear hierarchy*
 
-![Card displaying connected details about a world tour.](assets/asset-004-use-cards-to-display-related-information-on-a-72b761c02f.png)
+![Card displaying connected details about a world tour.](assets/asset-004-use-cards-to-display-related-information-on-a-72b761c02f.webp)
 
 *Use cards to display related information on a single subject*
 
 Cards can be displayed together in a grid, vertical list, or carousel (Carousels show a collection of items that can be scrolled on and off the screen. [More on carousels](https://m3.material.io/m3/pages/carousel/overview)).
 
-![4 cards together in a grid layout.](assets/asset-005-do-cards-can-be-shown-together-375a15ff09.png)
+![4 cards together in a grid layout.](assets/asset-005-do-cards-can-be-shown-together-375a15ff09.webp)
 
 *Do Cards can be shown together*
 
-![5 albums in a vertical list of cards.](assets/asset-006-don-t-don-t-force-content-into-cards-f4cafbbd7d.png)
+![5 albums in a vertical list of cards.](assets/asset-006-don-t-don-t-force-content-into-cards-f4cafbbd7d.webp)
 
 *Don’t Don't force content into cards when spacing, headlines, or dividers would create a simpler visual hierarchy*
 
@@ -44,19 +44,19 @@ There are three card variants:
 
 Each provides the same legibility and functionality, so the variant you use depends on style alone.
 
-![3 variants of cards.](assets/asset-007-elevated-card-filled-card-outlined-card-3721628322.png)
+![3 variants of cards.](assets/asset-007-elevated-card-filled-card-outlined-card-3721628322.webp)
 
 *Elevated card; Filled card; Outlined card*
 
-![Example elevated card.](assets/asset-008-elevated-cards-have-a-drop-shadow-providing-more-84253ef8ce.png)
+![Example elevated card.](assets/asset-008-elevated-cards-have-a-drop-shadow-providing-more-84253ef8ce.webp)
 
 *Elevated cards have a drop shadow, providing more separation from the background than filled cards, but less than outlined cards*
 
-![Example filled card.](assets/asset-009-filled-cards-provide-subtle-separation-from-the-background-2a0b1d2c4e.png)
+![Example filled card.](assets/asset-009-filled-cards-provide-subtle-separation-from-the-background-2a0b1d2c4e.webp)
 
 *Filled cards provide subtle separation from the background. This has less emphasis than elevated or outlined cards.*
 
-![Example outlined card.](assets/asset-010-outlined-cards-have-a-visual-boundary-around-the-cf2524dcdd.png)
+![Example outlined card.](assets/asset-010-outlined-cards-have-a-visual-boundary-around-the-cf2524dcdd.webp)
 
 *Outlined cards have a visual boundary around the container. This can provide greater emphasis than the other variants.*
 
@@ -64,7 +64,7 @@ Each provides the same legibility and functionality, so the variant you use depe
 
 The card container is the only required element in a card. Card layouts can vary to support the kinds of content they contain. Below is a common configuration of elements.
 
-![Diagram labeling the 6 parts of card anatomy.](assets/asset-011-container-image-button-supporting-text-subhead-headline-cccfd19bab.png)
+![Diagram labeling the 6 parts of card anatomy.](assets/asset-011-container-image-button-supporting-text-subhead-headline-cccfd19bab.webp)
 
 *Container; Image; Button; Supporting text; Subhead; Headline*
 
@@ -74,7 +74,7 @@ Card containers hold all card elements. Their size is determined by the space th
 
 The card container is the only required element of a card. All other elements are optional.
 
-![3 card containers with various elements: 1 with all elements except a button. 1 with a container, headline, supporting text, button. 1 with a container, headline, supporting text, 2 buttons.](assets/asset-012-card-size-is-determined-by-the-elements-it-f4957004c8.png)
+![3 card containers with various elements: 1 with all elements except a button. 1 with a container, headline, supporting text, button. 1 with a container, headline, supporting text, 2 buttons.](assets/asset-012-card-size-is-determined-by-the-elements-it-f4957004c8.webp)
 
 *Card size is determined by the elements it contains*
 
@@ -84,7 +84,7 @@ Card contents are grouped into blocks. Content can have different levels of visu
 
 Card layouts vary to support the kinds of content they contain.
 
-![Diagram of card content blocks.](assets/asset-013-cards-can-contain-a-headline-subhead-supporting-text-ea83b4e90c.png)
+![Diagram of card content blocks.](assets/asset-013-cards-can-contain-a-headline-subhead-supporting-text-ea83b4e90c.webp)
 
 *Cards can contain a headline, subhead, supporting text, media, and actions*
 
@@ -92,11 +92,11 @@ Card layouts vary to support the kinds of content they contain.
 
 [Dividers](https://m3.material.io/m3/pages/divider/specs) can separate regions in cards or indicate areas of a card that can expand.
 
-![A divider running the entire width of the card.](assets/asset-014-1-use-full-width-dividers-for-content-that-fd402febff.png)
+![A divider running the entire width of the card.](assets/asset-014-1-use-full-width-dividers-for-content-that-fd402febff.webp)
 
 *1. Use full-width dividers for content that can be expanded*
 
-![An inset divider indented from the edge of card.](assets/asset-015-1-use-inset-dividers-which-don-t-run-575961b50c.png)
+![An inset divider indented from the edge of card.](assets/asset-015-1-use-inset-dividers-which-don-t-run-575961b50c.webp)
 
 *1. Use inset dividers, which don’t run the full width of a card, to separate related content*
 
@@ -108,7 +108,7 @@ Image Cards can include photos, illustrations, and other graphics, such as weath
 
 Video Cards can include video.
 
-![A mobile chat app with: 5 cards with images, 1 card with a thumbnail avatar, and 1 card with a video.](assets/asset-016-cards-can-contain-thumbnails-images-and-video-967cca4490.png)
+![A mobile chat app with: 5 cards with images, 1 card with a thumbnail avatar, and 1 card with a video.](assets/asset-016-cards-can-contain-thumbnails-images-and-video-967cca4490.webp)
 
 *Cards can contain thumbnails, images, and video*
 
@@ -120,7 +120,7 @@ Subhead Subheads are smaller text elements, such as an article byline or a tagge
 
 Supporting text Supporting text includes body content, such as an article summary or a restaurant description.
 
-![card container with several elementsA tablet email app with an email summary card with multiple text elements.](assets/asset-017-headline-subhead-and-supporting-text-in-a-card-a1540c56c0.png)
+![card container with several elementsA tablet email app with an email summary card with multiple text elements.](assets/asset-017-headline-subhead-and-supporting-text-in-a-card-a1540c56c0.webp)
 
 *Headline, subhead, and supporting text in a card*
 
@@ -130,11 +130,11 @@ It isn’t recommended to place text or icons on images. If it’s necessary, en
 
 Add a translucent scrim or bounding shape beneath the text or icon to help ensure proper contrast.
 
-![Layered text contrasts with the background image.](assets/asset-018-caution-ensure-that-text-on-images-meets-accessible-c1aede26c2.png)
+![Layered text contrasts with the background image.](assets/asset-018-caution-ensure-that-text-on-images-meets-accessible-c1aede26c2.webp)
 
 *Caution Ensure that text on images meets accessible contrast standards*
 
-![Icon within a bounding shape, placed on an image.](assets/asset-019-caution-when-placing-text-or-icons-on-images-4a8aeced5c.png)
+![Icon within a bounding shape, placed on an image.](assets/asset-019-caution-when-placing-text-or-icons-on-images-4a8aeced5c.webp)
 
 *Caution When placing text or icons on images, consider using a bounding shape to ensure proper contrast*
 
@@ -144,7 +144,7 @@ Add a translucent scrim or bounding shape beneath the text or icon to help ensur
 
 Cards can be one large touch target triggering an expanded detail screen.
 
-![The action area of a card contains rich media and supporting text.](assets/asset-020-cards-can-include-a-primary-action-area-that-4acee4e23e.png)
+![The action area of a card contains rich media and supporting text.](assets/asset-020-cards-can-include-a-primary-action-area-that-4acee4e23e.webp)
 
 *Cards can include a primary action area that expands into a full-screen view*
 
@@ -156,25 +156,25 @@ Selection controls Cards can also include chips (Chips help people enter informa
 
 Linked text There can be a link in the supporting text on a card.
 
-![Supplemental text and actions at the top and bottom of the card.](assets/asset-021-cards-can-include-multiple-action-areas-containing-buttons-7c3506c0e9.png)
+![Supplemental text and actions at the top and bottom of the card.](assets/asset-021-cards-can-include-multiple-action-areas-containing-buttons-7c3506c0e9.webp)
 
 *Cards can include multiple action areas containing buttons, links, and other controls*
 
-![Album card with an option to give a star rating.](assets/asset-022-cards-can-contain-icon-buttons-like-stars-to-5e91cb6da9.png)
+![Album card with an option to give a star rating.](assets/asset-022-cards-can-contain-icon-buttons-like-stars-to-5e91cb6da9.webp)
 
 *Cards can contain icon buttons like stars to rate content*
 
-![Card to purchase tickets with choice chips for 3 event times.](assets/asset-023-cards-can-contain-choice-chips-in-the-action-d6ef235f2f.png)
+![Card to purchase tickets with choice chips for 3 event times.](assets/asset-023-cards-can-contain-choice-chips-in-the-action-d6ef235f2f.webp)
 
 *Cards can contain choice chips in the action area*
 
-![Card with slider to control a song’s volume.](assets/asset-024-cards-can-contain-a-slider-control-in-the-13e98595ae.png)
+![Card with slider to control a song’s volume.](assets/asset-024-cards-can-contain-a-slider-control-in-the-13e98595ae.webp)
 
 *Cards can contain a slider control in the action area*
 
 Overflow menu Overflow menus contain related actions. They are typically placed in the upper-right or lower-right corner of a card.
 
-![2 cards: 1 with an overflow menu in the upper-right corner, the other with it in the lower right.](assets/asset-025-overflow-menus-are-usually-located-in-the-upper-1c03410519.png)
+![2 cards: 1 with an overflow menu in the upper-right corner, the other with it in the lower right.](assets/asset-025-overflow-menus-are-usually-located-in-the-upper-1c03410519.webp)
 
 *Overflow menus are usually located in the upper-right or lower-right corner of a card*
 
@@ -184,7 +184,7 @@ Multiple cards can be grouped together into collections displayed in a grid, lis
 
 By default, cards in a collection are coplanar. They share the same resting elevation unless they're picked up or dragged (A dragged state communicates when a user presses and moves an element. [More on dragged state](https://m3.material.io/m3/pages/interaction-states/applying-states#198c29c7-771e-4264-91e9-70c32b8902ec)).
 
-![9 cards in a grid layout.](assets/asset-026-multiple-cards-can-be-grouped-into-collections-with-23b10d9c4e.png)
+![9 cards in a grid layout.](assets/asset-026-multiple-cards-can-be-grouped-into-collections-with-23b10d9c4e.webp)
 
 *Multiple cards can be grouped into collections with a shared resting elevation*
 
@@ -194,13 +194,13 @@ Card collections can be filtered in a variety of ways, including by date or alph
 
 Filter or sorting options should be placed outside of the card collection.
 
-![A sort-by-date option placed above a card collection.](assets/asset-027-card-collections-can-be-filtered-in-a-variety-542dabea48.png)
+![A sort-by-date option placed above a card collection.](assets/asset-027-card-collections-can-be-filtered-in-a-variety-542dabea48.webp)
 
 *Card collections can be filtered in a variety of ways, including by date: 1. A sort-by-date option is placed outside of the card collection*
 
 Organize card collections so that they'e easy to use. Their layout (Layout is the visual arrangement of elements on the screen. [More on layout](https://m3.material.io/m3/pages/understanding-layout/overview)) affects how they are perceived.
 
-![A template for an 8-card collection layout.](assets/asset-028-place-cards-in-a-collection-in-a-straightforward-6c612320c0.png)
+![A template for an 8-card collection layout.](assets/asset-028-place-cards-in-a-collection-in-a-straightforward-6c612320c0.webp)
 
 *Place cards in a collection in a straightforward, easy-to-use manner*
 
@@ -214,11 +214,11 @@ Cards can be displayed together in a grid.
 
 The default grid can be customized in code to show cards in staggered or mosaic grids.
 
-![5 menu item cards in a mosaic grid.](assets/asset-030-custom-mosaic-grid-82cbc2ede6.png)
+![5 menu item cards in a mosaic grid.](assets/asset-030-custom-mosaic-grid-82cbc2ede6.webp)
 
 *Custom mosaic grid*
 
-![4 menu item cards in a staggered grid.](assets/asset-031-custom-staggered-grid-28ecae3cc4.png)
+![4 menu item cards in a staggered grid.](assets/asset-031-custom-staggered-grid-28ecae3cc4.webp)
 
 *Custom staggered grid*
 
@@ -244,7 +244,7 @@ As cards scale to adapt to different [window size classes](https://m3.material.i
 
 Cards and their elements can align left, right, or center as the layout scales.
 
-![2 cards on a mobile screen row expand to 4 cards on a tablet screen row.](assets/asset-034-card-position-and-alignment-changes-as-the-screen-285febf33b.png)
+![2 cards on a mobile screen row expand to 4 cards on a tablet screen row.](assets/asset-034-card-position-and-alignment-changes-as-the-screen-285febf33b.webp)
 
 *Card position and alignment changes as the screen size changes*
 
@@ -252,7 +252,7 @@ Cards and their elements can align left, right, or center as the layout scales.
 
 Adjust the layout (Layout is the visual arrangement of elements on the screen. [More on layout](https://m3.material.io/m3/pages/understanding-layout/overview)) of cards to meet the ergonomic needs of large screens. For example, a horizontally-oriented card in a compact window size (Window widths smaller than 600dp, such as a phone in portrait orientation. [More on compact window size class](https://m3.material.io/m3/pages/applying-layout/compact)) may become a larger, vertically-oriented card in an expanded window size (Window widths 840dp to 1199dp, such as a tablet or foldable in landscape orientation, or desktop. [More on expanded window size class](https://m3.material.io/m3/pages/applying-layout/expanded)), with more space for images and text on the larger screen.
 
-![Card sizes change from mobile to tablet, with larger images in the tablet layout.](assets/asset-035-adjust-the-card-layout-so-content-remains-the-d8166d4320.png)
+![Card sizes change from mobile to tablet, with larger images in the tablet layout.](assets/asset-035-adjust-the-card-layout-so-content-remains-the-d8166d4320.webp)
 
 *Adjust the card layout so content remains the main focus on large screens*
 
@@ -262,11 +262,11 @@ To adjust the presentation of content-focused components, begin with spacing.
 
 Allow components like lists (Lists are continuous, vertical indexes of text and images. [More on lists](https://m3.material.io/m3/pages/lists/overview)), cards, and images to optimize space while filling the region of a screen that suits a device breakpoint’s ergonomic needs.
 
-![2 cards with optimized space: 1 narrow rectangle, 1 wide square.](assets/asset-036-spacing-adjusts-for-components-such-as-cards-lists-b0516c1c5e.png)
+![2 cards with optimized space: 1 narrow rectangle, 1 wide square.](assets/asset-036-spacing-adjusts-for-components-such-as-cards-lists-b0516c1c5e.webp)
 
 *Spacing adjusts for components such as cards, lists, and images*
 
-![2 examples of the same card: 1 vertical with an image at the top, 1 horizontal with an image on the left.](assets/asset-037-example-of-the-same-card-with-two-different-574bc70eaf.png)
+![2 examples of the same card: 1 vertical with an image at the top, 1 horizontal with an image on the left.](assets/asset-037-example-of-the-same-card-with-two-different-574bc70eaf.webp)
 
 *Example of the same card with two different orientations and element positioning*
 
@@ -276,7 +276,7 @@ In mobile layouts, components such as lists (Lists are continuous, vertical inde
 
 Avoid extending UI elements across the screen when possible. On larger screens, rearrange groups of related cards into horizontal rows or carousels (Carousels show a collection of items that can be scrolled on and off the screen. [More on carousels](https://m3.material.io/m3/pages/carousel/overview)), to allow for better content organization.
 
-![3 related cards in a carousel.](assets/asset-038-when-designing-for-large-screens-use-multiple-columns-59238b4b3f.png)
+![3 related cards in a carousel.](assets/asset-038-when-designing-for-large-screens-use-multiple-columns-59238b4b3f.webp)
 
 *When designing for large screens, use multiple columns to display content*
 

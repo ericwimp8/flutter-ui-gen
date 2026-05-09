@@ -14,11 +14,11 @@ People should be able to do the following using assistive technology:
 
 Ensure the icon has contrast of at least 3:1 with the surface or background.
 
-![Icon button with correct contrast ratio.](assets/asset-001-do-icon-buttons-should-have-a-3-1-f6332be171.png)
+![Icon button with correct contrast ratio.](assets/asset-001-do-icon-buttons-should-have-a-3-1-f6332be171.webp)
 
 *Do Icon buttons should have a 3:1 contrast ratio with the surface or background*
 
-![Icon button with insufficient contrast ratio.](assets/asset-002-don-t-avoid-using-colors-with-contrast-below-a05e848bd0.png)
+![Icon button with insufficient contrast ratio.](assets/asset-002-don-t-avoid-using-colors-with-contrast-below-a05e848bd0.webp)
 
 *Don’t Avoid using colors with contrast below 3:1*
 
@@ -33,7 +33,7 @@ Ensure the icon has contrast of at least 3:1 with the surface or background.
 
 The accessibility label for icon buttons describes the action the button is executing, such as Add to favorites, Bookmark, or Send message.
 
-![Icon button label and role.](assets/asset-003-the-icon-button-label-describes-the-action-such-5c6ca419c7.png)
+![Icon button label and role.](assets/asset-003-the-icon-button-label-describes-the-action-such-5c6ca419c7.webp)
 
 *The icon button label describes the action, such as Add to favorites for the heart icon*
 
@@ -41,7 +41,7 @@ The accessibility label for icon buttons describes the action the button is exec
 
 Groups of similar components can be nested together inside a component, or they can stand alone. The target size of each icon button should be at least 48dp, even when nested.
 
-![Icon buttons with 48dp target sizes.](assets/asset-004-icon-buttons-can-be-used-within-other-components-2da627fa53.png)
+![Icon buttons with 48dp target sizes.](assets/asset-004-icon-buttons-can-be-used-within-other-components-2da627fa53.webp)
 
 *Icon buttons can be used within other components, such as an app bar*
 
@@ -55,6 +55,6 @@ Provide density options that allow people to choose a higher density, such as se
 
 On web, icon buttons should display a tooltip with an accessibility label.
 
-![“Heart” icon with "Add to favorites" tooltip on hover.](assets/asset-005-the-tooltip-label-text-should-be-clear-and-3dcd6e4ade.png)
+![“Heart” icon with "Add to favorites" tooltip on hover.](assets/asset-005-the-tooltip-label-text-should-be-clear-and-3dcd6e4ade.webp)
 
 *The tooltip label text should be clear and concise*

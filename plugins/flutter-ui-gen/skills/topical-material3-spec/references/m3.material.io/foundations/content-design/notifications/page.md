@@ -9,17 +9,17 @@ Notifications should:
 - Give users easy controls to opt out
 - Not be used to send unsolicited ads
 
-![Notifications](assets/asset-001-notifications-029e838c4e.png)
+![Notifications](assets/asset-001-notifications-029e838c4e.webp)
 
 ### Put important information at the top
 
 Put the most important info at the beginning and make it easy to understand. People skim rather than read, often in an F shape. When it makes sense, try to move the most critical information to the front of sentences, rather than the end, where it may get overlooked or truncated.
 
-![Three notifications from Google apps that include the point of the notification in the header.](assets/asset-002-do-prioritize-the-most-important-information-16318412a2.png)
+![Three notifications from Google apps that include the point of the notification in the header.](assets/asset-002-do-prioritize-the-most-important-information-16318412a2.webp)
 
 *Do Prioritize the most important information*
 
-![Three notifications from Google apps that include app names repeated in the header, instead of important information.](assets/asset-003-don-t-don-t-waste-characters-on-app-425aaf62ca.png)
+![Three notifications from Google apps that include app names repeated in the header, instead of important information.](assets/asset-003-don-t-don-t-waste-characters-on-app-425aaf62ca.webp)
 
 *Don’t Don't waste characters on app names, niceties, or unimportant information*
 
@@ -27,11 +27,11 @@ Put the most important info at the beginning and make it easy to understand. Peo
 
 If you’re prompting someone to take action, make that clear. CTAs should be concise, specific, and actionable. If you know what motivates people to take action, add it.
 
-![Two notifications from Google maps that include actionable information in the header.](assets/asset-004-do-clearly-guide-the-user-to-their-next-921d56f5ca.png)
+![Two notifications from Google maps that include actionable information in the header.](assets/asset-004-do-clearly-guide-the-user-to-their-next-921d56f5ca.webp)
 
 *Do Clearly guide the user to their next action*
 
-![Two notifications from Google apps with non-actionable headers.](assets/asset-005-don-t-don-t-bury-next-steps-a3faadafd7.png)
+![Two notifications from Google apps with non-actionable headers.](assets/asset-005-don-t-don-t-bury-next-steps-a3faadafd7.webp)
 
 *Don’t Don't bury next steps*
 
@@ -39,11 +39,11 @@ If you’re prompting someone to take action, make that clear. CTAs should be co
 
 A notification shouldn’t be sent to everyone. The more you broaden the audience and the message for a notification, the more you risk being irrelevant. Consider user segments, in-app behavior, and personalized information to make sure notifications go to people who will benefit most from them.
 
-![A Google maps notification in Memphis, TN that’s personalized to the user’s location downtown.](assets/asset-006-do-be-specific-to-capture-user-attention-18a7e8c288.png)
+![A Google maps notification in Memphis, TN that’s personalized to the user’s location downtown.](assets/asset-006-do-be-specific-to-capture-user-attention-18a7e8c288.webp)
 
 *Do Be specific to capture user attention*
 
-![A Google maps notification in Memphis, TN that’s generic to the city, rather than the area.](assets/asset-007-don-t-be-so-generic-as-to-lose-96ce95e806.png)
+![A Google maps notification in Memphis, TN that’s generic to the city, rather than the area.](assets/asset-007-don-t-be-so-generic-as-to-lose-96ce95e806.webp)
 
 *Don’t be so generic as to lose value*
 
@@ -51,11 +51,11 @@ A notification shouldn’t be sent to everyone. The more you broaden the audienc
 
 Dynamic text are words that are implemented by engineering to change based on the user or context, like adding a user’s campaign name to headline or “good afternoon” when users log in at certain times. Try not to use dynamic text in notifications. It often breaks character limits, especially in headlines when translated. Text that gets truncated in the headline will not expand, even in expandable notifications. If you must use dynamic text in the headline, try to pair it with no more than one additional word. Create a backup notification that fits the character count when your primary notification won’t.
 
-![Two notifications, one with dynamic text in the body, and the other with dynamic text in the header that’s formatted to always be short.](assets/asset-008-do-place-dynamic-text-in-the-notification-body-8bf15c1ba7.png)
+![Two notifications, one with dynamic text in the body, and the other with dynamic text in the header that’s formatted to always be short.](assets/asset-008-do-place-dynamic-text-in-the-notification-body-8bf15c1ba7.webp)
 
 *Do Place dynamic text in the notification body, where there is more space. If you place dynamic text in the title, keep it very short.*
 
-![Two notifications with dynamic text in the header that’s too long and truncates.](assets/asset-009-don-t-place-dynamic-text-in-a-long-5d539b55e2.png)
+![Two notifications with dynamic text in the header that’s too long and truncates.](assets/asset-009-don-t-place-dynamic-text-in-a-long-5d539b55e2.webp)
 
 *Don’t place dynamic text in a long notification title*
 
@@ -70,7 +70,7 @@ Stay within these suggested character counts so text doesn’t get cut off:
 
 There’s more room for text on later versions of Android, but these limits are still recommended to prevent truncation on smaller devices.
 
-![A short, relevant, and informative notification.](assets/asset-010-do-keep-notifications-short-and-information-dense-72820af6a1.png)
+![A short, relevant, and informative notification.](assets/asset-010-do-keep-notifications-short-and-information-dense-72820af6a1.webp)
 
 *Do Keep notifications short and information-dense*
 
@@ -83,11 +83,11 @@ SMS helps users get messages when they might not have access to their Google Acc
 
 If translation is needed, let translators know about the character limits in the message description.
 
-![An SMS notification that’s brief and truncates sensitive information.](assets/asset-011-do-sms-messages-should-be-brief-and-important-c6af4b36d3.png)
+![An SMS notification that’s brief and truncates sensitive information.](assets/asset-011-do-sms-messages-should-be-brief-and-important-c6af4b36d3.webp)
 
 *Do SMS messages should be brief and important*
 
-![An SMS notification that’s too long with too many links.](assets/asset-012-don-t-use-full-emails-or-website-links-84f838be94.png)
+![An SMS notification that’s too long with too many links.](assets/asset-012-don-t-use-full-emails-or-website-links-84f838be94.webp)
 
 *Don’t use full emails or website links for text length*
 
@@ -95,11 +95,11 @@ If translation is needed, let translators know about the character limits in the
 
 Use emoji sparingly. Many don’t translate and aren’t universally understood across cultures. Experiments show that face and hand gesture emoji perform better than generic emoji because they tell a better story. Emoji should enhance content, not replace it. Since it’s not clear to users whether emoji mean we’re sympathizing with them or attempting to project our feelings onto them, don’t use emoji to accentuate bad news. In experiments, there was a strong negative reaction to negative emoji, such as frowning face, anguished face, and weary face. Gen Z adds another cultural nuance to emoji by [inventing new meanings](https://www.textnow.com/blog/the-next-generation-of-emojis-gen-z-explained/) that go beyond the official or literal [definitions](https://emojipedia.org/).
 
-![A notification about coffee with a coffee emoji at the end of the header.](assets/asset-013-do-use-emoji-only-to-enhance-a-message-0d0734550a.png)
+![A notification about coffee with a coffee emoji at the end of the header.](assets/asset-013-do-use-emoji-only-to-enhance-a-message-0d0734550a.webp)
 
 *Do Use emoji only to enhance a message*
 
-![A notification about high traffic volume on a route to work that uses upset emoji. A notification about coffee that substitutes a coffee emoji for the word “coffee.”](assets/asset-014-don-t-add-negative-emotions-to-a-message-eed6df566b.png)
+![A notification about high traffic volume on a route to work that uses upset emoji. A notification about coffee that substitutes a coffee emoji for the word “coffee.”](assets/asset-014-don-t-add-negative-emotions-to-a-message-eed6df566b.webp)
 
 *Don’t add negative emotions to a message. Don’t replace words with emoji.*
 
@@ -107,11 +107,11 @@ Use emoji sparingly. Many don’t translate and aren’t universally understood 
 
 What seems funny or cute may not come across that way. When vying for limited user attention, be useful. Don’t focus on delight: delicately added and tested polish can better support Google’s brand.
 
-![A notification that’s short and effective](assets/asset-015-do-prioritize-straightforward-and-useful-messages-88f2b5f937.png)
+![A notification that’s short and effective](assets/asset-015-do-prioritize-straightforward-and-useful-messages-88f2b5f937.webp)
 
 *Do Prioritize straightforward and useful messages*
 
-![A notification that’s meant to be funny, but comes across as creepy where the application calls the user “human.”](assets/asset-016-don-t-jokes-aren-t-appropriate-for-notifications-a170e08bcb.png)
+![A notification that’s meant to be funny, but comes across as creepy where the application calls the user “human.”](assets/asset-016-don-t-jokes-aren-t-appropriate-for-notifications-a170e08bcb.webp)
 
 *Don’t Jokes aren’t appropriate for notifications*
 
@@ -119,11 +119,11 @@ What seems funny or cute may not come across that way. When vying for limited us
 
 Use the days of the week. Don’t use “today,” “tomorrow,” “tonight,” or similar words. About 20% of users don’t see notifications on the day they’re sent, so “tomorrow” might be read when it’s “today” for the user. An exception is when a notification auto-dismisses at a specific timestamp.
 
-![Be day-specific](assets/asset-017-do-specify-the-day-of-the-week-so-fb4d7e3c34.png)
+![Be day-specific](assets/asset-017-do-specify-the-day-of-the-week-so-fb4d7e3c34.webp)
 
 *Do Specify the day of the week so that it makes sense if someone reads it the following day*
 
-![Be day-specific](assets/asset-018-don-t-use-relative-terms-like-today-or-1ead957579.png)
+![Be day-specific](assets/asset-018-don-t-use-relative-terms-like-today-or-1ead957579.webp)
 
 *Don’t use relative terms like “today” or “tomorrow”*
 
@@ -131,7 +131,7 @@ Use the days of the week. Don’t use “today,” “tomorrow,” “tonight,�
 
 If you have notifications or emails related to the onboarding process, make sure they don’t trigger during onboarding.
 
-![Don’t interrupt the flow](assets/asset-019-don-t-don-t-prompt-the-user-with-9f9aaa097c.png)
+![Don’t interrupt the flow](assets/asset-019-don-t-don-t-prompt-the-user-with-9f9aaa097c.webp)
 
 *Don’t Don't prompt the user with a notification or email that might interrupt an important moment*
 
@@ -139,11 +139,11 @@ If you have notifications or emails related to the onboarding process, make sure
 
 An app’s name or logo is already included in a notification’s design. Use the limited space for other information.
 
-![Don’t name the product (again)](assets/asset-020-do-use-the-available-space-for-useful-information-f3e5c551e6.png)
+![Don’t name the product (again)](assets/asset-020-do-use-the-available-space-for-useful-information-f3e5c551e6.webp)
 
 *Do Use the available space for useful information*
 
-![Don’t name the product (again)](assets/asset-021-don-t-waste-space-repeating-information-that-is-150ddc663d.png)
+![Don’t name the product (again)](assets/asset-021-don-t-waste-space-repeating-information-that-is-150ddc663d.webp)
 
 *Don’t waste space repeating information that is already included by the OS*
 
@@ -151,6 +151,6 @@ An app’s name or logo is already included in a notification’s design. Use th
 
 Give users a way to opt-out of notifications in context. If you don’t, they’ll have to dig into settings and may get frustrated. If you do offer opt-outs or opt-ins, make it clear what benefit the user is getting or losing.
 
-![Opting in and out](assets/asset-022-do-make-it-easy-for-users-to-start-6426e55f14.png)
+![Opting in and out](assets/asset-022-do-make-it-easy-for-users-to-start-6426e55f14.webp)
 
 *Do Make it easy for users to start or stop receiving notifications*

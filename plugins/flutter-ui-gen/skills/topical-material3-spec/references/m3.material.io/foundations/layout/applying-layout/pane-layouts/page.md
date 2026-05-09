@@ -21,13 +21,13 @@ Panes can be:
 
 All layouts need at least one flexible pane.
 
-![Fixed and flexible panes of a screen.](assets/asset-001-fixed-pane-flexible-pane-7cab0dd863.png)
+![Fixed and flexible panes of a screen.](assets/asset-001-fixed-pane-flexible-pane-7cab0dd863.webp)
 
 *Fixed pane; Flexible pane*
 
 Panes can be permanent or temporary. Temporary panes can appear and be dismissed when necessary, affecting the layout and size of other panes.
 
-![Fixed and flexible panes of a screen.](assets/asset-002-panes-can-be-displayed-permanently-side-by-side-39a3183ef5.png)
+![Fixed and flexible panes of a screen.](assets/asset-002-panes-can-be-displayed-permanently-side-by-side-39a3183ef5.webp)
 
 *Panes can be displayed permanently side by side*
 
@@ -39,7 +39,7 @@ Panes can be permanent or temporary. Temporary panes can appear and be dismissed
 
 Single-pane layouts use one flexible pane that extends to the available space in a layout’s width. They can be used in any window size, but are recommended for compact and medium window sizes.
 
-![A mobile screen with a single pane inside a window.](assets/asset-004-a-single-flexible-pane-adapts-to-any-window-23c3e2045b.png)
+![A mobile screen with a single pane inside a window.](assets/asset-004-a-single-flexible-pane-adapts-to-any-window-23c3e2045b.webp)
 
 *A single flexible pane adapts to any window size*
 
@@ -51,13 +51,13 @@ A split-pane layout keeps the spacer visually centered. It’s best for foldable
 
 When a navigation rail or drawer is present, it only reduces the size of one pane. The other pane remains at 50% of the window width.
 
-![Two flexible panes layout.](assets/asset-005-the-navigation-and-first-pane-are-50-of-d1e39345ad.png)
+![Two flexible panes layout.](assets/asset-005-the-navigation-and-first-pane-are-50-of-d1e39345ad.webp)
 
 *The navigation and first pane are 50% of the window width to keep the spacer visually centered*
 
 With a navigation bar, or no navigation, both panes span 50% of the window width by default.
 
-![Two flexible panes at 50% width, with a navigation bar below them spanning the whole window.](assets/asset-006-with-no-navigation-rail-visible-split-pane-layouts-303794c52d.png)
+![Two flexible panes at 50% width, with a navigation bar below them spanning the whole window.](assets/asset-006-with-no-navigation-rail-visible-split-pane-layouts-303794c52d.webp)
 
 *With no navigation rail visible, split-pane layouts set each pane to 50% width by default*
 
@@ -67,7 +67,7 @@ This layout is common for expanded, large, and extra-large windows. The fixed an
 
 The fixed pane is often temporary, and used for side sheets or lists with light information density.
 
-![Fixed and flexible panes arranged 2 different ways.](assets/asset-007-fixed-pane-flexible-pane-5766b51541.png)
+![Fixed and flexible panes arranged 2 different ways.](assets/asset-007-fixed-pane-flexible-pane-5766b51541.webp)
 
 *Fixed pane; Flexible pane*
 
@@ -75,7 +75,7 @@ The fixed pane is often temporary, and used for side sheets or lists with light 
 
 While less common, the extra-large window size class supports using a standard side sheet (Standard side sheets display content without blocking access to the screen’s primary content, such as an audio player at the side of a music app. They're often used in medium and expanded window sizes like tablet or desktop. [More on side sheets](https://m3.material.io/m3/pages/side-sheets/overview)) as a third pane. When the side sheet is present, the navigation drawer can remain visible, collapse into a navigation rail, or hide completely. Don't use more than three panes. Note: Fixed panes in this window size are recommended to be 412dp, but side sheets have a default maximum width of 400dp.
 
-![Extra large window with two panes and a side sheet acting as a third pane.](assets/asset-008-standard-side-sheet-as-a-third-pane-fdaedbc030.png)
+![Extra large window with two panes and a side sheet acting as a third pane.](assets/asset-008-standard-side-sheet-as-a-third-pane-fdaedbc030.webp)
 
 *Standard side sheet as a third pane*
 
@@ -136,15 +136,15 @@ With temporary resizing, panes should always return to the default layout after 
 
 There are three ways that multiple panes can be displayed in a layout: co-planar, floating, or docked. Choose the method best for each window size class.
 
-![A foldable open screen with 2 co-planar panes displayed side by side.](assets/asset-015-co-planar-panes-are-displayed-side-by-side-6940c9ebcc.png)
+![A foldable open screen with 2 co-planar panes displayed side by side.](assets/asset-015-co-planar-panes-are-displayed-side-by-side-6940c9ebcc.webp)
 
 *Co-planar: Panes are displayed side by side*
 
-![A foldable open screen with a floating pane displayed above other elements.](assets/asset-016-floating-a-pane-is-displayed-above-other-panes-28de207965.png)
+![A foldable open screen with a floating pane displayed above other elements.](assets/asset-016-floating-a-pane-is-displayed-above-other-panes-28de207965.webp)
 
 *Floating: A pane is displayed above other panes or content, like a dialog*
 
-![A foldable open screen with a docked pane to the bottom of the screen displayed above other elements.](assets/asset-017-docked-a-pane-is-displayed-above-other-panes-cfb1e77c65.png)
+![A foldable open screen with a docked pane to the bottom of the screen displayed above other elements.](assets/asset-017-docked-a-pane-is-displayed-above-other-panes-cfb1e77c65.webp)
 
 *Docked: A pane is displayed above other panes and one of its edges extends beyond one side of the screen, like a bottom sheet*
 
@@ -172,7 +172,7 @@ Floating panes appear in front of the body content, and can be customized to be 
 
 On large screens, the scrim behind a floating pane is optional.
 
-![Two ways of showing floating panes on large screens.](assets/asset-020-floating-pane-with-a-scrim-floating-pane-without-d9c96b63d1.png)
+![Two ways of showing floating panes on large screens.](assets/asset-020-floating-pane-with-a-scrim-floating-pane-without-d9c96b63d1.webp)
 
 *Floating pane with a scrim; Floating pane without a scrim*
 
@@ -192,7 +192,7 @@ Alternatively, in medium and expanded window sizes, a docked pane can adapt into
 
 On large screens, docked panes can remain docked or become co-planar.
 
-![A docked and co-planar pane.](assets/asset-023-docked-pane-co-planar-pane-c0377a6139.png)
+![A docked and co-planar pane.](assets/asset-023-docked-pane-co-planar-pane-c0377a6139.webp)
 
 *Docked pane; Co-planar pane*
 
@@ -216,7 +216,7 @@ On XR devices, pane layouts can be presented in disconnected spatial panels (In 
 
 The content in a spatial pane may use implicit grouping (Implicit grouping uses close proximity and open space to group related items.) when the pane has an explicit container to distinguish it from the environment.
 
-![Two-pane layout in a spatialized environment, with no background.](assets/asset-026-when-the-pane-uses-explicit-containment-content-can-d3e9f811d7.png)
+![Two-pane layout in a spatialized environment, with no background.](assets/asset-026-when-the-pane-uses-explicit-containment-content-can-d3e9f811d7.webp)
 
 *When the pane uses explicit containment, content can use implicit grouping*
 

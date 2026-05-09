@@ -4,7 +4,7 @@ Source: https://m3.material.io/components/extended-fab/specs
 
 ## Variants
 
-![3 variants of extended FABs.](assets/asset-001-small-extended-fab-medium-extended-fab-large-extended-612e288e83.png)
+![3 variants of extended FABs.](assets/asset-001-small-extended-fab-medium-extended-fab-large-extended-612e288e83.webp)
 
 *Small extended FAB; Medium extended FAB; Large extended FAB*
 
@@ -12,7 +12,7 @@ Source: https://m3.material.io/components/extended-fab/specs
 
 The baseline extended FAB is no longer recommended in the M3 expressive update. Use a small extended FAB; the type style was updated from label large to title medium, and the inner padding was reduced. [View baseline extended FAB specs](https://m3.material.io/m3/pages/extended-fab/specs#01e114e6-8c3d-4d39-9376-65aa5c10e01b)
 
-![1 baseline extended FAB.](assets/asset-002-extended-fab-6de6b307e0.png)
+![1 baseline extended FAB.](assets/asset-002-extended-fab-6de6b307e0.webp)
 
 *Extended FAB*
 
@@ -32,7 +32,7 @@ Use the table's menu to select a token set. Extended FAB tokens are organized by
 
 ## Anatomy
 
-![3 elements of extended FABs.](assets/asset-003-container-label-text-icon-e09012591e.png)
+![3 elements of extended FABs.](assets/asset-003-container-label-text-icon-e09012591e.webp)
 
 *Container; Label text; Icon*
 
@@ -44,7 +44,7 @@ Color values are implemented through design tokens. For design, this means worki
 
 Extended FABs can use several combinations of color and on color styles, such as primary and on primary. The following color mappings provide the same level of contrast and functionality, so choose a color mapping based on visual preference.
 
-![6 extended FAB color styles.](assets/asset-004-primary-container-on-primary-container-default-secondary-container-2577443eea.png)
+![6 extended FAB color styles.](assets/asset-004-primary-container-on-primary-container-default-secondary-container-2577443eea.webp)
 
 *Primary container & on primary container (default); Secondary container & on secondary container; Tertiary container & on tertiary container; Primary & on primary; Secondary & on secondary; Tertiary & on tertiary*
 
@@ -52,7 +52,7 @@ Extended FABs can use several combinations of color and on color styles, such as
 
 Extended FABs should no longer use surface color styles. They’re still available, but not recommended.
 
-![1 baseline extended FAB color style.](assets/asset-005-surface-container-fab-2768acc15b.png)
+![1 baseline extended FAB color style.](assets/asset-005-surface-container-fab-2768acc15b.webp)
 
 *Surface container FAB*
 
@@ -62,33 +62,33 @@ States are visual representations used to communicate the status of a component 
 
 When using a non-default color mapping for extended FABs, make sure the state layer color is the same as the icon color. For example, the state layer color for primary mapping should be md.sys.color.primary.
 
-![4 states of extended FABs.](assets/asset-006-enabled-hovered-elevation-4-focused-pressed-e95ac56fe4.png)
+![4 states of extended FABs.](assets/asset-006-enabled-hovered-elevation-4-focused-pressed-e95ac56fe4.webp)
 
 *Enabled; Hovered - elevation 4; Focused; Pressed*
 
 ## Measurements
 
-![Extended FAB padding and size measurements.](assets/asset-007-size-and-padding-measurements-of-the-small-medium-f2e2d12cc5.png)
+![Extended FAB padding and size measurements.](assets/asset-007-size-and-padding-measurements-of-the-small-medium-f2e2d12cc5.webp)
 
 *Size and padding measurements of the small, medium, and large extended FABs*
 
-![Extended FAB margin measurements.](assets/asset-008-extended-fabs-should-have-margins-of-16dp-112f2b19b8.png)
+![Extended FAB margin measurements.](assets/asset-008-extended-fabs-should-have-margins-of-16dp-112f2b19b8.webp)
 
 *Extended FABs should have margins of 16dp*
 
 ## Baseline extended FAB
 
-![3 elements of baseline extended FAB.](assets/asset-009-container-label-text-icon-b4a72eb88a.png)
+![3 elements of baseline extended FAB.](assets/asset-009-container-label-text-icon-b4a72eb88a.webp)
 
 *Container; Label text; Icon*
 
 ### Baseline configurations
 
-![Baseline extended FAB with icon.](assets/asset-010-with-icon-309dad53cc.png)
+![Baseline extended FAB with icon.](assets/asset-010-with-icon-309dad53cc.webp)
 
 *With icon*
 
-![Baseline extended FAB without icon.](assets/asset-011-without-icon-3f0d64a178.png)
+![Baseline extended FAB without icon.](assets/asset-011-without-icon-3f0d64a178.webp)
 
 *Without icon*
 
@@ -104,7 +104,7 @@ Use the table's menu to select a token set. The baseline extended FAB token sets
 
 Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](https://m3.material.io/m3/pages/design-tokens/overview/)
 
-![3 baseline extended FAB color roles.](assets/asset-012-primary-container-shadow-on-primary-container-on-primary-51dddab3fc.png)
+![3 baseline extended FAB color roles.](assets/asset-012-primary-container-shadow-on-primary-container-on-primary-51dddab3fc.webp)
 
 *Primary container + shadow; On primary container; On primary container*
 
@@ -112,7 +112,7 @@ Color values are implemented through design tokens. For design, this means worki
 
 Extended FABs can use other combinations of container and icon colors. The color mappings below provide the same legibility and functionality as the default, so the color mapping you use depends on style alone.
 
-![3 deprecated extended FABs with different container and icon colors.](assets/asset-013-extended-fabs-can-use-different-combinations-of-container-50e478563c.png)
+![3 deprecated extended FABs with different container and icon colors.](assets/asset-013-extended-fabs-can-use-different-combinations-of-container-50e478563c.webp)
 
 *Extended FABs can use different combinations of container and icon colors*
 
@@ -120,17 +120,17 @@ Extended FABs can use other combinations of container and icon colors. The color
 
 States are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](https://m3.material.io/m3/pages/interaction-states)
 
-![4 states of baseline extended FAB.](assets/asset-014-enabled-hovered-focused-pressed-fe82fa2ad0.png)
+![4 states of baseline extended FAB.](assets/asset-014-enabled-hovered-focused-pressed-fe82fa2ad0.webp)
 
 *Enabled; Hovered; Focused; Pressed*
 
 ### Baseline measurements
 
-![Margins of baseline extended FAB.](assets/asset-015-extended-fabs-have-a-padding-of-16dp-9568a3e467.png)
+![Margins of baseline extended FAB.](assets/asset-015-extended-fabs-have-a-padding-of-16dp-9568a3e467.webp)
 
 *Extended FABs have a padding of 16dp*
 
-![Size of baseline extended FAB while on screen.](assets/asset-016-extended-fab-height-width-and-icon-size-21bf43ac4b.png)
+![Size of baseline extended FAB while on screen.](assets/asset-016-extended-fab-height-width-and-icon-size-21bf43ac4b.webp)
 
 *Extended FAB height, width, and icon size*
 

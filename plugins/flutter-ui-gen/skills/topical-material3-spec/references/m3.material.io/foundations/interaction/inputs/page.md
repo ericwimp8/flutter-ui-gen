@@ -5,7 +5,7 @@ Source: https://m3.material.io/foundations/interaction/inputs
 - Design for touch, keyboard, and mouse interactions
 - Embrace multiple input methods and gestures within your app
 
-![Editing interface on a large screen device. The selected text is highlighted and the text cursor is visible.](assets/asset-001-designing-for-inputs-allows-people-to-use-the-bf8d05c6f1.png)
+![Editing interface on a large screen device. The selected text is highlighted and the text cursor is visible.](assets/asset-001-designing-for-inputs-allows-people-to-use-the-bf8d05c6f1.webp)
 
 *Designing for inputs allows people to use the inputs they prefer, like a mouse to highlight text on a tablet*
 
@@ -33,11 +33,11 @@ People can use external inputs like a mouse, keyboard, or stylus with their phon
 - Media keys
 - Modifier keys
 
-![Image of a mouse.](assets/asset-002-image-of-a-mouse-8464c6d55b.png)
+![Image of a mouse.](assets/asset-002-image-of-a-mouse-8464c6d55b.webp)
 
-![Image of a laptop keyboard and trackpad.](assets/asset-003-image-of-a-laptop-keyboard-and-trackpad-f0a6f71268.png)
+![Image of a laptop keyboard and trackpad.](assets/asset-003-image-of-a-laptop-keyboard-and-trackpad-f0a6f71268.webp)
 
-![Image of a keyboard.](assets/asset-004-image-of-a-keyboard-b41866caf6.png)
+![Image of a keyboard.](assets/asset-004-image-of-a-keyboard-b41866caf6.webp)
 
 ### Input device behaviors
 
@@ -62,7 +62,7 @@ When an external mouse input device is used, a mouse cursor should be shown, reg
 
 A mouse click or stylus tap should demonstrate the same feedback as touch input. One example of this is showing the ripple for a pressed state.
 
-![A view of a display with a visible mouse cursor.](assets/asset-005-a-visible-mouse-cursor-is-seen-when-the-b997c628e2.png)
+![A view of a display with a visible mouse cursor.](assets/asset-005-a-visible-mouse-cursor-is-seen-when-the-b997c628e2.webp)
 
 *A visible mouse cursor is seen when the external input is connected*
 
@@ -72,7 +72,7 @@ A mouse click or stylus tap should demonstrate the same feedback as touch input.
 
 A secondary click (whether using a single button or two fingers on a trackpad) should activate a context menu. The context menu shows additional options for the object that's clicked. See [menus](https://m3.material.io/m3/pages/menus/overview) for more usage and guidelines.
 
-![A context menu pop up from a link with the options: Open link in new window, Save link as, Copy link location, and Inspect.](assets/asset-006-the-context-menu-should-appear-when-right-clicking-6e05c8e6bd.png)
+![A context menu pop up from a link with the options: Open link in new window, Save link as, Copy link location, and Inspect.](assets/asset-006-the-context-menu-should-appear-when-right-clicking-6e05c8e6bd.webp)
 
 *The context menu should appear when right clicking with a mouse or trackpad*
 
@@ -80,7 +80,7 @@ A secondary click (whether using a single button or two fingers on a trackpad) s
 
 When using a mouse cursor, help users discover interactive objects by enabling visual changes. When the mouse rests on an interactive element, the hover state is a valuable cue for interaction. See [states](https://m3.material.io/m3/pages/interaction-states/applying-states#71c347c2-dd75-485b-892e-04d2900bd844) for styles and guidelines. Hovering with a cursor (or stylus) should also invoke tooltips when applicable. See [tooltips](https://m3.material.io/m3/pages/tooltips/overview) for guidance.
 
-![Icon button, floating action button, and menu items in their hovered and not hovered states.](assets/asset-007-components-without-a-hover-state-components-with-a-703546c761.png)
+![Icon button, floating action button, and menu items in their hovered and not hovered states.](assets/asset-007-components-without-a-hover-state-components-with-a-703546c761.webp)
 
 *Components without a hover state; Components with a hover state change applied*
 
@@ -92,7 +92,7 @@ Cursors appear when using external input devices like a mouse or trackpad. The c
 
 By default, external input control should be rendered as a pointer.
 
-![A cursor rendered as a pointer.](assets/asset-008-a-pointer-provides-a-visible-indicator-for-input-f5ce2a2937.png)
+![A cursor rendered as a pointer.](assets/asset-008-a-pointer-provides-a-visible-indicator-for-input-f5ce2a2937.webp)
 
 *A pointer provides a visible indicator for input controls*
 
@@ -100,7 +100,7 @@ By default, external input control should be rendered as a pointer.
 
 The cursor should appear as a hand to indicate links or linked images.
 
-![A link cursor (hand) shown when hovering over a linked image.](assets/asset-009-the-hand-cursor-is-used-for-links-and-302518051a.png)
+![A link cursor (hand) shown when hovering over a linked image.](assets/asset-009-the-hand-cursor-is-used-for-links-and-302518051a.webp)
 
 *The hand cursor is used for links and clickable images*
 
@@ -108,7 +108,7 @@ The cursor should appear as a hand to indicate links or linked images.
 
 The cursor should change to resize arrows on the boundaries of resizable elements.
 
-![A cursor at the edge of the screen as resize arrows.](assets/asset-010-resize-arrows-indicate-an-element-can-be-resized-09cf9abc63.png)
+![A cursor at the edge of the screen as resize arrows.](assets/asset-010-resize-arrows-indicate-an-element-can-be-resized-09cf9abc63.webp)
 
 *Resize arrows indicate an element can be resized*
 
@@ -121,7 +121,7 @@ The cursor should appear as an I-beam when hovering on text. When manipulating e
 - Triple click selects a paragraph
 - Single click deselects text and repositions the cursor
 
-![I-beam cursor hovering over selectable text.](assets/asset-011-an-i-beam-cursor-indicates-selectable-text-40a57dca10.png)
+![I-beam cursor hovering over selectable text.](assets/asset-011-an-i-beam-cursor-indicates-selectable-text-40a57dca10.webp)
 
 *An I-beam cursor indicates selectable text*
 
@@ -132,7 +132,7 @@ When selecting text using a mouse, trackpad, or stylus:
 - Highlight the selected area using a single color
 - Don’t show touch controls next to the highlighted area
 
-![Highlighted text in a single color.](assets/asset-012-selected-text-shows-a-visible-highlight-59ebd76734.png)
+![Highlighted text in a single color.](assets/asset-012-selected-text-shows-a-visible-highlight-59ebd76734.webp)
 
 *Selected text shows a visible highlight*
 
@@ -140,11 +140,11 @@ When selecting text using a mouse, trackpad, or stylus:
 
 When interacting using touch, always show touch controls, even if other inputs are connected. When using a mouse, trackpad, or stylus, show the I-beam and context menu, even if it's a touch device.
 
-![Touch controls are produced on selected text, with mouse and trackpad detected.](assets/asset-013-when-using-a-touchscreen-to-select-text-show-b375eae266.png)
+![Touch controls are produced on selected text, with mouse and trackpad detected.](assets/asset-013-when-using-a-touchscreen-to-select-text-show-b375eae266.webp)
 
 *When using a touchscreen to select text, show touch controls*
 
-![Selected text with a context menu, with mouse and trackpad detected.](assets/asset-014-when-using-a-mouse-trackpad-or-stylus-to-63ed799878.png)
+![Selected text with a context menu, with mouse and trackpad detected.](assets/asset-014-when-using-a-mouse-trackpad-or-stylus-to-63ed799878.webp)
 
 *When using a mouse, trackpad, or stylus to select text, use the right-click context menu*
 
@@ -152,7 +152,7 @@ When interacting using touch, always show touch controls, even if other inputs a
 
 When using a stylus, cursors are usually not necessary, unless they communicate tool properties such as brush size or shape.
 
-![A cursor rendered as a circle.](assets/asset-015-the-circle-cursor-indicates-the-selected-stylus-tool-c2217a9f0d.png)
+![A cursor rendered as a circle.](assets/asset-015-the-circle-cursor-indicates-the-selected-stylus-tool-c2217a9f0d.webp)
 
 *The circle cursor indicates the selected stylus tool and size*
 
@@ -196,11 +196,11 @@ When a physical keyboard is connected to a device, either externally or as a bui
 
 A virtual keyboard should appear or hide in response to the presence of a physical keyboard.
 
-![Text being entered into a field with no on-screen keyboard displayed.](assets/asset-020-do-when-a-physical-keyboard-is-attached-hide-25e0ac34fa.png)
+![Text being entered into a field with no on-screen keyboard displayed.](assets/asset-020-do-when-a-physical-keyboard-is-attached-hide-25e0ac34fa.webp)
 
 *Do When a physical keyboard is attached, hide the virtual keyboard*
 
-![Text being entered into a field with an on-screen keyboard.](assets/asset-021-do-when-a-physical-keyboard-is-removed-show-b0d91275bd.png)
+![Text being entered into a field with an on-screen keyboard.](assets/asset-021-do-when-a-physical-keyboard-is-removed-show-b0d91275bd.webp)
 
 *Do When a physical keyboard is removed, show the virtual keyboard*
 
@@ -226,11 +226,11 @@ People typically expect the Spacebar (or available media keys) to be enabled to 
 
 When keyboard users navigate a page using Tab, the focus on interactive items must follow a logical order. On most pages, that means left to right, top to bottom. When focused from a keyboard or other input device, the focus state includes a ring-like keyboard focus indicator.
 
-![Tab focus is on “small,” which is one of four size options for sweatshirts at an online store.](assets/asset-024-tab-focus-includes-a-visible-keyboard-focus-indicator-1d70b20d26.png)
+![Tab focus is on “small,” which is one of four size options for sweatshirts at an online store.](assets/asset-024-tab-focus-includes-a-visible-keyboard-focus-indicator-1d70b20d26.webp)
 
 *Tab focus includes a visible keyboard focus indicator*
 
-![Tab focus is on “medium,” which is one of four size options for sweatshirts at an online store.](assets/asset-025-the-focus-state-moves-elements-as-the-user-c9b074832d.png)
+![Tab focus is on “medium,” which is one of four size options for sweatshirts at an online store.](assets/asset-025-the-focus-state-moves-elements-as-the-user-c9b074832d.webp)
 
 *The focus state moves elements as the user presses Tab on their keyboard*
 

@@ -4,7 +4,7 @@ Source: https://m3.material.io/styles/shape/corner-radius-scale
 
 Material components use a corner radius scale to define all rectangular shapes, such as buttons, carousels, and dialogs.
 
-![Illustration of range of shapes.](assets/asset-001-m3-defines-corner-radii-using-a-shape-scale-16f0f0e129.png)
+![Illustration of range of shapes.](assets/asset-001-m3-defines-corner-radii-using-a-shape-scale-16f0f0e129.webp)
 
 *M3 defines corner radii using a shape scale. This can be used to create both uniform and asymmetrical shapes.*
 
@@ -31,15 +31,15 @@ The Material 3 shape system uses a size-based scale with ten styles. Styles are 
 
 [Apply shape styles using tokens](https://m3.material.io/m3/pages/design-tokens/overview)
 
-![10 corner radii styles.](assets/asset-002-steps-on-the-scale-are-named-for-the-027653dc0d.png)
+![10 corner radii styles.](assets/asset-002-steps-on-the-scale-are-named-for-the-027653dc0d.webp)
 
 *Steps on the scale are named for the amount of roundedness applied to the corner*
 
-![Components illustrating the old 3-level shape scale.](assets/asset-003-m2-three-level-shape-scale-based-on-the-01fbf44811.png)
+![Components illustrating the old 3-level shape scale.](assets/asset-003-m2-three-level-shape-scale-based-on-the-01fbf44811.webp)
 
 *M2: Three-level shape scale based on the size of the component container*
 
-![Components illustrating the new 10-level shape scale.](assets/asset-004-m3-ten-level-shape-scale-based-on-the-9b9725925e.png)
+![Components illustrating the new 10-level shape scale.](assets/asset-004-m3-ten-level-shape-scale-based-on-the-9b9725925e.webp)
 
 *M3: Ten-level shape scale based on the roundedness of shape corners*
 
@@ -51,7 +51,7 @@ Both symmetric and asymmetric shapes use the same 10-step scale.
 
 Asymmetrical shapes are used in M3 components with closely-grouped items, such as menus and split buttons. These are called inner corners.
 
-![3 shapes illustrating symmetrical and asymmetrical styles.](assets/asset-005-inner-corner-component-tokens-always-map-to-individual-7c6a0a5156.png)
+![3 shapes illustrating symmetrical and asymmetrical styles.](assets/asset-005-inner-corner-component-tokens-always-map-to-individual-7c6a0a5156.webp)
 
 *Inner corner component tokens always map to individual corner shape tokens*
 
@@ -89,11 +89,11 @@ For example, a large cut corner on a card will clip content and images in the ar
 
 *Caution Be careful not to apply large or full corners to information-dense components, such as cards*
 
-![Carousel with images with rounded corners.](assets/asset-009-do-shapes-can-be-intentionally-rounder-to-add-19f7fc5345.png)
+![Carousel with images with rounded corners.](assets/asset-009-do-shapes-can-be-intentionally-rounder-to-add-19f7fc5345.webp)
 
 *Do Shapes can be intentionally rounder to add more visual variety*
 
-![Carousel with full rounded shapes.](assets/asset-010-do-add-unexpected-moments-by-switching-between-square-92be66a53d.png)
+![Carousel with full rounded shapes.](assets/asset-010-do-add-unexpected-moments-by-switching-between-square-92be66a53d.webp)
 
 *Do Add unexpected moments by switching between square and fully rounded shapes*
 
@@ -106,15 +106,15 @@ Instead, adjust the corner radii to be proportional to each other; this is calle
 - Outer radius - padding = inner radius
 - For example: 48dp - 14dp = 34dp
 
-![3 parts of corner radii to adjust.](assets/asset-011-padding-outer-radius-inner-radius-73bf396009.png)
+![3 parts of corner radii to adjust.](assets/asset-011-padding-outer-radius-inner-radius-73bf396009.webp)
 
 *Padding; Outer radius; Inner radius*
 
-![Nested carousel with optical roundness.](assets/asset-012-do-use-different-corner-radii-values-for-nested-85e70547a2.png)
+![Nested carousel with optical roundness.](assets/asset-012-do-use-different-corner-radii-values-for-nested-85e70547a2.webp)
 
 *Do Use different corner radii values for nested components so they have optical roundness*
 
-![Nested radii with the same roundness as its container.](assets/asset-013-don-t-avoid-using-the-same-corner-radius-43b8a25d4d.png)
+![Nested radii with the same roundness as its container.](assets/asset-013-don-t-avoid-using-the-same-corner-radius-43b8a25d4d.webp)
 
 *Don’t Avoid using the same corner radius value for nested objects*
 
@@ -124,6 +124,6 @@ The Material 3 shape library can be used to create more interesting containers. 
 
 Shapes should be used sparingly to provide a stronger emphasis and moments of delight.
 
-![Unexpected shapes in carousel.](assets/asset-014-leverage-the-material-shape-library-for-moments-of-e82446cb53.png)
+![Unexpected shapes in carousel.](assets/asset-014-leverage-the-material-shape-library-for-moments-of-e82446cb53.webp)
 
 *Leverage the Material shape library for moments of delight*

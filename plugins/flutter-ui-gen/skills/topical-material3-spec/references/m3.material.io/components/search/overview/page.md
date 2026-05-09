@@ -59,10 +59,10 @@ Supported platforms:
 - Name: Search was formerly known as open search bar
 - Variants: Two official variants of search components: search bar and search view
 
-![M2 open search bar.](assets/asset-003-m2-open-search-bars-were-square-and-elevated-ce188f9825.png)
+![M2 open search bar.](assets/asset-003-m2-open-search-bars-were-square-and-elevated-ce188f9825.webp)
 
 *M2 open search bars were square and elevated*
 
-![M3 search bar.](assets/asset-004-m3-search-bars-are-rounded-use-tonal-surface-1f78fdbabd.png)
+![M3 search bar.](assets/asset-004-m3-search-bars-are-rounded-use-tonal-surface-1f78fdbabd.webp)
 
 *M3 search bars are rounded, use tonal surface, and support dynamic color*

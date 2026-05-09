@@ -44,11 +44,11 @@ When the element is selected, an action is then performed.
 
 Focus should initially land on the leading button, since it’s the first interactive element of the app bar.
 
-![The tab button is used to navigate from the first button to the second button in the app bar.](assets/asset-004-use-tabs-to-navigate-through-interactive-items-4ffb94a104.png)
+![The tab button is used to navigate from the first button to the second button in the app bar.](assets/asset-004-use-tabs-to-navigate-through-interactive-items-4ffb94a104.webp)
 
 *Use Tabs to navigate through interactive items*
 
-![The space or enter button activates the second action.](assets/asset-005-use-space-or-enter-to-activate-actions-c73639f993.png)
+![The space or enter button activates the second action.](assets/asset-005-use-space-or-enter-to-activate-actions-c73639f993.webp)
 
 *Use Space or Enter to activate actions*
 
@@ -63,11 +63,11 @@ On darker backgrounds, search bar containers can use the surface bright role to 
 
 If mapping to other color roles, make sure the text and container have 3:1 contrast to ensure readability.
 
-![A search app bar with default dark text on a light container background.](assets/asset-006-do-make-sure-search-bars-and-their-labels-d3b6112bc8.png)
+![A search app bar with default dark text on a light container background.](assets/asset-006-do-make-sure-search-bars-and-their-labels-d3b6112bc8.webp)
 
 *Do Make sure search bars and their labels have at least 3:1 contrast. Use the default colors when possible.*
 
-![A search app bar with custom light text on a light container background.](assets/asset-007-don-t-avoid-using-custom-color-roles-for-ce5e60fce4.png)
+![A search app bar with custom light text on a light container background.](assets/asset-007-don-t-avoid-using-custom-color-roles-for-ce5e60fce4.webp)
 
 *Don’t Avoid using custom color roles for the search bar container and search label text. If custom roles are necessary, make sure they have contrast of at least 3:1.*
 
@@ -84,12 +84,12 @@ The accessibility label for a title should be the same as the content within the
 
 Screen readers will read the UI text followed by the component’s role.
 
-![The headline has accessibility role “Title”.](assets/asset-008-an-app-bar-s-accessibility-label-can-incorporate-f5dda521fd.png)
+![The headline has accessibility role “Title”.](assets/asset-008-an-app-bar-s-accessibility-label-can-incorporate-f5dda521fd.webp)
 
 *An app bar’s accessibility label can incorporate its UI text as well as additional context*
 
 Label icon buttons according to their [accessibility guidelines](https://m3.material.io/m3/pages/icon-buttons/accessibility).
 
-![The app bar icon button has the accessibility role “Button”.](assets/asset-009-an-icon-button-should-be-clearly-labeled-on-4d52adf7b3.png)
+![The app bar icon button has the accessibility role “Button”.](assets/asset-009-an-icon-button-should-be-clearly-labeled-on-4d52adf7b3.webp)
 
 *An icon button should be clearly labeled on the action it takes, like View on map*

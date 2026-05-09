@@ -8,13 +8,13 @@ Extended reality (XR) interfaces have special design requirements, like showing 
 
 There is one toolbar orbiter (Orbiters are floating elements that control the content within spatial panels. [More on orbiters](https://developer.android.com/design/ui/xr/guides/spatial-ui#orbiters)). It closely aligns with the floating toolbar (Floating toolbars float on top of page content and can provide contextual, dynamic actions. [More on toolbars](https://m3.material.io/m3/pages/toolbars/overview)). It can be configured to be horizontal or vertical.
 
-![Horizontal and vertical toolbar orbiters.](assets/asset-001-horizontal-floating-toolbar-vertical-floating-toolbar-756fe218ce.png)
+![Horizontal and vertical toolbar orbiters.](assets/asset-001-horizontal-floating-toolbar-vertical-floating-toolbar-756fe218ce.webp)
 
 *Horizontal floating toolbar; Vertical floating toolbar*
 
 ## Anatomy
 
-![2 elements of a toolbar orbiter: container and placed components.](assets/asset-002-container-placed-components-dc4369c663.png)
+![2 elements of a toolbar orbiter: container and placed components.](assets/asset-002-container-placed-components-dc4369c663.webp)
 
 *Container; Placed components*
 
@@ -22,17 +22,17 @@ There is one toolbar orbiter (Orbiters are floating elements that control the co
 
 XR uses color to communicate the elevation of UI elements and orbiters. With [spatial elevation](https://developer.android.com/design/ui/xr/guides/spatial-ui#spatial-elevation), the toolbar displays above the spatial panel (In Android XR, a spatial panel is a container for UI elements, interactive components, and immersive content. [More on spatial panels](https://developer.android.com/design/ui/xr/guides/spatial-ui#spatial-panels)) on the Z-axis. Elevated toolbars can use any of these color options:
 
-![4 versions of toolbar elevation color strategy.](assets/asset-003-surface-container-surface-container-high-surface-container-highest-fc49ca8782.png)
+![4 versions of toolbar elevation color strategy.](assets/asset-003-surface-container-surface-container-high-surface-container-highest-fc49ca8782.webp)
 
 *Surface container; Surface container high; Surface container highest; Tertiary container*
 
 ## Measurements
 
-![Diagram with measurements for toolbar orbiters.](assets/asset-004-measurements-for-toolbar-orbiters-58e2d7cceb.png)
+![Diagram with measurements for toolbar orbiters.](assets/asset-004-measurements-for-toolbar-orbiters-58e2d7cceb.webp)
 
 *Measurements for toolbar orbiters*
 
-![Diagram with 12dp padding for toolbar orbiters.](assets/asset-005-padding-for-toolbar-orbiters-9d28d4f931.png)
+![Diagram with 12dp padding for toolbar orbiters.](assets/asset-005-padding-for-toolbar-orbiters-9d28d4f931.webp)
 
 *Padding for toolbar orbiters*
 
@@ -92,31 +92,31 @@ In some cases, full space apps can have more than one toolbar orbiter, placed in
 
 In full space, a toolbar orbiter can be positioned adjacent to or overlap a spatial panel.
 
-![Toolbar orbiter with offset positioning.](assets/asset-011-offset-by-20dp-or-inset-by-12dp-762142b03f.png)
+![Toolbar orbiter with offset positioning.](assets/asset-011-offset-by-20dp-or-inset-by-12dp-762142b03f.webp)
 
 *Offset by 20dp or; Inset by 12dp*
 
-![Toolbar orbiter with inset positioning above 12dp that obstructs content on the spatial panel.](assets/asset-012-don-t-to-prevent-content-obstruction-don-t-b9085ae88e.png)
+![Toolbar orbiter with inset positioning above 12dp that obstructs content on the spatial panel.](assets/asset-012-don-t-to-prevent-content-obstruction-don-t-b9085ae88e.webp)
 
 *Don’t To prevent content obstruction, don’t overlap the toolbar orbiter and spatial panel above a 12dp inset threshold*
 
 ### Horizontal alignment
 
-![A horizontal toolbar orbiter placed within the bounds of its spatial panel.](assets/asset-013-do-always-align-the-toolbar-orbiter-within-the-0ad7d8e8fa.png)
+![A horizontal toolbar orbiter placed within the bounds of its spatial panel.](assets/asset-013-do-always-align-the-toolbar-orbiter-within-the-0ad7d8e8fa.webp)
 
 *Do Always align the toolbar orbiter within the horizontal bounds of nearby spatial panels*
 
-![A horizontal toolbar orbiter that extends beyond the width of its spatial panel.](assets/asset-014-don-t-the-toolbar-orbiter-shouldn-t-exceed-bf5c4aea3a.png)
+![A horizontal toolbar orbiter that extends beyond the width of its spatial panel.](assets/asset-014-don-t-the-toolbar-orbiter-shouldn-t-exceed-bf5c4aea3a.webp)
 
 *Don’t The toolbar orbiter shouldn’t exceed the width of adjacent spatial panels*
 
 ### Vertical alignment
 
-![A vertical toolbar orbiter placed within the bounds of its spatial panel.](assets/asset-015-do-always-align-the-toolbar-orbiter-within-the-70a2b281be.png)
+![A vertical toolbar orbiter placed within the bounds of its spatial panel.](assets/asset-015-do-always-align-the-toolbar-orbiter-within-the-70a2b281be.webp)
 
 *Do Always align the toolbar orbiter within the vertical bounds of nearby spatial panels*
 
-![A vertical toolbar orbiter that extends beyond the height of its spatial panel.](assets/asset-016-don-t-the-toolbar-orbiter-shouldn-t-exceed-83607714fe.png)
+![A vertical toolbar orbiter that extends beyond the height of its spatial panel.](assets/asset-016-don-t-the-toolbar-orbiter-shouldn-t-exceed-83607714fe.webp)
 
 *Don’t The toolbar orbiter shouldn’t exceed the height of adjacent spatial panels*
 
@@ -124,13 +124,13 @@ In full space, a toolbar orbiter can be positioned adjacent to or overlap a spat
 
 By default, toolbar orbiters are center-aligned to the spatial panel. Their placement can be adjusted to accommodate specific user needs, such as improved ergonomics or [right-to-left (RTL) languages](https://m3.material.io/m3/pages/understanding-layout/bidirectionality-rtl).
 
-![Toolbar orbiter alignment options in relation to spatial panels.](assets/asset-017-depending-on-the-configuration-horizontal-or-vertical-of-bfddde5fa6.png)
+![Toolbar orbiter alignment options in relation to spatial panels.](assets/asset-017-depending-on-the-configuration-horizontal-or-vertical-of-bfddde5fa6.webp)
 
 *Depending on the configuration (horizontal or vertical) of the toolbar orbiter, it can align to the center, left, right, top, or bottom of a spatial panel*
 
 Avoid placing a vertical toolbar orbiter between spatial panels. This negatively affects the interface structure and can make it difficult to find.
 
-![A vertical toolbar orbiter is placed between 2 spatial panels.](assets/asset-018-don-t-don-t-place-a-vertical-toolbar-29a5bac495.png)
+![A vertical toolbar orbiter is placed between 2 spatial panels.](assets/asset-018-don-t-don-t-place-a-vertical-toolbar-29a5bac495.webp)
 
 *Don’t Don't place a vertical toolbar orbiter between spatial panels*
 

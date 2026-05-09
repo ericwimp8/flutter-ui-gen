@@ -19,7 +19,7 @@ Use an additional indicator that an item is selected such as:
 - Leading or trailing icons
 - A visual style not related to color, like underlined text
 
-![A selected list item with a colored background, and a check as the leading icon.](assets/asset-001-use-two-visual-cues-to-show-a-list-9e4b9a40b5.png)
+![A selected list item with a colored background, and a check as the leading icon.](assets/asset-001-use-two-visual-cues-to-show-a-list-9e4b9a40b5.webp)
 
 *Use two visual cues to show a list item is selected, like a leading checkmark and filled color*
 
@@ -37,11 +37,11 @@ When a person taps on a list item, a touch ripple appears, indicating interactio
 
 When hovered, the hover (A hover state communicates when a user has placed a cursor above an interactive element. [More on hover state](https://m3.material.io/m3/pages/interaction-states/applying-states#71c347c2-dd75-485b-892e-04d2900bd844)) state provides a visual cue that a list item is interactive.
 
-![A list with the second item visually altered while hovered over, with a cursor and darker fill.](assets/asset-003-cursor-hover-23f470edb1.png)
+![A list with the second item visually altered while hovered over, with a cursor and darker fill.](assets/asset-003-cursor-hover-23f470edb1.webp)
 
 *Cursor: Hover*
 
-![Selected list item with cursor, colored fill, and checked box.](assets/asset-004-cursor-selected-3076d1f8ee.png)
+![Selected list item with cursor, colored fill, and checked box.](assets/asset-004-cursor-selected-3076d1f8ee.webp)
 
 *Cursor: Selected*
 
@@ -61,17 +61,17 @@ When a person interacts with the focused list item via Space or Enter, the actio
 
 The first element in a list should always receive focus, unless the list has a selected element. In that case, focus should go to the selected list item instead. After an element is focused (A focused state communicates when a user has highlighted an element, using an input method such as a keyboard or voice. [More on focused state](https://m3.material.io/m3/pages/interaction-states/applying-states#bc6d6853-48ef-490e-8076-448e89e69f0f)), a person should be able to navigate within the list using arrow keys.
 
-![The first list item is automatically focused.](assets/asset-006-tab-key-focuses-on-the-first-item-or-e8e6cbe652.png)
+![The first list item is automatically focused.](assets/asset-006-tab-key-focuses-on-the-first-item-or-e8e6cbe652.webp)
 
 *Tab key focuses on the first item or the selected item*
 
-![A second list item focused using an arrow key.](assets/asset-007-arrow-keys-navigate-up-and-down-through-list-35f3e458a2.png)
+![A second list item focused using an arrow key.](assets/asset-007-arrow-keys-navigate-up-and-down-through-list-35f3e458a2.webp)
 
 *Arrow keys navigate up and down through list items*
 
 All list items must be able to be activated using the Space or Enter key. [More on single-action lists](https://m3.material.io/m3/pages/lists/guidelines#3e45f939-457a-44a8-8551-a2354c521d26)
 
-![List item with focus indicator and filled checkbox, selected using the Space or Enter key.](assets/asset-008-space-or-enter-keys-activate-an-element-in-62f6b5efdc.png)
+![List item with focus indicator and filled checkbox, selected using the Space or Enter key.](assets/asset-008-space-or-enter-keys-activate-an-element-in-62f6b5efdc.webp)
 
 *Space or Enter keys activate an element in a list*
 
@@ -87,23 +87,23 @@ A person should be able to use a keyboard to:
 
 [More on multi-action lists](https://m3.material.io/m3/pages/lists/guidelines#db85439b-0e67-43b0-a2dc-61395738af64)
 
-![The first element in a multi-action list is focused automatically.](assets/asset-009-tab-brings-the-focus-to-the-first-action-05a89351c4.png)
+![The first element in a multi-action list is focused automatically.](assets/asset-009-tab-brings-the-focus-to-the-first-action-05a89351c4.webp)
 
 *Tab brings the focus to the first action*
 
-![The list action, a bookmark, is focused using the Down or Right arrow.](assets/asset-010-down-and-right-arrow-keys-move-focus-to-9bd0544efb.png)
+![The list action, a bookmark, is focused using the Down or Right arrow.](assets/asset-010-down-and-right-arrow-keys-move-focus-to-9bd0544efb.webp)
 
 *Down and Right arrow keys move focus to the next action of the list item, or to the first action in the next item*
 
-![A trailing bookmark icon is focused in the second list item.](assets/asset-011-up-and-left-arrow-keys-move-focus-to-e0004f86ca.png)
+![A trailing bookmark icon is focused in the second list item.](assets/asset-011-up-and-left-arrow-keys-move-focus-to-e0004f86ca.webp)
 
 *Up and Left arrow keys move focus to the previous action of the list item*
 
-![Label text and supporting text of the second list item is in focus using the Up or Left arrow.](assets/asset-012-if-the-focus-is-on-a-list-item-a766954a91.png)
+![Label text and supporting text of the second list item is in focus using the Up or Left arrow.](assets/asset-012-if-the-focus-is-on-a-list-item-a766954a91.webp)
 
 *If the focus is on a list item’s first action, the Up and Left arrows move focus back to the last action of the previous item*
 
-![The Space or Enter key activates an overflow menu on a list item.](assets/asset-013-the-space-or-enter-key-activates-a-selected-416418dc38.png)
+![The Space or Enter key activates an overflow menu on a list item.](assets/asset-013-the-space-or-enter-key-activates-a-selected-416418dc38.webp)
 
 *The Space or Enter key activates a selected action in a list*
 
@@ -124,7 +124,7 @@ The accessibility label for a list item is typically the same as the label text 
 
 Some labels, roles, and states are [dependent on platform](https://m3.material.io/m3/pages/lists/accessibility#09e32b7d-78a1-45c1-be12-4c6646cfe1d1).
 
-![List item selected to show label of “Bread, sourdough or wheat”.](assets/asset-014-a-list-item-s-label-text-and-supporting-20eefe5ee3.png)
+![List item selected to show label of “Bread, sourdough or wheat”.](assets/asset-014-a-list-item-s-label-text-and-supporting-20eefe5ee3.webp)
 
 *A list item’s label text and supporting text is used for its accessibility label*
 
@@ -148,7 +148,7 @@ Some labels, roles, and states are [dependent on platform](https://m3.material.i
 
 On web, a list container’s accessibility label describes the type of selection that can be made, and the role is List box.
 
-![A list container is selected, showing a label of “Select either bread, pita, or rice” and role of “List box.”](assets/asset-015-on-web-a-list-container-s-role-is-6f464cb6b0.png)
+![A list container is selected, showing a label of “Select either bread, pita, or rice” and role of “List box.”](assets/asset-015-on-web-a-list-container-s-role-is-6f464cb6b0.webp)
 
 *On web, a list container’s role is List box*
 
@@ -156,7 +156,7 @@ On Jetpack Compose, the role applies to the list item as a whole.
 
 If a list isn't selectable, the label text is read out without a role.
 
-![A selected list item shows a label of “Bread, sourdough, or wheat” and role of “Checkbox.”](assets/asset-016-when-selectable-the-role-checkbox-applies-to-the-907ee8c720.png)
+![A selected list item shows a label of “Bread, sourdough, or wheat” and role of “Checkbox.”](assets/asset-016-when-selectable-the-role-checkbox-applies-to-the-907ee8c720.webp)
 
 *When selectable, the role Checkbox applies to the entire list item on Jetpack Compose*
 
@@ -165,6 +165,6 @@ On MDC-Android, components contained within the list should be labeled according
 - [Checkbox](https://m3.material.io/m3/pages/checkbox/accessibility)
 - [Radio button](https://m3.material.io/m3/pages/radio-button/accessibility)
 
-![Checkbox of a selected list item shows label of “Bread, sourdough or wheat” and role of “Checkbox.”](assets/asset-017-on-mdc-android-the-accessibility-label-and-role-7ef44c4b5b.png)
+![Checkbox of a selected list item shows label of “Bread, sourdough or wheat” and role of “Checkbox.”](assets/asset-017-on-mdc-android-the-accessibility-label-and-role-7ef44c4b5b.webp)
 
 *On MDC-Android, the accessibility label and role are applied to the interactive component by default*

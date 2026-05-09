@@ -9,13 +9,13 @@ Imagine your product screen as a paint-by-number canvas:
 - Each element on the screen has a number
 - Each number is assigned a color
 
-![UI in "x-ray" view where each element has a number instead of a color](assets/asset-001-each-part-of-a-ui-is-assigned-a-c99230a93c.png)
+![UI in "x-ray" view where each element has a number instead of a color](assets/asset-001-each-part-of-a-ui-is-assigned-a-c99230a93c.webp)
 
 *Each part of a UI is assigned a "number," and each "number" is assigned a color*
 
 You can hand-pick a color for every "number" to create a static color scheme.
 
-![Green icon button in the UI, assigned a hand-picked color using a color picker](assets/asset-002-static-colors-are-hand-picked-like-this-green-50f97fdb77.png)
+![Green icon button in the UI, assigned a hand-picked color using a color picker](assets/asset-002-static-colors-are-hand-picked-like-this-green-50f97fdb77.webp)
 
 *Static colors are hand-picked, like this green icon button*
 
@@ -23,7 +23,7 @@ But now, you can also use Material's dynamic color system to automatically gener
 
 This source can be a user's wallpaper, or in-app content like imagery. If the source changes, the product colors update to match.
 
-![Image showcasing how a source color is automatically applied to each "number"](assets/asset-003-colors-are-generated-dynamically-from-a-user-s-7790982113.png)
+![Image showcasing how a source color is automatically applied to each "number"](assets/asset-003-colors-are-generated-dynamically-from-a-user-s-7790982113.webp)
 
 *Colors are generated dynamically from a user's wallpaper or in-app content*
 
@@ -35,7 +35,7 @@ You can customize how dynamic color appears in your product by:
 
 [Learn about advanced customizations](https://m3.material.io/m3/pages/advanced/define-new-colors)
 
-![Image showing a color wheel where a light red color is picked, which then populates the UI. In this example, some UI elements have been mapped to different "numbers"](assets/asset-004-the-color-source-can-be-changed-automatically-changing-c2fb1eee76.png)
+![Image showing a color wheel where a light red color is picked, which then populates the UI. In this example, some UI elements have been mapped to different "numbers"](assets/asset-004-the-color-source-can-be-changed-automatically-changing-c2fb1eee76.webp)
 
 *The color source can be changed, automatically changing the color scheme. The UI elements can have other "numbers" assigned to them.*
 
@@ -57,7 +57,7 @@ UI colors that don't change based on the user's wallpaper or in-app content. Sta
 
 The default static color scheme for Material products. [See the baseline color scheme](https://m3.material.io/m3/pages/static/)
 
-![Diagram illustrating the steps from source color to key colors to tonal palettes to color roles to the UI](assets/asset-005-the-dynamic-color-process-is-automatic-a-single-c0a327f468.png)
+![Diagram illustrating the steps from source color to key colors to tonal palettes to color roles to the UI](assets/asset-005-the-dynamic-color-process-is-automatic-a-single-c0a327f468.webp)
 
 *The dynamic color process is automatic. A single source color is used to generate five key colors, which are used to make tonal palettes. Tones from the palettes are then assigned to color roles, which are in turn assigned to elements of the UI.*
 
@@ -75,7 +75,7 @@ There are three ways to get a source color.
 
 User-generated color is sourced from a user's personal wallpaper. The wallpaper is digitally analyzed through a process called quantization, and a single color is selected as the source color.
 
-![Red source color is extracted from a wallpaper](assets/asset-007-source-color-from-a-user-s-wallpaper-c1d576b37b.png)
+![Red source color is extracted from a wallpaper](assets/asset-007-source-color-from-a-user-s-wallpaper-c1d576b37b.webp)
 
 *Source color from a user's wallpaper*
 
@@ -85,7 +85,7 @@ Content-based color is sources from in-app content, like an album thumbnail imag
 
 Like user-generated color, the image is digitally analyzed through quantization, and a single color selected as the source color.
 
-![Blue source color is extracted from an podcast cover](assets/asset-008-source-color-from-in-app-content-30881df743.png)
+![Blue source color is extracted from an podcast cover](assets/asset-008-source-color-from-in-app-content-30881df743.webp)
 
 *Source color from in-app-content*
 
@@ -95,7 +95,7 @@ A hand-picked source color is deliberately selected by a designer.
 
 Did you know? The baseline static color scheme (Baseline is the default static color scheme for Material products. It includes colors for both light and dark themes. [More on baseline color](https://m3.material.io/m3/pages/static/)) uses a hand-picked source color.
 
-![Green source color selected from a color picker](assets/asset-009-source-color-hand-picked-by-a-designer-5629db9492.png)
+![Green source color selected from a color picker](assets/asset-009-source-color-hand-picked-by-a-designer-5629db9492.webp)
 
 *Source color hand-picked by a designer*
 
@@ -109,15 +109,15 @@ There are many color algorithms, but the most common ones are:
 - Content-based color algorithm Uses image for source color. Tones are adjusted to match the appearance of the source image, while maintaining accessible contrast.
 - Custom colors Colors closely match the chosen input colors, such as those representing brand or semantic meaning.
 
-![Color palette made by the user-generated algorithm](assets/asset-010-1-when-run-through-the-user-generated-color-56c51197a4.png)
+![Color palette made by the user-generated algorithm](assets/asset-010-1-when-run-through-the-user-generated-color-56c51197a4.webp)
 
 *1. When run through the user-generated color algorithm, the source color is turned into a full color scheme*
 
-![Color palette made by the content-based algorithm](assets/asset-011-2-when-run-through-content-based-color-algorithm-5836d4f6df.png)
+![Color palette made by the content-based algorithm](assets/asset-011-2-when-run-through-content-based-color-algorithm-5836d4f6df.webp)
 
 *2. When run through content-based color algorithm, the same source color creates a slightly different color scheme. Some tones are adjusted to better match the appearance of the source image.*
 
-![Color palette made by the custom color algorithm](assets/asset-012-3-custom-colors-such-as-brand-colors-can-f60dc35649.png)
+![Color palette made by the custom color algorithm](assets/asset-012-3-custom-colors-such-as-brand-colors-can-f60dc35649.webp)
 
 *3. Custom colors, such as brand colors, can individually run through the algorithm to create a custom scheme that matches the brand*
 
@@ -131,7 +131,7 @@ Material's color algorithms manipulate the source color's hue (Hue is the percep
 4. Neutral
 5. Neutral variant
 
-![Diagram of a source color generating five key colors: primary, secondary, tertiary, neutral and neutral variant](assets/asset-013-a-source-color-generates-five-key-colors-97943a6cf6.png)
+![Diagram of a source color generating five key colors: primary, secondary, tertiary, neutral and neutral variant](assets/asset-013-a-source-color-generates-five-key-colors-97943a6cf6.webp)
 
 *A source color generates five key colors*
 
@@ -139,7 +139,7 @@ Material's color algorithms manipulate the source color's hue (Hue is the percep
 
 The system then manipulates tone (Tone is how light or dark a color appears. Tone is sometimes also referred to as luminance. [More on hue, chroma, and tone](https://m3.material.io/m3/pages/color/how-the-system-works#dc7848f3-b094-4f9a-9e50-bfa5a5029617)) and chroma (Chroma is how colorful or neutral (grey, black or white) a color appears. [More on hue, chroma, and tone](https://m3.material.io/m3/pages/color/how-the-system-works#e4d1c787-e92f-4d6e-a757-cd6d5c3b298e)) values to create a tonal palette for each key color. Colors in these palettes are given a number from 0 to 100 in increments of 10, as well as 95, 98, and 99. Some palettes include more values.
 
-![Primary, secondary, tertiary, neutral and neutral variant tonal palettes, consisting of 13 tonal steps](assets/asset-014-the-smaller-the-tonal-value-the-darker-the-7cb0119546.png)
+![Primary, secondary, tertiary, neutral and neutral variant tonal palettes, consisting of 13 tonal steps](assets/asset-014-the-smaller-the-tonal-value-the-darker-the-7cb0119546.webp)
 
 *The smaller the tonal value, the darker the color*
 
@@ -151,17 +151,17 @@ For example, the algorithm assigns the color tone primary40 to the p rimary role
 
 [See all color roles](https://m3.material.io/m3/pages/color-roles)
 
-![Diagram mapping color tones to roles](assets/asset-015-tones-from-the-tonal-palette-are-assigned-to-fd7f0a54a8.png)
+![Diagram mapping color tones to roles](assets/asset-015-tones-from-the-tonal-palette-are-assigned-to-fd7f0a54a8.webp)
 
 *Tones from the tonal palette are assigned to different roles*
 
-![Diagram of tonal palettes mapped to all color roles across light and dark themes](assets/asset-016-colors-from-the-five-tonal-palettes-are-assigned-be84320df8.png)
+![Diagram of tonal palettes mapped to all color roles across light and dark themes](assets/asset-016-colors-from-the-five-tonal-palettes-are-assigned-be84320df8.webp)
 
 *Colors from the five tonal palettes are assigned to color roles. For example, primary roles are picked from the primary tonal palette, while surface roles are picked from the neutral tonal palette.*
 
 Dark theme (A dark theme is a low-light version of a UI that displays mostly dark surfaces.) colors are also automatically assigned so that apps receive both light and dark themes through a single set of color roles.
 
-![Diagram of dark theme colors](assets/asset-017-the-same-color-roles-are-used-in-light-752bbe9f18.png)
+![Diagram of dark theme colors](assets/asset-017-the-same-color-roles-are-used-in-light-752bbe9f18.webp)
 
 *The same color roles are used in light and dark themes*
 
@@ -169,7 +169,7 @@ Dark theme (A dark theme is a low-light version of a UI that displays mostly dar
 
 The 26 standard color roles are already assigned to elements of the UI. When a new source color is picked, the UI dynamically changes color.
 
-![Diagram of all the color roles with an example of how it would look applied to a UI](assets/asset-018-color-roles-assigned-to-the-ui-0a21e473d4.png)
+![Diagram of all the color roles with an example of how it would look applied to a UI](assets/asset-018-color-roles-assigned-to-the-ui-0a21e473d4.webp)
 
 *Color roles assigned to the UI*
 
@@ -183,25 +183,25 @@ In addition to light and dark theme, color roles also support three levels of co
 
 The standard contrast emphasizes visual hierarchy using high and low contrast elements. People with vision disabilities may choose medium or high contrast options for better support.
 
-![Email app in standard contrast.](assets/asset-019-standard-contrast-the-baseline-color-scheme-already-uses-06514bf5bc.png)
+![Email app in standard contrast.](assets/asset-019-standard-contrast-the-baseline-color-scheme-already-uses-06514bf5bc.webp)
 
 *Standard contrast The baseline color scheme already uses mixed levels of contrast to reduce cognitive load*
 
-![Email app in medium contrast.](assets/asset-020-medium-contrast-provides-a-minimum-contrast-ratio-of-a0fe22af51.png)
+![Email app in medium contrast.](assets/asset-020-medium-contrast-provides-a-minimum-contrast-ratio-of-a0fe22af51.webp)
 
 *Medium contrast Provides a minimum contrast ratio of 3:1 for those who need more contrast, but may experience visual discomfort with higher contrasts from effects like halation.*
 
-![Email app in high contrast.](assets/asset-021-high-contrast-further-emphasizes-essential-elements-with-a-ed8551f56d.png)
+![Email app in high contrast.](assets/asset-021-high-contrast-further-emphasizes-essential-elements-with-a-ed8551f56d.webp)
 
 *High contrast Further emphasizes essential elements with a 7:1 contrast ratio to reduce visual distractions and enable users to focus. For example, high contrast is applied to the content in a card but not the card container.*
 
 The contrast settings are automatically applied to both light and dark themes.
 
-![The same mail app at three contrast levels, all in light theme.](assets/asset-022-light-theme-b84f71287e.png)
+![The same mail app at three contrast levels, all in light theme.](assets/asset-022-light-theme-b84f71287e.webp)
 
 *Light theme*
 
-![The same mail app at three contrast levels, all in dark theme.](assets/asset-023-dark-theme-7c0977d9ab.png)
+![The same mail app at three contrast levels, all in dark theme.](assets/asset-023-dark-theme-7c0977d9ab.webp)
 
 *Dark theme*
 
@@ -209,11 +209,11 @@ Custom components can support contrast levels by using Material's appropriate co
 
 Use design tokens (Design tokens are the building blocks of all UI elements. The same tokens are used in designs, tools, and code. [More on design tokens](https://m3.material.io/m3/pages/design-tokens/overview)) to apply color roles to custom components.
 
-![Custom volume slider component using Primary Container and On Primary Container roles, whose colors change automatically at standard contrast.](assets/asset-024-a-custom-volume-slider-can-use-p-rimary-7492eb83dd.png)
+![Custom volume slider component using Primary Container and On Primary Container roles, whose colors change automatically at standard contrast.](assets/asset-024-a-custom-volume-slider-can-use-p-rimary-7492eb83dd.webp)
 
 *A custom volume slider can use p rimary container and on primary container color roles to support contrast levels*
 
-![Custom volume slider component using Primary Container and On Primary Container roles, whose colors change automatically at standard contrast.](assets/asset-025-at-medium-and-other-contrast-levels-those-color-36069be2bc.png)
+![Custom volume slider component using Primary Container and On Primary Container roles, whose colors change automatically at standard contrast.](assets/asset-025-at-medium-and-other-contrast-levels-those-color-36069be2bc.webp)
 
 *At medium and other contrast levels, those color roles apply the necessary new color values*
 
@@ -223,7 +223,7 @@ The system manipulates hue, chroma, and tone ( HCT) values (HCT is a color space
 
 Color has physical limitations—whether it's actual physics, our own biological visual limitations, or the limitations of on-screen color rendering. For example, some hues cannot exist with certain chroma or tones. Color limitations are the reason colors such as bright light blue or bright light red are not quite possible. This is why the chroma value may increase or decrease for some tones in a tonal palette.
 
-![13 tones derived from a key color.](assets/asset-026-tonal-values-range-from-0-black-to-100-2912e1945c.png)
+![13 tones derived from a key color.](assets/asset-026-tonal-values-range-from-0-black-to-100-2912e1945c.webp)
 
 *Tonal values range from 0 (black) to 100 (white). The smaller the tonal value, the darker the color.*
 
@@ -233,7 +233,7 @@ Because tone can describe the lightness or darkness of a color, it's used to def
 
 For example, the algorithms assign a dark tone to a button's container color and a light tone to its label color, ensuring that the colors have a 3:1 contrast.
 
-![Colors of tones 50 and 98 used for button fill color and background fill color, which create a contrast greater than 3:1 between a button and its background.](assets/asset-027-using-tones-50-and-98-for-a-button-a9fdabede4.png)
+![Colors of tones 50 and 98 used for button fill color and background fill color, which create a contrast greater than 3:1 between a button and its background.](assets/asset-027-using-tones-50-and-98-for-a-button-a9fdabede4.webp)
 
 *Using tones 50 and 98 for a button and its label creates an accessible 3:1 contrast*
 
@@ -241,7 +241,7 @@ For even more contrast, the algorithms assign tones even farther apart, achievin
 
 This is the concept powering user-controlled contrast features.
 
-![Colors of tones 30 and 98 used for button fill color and background fill color, which create a contrast greater than 7:1 between a button and its background.](assets/asset-028-using-colors-of-tones-30-and-98-for-3c0abd436d.png)
+![Colors of tones 30 and 98 used for button fill color and background fill color, which create a contrast greater than 7:1 between a button and its background.](assets/asset-028-using-colors-of-tones-30-and-98-for-3c0abd436d.webp)
 
 *Using colors of tones 30 and 98 for a button and its label create a 7:1 contrast*
 
@@ -259,7 +259,7 @@ Changing HCT values lets you manipulate colors in flexible but predictable ways.
 
 Hue is the perception of a color as red, orange, yellow, green, blue, violet, and so on. Hue is quantified by a number ranging from 0-360 and is a circular spectrum (values 0 and 360 are the same hue).
 
-![The hue spectrum looks like a rainbow circle.](assets/asset-030-360-degree-hue-spectrum-944307d711.png)
+![The hue spectrum looks like a rainbow circle.](assets/asset-030-360-degree-hue-spectrum-944307d711.webp)
 
 *360 degree hue spectrum*
 
@@ -269,7 +269,7 @@ Chroma is how colorful or neutral (grey, black or white) a color appears. Chroma
 
 Because of biological and screen rendering limitations, different hues and different tones will have different maximal chroma values.
 
-![Diagram showing chroma range from 120 (maximum intensity) to 0 (pure grey). A second diagram shows how pure black and pure white also correspond to 0 chroma](assets/asset-031-the-higher-the-color-purity-the-higher-the-9a086b5db2.png)
+![Diagram showing chroma range from 120 (maximum intensity) to 0 (pure grey). A second diagram shows how pure black and pure white also correspond to 0 chroma](assets/asset-031-the-higher-the-color-purity-the-higher-the-9a086b5db2.webp)
 
 *The higher the color purity, the higher the chroma; Note how lightening and darkening a hue also affects its chroma value*
 
@@ -279,6 +279,6 @@ Tone is how light or dark a color appears. Tone is sometimes also referred to as
 
 Tone is crucial for visual accessibility because it determines contrast. Colors with a greater difference in tone create higher contrast, while those with a smaller difference create lower contrast.
 
-![Gradient showing the range of tones from 1 (black) to 100 (white)](assets/asset-032-the-100-tone-is-always-100-white-the-0f51e836ff.png)
+![Gradient showing the range of tones from 1 (black) to 100 (white)](assets/asset-032-the-100-tone-is-always-100-white-the-0f51e836ff.webp)
 
 *The 100 tone is always 100% white, the lightest tone in the range; the 0 tone is 100% black, the darkest tone in the range*

@@ -31,7 +31,7 @@ Selections are inherited by the following components:
 - Sliders
 - Switch
 
-![Seven types of selected components.](assets/asset-001-segmented-buttons-chips-list-items-checkboxes-radio-buttons-70f43769f3.png)
+![Seven types of selected components.](assets/asset-001-segmented-buttons-chips-list-items-checkboxes-radio-buttons-70f43769f3.webp)
 
 *Segmented buttons; Chips; List items; Checkboxes; Radio buttons; Switch; Slider*
 
@@ -44,7 +44,7 @@ The following components use an active indicator to represent which item is curr
 
 The color and shape of the active indicator varies between components. In these components, only one item should be selected at a time.
 
-![Tabs and navigation drawer with one destination item selected. Selection is identified with an active indicator.](assets/asset-002-tab-navigation-drawer-3058408e0b.png)
+![Tabs and navigation drawer with one destination item selected. Selection is identified with an active indicator.](assets/asset-002-tab-navigation-drawer-3058408e0b.webp)
 
 *Tab; Navigation drawer*
 

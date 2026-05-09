@@ -18,7 +18,7 @@ Universal default experiences rarely meet everyone’s needs. Introducing custom
 
 Because a person's experience throughout their day, or year, or life can continue to change, it helps to support varying preferences and choices that allow individuals to address how their changing conditions, individual knowledge, and varying needs are met.
 
-![silhouette of person's head made out of colorful liquid](assets/asset-001-silhouette-of-person-s-head-made-out-of-2dbc25fd3c.png)
+![silhouette of person's head made out of colorful liquid](assets/asset-001-silhouette-of-person-s-head-made-out-of-2dbc25fd3c.webp)
 
 ### Learn before, not after
 
@@ -26,7 +26,7 @@ Before defining solutions, invest time in understanding the needs of users with 
 
 Accessible design processes anticipate as many potential product or experience outcomes as possible upfront. When user problems do arise, exploring the unanticipated outcomes can become a research foundation for learning, adapting, and recovering thoughtfully.
 
-![cube floating above a circular hole](assets/asset-002-cube-floating-above-a-circular-hole-e23ebc49f2.png)
+![cube floating above a circular hole](assets/asset-002-cube-floating-above-a-circular-hole-e23ebc49f2.webp)
 
 ### Requirements as a starting point
 
@@ -34,4 +34,4 @@ The minimum requirements established by [WCAG](https://www.w3.org/WAI/standards-
 
 History has shown that features originating from responses to specific access needs (dark mode, text-to-speech, speech-to-text) are a result of creative problem-solving within specified constraints. Seeing the requirements as opportunities, rather than constraints, has been shown to lead to solutions that ultimately serve many.
 
-![foam-like material sculpted into a puzzle piece resembling a standing human](assets/asset-003-foam-like-material-sculpted-into-a-puzzle-piece-f17d6ec733.png)
+![foam-like material sculpted into a puzzle piece resembling a standing human](assets/asset-003-foam-like-material-sculpted-into-a-puzzle-piece-f17d6ec733.webp)

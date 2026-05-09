@@ -17,7 +17,7 @@ Enabled buttons need a 3:1 contrast ratio with the background to meet accessibil
 
 This is measured from the container for elevated, filled, and tonal button styles, and the label text for outlined and text button styles.
 
-![Diagram of color contrast ratios for buttons.](assets/asset-001-higher-contrast-helps-differentiate-elements-9e8a6e9baf.png)
+![Diagram of color contrast ratios for buttons.](assets/asset-001-higher-contrast-helps-differentiate-elements-9e8a6e9baf.webp)
 
 *Higher contrast helps differentiate elements*
 
@@ -27,7 +27,7 @@ Avoid excessive text wrapping or truncation by choosing concise strings.
 
 On Android, button labels should be kept concise enough to fit within two lines after the text size is increased to 200%. If a button label exceeds this limit and gets truncated, provide an alternative way to access the full content in a single tap.
 
-![200% text size on a mobile screen. The overly long button text wraps to a second line: “Download playlist for offline access”.](assets/asset-002-caution-avoid-excessive-text-wrapping-or-truncation-by-7ee2e2aca2.png)
+![200% text size on a mobile screen. The overly long button text wraps to a second line: “Download playlist for offline access”.](assets/asset-002-caution-avoid-excessive-text-wrapping-or-truncation-by-7ee2e2aca2.webp)
 
 *Caution Avoid excessive text wrapping or truncation by choosing concise strings*
 
@@ -52,4 +52,4 @@ The accessibility (Accessible design makes products usable for people with all k
 
 It can contain extra contextual information if necessary.
 
-![Accessibility tags for a text-only button.](assets/asset-004-accessibility-tags-for-a-text-only-button-64496a3351.png)
+![Accessibility tags for a text-only button.](assets/asset-004-accessibility-tags-for-a-text-only-button-64496a3351.webp)

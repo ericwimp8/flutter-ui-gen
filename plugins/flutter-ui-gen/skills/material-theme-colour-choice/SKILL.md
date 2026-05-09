@@ -27,15 +27,20 @@ Stop once the generated scheme is ready for preview. The preview method is still
    8. Neutral - near grayscale with only a hint of chroma. -> `neutral`
    9. Rainbow - playful colour mixing with neutral grayscale surfaces and a related tertiary hue. -> `rainbow`
 2. Ask for their colour ideas. Accept vague input, detailed colour direction, or a reference image.
-3. Convert the answer into generator input:
+3. Ask which contrast level they want:
+   1. Low contrast - Material minimum contrast. -> `low`
+   2. Normal contrast - Material default contrast. -> `normal`
+   3. Medium contrast - Material medium contrast. -> `medium`
+   4. High contrast - Material high contrast. -> `high`
+4. Convert the answers into generator input:
    - `recipe`: one of `content`, `expressive`, `fidelity`, `fruitSalad`, `monochrome`, `neutral`, `rainbow`, `tonalSpot`, `vibrant`
    - `sourceColor`: the main colour as `#RRGGBB`
-   - `contrastLevel`: use `0.0` unless the user asks for higher or lower contrast
+   - `contrastLevel`: one of `low`, `normal`, `medium`, or `high`
    - `paletteOverrides`: add only when the user gives meaningful secondary, highlight, surface, or error colour direction
-4. Replace the repo-root `material-theme-output/` folder.
-5. Write the request JSON to `material-theme-output/theme_request.json`.
-6. Run the bundled Dart generator.
-7. Show the user the generated artifact paths and ask for the preview decision.
+5. Replace the repo-root `material-theme-output/` folder.
+6. Write the request JSON to `material-theme-output/theme_request.json`.
+7. Run the bundled Dart generator.
+8. Show the user the generated artifact paths and ask for the preview decision.
 
 ## Interpretation Rules
 
@@ -62,6 +67,17 @@ Use palette overrides for richer direction:
 - explicit destructive/error colour -> `error`
 
 Prefer a small number of overrides. Let the selected recipe fill anything the user did not specify.
+
+## Contrast Mapping
+
+Material Color Utilities uses numeric contrast anchors. Use the named generator input unless a caller explicitly supplies a numeric value:
+
+- `low` -> `-1.0`; Material minimum contrast
+- `normal` -> `0.0`; Material default contrast
+- `medium` -> `0.5`; Material medium contrast
+- `high` -> `1.0`; Material high contrast
+
+The generator still accepts numeric `contrastLevel` values from `-1.0` to `1.0` for advanced use.
 
 ## Generator
 

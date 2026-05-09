@@ -8,11 +8,11 @@ With the baseline color scheme, end-users see
 
 - An accessible UI with static colors
 
-![Mobile screenshot of music app.](assets/asset-001-music-app-with-the-static-baseline-color-scheme-bc21221aa4.png)
+![Mobile screenshot of music app.](assets/asset-001-music-app-with-the-static-baseline-color-scheme-bc21221aa4.webp)
 
 *Music app with the static baseline color scheme*
 
-![Tablet screenshot of a news app.](assets/asset-002-news-app-with-the-static-baseline-color-scheme-5322eb60dc.png)
+![Tablet screenshot of a news app.](assets/asset-002-news-app-with-the-static-baseline-color-scheme-5322eb60dc.webp)
 
 *News app with the static baseline color scheme*
 
@@ -20,11 +20,11 @@ With the baseline color scheme, end-users see
 
 Get baseline colors in Figma using the Material Theme Builder (Material Theme Builder (MTB) is a Figma plugin that allows markers to emulate the color extraction process for dynamic color and create custom tonal schemes. [Get the MTB](https://www.figma.com/community/plugin/1034969338659738588/material-theme-builder)).
 
-![Color swatches showing the entire baseline color scheme and derivative accent colors.](assets/asset-003-baseline-scheme-colors-in-light-theme-e7aaea4fa7.png)
+![Color swatches showing the entire baseline color scheme and derivative accent colors.](assets/asset-003-baseline-scheme-colors-in-light-theme-e7aaea4fa7.webp)
 
 *Baseline scheme colors in light theme*
 
-![Color swatches showing the entire baseline color scheme and derivative accent colors.](assets/asset-004-baseline-scheme-colors-in-dark-theme-82bc614cf3.png)
+![Color swatches showing the entire baseline color scheme and derivative accent colors.](assets/asset-004-baseline-scheme-colors-in-dark-theme-82bc614cf3.webp)
 
 *Baseline scheme colors in dark theme*
 

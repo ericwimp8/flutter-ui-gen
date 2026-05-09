@@ -2,7 +2,7 @@
 
 Source: https://m3.material.io/components/segmented-buttons/specs
 
-![Diagram of segmented button indicating 3 parts of its anatomy.](assets/asset-001-container-icon-optional-for-unselected-state-label-text-18a5e978d1.png)
+![Diagram of segmented button indicating 3 parts of its anatomy.](assets/asset-001-container-icon-optional-for-unselected-state-label-text-18a5e978d1.webp)
 
 *Container; Icon (optional for unselected state); Label text*
 
@@ -17,7 +17,7 @@ Browse the component elements, attributes, tokens, and their values. [Learn more
 
 Color values are implemented through design tokens (Design tokens are the building blocks of all UI elements. The same tokens are used in designs, tools, and code. [More on tokens](https://m3.material.io/m3/pages/design-tokens/overview)). For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](https://m3.material.io/m3/pages/design-tokens/overview)
 
-![Diagram of segmented button indicating its color mappings](assets/asset-002-on-surface-outline-secondary-container-on-secondary-container-31664824fa.png)
+![Diagram of segmented button indicating its color mappings](assets/asset-002-on-surface-outline-secondary-container-on-secondary-container-31664824fa.webp)
 
 *On surface; Outline; Secondary container; On secondary container*
 
@@ -27,19 +27,19 @@ States (States show the interaction status of a component or UI element. [More o
 
 ### Unselected
 
-![Side by side view of segmented buttons with 5 unselected states.](assets/asset-003-enabled-disabled-hovered-focused-pressed-3fdbf738f3.png)
+![Side by side view of segmented buttons with 5 unselected states.](assets/asset-003-enabled-disabled-hovered-focused-pressed-3fdbf738f3.webp)
 
 *Enabled; Disabled; Hovered; Focused; Pressed*
 
 ### Selected
 
-![Side by side view of segmented buttons with 4 selected states.](assets/asset-004-selected-hovered-on-selected-focused-on-selected-pressed-72f8a2a76a.png)
+![Side by side view of segmented buttons with 4 selected states.](assets/asset-004-selected-hovered-on-selected-focused-on-selected-pressed-72f8a2a76a.webp)
 
 *Selected; Hovered on selected; Focused on selected; Pressed on selected*
 
 ## Measurements
 
-![Diagram indicating layout values, paddings, and target size for segmented buttons](assets/asset-005-padding-and-container-size-target-size-92a85ceba3.png)
+![Diagram indicating layout values, paddings, and target size for segmented buttons](assets/asset-005-padding-and-container-size-target-size-92a85ceba3.webp)
 
 *Padding and container size; Target size*
 
@@ -58,6 +58,6 @@ States (States show the interaction status of a component or UI element. [More o
 
 Density can be used in denser UIs where space is limited. Density is only applied to the height.
 
-![Side by side view of segmented buttons with 4 different density heights](assets/asset-006-each-step-down-in-density-removes-4dp-from-fe54ef95de.png)
+![Side by side view of segmented buttons with 4 different density heights](assets/asset-006-each-step-down-in-density-removes-4dp-from-fe54ef95de.webp)
 
 *Each step down in density removes 4dp from the height*

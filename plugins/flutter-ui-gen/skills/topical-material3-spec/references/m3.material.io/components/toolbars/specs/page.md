@@ -4,7 +4,7 @@ Source: https://m3.material.io/components/toolbars/specs
 
 ## Variants
 
-![2 variants of toolbars.](assets/asset-001-docked-toolbar-floating-toolbar-9bb9f3ba2e.png)
+![2 variants of toolbars.](assets/asset-001-docked-toolbar-floating-toolbar-9bb9f3ba2e.webp)
 
 *Docked toolbar; Floating toolbar*
 
@@ -12,7 +12,7 @@ Source: https://m3.material.io/components/toolbars/specs
 
 The baseline bottom app bar is no longer recommended. It should be replaced with the docked toolbar, which is very similar and more flexible.
 
-![Baseline bottom app bar, which looks like the docked toolbar, but is not recommended.](assets/asset-002-bottom-app-bar-not-recommended-cfb3d0312b.png)
+![Baseline bottom app bar, which looks like the docked toolbar, but is not recommended.](assets/asset-002-bottom-app-bar-not-recommended-cfb3d0312b.webp)
 
 *Bottom app bar (not recommended)*
 
@@ -24,7 +24,7 @@ The baseline bottom app bar is no longer recommended. It should be replaced with
 
 ## Configurations
 
-![Color configuration of toolbars.](assets/asset-003-standard-and-vibrant-toolbars-vertical-floating-toolbar-floating-018a5bce98.png)
+![Color configuration of toolbars.](assets/asset-003-standard-and-vibrant-toolbars-vertical-floating-toolbar-floating-018a5bce98.webp)
 
 *Standard and vibrant toolbars; Vertical floating toolbar; Floating toolbar with FAB*
 
@@ -46,7 +46,7 @@ Browse the component elements, attributes, tokens, and their values. [Jump to ba
 
 ## Anatomy
 
-![2 elements of a toolbar.](assets/asset-004-container-placed-components-778414fd7c.png)
+![2 elements of a toolbar.](assets/asset-004-container-placed-components-778414fd7c.webp)
 
 *Container; Placed components*
 
@@ -56,7 +56,7 @@ When configuring a toolbar, think of it as a container with several slots.
 
 Each slot can be a different element. The most common elements are icon buttons (When configuring a toolbar, think of it as a container with several slots. Each slot can be a different element. The most common elements are icon buttons, buttons, and text fields. [More on icon buttons](https://m3.material.io/m3/pages/icon-buttons/specs)), buttons (Buttons let people take action and make choices with one tap. [More on buttons](https://m3.material.io/m3/pages/common-buttons/specs)), and text fields (Text fields let users enter text into a UI. [More on text fields](https://m3.material.io/m3/pages/text-fields/overview)).
 
-![A toolbar with 5 slots, conceptual spaces for UI elements, next to each other.](assets/asset-005-a-toolbar-is-essentially-a-container-with-configurable-651402d1e6.png)
+![A toolbar with 5 slots, conceptual spaces for UI elements, next to each other.](assets/asset-005-a-toolbar-is-essentially-a-container-with-configurable-651402d1e6.webp)
 
 *A toolbar is essentially a container with configurable slots*
 
@@ -66,13 +66,13 @@ Color values are implemented through design tokens. For design, this means worki
 
 ### Standard
 
-![4 color roles in the standard color scheme of the floating toolbar in light and dark scheme.](assets/asset-006-surface-container-filled-button-primary-on-primary-toggle-abe6e70fed.png)
+![4 color roles in the standard color scheme of the floating toolbar in light and dark scheme.](assets/asset-006-surface-container-filled-button-primary-on-primary-toggle-abe6e70fed.webp)
 
 *Surface container; Filled button (Primary, On primary); Toggle tonal button (Secondary container, On secondary container); Standard button (Primary)*
 
 ### Vibrant
 
-![4 color roles in the vibrant color scheme of the floating toolbar in light and dark scheme.](assets/asset-007-primary-container-filled-button-primary-on-primary-toggle-4f421767b0.png)
+![4 color roles in the vibrant color scheme of the floating toolbar in light and dark scheme.](assets/asset-007-primary-container-filled-button-primary-on-primary-toggle-4f421767b0.webp)
 
 *Primary container; Filled button (Primary, On primary); Toggle tonal button: (Surface container, On surface); Standard button (On primary container)*
 
@@ -82,31 +82,31 @@ By default all toolbars are 64dp high, center-aligned, have equal padding betwee
 
 ### Docked toolbar
 
-![Default internal padding of a docked toolbar.](assets/asset-008-default-margins-and-padding-margins-and-padding-with-be292c464b.png)
+![Default internal padding of a docked toolbar.](assets/asset-008-default-margins-and-padding-margins-and-padding-with-be292c464b.webp)
 
 *Default margins and padding; Margins and padding with leading, middle, and trailing content*
 
-![2 docked toolbars with different margins and alignment.](assets/asset-009-left-and-right-alignment-center-aligned-8dp-padding-965173d8e7.png)
+![2 docked toolbars with different margins and alignment.](assets/asset-009-left-and-right-alignment-center-aligned-8dp-padding-965173d8e7.webp)
 
 *Left and right alignment; Center-aligned, 8dp padding between items*
 
 ### Floating toolbar
 
-![Diagram noting margin around edge of floating toolbar.](assets/asset-010-default-padding-of-floating-toolbar-9583cf8ac2.png)
+![Diagram noting margin around edge of floating toolbar.](assets/asset-010-default-padding-of-floating-toolbar-9583cf8ac2.webp)
 
 *Default padding of floating toolbar*
 
-![Diagram noting layout measurements.](assets/asset-011-floating-toolbar-size-and-padding-measurements-f62f1a6c15.png)
+![Diagram noting layout measurements.](assets/asset-011-floating-toolbar-size-and-padding-measurements-f62f1a6c15.webp)
 
 *Floating toolbar size and padding measurements*
 
-![Diagram noting layout margins.](assets/asset-012-floating-toolbar-margins-02badd70e5.png)
+![Diagram noting layout margins.](assets/asset-012-floating-toolbar-margins-02badd70e5.webp)
 
 *Floating toolbar margins*
 
 ## Bottom app bar (baseline)
 
-![Diagram of bottom app bar indicating the container.](assets/asset-013-container-0e7a672e12.png)
+![Diagram of bottom app bar indicating the container.](assets/asset-013-container-0e7a672e12.webp)
 
 *Container*
 
@@ -122,18 +122,18 @@ Bottom app bar tokens are in one token set.
 
 Color values are implemented through design tokens. For designers, this means working with color values that correspond with tokens. In implementation, a color value will be a token that references a value. [Learn more about design tokens](https://m3.material.io/m3/pages/design-tokens/overview)
 
-![Diagram of bottom app bar indicating its color mappings.](assets/asset-014-surface-container-0ad15bdfcb.png)
+![Diagram of bottom app bar indicating its color mappings.](assets/asset-014-surface-container-0ad15bdfcb.webp)
 
 *Surface container*
 
 ### Measurements
 
-![Diagram showing layout values and paddings for bottom app bar.](assets/asset-015-bottom-app-bar-padding-and-size-measurements-69ce3ce477.png)
+![Diagram showing layout values and paddings for bottom app bar.](assets/asset-015-bottom-app-bar-padding-and-size-measurements-69ce3ce477.webp)
 
 *Bottom app bar padding and size measurements*
 
 ### Common layouts
 
-![Side by side view of bottom app bars in different configurations.](assets/asset-016-icon-buttons-and-fab-icon-buttons-and-no-89bbfc4a3e.png)
+![Side by side view of bottom app bars in different configurations.](assets/asset-016-icon-buttons-and-fab-icon-buttons-and-no-89bbfc4a3e.webp)
 
 *Icon buttons and FAB; Icon buttons and no FAB*

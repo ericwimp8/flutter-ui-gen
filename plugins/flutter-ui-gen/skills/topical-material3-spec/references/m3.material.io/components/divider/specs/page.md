@@ -2,7 +2,7 @@
 
 Source: https://m3.material.io/components/divider/specs
 
-![Diagram of divider set on horizontal line](assets/asset-001-divider-42a76dda23.png)
+![Diagram of divider set on horizontal line](assets/asset-001-divider-42a76dda23.webp)
 
 *Divider*
 
@@ -17,13 +17,13 @@ Browse the component elements, attributes, tokens, and their values.
 
 Color values are implemented through design tokens. For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](https://m3.material.io/m3/pages/design-tokens/overview/825906c9-6eed-47d1-8812-450910c1356e)
 
-![Divider on light background and dark background.](assets/asset-002-outline-variant-1d9425e9eb.png)
+![Divider on light background and dark background.](assets/asset-002-outline-variant-1d9425e9eb.webp)
 
 *Outline variant*
 
 ## Measurements
 
-![Divider's measurement.](assets/asset-003-measurements-6a70839811.png)
+![Divider's measurement.](assets/asset-003-measurements-6a70839811.webp)
 
 *Measurements*
 

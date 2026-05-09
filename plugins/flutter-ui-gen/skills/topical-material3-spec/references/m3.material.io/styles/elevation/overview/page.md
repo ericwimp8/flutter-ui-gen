@@ -11,7 +11,7 @@ Source: https://m3.material.io/styles/elevation/overview
 
 Elevation is measured as the distance between components along the z-axis in density-independent pixels (dps).
 
-![1 diagram shows a light purple square and a darker purple square. A second one shows a side view of the squares in elevation, showing that the light square is lower in elevation than the dark square.](assets/asset-001-one-surface-at-1dp-elevation-and-another-surface-f5e2c557ff.png)
+![1 diagram shows a light purple square and a darker purple square. A second one shows a side view of the squares in elevation, showing that the light square is lower in elevation than the dark square.](assets/asset-001-one-surface-at-1dp-elevation-and-another-surface-f5e2c557ff.webp)
 
 *One surface at 1dp elevation and another surface at 8dp elevation, as viewed from the front; The difference in elevation between the two surfaces is 7dp, as viewed from the side*
 
@@ -31,11 +31,11 @@ Elevation is measured as the distance between components along the z-axis in den
 - Color: New color mappings and compatibility with dynamic color
 - Levels: Elevation is now described in terms of levels
 
-![Diagram of 2 concentric squares. The inner square is at 12dp and has a larger shadow than the outer square, which is at 3dp.](assets/asset-002-m2-shadows-applied-at-all-levels-73c59b64c5.png)
+![Diagram of 2 concentric squares. The inner square is at 12dp and has a larger shadow than the outer square, which is at 3dp.](assets/asset-002-m2-shadows-applied-at-all-levels-73c59b64c5.webp)
 
 *M2: Shadows applied at all levels*
 
-![Diagram of 2 concentric squares without shadows. Instead, the inner square is at level and tonally darker than the outer square, which is at level 2.](assets/asset-003-m3-using-color-instead-of-shadows-to-communicate-dccf106faf.png)
+![Diagram of 2 concentric squares without shadows. Instead, the inner square is at level and tonally darker than the outer square, which is at level 2.](assets/asset-003-m3-using-color-instead-of-shadows-to-communicate-dccf106faf.webp)
 
 *M3: Using color instead of shadows to communicate elevation*
 
@@ -55,7 +55,7 @@ Surfaces at different elevations do the following:
 
 All components have a default resting elevation. Avoid changing the default elevation of Material components.
 
-![A floating action button with a shadow.](assets/asset-005-all-components-have-a-default-elevation-which-should-f043ce302a.png)
+![A floating action button with a shadow.](assets/asset-005-all-components-have-a-default-elevation-which-should-f043ce302a.webp)
 
 *All components have a default elevation which should be used*
 

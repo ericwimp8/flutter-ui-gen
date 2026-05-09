@@ -7,8 +7,19 @@ The Dart generator receives structured input. User-language interpretation happe
 - `userIntent`: optional string; original user colour description
 - `recipe`: required string; `content`, `expressive`, `fidelity`, `fruitSalad`, `monochrome`, `neutral`, `rainbow`, `tonalSpot`, or `vibrant`
 - `sourceColor`: required string; source colour as `#RRGGBB` or `#AARRGGBB`
-- `contrastLevel`: optional number from `-1.0` to `1.0`; defaults to `0.0`
+- `contrastLevel`: optional contrast name or number; defaults to `normal`
 - `paletteOverrides`: optional object keyed by palette role
+
+## Contrast Levels
+
+Use a named value for normal generation:
+
+- `low` -> `-1.0`; Material minimum contrast
+- `normal` -> `0.0`; Material default contrast
+- `medium` -> `0.5`; Material medium contrast
+- `high` -> `1.0`; Material high contrast
+
+For advanced use, `contrastLevel` can also be a number from `-1.0` to `1.0`. Material Color Utilities defines `-1.0` as the lowest contrast anchor, `0.0` as normal/default, `0.5` as medium, and `1.0` as high.
 
 ## Supported Recipes
 
@@ -85,7 +96,7 @@ The generator builds Material tonal palettes internally from the supplied colour
   "userIntent": "orange with red highlights and warm cream surfaces",
   "recipe": "vibrant",
   "sourceColor": "#C75A32",
-  "contrastLevel": 0.0,
+  "contrastLevel": "normal",
   "paletteOverrides": {
     "tertiary": "#B3261E",
     "neutral": {

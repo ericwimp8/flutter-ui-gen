@@ -4,7 +4,7 @@ Source: https://m3.material.io/foundations/building-for-all/co-design
 
 Co-design supports innovation by involving the people who use a product or service in the creation process and goes beyond traditional user research. Prioritize engaging with people of varied backgrounds and experiences and remember that building with everyone is an ongoing process. By actively engaging with communities that are often overlooked, you can build products that are more beneficial for everyone. Validate your assumptions and discover new opportunities by conducting market research with a broad range of people.
 
-![Building for all](assets/asset-001-building-for-all-6a6690c526.png)
+![Building for all](assets/asset-001-building-for-all-6a6690c526.webp)
 
 ## Questions to consider
 

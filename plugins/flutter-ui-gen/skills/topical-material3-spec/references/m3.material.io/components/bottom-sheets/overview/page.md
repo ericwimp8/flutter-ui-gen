@@ -7,7 +7,7 @@ Source: https://m3.material.io/components/bottom-sheets/overview
 - Content should be additional or secondary (not the app’s main content)
 - Bottom sheets can be dismissed in order to interact with the main content
 
-![Side by side view of standard bottom sheet modal bottom sheet](assets/asset-001-standard-bottom-sheet-modal-bottom-sheet-75cecc9474.png)
+![Side by side view of standard bottom sheet modal bottom sheet](assets/asset-001-standard-bottom-sheet-modal-bottom-sheet-75cecc9474.webp)
 
 *Standard bottom sheet; Modal bottom sheet*
 
@@ -27,4 +27,4 @@ Source: https://m3.material.io/components/bottom-sheets/overview
 - Shape: Bottom sheets have a 28dp top corner radius
 - Layout: New max-width of 640dp and an optional drag handle with an accessible 48dp hit target
 
-![Diagram of floating sheet set on screen background](assets/asset-002-diagram-of-floating-sheet-set-on-screen-background-5c058f32d5.png)
+![Diagram of floating sheet set on screen background](assets/asset-002-diagram-of-floating-sheet-set-on-screen-background-5c058f32d5.webp)

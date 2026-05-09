@@ -7,7 +7,7 @@ Source: https://m3.material.io/components/time-pickers/overview
 - People can select hours, minutes, or periods of time
 - Make sure time can easily be selected by hand on a mobile device
 
-![Dial time picker dial and input time picker.](assets/asset-001-time-picker-dial-time-picker-input-50f64d751a.png)
+![Dial time picker dial and input time picker.](assets/asset-001-time-picker-dial-time-picker-input-50f64d751a.webp)
 
 *Time picker dial; Time picker input*
 
@@ -25,10 +25,10 @@ Source: https://m3.material.io/components/time-pickers/overview
 
 - Color: New color mappings and compatibility with dynamic color (Dynamic color takes a single color from a user's wallpaper or in-app content and creates an accessible color scheme assigned to elements in the UI. [More on dynamic color](https://m3.material.io/m3/pages/dynamic/choosing-a-source))
 
-![Time picker’s old color mappings. The selected hour of 7 and AM text is purple, on a purple background.](assets/asset-002-m2-time-pickers-had-different-color-mappings-b6259eb208.png)
+![Time picker’s old color mappings. The selected hour of 7 and AM text is purple, on a purple background.](assets/asset-002-m2-time-pickers-had-different-color-mappings-b6259eb208.webp)
 
 *M2: Time pickers had different color mappings*
 
-![Time picker's new color mappings. The selected hour of 7 and AM text is black, with different background colors.](assets/asset-003-m3-time-pickers-have-new-color-mappings-compatible-023874b6d4.png)
+![Time picker's new color mappings. The selected hour of 7 and AM text is black, with different background colors.](assets/asset-003-m3-time-pickers-have-new-color-mappings-compatible-023874b6d4.webp)
 
 *M3: Time pickers have new color mappings compatible with dynamic color*

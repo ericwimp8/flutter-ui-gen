@@ -4,7 +4,7 @@ Source: https://m3.material.io/components/bottom-sheets/specs
 
 Modal bottom sheets (Modal bottom sheets appear in front of app content, disabling all other app functionality when they appear, and remaining on screen until confirmed, dismissed, or a required action has been taken.) are above a scrim while standard bottom sheets (Standard bottom sheets display supplementary content without blocking access to the screen’s primary content, such as an audio player at the bottom of a music app.) don't have a scrim. Besides this, both variants of bottom sheets have the same specs.
 
-![Diagram of container, drag handle, scrim](assets/asset-001-container-drag-handle-optional-scrim-5a25275fdf.png)
+![Diagram of container, drag handle, scrim](assets/asset-001-container-drag-handle-optional-scrim-5a25275fdf.webp)
 
 *Container; Drag handle (optional); Scrim*
 
@@ -19,13 +19,13 @@ Browse the component elements, attributes, tokens, and their values. [Learn more
 
 Color values are implemented through design tokens (Design tokens are the building blocks of all UI elements. The same tokens are used in designs, tools, and code. [More on tokens](https://m3.material.io/m3/pages/design-tokens/overview)). For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](https://m3.material.io/m3/pages/design-tokens/overview)
 
-![Two diagrams featuring color opposites of scrim, container, drag handle](assets/asset-002-scrim-on-surface-variant-surface-container-low-c8137d0aa2.png)
+![Two diagrams featuring color opposites of scrim, container, drag handle](assets/asset-002-scrim-on-surface-variant-surface-container-low-c8137d0aa2.webp)
 
 *Scrim*; On surface variant; Surface container low*
 
 ## Measurements
 
-![Bottom sheet on larger device with 56dp top and 56dp side margins](assets/asset-003-bottom-sheet-padding-and-size-measurements-97a39ddfab.png)
+![Bottom sheet on larger device with 56dp top and 56dp side margins](assets/asset-003-bottom-sheet-padding-and-size-measurements-97a39ddfab.webp)
 
 *Bottom sheet padding and size measurements*
 

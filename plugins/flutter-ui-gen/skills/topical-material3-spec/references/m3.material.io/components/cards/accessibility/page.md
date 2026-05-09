@@ -13,7 +13,7 @@ People should be able to do the following using assistive technology:
 
 A card can be a non-actionable container that holds actions like buttons (Buttons let people take action and make choices with one tap. [More on buttons](https://m3.material.io/m3/pages/common-buttons/overview)) and links, or it can be directly actionable without any buttons or links. This is to avoid stacking actionable elements. An action shouldn’t be placed on an actionable surface.
 
-![2 possible card interaction behaviors.](assets/asset-001-non-actionable-card-with-buttons-directly-actionable-card-12c2be17ae.png)
+![2 possible card interaction behaviors.](assets/asset-001-non-actionable-card-with-buttons-directly-actionable-card-12c2be17ae.webp)
 
 *Non-actionable card with buttons; Directly actionable card with no buttons*
 
@@ -37,7 +37,7 @@ To meet Material's accessibility standards, any dragging and swiping interaction
 
 It isn’t recommended to place menus on top of the card on the draggable state. If doing so is necessary, ensure that the interaction can be completed.
 
-![A menu over a card that doesn't totally obscure the card.](assets/asset-004-caution-ensure-that-the-menu-doesn-t-cover-543d16e458.png)
+![A menu over a card that doesn't totally obscure the card.](assets/asset-004-caution-ensure-that-the-menu-doesn-t-cover-543d16e458.webp)
 
 *Caution Ensure that the menu doesn't cover the card*
 
@@ -71,11 +71,11 @@ All interactive elements of cards need a tab stop so they can be focused (A focu
 
 For non-actionable cards, the card itself is not a tab stop. However, every actionable element in the card is a tab stop so they’re all visited before focus navigates to the next card.
 
-![The focus areas of a card with interactive elements.](assets/asset-007-use-t-ab-to-navigate-through-all-buttons-9a3132a216.png)
+![The focus areas of a card with interactive elements.](assets/asset-007-use-t-ab-to-navigate-through-all-buttons-9a3132a216.webp)
 
 *Use T ab to navigate through all buttons in a card*
 
-![Cards forming a list on mobile and cards forming a gallery on tablet.](assets/asset-008-card-layouts-can-change-on-different-devices-026dc480db.png)
+![Cards forming a list on mobile and cards forming a gallery on tablet.](assets/asset-008-card-layouts-can-change-on-different-devices-026dc480db.webp)
 
 *Card layouts can change on different devices*
 
@@ -94,6 +94,6 @@ Directly actionable cards can have the button or link role, depending on how the
 
 Non-actionable cards are purely containers, so they don’t need a role.
 
-![Card elements annotated in the order that a screen reader tabs through them.](assets/asset-009-heading-image-body-text-primary-button-secondary-button-19733d5fc9.png)
+![Card elements annotated in the order that a screen reader tabs through them.](assets/asset-009-heading-image-body-text-primary-button-secondary-button-19733d5fc9.webp)
 
 *Heading; Image; Body text; Primary button; Secondary button*

@@ -11,7 +11,7 @@ Source: https://m3.material.io/foundations/usability/overview
 
 Usability helps create digital products that are easy to use and engaging. By leveraging M3 Expressive [design tactics](https://m3.material.io/blog/building-with-m3-expressive#what-rsquo-s-in-the-update) like containment, size, shape, color, and typography, designers can guide users through experiences and emphasize key actions to create intuitive, usable products.
 
-![Key takeaways](assets/asset-001-key-takeaways-8dbc0e9fdc.png)
+![Key takeaways](assets/asset-001-key-takeaways-8dbc0e9fdc.webp)
 
 ## What is usability?
 
@@ -49,13 +49,13 @@ Tip: Material Design’s dynamic [color roles](https://m3.material.io/styles/col
 
 More on [Color](https://m3.material.io/styles/color/system/overview?utm_source=homepage&utm_medium=referral&utm_campaign=IO25) & [color contrast](https://m3.material.io/foundations/designing/color-contrast)
 
-![Light purple, dark purple, yellow and dark green colors on a light purple background](assets/asset-002-light-purple-dark-purple-yellow-and-dark-green-62f64e1715.png)
+![Light purple, dark purple, yellow and dark green colors on a light purple background](assets/asset-002-light-purple-dark-purple-yellow-and-dark-green-62f64e1715.webp)
 
 ### Containment & grouping content
 
 Group related elements in subtle containers to make them easier to understand. Break content into manageable sections using containment, [spacing](https://m3.material.io/foundations/layout/understanding-layout/spacing), and headings.
 
-![Four different rectangular shapes with round or rounded corners](assets/asset-003-four-different-rectangular-shapes-with-round-or-rounded-5662e64e9f.png)
+![Four different rectangular shapes with round or rounded corners](assets/asset-003-four-different-rectangular-shapes-with-round-or-rounded-5662e64e9f.webp)
 
 ### [Motion](https://m3.material.io/styles/motion/overview/how-it-works)
 
@@ -82,7 +82,7 @@ Every shape can morph into another in the set. Shape morph is also applied when 
 
 More on [shape](https://m3.material.io/styles/shape/overview-principles#579dd4ba-39f3-4e60-bd9b-1d97ed6ef1bf) & [shape morph](https://m3.material.io/styles/shape/shape-morph)
 
-![Five shapes from the Material Shape set](assets/asset-005-five-shapes-from-the-material-shape-set-e2444e3228.png)
+![Five shapes from the Material Shape set](assets/asset-005-five-shapes-from-the-material-shape-set-e2444e3228.webp)
 
 ### Size
 
@@ -90,7 +90,7 @@ The size and scale of elements shows their level of importance. The most importa
 
 Using larger sizes for key actions dramatically increases usability and makes products more efficient. Users are satisfied, they make fewer errors, and find the products to be more learnable.
 
-![Small, medium, and large soft burst](assets/asset-006-small-medium-and-large-soft-burst-c6430dd8a7.png)
+![Small, medium, and large soft burst](assets/asset-006-small-medium-and-large-soft-burst-c6430dd8a7.webp)
 
 ### Typography
 
@@ -102,7 +102,7 @@ Type can separate different hierarchies of information. More important informati
 
 [More on typography](https://m3.material.io/styles/typography/overview)
 
-![Different weights and width of letters](assets/asset-007-different-weights-and-width-of-letters-c65fe532dc.png)
+![Different weights and width of letters](assets/asset-007-different-weights-and-width-of-letters-c65fe532dc.webp)
 
 ## Design based on primary goals
 

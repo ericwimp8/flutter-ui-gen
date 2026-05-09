@@ -10,7 +10,7 @@ MTB creates a full tonal scheme, contrast checking, and tokens.
 
 [Material Theme Builder plugin](https://www.figma.com/community/plugin/1034969338659738588/material-theme-builder)
 
-![Screenshot of Figma design software showing a color scheme diagram on the canvas, a modal popup with the Material Theme Builder UI, and color scheme styles listed in the right UI pane.](assets/asset-001-material-theme-builder-lets-you-create-color-schemes-7ad411a5b1.png)
+![Screenshot of Figma design software showing a color scheme diagram on the canvas, a modal popup with the Material Theme Builder UI, and color scheme styles listed in the right UI pane.](assets/asset-001-material-theme-builder-lets-you-create-color-schemes-7ad411a5b1.webp)
 
 *Material Theme Builder lets you create color schemes and apply them to your designs.*
 

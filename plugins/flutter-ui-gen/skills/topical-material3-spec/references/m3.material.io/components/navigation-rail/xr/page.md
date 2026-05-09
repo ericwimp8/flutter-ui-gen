@@ -8,13 +8,13 @@ Extended reality (XR) interfaces have special design requirements, like showing 
 
 There are two variants of navigation rail orbiters (Orbiters are floating elements that control the content within spatial panels. [More on orbiters](https://developer.android.com/design/ui/xr/guides/spatial-ui#orbiters)): the contained FAB and spatialized FAB navigation rails.
 
-![Navigation bar orbiters with a contained FAB and a spatialized FAB.](assets/asset-001-contained-fab-rail-spatialized-fab-rail-c9493406c9.png)
+![Navigation bar orbiters with a contained FAB and a spatialized FAB.](assets/asset-001-contained-fab-rail-spatialized-fab-rail-c9493406c9.webp)
 
 *Contained FAB rail; Spatialized FAB rail*
 
 ## Anatomy
 
-![Diagram of navigation rail orbiter identifying 9 internal elements of the component.](assets/asset-002-container-active-indicator-large-badge-optional-badge-optional-669adb7e91.png)
+![Diagram of navigation rail orbiter identifying 9 internal elements of the component.](assets/asset-002-container-active-indicator-large-badge-optional-badge-optional-669adb7e91.webp)
 
 *Container; Active indicator; Large badge (optional); Badge (optional); Large badge label (optional); Label text; Icon; Embedded or spatialized FAB (optional); Menu icon (optional)*
 
@@ -22,17 +22,17 @@ There are two variants of navigation rail orbiters (Orbiters are floating elemen
 
 On XR, color is used to highlight elevated UI elements and orbiters. With [spatial elevation](https://developer.android.com/design/ui/xr/guides/spatial-ui#spatial-elevation), the navigation bar displays above the spatial panel (In Android XR, a spatial panel is a container for UI elements, interactive components, and immersive content. [More on spatial panels](https://developer.android.com/design/ui/xr/guides/spatial-ui#spatial-panels)), on the Z-axis. Color communicates elevation on UI elements and orbiters. Elevated nav rails can use any of these color options:
 
-![4 versions of elevation color strategy.](assets/asset-003-surface-container-with-tertiary-fab-surface-container-high-979521b586.png)
+![4 versions of elevation color strategy.](assets/asset-003-surface-container-with-tertiary-fab-surface-container-high-979521b586.webp)
 
 *Surface container with tertiary FAB; Surface container high with tertiary fixed dim FAB; Surface container highest with tertiary fixed dim FAB; Tertiary container with primary FAB*
 
 ## Measurements
 
-![Measurements and padding for navigation rail orbiter with contained FAB.](assets/asset-004-navigation-rail-orbiter-padding-and-measurements-with-contained-c9afbf6c4f.png)
+![Measurements and padding for navigation rail orbiter with contained FAB.](assets/asset-004-navigation-rail-orbiter-padding-and-measurements-with-contained-c9afbf6c4f.webp)
 
 *Navigation rail orbiter padding and measurements with contained FAB*
 
-![Measurements and padding for navigation rail orbiter with spatialized FAB.](assets/asset-005-navigation-rail-orbiter-padding-and-measurements-with-spatialized-19827d16de.png)
+![Measurements and padding for navigation rail orbiter with spatialized FAB.](assets/asset-005-navigation-rail-orbiter-padding-and-measurements-with-spatialized-19827d16de.webp)
 
 *Navigation rail orbiter padding and measurements with spatialized FAB*
 

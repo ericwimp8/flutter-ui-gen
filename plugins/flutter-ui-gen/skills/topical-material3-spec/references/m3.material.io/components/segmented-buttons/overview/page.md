@@ -6,7 +6,7 @@ Source: https://m3.material.io/components/segmented-buttons/overview
 - Two variants: single-select and multi-select
 - Use for simple choices between two to five items (for more items or complex choices, use chips (Chips help people enter information, make selections, filter content, or trigger actions. [More on chips](https://m3.material.io/m3/pages/chips/overview)) )
 
-![Two variants of segmented buttons.](assets/asset-001-single-select-segmented-button-multi-select-segmented-button-f4f295c5b0.png)
+![Two variants of segmented buttons.](assets/asset-001-single-select-segmented-button-multi-select-segmented-button-f4f295c5b0.webp)
 
 *Single-select segmented button; Multi-select segmented button*
 
@@ -35,14 +35,14 @@ The segmented button is no longer recommended. Use the [connected button group](
 - Shape: Fully rounded corners
 - Typography: Labels use sentence case instead of all caps
 
-![Diagram indicating the fully rounded corner radius of a segmented button.](assets/asset-002-segmented-buttons-now-have-a-container-height-of-30ca18cf3b.png)
+![Diagram indicating the fully rounded corner radius of a segmented button.](assets/asset-002-segmented-buttons-now-have-a-container-height-of-30ca18cf3b.webp)
 
 *Segmented buttons now have a container height of 40dp*
 
-![Segmented buttons with M2 color mappings, all caps text labels, boxy shape, and shorter height.](assets/asset-003-m2-segmented-buttons-had-a-small-corner-radius-75415f8f4d.png)
+![Segmented buttons with M2 color mappings, all caps text labels, boxy shape, and shorter height.](assets/asset-003-m2-segmented-buttons-had-a-small-corner-radius-75415f8f4d.webp)
 
 *M2: Segmented buttons had a small corner radius and label text in all caps*
 
-![Segmented buttons with M3 color mappings, sentence case text labels, fully round shape, and taller height.](assets/asset-004-m3-segmented-buttons-have-fully-rounded-corners-sentence-3cfcf10452.png)
+![Segmented buttons with M3 color mappings, sentence case text labels, fully round shape, and taller height.](assets/asset-004-m3-segmented-buttons-have-fully-rounded-corners-sentence-3cfcf10452.webp)
 
 *M3: Segmented buttons have fully rounded corners, sentence-case text, different height, and new color mappings*

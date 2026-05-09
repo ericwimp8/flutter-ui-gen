@@ -31,20 +31,23 @@ The generated theme must come from `material-foundation/material-color-utilities
 
    Example: "orange with red highlights and warm cream surfaces" becomes primary orange, tertiary red, neutral warm cream, with remaining palettes filled from the selected recipe baseline.
 
-5. **Flutter `ColorScheme` file output**
+5. **Contrast intake**
+   A workflow that asks whether the user wants low, normal, medium, or high contrast, then maps that answer to the Material Color Utilities contrast anchor before generation.
+
+6. **Flutter `ColorScheme` file output**
    A generated Dart file containing the light and dark Flutter `ColorScheme` constants that the app can import directly.
 
-6. **Deterministic colour specimen preview**
+7. **Deterministic colour specimen preview**
    A generated visual preview that uses exact JSON colours, not AI image generation.
 
    It should show role groups, tonal ladders, light/dark surfaces, buttons, cards, nav selection, chips, text fields, outlines, and foreground/background pairs.
 
-7. **Material reference preview templates**
+8. **Material reference preview templates**
    A curated set of Material UI reference images.
 
    Each template needs a matching role map that says exactly which visible regions map to which Material colour roles.
 
-8. **Controlled image-generation preview prompt**
+9. **Controlled image-generation preview prompt**
    A prompt/template that says:
 
    - use this reference image
@@ -52,12 +55,12 @@ The generated theme must come from `material-foundation/material-color-utilities
    - recolour regions according to this role map
    - use only colours from `material_theme.json`
 
-9. **Preview iteration workflow**
+10. **Preview iteration workflow**
    The user sees the deterministic preview and/or controlled reference recolour preview, then can revise colour direction.
 
    Revisions regenerate the theme JSON and previews before app image generation continues.
 
-10. **Responsive app image-generation handoff**
+11. **Responsive app image-generation handoff**
    Once colours are approved, the responsive image-generation skill uses the approved `material_theme.json` plus Material 3 spec context to produce mobile, tablet, and desktop visual targets.
 
 ## 1. Material Theme Generator
@@ -133,6 +136,15 @@ Or richer:
 - "orange with red highlights"
 - "warm cream surfaces with green accents"
 - a reference image or UI screenshot
+
+Ask which contrast level the user wants:
+
+1. Low contrast - Material minimum contrast. -> `low`
+2. Normal contrast - Material default contrast. -> `normal`
+3. Medium contrast - Material medium contrast. -> `medium`
+4. High contrast - Material high contrast. -> `high`
+
+Material Color Utilities contrast anchors are `-1.0` for low/minimum, `0.0` for normal/default, `0.5` for medium, and `1.0` for high.
 
 ## 4. Multi-Colour Interpretation
 

@@ -2,7 +2,7 @@
 
 Source: https://m3.material.io/components/navigation-drawer/specs
 
-![Navigation drawer diagram numbering 7 elements](assets/asset-001-container-headline-label-text-active-indicator-badge-label-b9f9384861.png)
+![Navigation drawer diagram numbering 7 elements](assets/asset-001-container-headline-label-text-active-indicator-badge-label-b9f9384861.webp)
 
 *Container; Headline; Label text; Active indicator; Badge label text; Scrim; Icon*
 
@@ -17,7 +17,7 @@ The navigation drawer has one token set. [Learn about design tokens](https://m3.
 
 Color values are implemented through design tokens (Design tokens are the building blocks of all UI elements. The same tokens are used in designs, tools, and code. [More on tokens](https://m3.material.io/m3/pages/design-tokens/overview)). For design, this means working with color values that correspond with tokens. For implementation, a color value will be a token that references a value. [Learn more about design tokens](https://m3.material.io/m3/pages/design-tokens/overview)
 
-![Navigation drawer diagram numbering 9 color roles.](assets/asset-002-surface-container-low-on-surface-variant-on-secondary-133956625a.png)
+![Navigation drawer diagram numbering 9 color roles.](assets/asset-002-surface-container-low-on-surface-variant-on-secondary-133956625a.webp)
 
 *Surface container low; On surface variant; On secondary container; On secondary container; Secondary container; On secondary container; On surface variant; On surface variant; Scrim*
 
@@ -27,7 +27,7 @@ For divider color roles, go to [divider specs](https://m3.material.io/m3/pages/d
 
 States (States show the interaction status of a component or UI element. [More on states](https://m3.material.io/m3/pages/interaction-states/overview)) are visual representations used to communicate the status of a component or interactive element. [Learn more about interaction states](https://m3.material.io/m3/pages/interaction-states/overview)
 
-![4 navigation drawers illustrating enabled, hovered, focused, and pressed states.](assets/asset-003-enabled-hovered-focused-pressed-0cfb0370bc.png)
+![4 navigation drawers illustrating enabled, hovered, focused, and pressed states.](assets/asset-003-enabled-hovered-focused-pressed-0cfb0370bc.webp)
 
 *Enabled; Hovered; Focused; Pressed*
 
@@ -37,11 +37,11 @@ States (States show the interaction status of a component or UI element. [More o
 
 ### Standard navigation drawer
 
-![Standard navigation drawer with measurements shown for various elements.](assets/asset-004-element-size-measurements-fed13fc836.png)
+![Standard navigation drawer with measurements shown for various elements.](assets/asset-004-element-size-measurements-fed13fc836.webp)
 
 *Element size measurements*
 
-![Standard navigation drawer with measurements shown for padding and margins.](assets/asset-005-padding-and-margins-f0ac8d1bdc.png)
+![Standard navigation drawer with measurements shown for padding and margins.](assets/asset-005-padding-and-margins-f0ac8d1bdc.webp)
 
 *Padding and margins*
 
@@ -62,11 +62,11 @@ States (States show the interaction status of a component or UI element. [More o
 
 ### Modal navigation drawer
 
-![Modal navigation drawer with measurements shown for various elements.](assets/asset-006-element-size-measurements-8e3d11fc13.png)
+![Modal navigation drawer with measurements shown for various elements.](assets/asset-006-element-size-measurements-8e3d11fc13.webp)
 
 *Element size measurements*
 
-![Modal navigation drawer with measurements shown for padding and margins.](assets/asset-007-padding-and-margins-6c7fb56ac3.png)
+![Modal navigation drawer with measurements shown for padding and margins.](assets/asset-007-padding-and-margins-6c7fb56ac3.webp)
 
 *Padding and margins*
 

@@ -7,7 +7,7 @@ Source: https://m3.material.io/components/date-pickers/overview
 - Clearly indicate important dates, such as current and selected days
 - Follow common patterns, like a calendar view
 
-![3 variants of date pickers side-by-side. The docked date picker has an outlined text field above a calendar view. The modal date picker allows people to select a date from a calendar view. The modal date input lets someone type in a date.](assets/asset-001-docked-date-picker-modal-date-picker-modal-date-1b7b80fe84.png)
+![3 variants of date pickers side-by-side. The docked date picker has an outlined text field above a calendar view. The modal date picker allows people to select a date from a calendar view. The modal date input lets someone type in a date.](assets/asset-001-docked-date-picker-modal-date-picker-modal-date-1b7b80fe84.webp)
 
 *Docked date picker; Modal date picker; Modal date input*
 
@@ -27,10 +27,10 @@ Source: https://m3.material.io/components/date-pickers/overview
 - Color: New color mappings and compatibility with dynamic color (Dynamic color takes a single color from a user's wallpaper or in-app content and creates an accessible color scheme assigned to elements in the UI. [More on dynamic color](https://m3.material.io/m3/pages/dynamic/choosing-a-source))
 - Variants: The three variants of date pickers have been renamed to not be device-dependent. The former desktop date picker is now known as the docked date picker (Docked date pickers open from an onscreen input similar to a text field. They're often used within forms. [More on docked date picker](https://m3.material.io/m3/pages/date-pickers/guidelines#8d78696c-a756-4a4d-b7dd-846d866ba985)). The former mobile date picker and date input are now known as modal date picker (Modal date pickers extend full-screen. They're often used for selecting a date range. [More on modal date picker](https://m3.material.io/m3/pages/date-pickers/guidelines#ced55f72-28b5-4f5d-a347-fa38214ef2d4)) and modal date input (Modal date inputs allow the manual entry of dates using the numbers on a keyboard. They're often used in compact layouts. [More on modal date input](https://m3.material.io/m3/pages/date-pickers/guidelines#d91ce7bc-dbc7-43e3-a802-152f2f9c892a)) to reinforce that the user must take an action.
 
-![Old version of a date picker with a white background and shadows.](assets/asset-002-m2-date-pickers-had-a-drop-shadow-and-64a5db4e24.png)
+![Old version of a date picker with a white background and shadows.](assets/asset-002-m2-date-pickers-had-a-drop-shadow-and-64a5db4e24.webp)
 
 *M2: Date pickers had a drop shadow and different color mappings*
 
-![New version of date picker with a colorful background, rounded corners, and no shadows.](assets/asset-003-m3-date-pickers-have-larger-typography-no-shadow-46b71c61c2.png)
+![New version of date picker with a colorful background, rounded corners, and no shadows.](assets/asset-003-m3-date-pickers-have-larger-typography-no-shadow-46b71c61c2.webp)
 
 *M3: Date pickers have larger typography, no shadow, and new color mappings compatible with dynamic color*

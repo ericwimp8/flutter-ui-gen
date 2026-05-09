@@ -38,7 +38,7 @@ This article uses the general term accessibility label to refer to several diffe
 
 [Accessibility labels](https://m3.material.io/m3/pages/alt-text) assist users who cannot rely on a product's visual interface. Thoughtful labels help make the text-based experience as usable as the visual experience. Labels should concisely describe an element's content, purpose and behavior.
 
-![Diagram showing the labels and roles assigned to on-screen icon buttons.](assets/asset-001-example-the-accessibility-labels-for-these-icons-describe-01e35aea89.png)
+![Diagram showing the labels and roles assigned to on-screen icon buttons.](assets/asset-001-example-the-accessibility-labels-for-these-icons-describe-01e35aea89.webp)
 
 *Example: The accessibility labels for these icons describe their purpose—NOT what the icon looks like (for example, "magnifying glass")*
 
@@ -50,11 +50,11 @@ Labels should be concise, descriptive, and convey the content and context of the
 
 This applies to infographics and other instructive images found in support docs.
 
-![A microphone icon with the accessibility label "Voice Search."](assets/asset-002-do-the-label-voice-search-describes-the-user-361b72db06.png)
+![A microphone icon with the accessibility label "Voice Search."](assets/asset-002-do-the-label-voice-search-describes-the-user-361b72db06.webp)
 
 *Do The label “voice search” describes the user task (search) paired with the input method (voice)*
 
-![A microphone icon with the accessibility label "Microphone."](assets/asset-003-don-t-don-t-include-the-element-type-1a12c53da1.png)
+![A microphone icon with the accessibility label "Microphone."](assets/asset-003-don-t-don-t-include-the-element-type-1a12c53da1.webp)
 
 *Don’t Don't include the element type (button, menu, etc.) in your label. This will automatically be added by assigning the element the proper role.*
 
@@ -62,7 +62,7 @@ This applies to infographics and other instructive images found in support docs.
 
 Decorative icons and images that don't enhance the experience for a visually-impaired user should be annotated as decorative in order to hide them in code.
 
-![Group of icons in a menu collectively described by the accessibility label N/A Hide Images.](assets/asset-004-mark-decorative-visual-elements-to-hide-c60d3b0542.png)
+![Group of icons in a menu collectively described by the accessibility label N/A Hide Images.](assets/asset-004-mark-decorative-visual-elements-to-hide-c60d3b0542.webp)
 
 *Mark decorative visual elements to "hide"*
 
@@ -77,6 +77,6 @@ Assign ARIA roles (web) or component type (mobile) to communicate desired intera
 
 Defining an interactive element's category by assigning it a role helps users of assistive technology establish expectations for how to interact with that element and anticipate what is likely to happen upon interaction.
 
-![Element with the label "Got it button" and the role "Button."](assets/asset-005-don-t-don-t-include-the-control-type-af48bed779.png)
+![Element with the label "Got it button" and the role "Button."](assets/asset-005-don-t-don-t-include-the-control-type-af48bed779.webp)
 
 *Don’t Don't include the control type in the label. Screen readers automatically add the control, so you’d be having it repeat (for example, “Got it button button”).*

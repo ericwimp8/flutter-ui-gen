@@ -10,7 +10,7 @@ Formerly known as custom colors
 
 You can define additional colors in your scheme that stay static even when other colors dynamically change. When you input a desired reference color, Material will return four derived color roles that align with the design of existing roles in the color scheme.
 
-![Diagram showing (1) a green circle, with an arrow leading from it to (2) a set of four color chips named Success, On Success, Success Container, and On Success Container. Below (3 and 4), the green Success colors are applied to a home control UI.](assets/asset-001-green-source-color-used-to-generate-color-values-1a0f206943.png)
+![Diagram showing (1) a green circle, with an arrow leading from it to (2) a set of four color chips named Success, On Success, Success Container, and On Success Container. Below (3 and 4), the green Success colors are applied to a home control UI.](assets/asset-001-green-source-color-used-to-generate-color-values-1a0f206943.webp)
 
 *Green source color used to generate color values for four new color roles; A set of new "Success" color roles derived from the source color; On success container color applied to the WiFi icon; Success container color applied to a card container*
 
@@ -28,11 +28,11 @@ Use the Material Theme Builder (Material Theme Builder (MTB) is a Figma plugin t
 - Material provides the red Error color out of the box as an example of a static color, so you do not need to define your own static color for a semantic red color.
 - If you are using static colors in a dynamic scheme, you can choose to [harmonize your static colors](https://m3.material.io/m3/pages/advanced/adjust-existing-colors#1cc12e43-237b-45b9-8fe0-9a3549c1f61e) to the scheme’s primary color. This will shift your static colors’ hues slightly warmer or cooler for a more harmonious overall appearance, while retaining the semantic meaning associated with the colors’ hue range.
 
-![Green card in a home control UI shown under three different color schemes: purple, red, and yellow. In each scheme, the green card color appears slightly shifted to look more harmonious with the overall color.](assets/asset-002-static-colors-can-be-harmonized-with-dynamic-color-9351f7423e.png)
+![Green card in a home control UI shown under three different color schemes: purple, red, and yellow. In each scheme, the green card color appears slightly shifted to look more harmonious with the overall color.](assets/asset-002-static-colors-can-be-harmonized-with-dynamic-color-9351f7423e.webp)
 
 *Static colors can be harmonized with dynamic color to appear harmonious with the overall color scheme*
 
-![Transit app UI with orange, green, and red color-coded subway lines and icons. The same screen is shown under a purple, red, and yellow scheme. In each screen, the subway line colors appear the same.](assets/asset-003-colors-can-stay-completely-static-and-forgo-harmonization-cf998b725c.png)
+![Transit app UI with orange, green, and red color-coded subway lines and icons. The same screen is shown under a purple, red, and yellow scheme. In each screen, the subway line colors appear the same.](assets/asset-003-colors-can-stay-completely-static-and-forgo-harmonization-cf998b725c.webp)
 
 *Colors can stay completely static and forgo harmonization if their values are tied to literal sources, such as brand colors or real-world signage*
 
@@ -40,7 +40,7 @@ Use the Material Theme Builder (Material Theme Builder (MTB) is a Figma plugin t
 
 You can define custom color roles in addition to those already existing in the color scheme. By defining these roles the same way Material does (specifying a reference palette, starting tones, and contrast requirements), these roles can achieve colors more specific to your needs while working seamlessly with features such as user-controlled contrast.
 
-![(1) a palette of Primary color chips in tones labeled 0 to 100, with tone 50 circled. (2) The chosen color against the primary container color, with 3:1 labeled on the border. (3) The chosen color applied to a large weather icon in a weather widget.](assets/asset-004-the-primary-tonal-palette-with-tone-50-specified-c93b2bed5b.png)
+![(1) a palette of Primary color chips in tones labeled 0 to 100, with tone 50 circled. (2) The chosen color against the primary container color, with 3:1 labeled on the border. (3) The chosen color applied to a large weather icon in a weather widget.](assets/asset-004-the-primary-tonal-palette-with-tone-50-specified-c93b2bed5b.webp)
 
 *The primary tonal palette, with tone 50 specified as the primary graphic default value; Color swatch showing an accessible 3:1 contrast between primary graphic and p rimary container; The primary graphic color role is applied in a weather widget against the primary container*
 

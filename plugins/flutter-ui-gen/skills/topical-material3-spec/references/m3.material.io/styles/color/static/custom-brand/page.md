@@ -9,7 +9,7 @@ With a brand color scheme, end-users see
 - An accessible UI with static colors
 - A product that "looks like its brand"
 
-![Left: A swirling red, magenta and green sphere representing a meditation app logo. Center: A color scheme created from the three brand colors in the sphere. Right: A screen of the meditation app colored in red, magenta, and green UI.](assets/asset-001-this-example-meditation-app-uses-a-static-scheme-ebe3657129.png)
+![Left: A swirling red, magenta and green sphere representing a meditation app logo. Center: A color scheme created from the three brand colors in the sphere. Right: A screen of the meditation app colored in red, magenta, and green UI.](assets/asset-001-this-example-meditation-app-uses-a-static-scheme-ebe3657129.webp)
 
 *This example meditation app uses a static scheme created from its brand colors.*
 

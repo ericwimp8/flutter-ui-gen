@@ -8,7 +8,7 @@ Source: https://m3.material.io/components/toolbars/overview
 - Can be paired with FABs to emphasize certain actions
 - Don’t show at the same time as a navigation bar
 
-![2 variants of toolbars.](assets/asset-001-configurations-of-floating-toolbars-46d22a1846.png)
+![2 variants of toolbars.](assets/asset-001-configurations-of-floating-toolbars-46d22a1846.webp)
 
 *Configurations of floating toolbars*
 
@@ -43,7 +43,7 @@ Variants and naming:
 - Color: Standard or vibrant
 - Flexibility: Can hold many elements and components. Can be paired with FAB.
 
-![2 examples of toolbar variants.](assets/asset-002-floating-vibrant-color-scheme-and-paired-with-fab-8973cde74e.png)
+![2 examples of toolbar variants.](assets/asset-002-floating-vibrant-color-scheme-and-paired-with-fab-8973cde74e.webp)
 
 *Floating, vibrant color scheme and paired with FAB; Docked with embedded primary action instead of FAB*
 
@@ -53,10 +53,10 @@ Variants and naming:
 - Elevation: No shadow
 - Layout: Container height is taller and the FAB is now contained within the app bar container
 
-![M2 bottom app bar.](assets/asset-003-m2-bottom-app-bar-had-higher-elevation-of-5f96bb476c.png)
+![M2 bottom app bar.](assets/asset-003-m2-bottom-app-bar-had-higher-elevation-of-5f96bb476c.webp)
 
 *M2: Bottom app bar had higher elevation of 8dp and didn't contain the FAB*
 
-![M3 bottom app bar.](assets/asset-004-m3-bottom-app-bar-has-new-colors-a-0ae6c35743.png)
+![M3 bottom app bar.](assets/asset-004-m3-bottom-app-bar-has-new-colors-a-0ae6c35743.webp)
 
 *M3: Bottom app bar has new colors, a taller container, no elevation or shadow, and contains the FAB*

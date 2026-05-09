@@ -8,13 +8,13 @@ Extended reality (XR) introduces spatial capabilities, such as using depth to ma
 
 XR uses [color roles](https://m3.material.io/m3/pages/color-roles/tab-1#89f972b1-e372-494c-aabc-69aea34ed591) to communicate the elevation of UI elements. Dialogs can use two color options: surface container high or surface container highest.
 
-![2 spatially elevated dialogs with surface-container-high and surface-container-highest color roles.](assets/asset-001-surface-container-high-surface-container-highest-95e9caeabd.png)
+![2 spatially elevated dialogs with surface-container-high and surface-container-highest color roles.](assets/asset-001-surface-container-high-surface-container-highest-95e9caeabd.webp)
 
 *Surface container high; Surface container highest*
 
 For effective visual hierarchy, a dialog should be the most prominent element. Add a scrim behind a dialog to improve its visibility. Scrims prevent other content from being selected until the dialog action is complete.
 
-![Dialog with surface-container-highest color and a scrim.](assets/asset-002-do-make-sure-a-spatial-dialog-s-color-fe8d0a658a.png)
+![Dialog with surface-container-highest color and a scrim.](assets/asset-002-do-make-sure-a-spatial-dialog-s-color-fe8d0a658a.webp)
 
 *Do Make sure a spatial dialog’s color is higher than all other UI elements, and use a scrim*
 
@@ -22,7 +22,7 @@ The dialog should have the highest elevation in the product.
 
 For example, if a dialog is surface container high, don’t use surface container highest for any other elements.
 
-![Dialog with surface-container-high color and no scrim. An orbiter is at a higher elevation than the dialog.](assets/asset-003-don-t-if-a-dialog-s-color-is-d87c9a9ebb.png)
+![Dialog with surface-container-high color and no scrim. An orbiter is at a higher elevation than the dialog.](assets/asset-003-don-t-if-a-dialog-s-color-is-d87c9a9ebb.webp)
 
 *Don’t If a dialog’s color is surface container high, don’t use surface container highest for any other element*
 
@@ -30,11 +30,11 @@ For example, if a dialog is surface container high, don’t use surface containe
 
 [Basic dialogs](https://m3.material.io/m3/pages/dialogs/guidelines#97ac3858-3932-4084-ae8e-73e42b7cb752) are recommended when designing for XR’s expanded window sizes. This keeps the required action in the person’s [field of view](https://developer.android.com/design/ui/xr/guides/spatial-ui#where-place). Limit use of [full-screen dialogs](https://m3.material.io/m3/pages/dialogs/guidelines#007536b9-76b1-474a-a152-2f340caaff6f) to compact window sizes, like mobile devices.
 
-![Basic dialog in XR.](assets/asset-004-do-a-basic-dialog-elevated-above-an-app-2454d687b1.png)
+![Basic dialog in XR.](assets/asset-004-do-a-basic-dialog-elevated-above-an-app-2454d687b1.webp)
 
 *Do A basic dialog elevated above an app in home space*
 
-![Full-screen dialog in XR.](assets/asset-005-don-t-avoid-using-full-screen-dialogs-in-60e7460025.png)
+![Full-screen dialog in XR.](assets/asset-005-don-t-avoid-using-full-screen-dialogs-in-60e7460025.webp)
 
 *Don’t Avoid using full-screen dialogs in XR. Required actions could appear beyond a person’s field of view.*
 
@@ -42,7 +42,7 @@ For example, if a dialog is surface container high, don’t use surface containe
 
 In full space (Full space is Android XR’s immersive mode and supports spatial components. [More on full space](https://developer.android.com/design/ui/xr/guides/foundations#modes)), dialogs can be elevated spatially (Spatial elevation displays a component above an app on the Z-axis. [More on spatial elevation](https://developer.android.com/design/ui/xr/guides/spatial-ui#spatial-elevation)) via [overrides](https://developer.android.com/develop/xr/jetpack-xr-sdk/material-design#use-enablexrcomponentoverrides). This helps dialogs stand out from their background in XR.
 
-![Side view of basic dialog showcasing spatial elevation.](assets/asset-006-side-view-of-a-basic-dialog-with-spatial-9b543b0680.png)
+![Side view of basic dialog showcasing spatial elevation.](assets/asset-006-side-view-of-a-basic-dialog-with-spatial-9b543b0680.webp)
 
 *Side view of a basic dialog with spatial elevation in full space*
 

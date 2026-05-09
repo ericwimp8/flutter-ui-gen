@@ -4,7 +4,7 @@ Source: https://m3.material.io/components/split-button/specs
 
 ## Variants
 
-![1 type of split button.](assets/asset-001-1-type-of-split-button-dcc60da21e.png)
+![1 type of split button.](assets/asset-001-1-type-of-split-button-dcc60da21e.webp)
 
 | Variant | M3 | M3 Expressive |
 | --- | --- | --- |
@@ -12,7 +12,7 @@ Source: https://m3.material.io/components/split-button/specs
 
 ## Configurations
 
-![4 colors and 5 sizes of split buttons.](assets/asset-002-color-configurations-elevated-filled-tonal-outlined-size-configurations-ac1a84081f.png)
+![4 colors and 5 sizes of split buttons.](assets/asset-002-color-configurations-elevated-filled-tonal-outlined-size-configurations-ac1a84081f.webp)
 
 *Color configurations: Elevated, filled, tonal, outlined; Size configurations: XS, S, M, L, XL*
 
@@ -30,13 +30,13 @@ Use the table's menu to select a token set. Split button token sets are organize
 
 ## Anatomy
 
-![4 elements of a split button.](assets/asset-003-leading-button-icon-label-text-trailing-button-aced8e8888.png)
+![4 elements of a split button.](assets/asset-003-leading-button-icon-label-text-trailing-button-aced8e8888.webp)
 
 *Leading button; Icon; Label text; Trailing button*
 
 The leading button in split buttons can have an icon, label text, or both. The trailing button should always have a menu icon.
 
-![3 customizations of the leading button in the split button.](assets/asset-004-label-icon-label-icon-f842709d2b.png)
+![3 customizations of the leading button in the split button.](assets/asset-004-label-icon-label-icon-f842709d2b.webp)
 
 *Label + icon; Label; Icon*
 
@@ -48,7 +48,7 @@ Split buttons use the same color schemes as standard buttons (Buttons let people
 
 Split buttons use the same colors and state layers as buttons, shown in the following token module. [Go to buttons](https://m3.material.io/m3/pages/common-buttons/overview) for more details.
 
-![4 color roles of the split button when unselected and selected in light and dark theme.](assets/asset-005-elevated-filled-tonal-outlined-372fff0f34.png)
+![4 color roles of the split button when unselected and selected in light and dark theme.](assets/asset-005-elevated-filled-tonal-outlined-372fff0f34.webp)
 
 *Elevated; Filled; Tonal; Outlined*
 
@@ -66,7 +66,7 @@ Split button states use the same colors and state layers as buttons (Buttons let
 
 The inner corners change shape for hovered, focused, and pressed states.
 
-![5 states of the leading button in the split button.](assets/asset-006-enabled-disabled-hovered-focused-pressed-pressed-with-focus-bf997667bc.png)
+![5 states of the leading button in the split button.](assets/asset-006-enabled-disabled-hovered-focused-pressed-pressed-with-focus-bf997667bc.webp)
 
 *Enabled; Disabled; Hovered; Focused; Pressed, pressed with focus*
 
@@ -74,7 +74,7 @@ The inner corners change shape for hovered, focused, and pressed states.
 
 The inner corners change shape for hovered, focused, and pressed states, and the icon becomes centered when selected.
 
-![6 states of the trailing menu button in the split button.](assets/asset-007-enabled-disabled-hovered-focused-pressed-pressed-with-focus-d9cf1cda43.png)
+![6 states of the trailing menu button in the split button.](assets/asset-007-enabled-disabled-hovered-focused-pressed-pressed-with-focus-d9cf1cda43.webp)
 
 *Enabled; Disabled; Hovered; Focused; Pressed, pressed with focus; Selected, selected with focus*
 
@@ -82,12 +82,12 @@ The inner corners change shape for hovered, focused, and pressed states, and the
 
 Text and icons are optically centered when the buttons are asymmetrical. They’re centered normally when symmetrical.
 
-![Padding and size measurements of the split button.](assets/asset-008-xs-1dp-from-center-s-1dp-from-center-f56833df77.png)
+![Padding and size measurements of the split button.](assets/asset-008-xs-1dp-from-center-s-1dp-from-center-f56833df77.webp)
 
 *XS: -1dp from center; S: -1dp from center; M: -2dp from center; L: -3dp from center; XL: -6dp from center*
 
 The inner corner radius changes depending on button sizing. The space should always be 2dp.
 
-![Inner padding and inner corner measurements of the split button.](assets/asset-009-extra-small-4dp-small-4dp-medium-4dp-large-70b0391ed2.png)
+![Inner padding and inner corner measurements of the split button.](assets/asset-009-extra-small-4dp-small-4dp-medium-4dp-large-70b0391ed2.webp)
 
 *Extra small 4dp; Small 4dp; Medium 4dp; Large 8dp; Extra large 12dp*

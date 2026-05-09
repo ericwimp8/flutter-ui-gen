@@ -8,7 +8,7 @@ Source: https://m3.material.io/components/menus/specs
 
 Use vertical menus for a more expressive look and feel, including rounded corners, standard and vibrant color styles, more selection states, and submenu motion.
 
-![2 vertical menus use shape and color to indicate selected state.](assets/asset-001-vertical-menu-with-gap-vertical-menu-with-divider-24912ba152.png)
+![2 vertical menus use shape and color to indicate selected state.](assets/asset-001-vertical-menu-with-gap-vertical-menu-with-divider-24912ba152.webp)
 
 *Vertical menu with gap; Vertical menu with divider*
 
@@ -16,7 +16,7 @@ Use vertical menus for a more expressive look and feel, including rounded corner
 
 In M3 Expressive, baseline (Baseline variants are the original M3 component designs. They may not have the latest features introduced in M3 Expressive, like updated motion, shapes, type, and styles. [More on M3 Expressive](https://m3.material.io/blog/building-with-m3-expressive)) menu is still available to use, but doesn’t have the latest shapes, color styles, selection states, and motion. [See baseline menu specs](https://m3.material.io/m3/pages/menus/specs#a80df2f9-8610-4ce0-b3a3-b9ee749d5c98)
 
-![A baseline menu variant with square corners and standard colors.](assets/asset-002-a-baseline-menu-has-square-corners-as-compared-f850524f01.png)
+![A baseline menu variant with square corners and standard colors.](assets/asset-002-a-baseline-menu-has-square-corners-as-compared-f850524f01.webp)
 
 *A baseline menu has square corners, as compared to a vertical menu’s round corners and expressive styling*
 
@@ -29,7 +29,7 @@ In M3 Expressive, baseline (Baseline variants are the original M3 component desi
 
 ### Vertical menus layout
 
-![2 menus: 1 standard, and 1 with a gap, creating groups.](assets/asset-003-standard-grouped-e5b4cc00ab.png)
+![2 menus: 1 standard, and 1 with a gap, creating groups.](assets/asset-003-standard-grouped-e5b4cc00ab.webp)
 
 *Standard; Grouped*
 
@@ -51,7 +51,7 @@ Browse the component elements, attributes, tokens, and their values. [Learn abou
 
 ### Vertical menus
 
-![A diagram of a vertical menu.](assets/asset-004-menu-item-leading-icon-optional-menu-item-text-48ac82f600.png)
+![A diagram of a vertical menu.](assets/asset-004-menu-item-leading-icon-optional-menu-item-text-48ac82f600.webp)
 
 *Menu item; Leading icon (optional); Menu item text; Trailing icon (optional); Badge (optional); Trailing text (optional); Container; Supporting text (optional); Label text (optional); Gap (optional); Divider (optional)*
 
@@ -66,19 +66,19 @@ Menus have two color mappings:
 
 These mappings provide options for lower or higher visual emphasis. Vibrant menus are more prominent so should be used sparingly.
 
-![2 vertical menus: 1 with lower visual emphasis, and 1 vibrant menu with bold shades.](assets/asset-005-standard-color-scheme-vibrant-color-scheme-103e68c10f.png)
+![2 vertical menus: 1 with lower visual emphasis, and 1 vibrant menu with bold shades.](assets/asset-005-standard-color-scheme-vibrant-color-scheme-103e68c10f.webp)
 
 *Standard color scheme; Vibrant color scheme*
 
 ### Standard colors
 
-![2 vertical menus with standard color roles mapped to 11 elements.](assets/asset-006-on-surface-variant-on-surface-on-surface-state-c84cdee8be.png)
+![2 vertical menus with standard color roles mapped to 11 elements.](assets/asset-006-on-surface-variant-on-surface-on-surface-state-c84cdee8be.webp)
 
 *On surface variant; On surface; On surface (state layer); Surface container low; On surface variant; On surface variant; Tertiary container (selected); On tertiary container (selected); On surface variant; On surface variant; On tertiary container (selected)*
 
 ### Vibrant colors
 
-![2 vertical menus with vibrant color roles mapped to 11 elements.](assets/asset-007-on-tertiary-container-on-tertiary-container-on-tertiary-fab0bb566a.png)
+![2 vertical menus with vibrant color roles mapped to 11 elements.](assets/asset-007-on-tertiary-container-on-tertiary-container-on-tertiary-fab0bb566a.webp)
 
 *On tertiary container; On tertiary container; On tertiary container (state layer); Tertiary container; On tertiary container; On tertiary container; Tertiary (selected); On tertiary (selected); On tertiary container; On tertiary container; On tertiary (selected)*
 
@@ -86,13 +86,13 @@ These mappings provide options for lower or higher visual emphasis. Vibrant menu
 
 States (States show the interaction status of a component or UI element. [More on states](https://m3.material.io/m3/pages/interaction-states/overview)) are visual representations used to communicate the status of a component or an interactive element. [More on interaction states](https://m3.material.io/m3/pages/interaction-states/overview) Shape morphing in vertical menus creates an expressive active state. As focus moves between submenus, the corner shape changes to highlight the active menu. [More on menu focus](https://m3.material.io/m3/pages/menus/guidelines#7cc1d01b-a454-48c7-8306-e60347ffd17f)
 
-![6 vertical menu states in light and dark themes.](assets/asset-008-enabled-disabled-hovered-focused-pressed-active-main-menu-76e8c04665.png)
+![6 vertical menu states in light and dark themes.](assets/asset-008-enabled-disabled-hovered-focused-pressed-active-main-menu-76e8c04665.webp)
 
 *Enabled; Disabled; Hovered; Focused; Pressed; Active (main menu reveals submenu)*
 
 ## Measurements
 
-![Vertical menu marked with spacing and padding measurements.](assets/asset-009-vertical-menu-padding-and-size-measurements-61bad5b798.png)
+![Vertical menu marked with spacing and padding measurements.](assets/asset-009-vertical-menu-padding-and-size-measurements-61bad5b798.webp)
 
 *Vertical menu padding and size measurements*
 
@@ -110,13 +110,13 @@ Browse the component elements, attributes, tokens, and their values. [Learn abou
 
 ### Anatomy
 
-![Diagram of 6 elements of a baseline menu.](assets/asset-010-list-item-list-item-leading-icon-list-item-dcf7f7378e.png)
+![Diagram of 6 elements of a baseline menu.](assets/asset-010-list-item-list-item-leading-icon-list-item-dcf7f7378e.webp)
 
 *List item; List item leading icon; List item trailing icon; Container; List item trailing text; Divider*
 
 ### Color
 
-![9 color roles of a baseline menu in light and dark themes.](assets/asset-011-on-surface-variant-on-surface-on-surface-opacity-42f41c4de8.png)
+![9 color roles of a baseline menu in light and dark themes.](assets/asset-011-on-surface-variant-on-surface-on-surface-opacity-42f41c4de8.webp)
 
 *On surface variant; On surface; On surface - opacity: 0.08; Surface container; On surface variant; On surface variant; On surface variant; Surface container highest; Outline variant*
 
@@ -124,13 +124,13 @@ Browse the component elements, attributes, tokens, and their values. [Learn abou
 
 #### Default menu items
 
-![Diagram numbering the 5 default states of a baseline menu.](assets/asset-012-enabled-disabled-hovered-focused-pressed-fd628d69d5.png)
+![Diagram numbering the 5 default states of a baseline menu.](assets/asset-012-enabled-disabled-hovered-focused-pressed-fd628d69d5.webp)
 
 *Enabled; Disabled; Hovered; Focused; Pressed*
 
 #### Selected menu items
 
-![5 states of a selected baseline menu item.](assets/asset-013-enabled-disabled-hovered-focused-pressed-e124f45e52.png)
+![5 states of a selected baseline menu item.](assets/asset-013-enabled-disabled-hovered-focused-pressed-e124f45e52.webp)
 
 *Enabled; Disabled; Hovered; Focused; Pressed*
 
@@ -138,7 +138,7 @@ Browse the component elements, attributes, tokens, and their values. [Learn abou
 
 ### Measurements
 
-![Diagram of a baseline menu’s padding, text alignment, height, and width.](assets/asset-014-baseline-menu-padding-and-size-measurements-c8c8164815.png)
+![Diagram of a baseline menu’s padding, text alignment, height, and width.](assets/asset-014-baseline-menu-padding-and-size-measurements-c8c8164815.webp)
 
 *Baseline menu padding and size measurements*
 
@@ -168,4 +168,4 @@ A few examples:
 3. Icon button (Icon buttons help people take minor actions with one tap. [More on icon buttons](https://m3.material.io/m3/pages/icon-buttons/overview))
 4. Selected text
 
-![Examples of 4 baseline menu inputs.](assets/asset-015-examples-of-4-baseline-menu-inputs-ae66b614b4.png)
+![Examples of 4 baseline menu inputs.](assets/asset-015-examples-of-4-baseline-menu-inputs-ae66b614b4.webp)

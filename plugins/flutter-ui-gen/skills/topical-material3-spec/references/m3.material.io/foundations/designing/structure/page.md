@@ -34,7 +34,7 @@ To enable the screen reader to read out content in the intended order, it’s im
 
 While CSS determines the layout and appearance of a page, screen readers rely on the top-down structure of HTML on any platform (mobile or web). This structure creates a map for the screen reader to follow when reading the content.
 
-![Example of a mobile app using 4 content cards in a 2 by 2 grid. They reading order is top left, to top right, then bottom left, then bottom right.](assets/asset-001-an-example-of-how-content-hierarchy-in-a-6fb5df92c3.png)
+![Example of a mobile app using 4 content cards in a 2 by 2 grid. They reading order is top left, to top right, then bottom left, then bottom right.](assets/asset-001-an-example-of-how-content-hierarchy-in-a-6fb5df92c3.webp)
 
 *An example of how content hierarchy in a screen can be identified in a logical reading order to optimize for the ways assistive tech, such as screen readers, may interpret information*
 
@@ -48,7 +48,7 @@ For web only: Landmarks and headings help assistive-technology users orient them
 
 By classifying and labeling sections of a page, structural information that is conveyed visually through layout design can also be represented in code.
 
-![Diagram of a website, showing different regions and their associated landmarks and headings.](assets/asset-002-example-of-a-page-diagram-mapping-the-areas-bbd5b981ae.png)
+![Diagram of a website, showing different regions and their associated landmarks and headings.](assets/asset-002-example-of-a-page-diagram-mapping-the-areas-bbd5b981ae.webp)
 
 *Example of a page diagram mapping the areas for a UI in order to consider the relative landmarks and headings*
 
@@ -79,7 +79,7 @@ Labels should be added to all regions, as well as any landmark where a label wil
 
 Don't repeat the landmark role within a label.
 
-![Diagram labeling two regions with a navigation role with the labels primary and pagination](assets/asset-003-this-layout-has-two-areas-assigned-the-navigation-1117430a4c.png)
+![Diagram labeling two regions with a navigation role with the labels primary and pagination](assets/asset-003-this-layout-has-two-areas-assigned-the-navigation-1117430a4c.webp)
 
 *This layout has two areas assigned the navigation role. Each landmark should get a unique label to help users tell the difference between elements.*
 
@@ -92,7 +92,7 @@ Assistive technology users often navigate web pages with the help of headings. T
 - Map content on your pages to headings (H1–H6) in sequential order based on the hierarchy of your content
 - A single H1 for the page title is recommended
 
-![Diagram labeling different headings](assets/asset-004-example-of-headings-marked-up-in-code-35f8edd0c3.png)
+![Diagram labeling different headings](assets/asset-004-example-of-headings-marked-up-in-code-35f8edd0c3.webp)
 
 *Example of headings marked up in code*
 
@@ -106,7 +106,7 @@ Heading levels are informed by the layout's information architecture—the struc
 
 Material Design’s target guidelines can help users who aren’t able to see the screen, or who have difficulty with small touch targets, to tap elements in your app.
 
-![Target guidelines on buttons for easy accessibility.](assets/asset-005-target-guidelines-on-buttons-for-easy-accessibility-c5d0a2f4ae.png)
+![Target guidelines on buttons for easy accessibility.](assets/asset-005-target-guidelines-on-buttons-for-easy-accessibility-c5d0a2f4ae.webp)
 
 ### Touch and pointer target sizes
 
@@ -116,7 +116,7 @@ For most platforms, consider making touch targets at least 48 x 48dp. A touch ta
 
 Note: iOS recommends 44 x 44dp targets.
 
-![A row of four 24dp icons and one 40dp icon](assets/asset-006-icons-24dp-star-icon-40dp-touch-target-on-00f636fd35.png)
+![A row of four 24dp icons and one 40dp icon](assets/asset-006-icons-24dp-star-icon-40dp-touch-target-on-00f636fd35.webp)
 
 *Icons: 24dp Star icon: 40dp Touch target on both: 48dp*
 
@@ -126,7 +126,7 @@ Pointer targets are similar to touch targets, but are implemented by motion-trac
 
 Consider making pointer targets minimums 44 x 44dp.
 
-![A row of four icon buttons in the bottom app bar.](assets/asset-007-recommended-target-size-for-pointers-44dp-ef6fd44be0.png)
+![A row of four icon buttons in the bottom app bar.](assets/asset-007-recommended-target-size-for-pointers-44dp-ef6fd44be0.webp)
 
 *Recommended target size for pointers: 44dp*
 
@@ -134,6 +134,6 @@ Consider making pointer targets minimums 44 x 44dp.
 
 In most cases, targets separated by 8dp of space or more promote balanced information density and usability.
 
-![Three icons in a row with 48dp touch target size and three icons in a row with 8dp padding between icons.](assets/asset-008-two-groups-of-icons-showing-their-overall-spacing-ded2f2a1de.png)
+![Three icons in a row with 48dp touch target size and three icons in a row with 8dp padding between icons.](assets/asset-008-two-groups-of-icons-showing-their-overall-spacing-ded2f2a1de.webp)
 
 *Two groups of icons showing their overall spacing and the spacing between each other Touch target size: 48dp Padding: 8dp*

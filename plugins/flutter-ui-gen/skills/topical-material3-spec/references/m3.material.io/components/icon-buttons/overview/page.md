@@ -8,7 +8,7 @@ Source: https://m3.material.io/components/icon-buttons/overview
 - On web, display a tooltip describing the action while hovering
 - In toggle buttons, use the outlined style of an icon for the unselected state, and the filled style for the selected state
 
-![5 kinds of outline buttons.](assets/asset-001-standard-filled-unselected-filled-selected-filled-tonal-and-5ec774f591.png)
+![5 kinds of outline buttons.](assets/asset-001-standard-filled-unselected-filled-selected-filled-tonal-and-5ec774f591.webp)
 
 *Standard, filled unselected, filled selected, filled tonal, and outlined icon buttons*
 
@@ -56,7 +56,7 @@ Widths:
 - Default
 - Wide
 
-![Icon buttons can vary in size, shape, and width.](assets/asset-002-five-sizes-two-shapes-three-widths-a3ff53acf7.png)
+![Icon buttons can vary in size, shape, and width.](assets/asset-002-five-sizes-two-shapes-three-widths-a3ff53acf7.webp)
 
 *Five sizes; Two shapes; Three widths*
 
@@ -65,6 +65,6 @@ Widths:
 - Color: New color mappings and compatibility with dynamic color
 - Variants and naming: Icon buttons were called toggle buttons. There are now two variants of icon buttons: default and toggle.
 
-![Icon buttons were known as toggle buttons in M2.](assets/asset-003-default-icon-buttons-toggle-icon-buttons-be68dd507f.png)
+![Icon buttons were known as toggle buttons in M2.](assets/asset-003-default-icon-buttons-toggle-icon-buttons-be68dd507f.webp)
 
 *Default icon buttons; Toggle icon buttons*

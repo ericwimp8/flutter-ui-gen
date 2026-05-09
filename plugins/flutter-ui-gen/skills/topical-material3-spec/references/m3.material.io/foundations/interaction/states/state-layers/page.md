@@ -14,13 +14,13 @@ For example, if the enabled style uses the secondary container color for the con
 
 If the enabled style uses the surface color for the container and the primary color role for content, then the state layer will be an overlay using the primary color.
 
-![State layer sandwiched between the container and content.](assets/asset-001-container-state-layer-content-132c18ae6a.png)
+![State layer sandwiched between the container and content.](assets/asset-001-container-state-layer-content-132c18ae6a.webp)
 
 *Container; State layer; Content*
 
 The size of state layers is 40dp while the interactive target size is 48dp.
 
-![Interaction target is larger than the state layer.](assets/asset-002-state-layer-interactive-target-be3f69c5aa.png)
+![Interaction target is larger than the state layer.](assets/asset-002-state-layer-interactive-target-be3f69c5aa.webp)
 
 *State layer; Interactive target*
 
@@ -30,7 +30,7 @@ By default, a component’s state layer color is derived from the color of its c
 
 An [on color](https://m3.material.io/m3/pages/color-roles#19e75989-7485-4f5b-a769-940c4e4364bc) is a color role used by the content. Each container color has its own corresponding on color. For example, if a container color is secondary container, the content will use the on secondary container color role.
 
-![State layer sandwiched between the content and container.](assets/asset-003-order-of-surface-layers-shows-the-state-layer-2ad3979c18.png)
+![State layer sandwiched between the content and container.](assets/asset-003-order-of-surface-layers-shows-the-state-layer-2ad3979c18.webp)
 
 *Order of surface layers shows the state layer (2) between the container (1) and content (3) layers*
 
@@ -38,7 +38,7 @@ An [on color](https://m3.material.io/m3/pages/color-roles#19e75989-7485-4f5b-a76
 
 The state layer uses a fixed percentage for the opacity for each state. A state layer uses the color used by content (usually the [on color](https://m3.material.io/m3/pages/color-roles#19e75989-7485-4f5b-a769-940c4e4364bc)) and the percentage opacity for its respective state.
 
-![The opacity values of four overlay states.](assets/asset-004-hover-8-opacity-focus-10-opacity-press-10-5b8637351b.png)
+![The opacity values of four overlay states.](assets/asset-004-hover-8-opacity-focus-10-opacity-press-10-5b8637351b.webp)
 
 *Hover +8% opacity; Focus +10% opacity; Press +10% opacity; Drag +16% opacity*
 

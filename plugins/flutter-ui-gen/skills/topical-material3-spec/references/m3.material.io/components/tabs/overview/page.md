@@ -7,7 +7,7 @@ Source: https://m3.material.io/components/tabs/overview
 - Tabs can horizontally scroll, so a UI can have as many tabs as needed
 - Place tabs next to each other as peers
 
-![A bar of primary tabs with destinations labeled Flights, Trips, and Explore. And a bar of secondary tabs with destinations labeled Overview and Specifications](assets/asset-001-primary-tabs-secondary-tabs-7766b4a531.png)
+![A bar of primary tabs with destinations labeled Flights, Trips, and Explore. And a bar of secondary tabs with destinations labeled Overview and Specifications](assets/asset-001-primary-tabs-secondary-tabs-7766b4a531.webp)
 
 *Primary tabs; Secondary tabs*
 
@@ -26,6 +26,6 @@ Source: https://m3.material.io/components/tabs/overview
 - Color: New color mappings and compatibility with dynamic color (Dynamic color takes a single color from a user's wallpaper or in-app content and creates an accessible color scheme assigned to elements in the UI. [More on dynamic color](https://m3.material.io/m3/pages/dynamic/choosing-a-source))
 - Layout: Icons and labels are now vertically centered within the container
 
-![Bar of primary tabs with destinations labeled Flights, Trips, and Explore](assets/asset-002-tab-icons-and-labels-are-positioned-in-the-acdee47612.png)
+![Bar of primary tabs with destinations labeled Flights, Trips, and Explore](assets/asset-002-tab-icons-and-labels-are-positioned-in-the-acdee47612.webp)
 
 *Tab icons and labels are positioned in the vertical center of the container*

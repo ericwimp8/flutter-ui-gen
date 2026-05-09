@@ -21,7 +21,7 @@ Material recommends adding a Show all button below the carousel, which opens a d
 
 *Carousels without headers should use a Show all button to view all carousel items*
 
-![Measurements of a "show all" button added below a carousel.](assets/asset-002-the-show-all-button-should-have-a-padding-209b7ce412.png)
+![Measurements of a "show all" button added below a carousel.](assets/asset-002-the-show-all-button-should-have-a-padding-209b7ce412.webp)
 
 *The Show all button should have a padding of 4dp*
 
@@ -33,7 +33,7 @@ Make sure the header is also displayed on the page of all carousel items.
 
 *Carousels with headers should use an arrow to view all carousel items*
 
-![Measurements of an arrow icon button added next to a carousel header.](assets/asset-004-headers-should-align-with-the-leading-edge-and-870a91a5dd.png)
+![Measurements of an arrow icon button added next to a carousel header.](assets/asset-004-headers-should-align-with-the-leading-edge-and-870a91a5dd.webp)
 
 *Headers should align with the leading edge, and the arrow icon should have a size of 48dp*
 
@@ -41,11 +41,11 @@ Avoid customizing the accessibility solution when possible. However, if your pro
 
 Avoid adding UI elements, like arrows or other icons, within or beside the carousel.
 
-![Arrow icons on the left and right of the carousel, reducing container width.](assets/asset-005-don-t-avoid-adding-buttons-into-the-carousel-de24cf2f28.png)
+![Arrow icons on the left and right of the carousel, reducing container width.](assets/asset-005-don-t-avoid-adding-buttons-into-the-carousel-de24cf2f28.webp)
 
 *Don’t Avoid adding buttons into the carousel container or beside it. Place any buttons above or below the carousel.*
 
-![Arrow icons floating on top of the carousel edge, concealing items.](assets/asset-006-don-t-don-t-cover-the-carousel-with-f39d999e90.png)
+![Arrow icons floating on top of the carousel edge, concealing items.](assets/asset-006-don-t-don-t-cover-the-carousel-with-f39d999e90.webp)
 
 *Don’t Don't cover the carousel with buttons or other UI*
 
@@ -75,11 +75,11 @@ When navigating to a carousel using assistive technology, use Tab to place initi
 
 Use the up and down arrow keys to leave the carousel and focus on the next element on the page, like the Show all button.
 
-![Diagram of how to navigate a carousel using assistive technology.](assets/asset-009-do-set-initial-focus-on-the-first-carousel-f1004c03ab.png)
+![Diagram of how to navigate a carousel using assistive technology.](assets/asset-009-do-set-initial-focus-on-the-first-carousel-f1004c03ab.webp)
 
 *Do Set initial focus on the first carousel item, and use arrows to navigate items*
 
-![Diagram of how not to navigate a carousel using assistive technology.](assets/asset-010-don-t-avoid-focusing-on-the-carousel-container-de2c61afae.png)
+![Diagram of how not to navigate a carousel using assistive technology.](assets/asset-010-don-t-avoid-focusing-on-the-carousel-container-de2c61afae.webp)
 
 *Don’t Avoid focusing on the carousel container*
 
@@ -94,13 +94,13 @@ Use the up and down arrow keys to leave the carousel and focus on the next eleme
 
 The carousel container has the container role.
 
-![Accessibility labels of a carousel.](assets/asset-011-the-carousel-container-is-labelled-appropriately-and-has-ff93c75a51.png)
+![Accessibility labels of a carousel.](assets/asset-011-the-carousel-container-is-labelled-appropriately-and-has-ff93c75a51.webp)
 
 *The carousel container is labelled appropriately and has the container role*
 
 Each carousel may have a different number of items, so the label reads out the total amount of items and the current item in focus.
 
-![Accessibility labels of a carousel item.](assets/asset-012-the-carousel-item-label-indicates-the-current-item-81c92d023a.png)
+![Accessibility labels of a carousel item.](assets/asset-012-the-carousel-item-label-indicates-the-current-item-81c92d023a.webp)
 
 *The carousel item label indicates the current item in focus and the total number of items*
 

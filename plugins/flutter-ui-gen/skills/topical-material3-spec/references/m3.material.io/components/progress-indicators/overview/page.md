@@ -7,7 +7,7 @@ Source: https://m3.material.io/components/progress-indicators/overview
 - They capture attention through motion
 - Option to apply a wave to the active track for use cases that would benefit from increased expressiveness
 
-![8 progress indicators configured to show different thickness and shape.](assets/asset-001-linear-and-circular-progress-indicators-have-visual-configurations-2a438ff880.png)
+![8 progress indicators configured to show different thickness and shape.](assets/asset-001-linear-and-circular-progress-indicators-have-visual-configurations-2a438ff880.webp)
 
 *Linear and circular progress indicators have visual configurations for shape and thickness*
 
@@ -46,7 +46,7 @@ Dec 2023: Non-text contrast (NTC)
 - Motion: New motion behavior
 - Shape: Rounded corners
 
-![GM3 linear and circular progress indicators](assets/asset-003-progress-indicators-have-a-new-rounded-colorful-style-1ef33358cc.png)
+![GM3 linear and circular progress indicators](assets/asset-003-progress-indicators-have-a-new-rounded-colorful-style-1ef33358cc.webp)
 
 *Progress indicators have a new rounded, colorful style*
 
@@ -56,10 +56,10 @@ July 2022: Added to Material 3
 
 - Color: New color mappings and compatibility with dynamic color
 
-![M2 linear and circular progress indicators.](assets/asset-004-m2-progress-indicators-have-a-boxier-neutral-style-f788af89b8.png)
+![M2 linear and circular progress indicators.](assets/asset-004-m2-progress-indicators-have-a-boxier-neutral-style-f788af89b8.webp)
 
 *M2: Progress indicators have a boxier, neutral style*
 
-![M3 linear and circular progress indicators.](assets/asset-005-m3-progress-indicators-are-compatible-with-dynamic-color-57309ddc53.png)
+![M3 linear and circular progress indicators.](assets/asset-005-m3-progress-indicators-are-compatible-with-dynamic-color-57309ddc53.webp)
 
 *M3: Progress indicators are compatible with dynamic color*

@@ -12,7 +12,7 @@ Static fonts like [Roboto](https://fonts.google.com/specimen/Roboto) are current
 
 Roboto includes over 3,300 glyphs for representing hundreds of languages around the world.
 
-![A type specimen of Roboto.](assets/asset-001-roboto-is-the-default-typeface-in-android-and-0927225043.png)
+![A type specimen of Roboto.](assets/asset-001-roboto-is-the-default-typeface-in-android-and-0927225043.webp)
 
 *Roboto is the default typeface in Android and Material 3*
 
@@ -22,7 +22,7 @@ Roboto includes over 3,300 glyphs for representing hundreds of languages around 
 
 [Roboto Flex is available](https://fonts.google.com/specimen/Roboto+Flex) as a standalone font.
 
-![A type specimen of Roboto Flex.](assets/asset-002-roboto-flex-includes-the-styles-of-roboto-plus-cbdaa9da2c.png)
+![A type specimen of Roboto Flex.](assets/asset-002-roboto-flex-includes-the-styles-of-roboto-plus-cbdaa9da2c.webp)
 
 *Roboto Flex includes the styles of Roboto plus many more weights and widths optimized for larger and smaller sizes*
 
@@ -30,7 +30,7 @@ Roboto includes over 3,300 glyphs for representing hundreds of languages around 
 
 [Roboto Serif](https://fonts.google.com/specimen/Roboto+Serif) is another variable font family, designed to create a comfortable reading experience. Minimal and highly functional, it can be used anywhere (even in app interfaces) due to its extensive set of weights and widths across a broad range of sizes.
 
-![A type specimen of Roboto Serif.](assets/asset-003-roboto-serif-offers-a-functional-set-of-weights-54eddd2b0e.png)
+![A type specimen of Roboto Serif.](assets/asset-003-roboto-serif-offers-a-functional-set-of-weights-54eddd2b0e.webp)
 
 *Roboto Serif offers a functional set of weights and widths*
 
@@ -40,7 +40,7 @@ Roboto includes over 3,300 glyphs for representing hundreds of languages around 
 
 Monospaced fonts are easier to scan vertically, so are particularly useful for code and keeping numbers aligned. [Learn more about monospaced numbers](https://m3.material.io/m3/pages/typography/applying-type#f0f79df7-3174-4012-871e-93ce9a89d08b)
 
-![A type specimen of Roboto Mono.](assets/asset-004-equal-sizing-for-each-character-keeps-uniformity-of-750249e1b9.png)
+![A type specimen of Roboto Mono.](assets/asset-004-equal-sizing-for-each-character-keeps-uniformity-of-750249e1b9.webp)
 
 *Equal sizing for each character keeps uniformity of spacing*
 
@@ -52,7 +52,7 @@ Each Noto Sans family is compatible with Roboto and Noto Sans supports more than
 
 [Learn more about typography language considerations](https://m2.material.io/design/typography/language-support.html#language-considerations)
 
-![A type specimen of several Noto Sans fonts.](assets/asset-005-several-noto-sans-fonts-for-different-writing-systems-054977fc22.png)
+![A type specimen of several Noto Sans fonts.](assets/asset-005-several-noto-sans-fonts-for-different-writing-systems-054977fc22.webp)
 
 *Several Noto Sans fonts for different writing systems*
 
@@ -74,6 +74,6 @@ For example, products using the variable font Roboto Flex should apply font fall
 
 This ensures that text will have a consistent visual style regardless of font support. Designers should connect with their product and engineering partners to confirm that font fallback is available.
 
-![Text examples from Roboto Flex, Roboto, and Noto Sans all show similar styling.](assets/asset-006-font-branding-is-preserved-when-moving-from-roboto-641fdddd30.png)
+![Text examples from Roboto Flex, Roboto, and Noto Sans all show similar styling.](assets/asset-006-font-branding-is-preserved-when-moving-from-roboto-641fdddd30.webp)
 
 *Font branding is preserved when moving from Roboto Flex to Roboto to Noto Sans Japanese*

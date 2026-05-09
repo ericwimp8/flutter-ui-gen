@@ -8,7 +8,7 @@ Source: https://m3.material.io/components/app-bars/overview
 - On scroll, apply a fill color to separate from body content
 - Can animate on and off screen with another bar of controls, like a row of chips (Chips help people enter information, make selections, filter content, or trigger actions. [More on chips](https://m3.material.io/m3/pages/chips/overview))
 
-![4 configurations of app bars stacked vertically to show differences.](assets/asset-001-search-app-bar-small-medium-flexible-large-flexible-adad8103e4.png)
+![4 configurations of app bars stacked vertically to show differences.](assets/asset-001-search-app-bar-small-medium-flexible-large-flexible-adad8103e4.webp)
 
 *Search app bar; Small; Medium flexible; Large flexible*
 
@@ -48,7 +48,7 @@ Variants and naming:
 - Center-aligned text option
 - More flexible elements for imagery and filled buttons
 
-![4 total app bar configurations.](assets/asset-002-search-app-bar-small-medium-flexible-large-flexible-6d95f4a62b.png)
+![4 total app bar configurations.](assets/asset-002-search-app-bar-small-medium-flexible-large-flexible-6d95f4a62b.webp)
 
 *Search app bar; Small; Medium flexible; Large flexible*
 
@@ -59,10 +59,10 @@ Variants and naming:
 - Typography: Larger default text
 - Layout: Smaller default height
 
-![M2 top app bar with elevation to separate it from main content.](assets/asset-003-m2-elevation-and-a-drop-shadow-raise-the-2b789f2391.png)
+![M2 top app bar with elevation to separate it from main content.](assets/asset-003-m2-elevation-and-a-drop-shadow-raise-the-2b789f2391.webp)
 
 *M2: Elevation and a drop shadow raise the top app bar when content is present underneath*
 
-![M3 app bar with subtle color difference from main content.](assets/asset-004-m3-on-scroll-a-color-fill-overlay-separates-4e9dd43c02.png)
+![M3 app bar with subtle color difference from main content.](assets/asset-004-m3-on-scroll-a-color-fill-overlay-separates-4e9dd43c02.webp)
 
 *M3: On scroll, a color fill overlay separates the app bar from the content beneath*

@@ -19,11 +19,11 @@ Badges are most commonly used within other components, such as navigation bar (N
 
 Badges use a color intended to stand out against labels, icons, and navigation elements. Use the default color mapping to avoid color conflict issues.
 
-![Diagram of large and small badges showing that they need to pass 3 to 1 contrast.](assets/asset-002-do-badges-must-use-default-color-with-at-d1868a9bae.png)
+![Diagram of large and small badges showing that they need to pass 3 to 1 contrast.](assets/asset-002-do-badges-must-use-default-color-with-at-d1868a9bae.webp)
 
 *Do Badges must use default color with at least 3:1 contrast*
 
-![Diagram of large and small badges not passing 3 to 1 contrast.](assets/asset-003-don-t-avoid-using-custom-color-roles-for-95ec0bb2ef.png)
+![Diagram of large and small badges not passing 3 to 1 contrast.](assets/asset-003-don-t-avoid-using-custom-color-roles-for-95ec0bb2ef.webp)
 
 *Don’t Avoid using custom color roles for the badge container and label text. If custom roles are necessary, make sure they have contrast of at least 3:1.*
 
@@ -31,10 +31,10 @@ Badges use a color intended to stand out against labels, icons, and navigation e
 
 The accessibility (Accessible design makes products usable for people with all kinds of abilities. [More on accessibility](https://m3.material.io/m3/pages/overview/principles)) label for a badge item will be read after its navigation destination. Any numerical badges will have their number read, while non-counting badges will simply announce New notification.
 
-![Navigation bar highlighting numerical badge.](assets/asset-004-numerical-badges-will-have-their-number-read-ea386ff409.png)
+![Navigation bar highlighting numerical badge.](assets/asset-004-numerical-badges-will-have-their-number-read-ea386ff409.webp)
 
 *Numerical badges will have their number read*
 
-![Navigation bar highlighting non-counting badge.](assets/asset-005-non-counting-badges-will-simply-announce-new-notification-7a90784dff.png)
+![Navigation bar highlighting non-counting badge.](assets/asset-005-non-counting-badges-will-simply-announce-new-notification-7a90784dff.webp)
 
 *Non-counting badges will simply announce New notification*

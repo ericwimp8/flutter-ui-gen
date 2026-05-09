@@ -8,7 +8,7 @@ Source: https://m3.material.io/components/badges/overview
 - Limit content to four characters, including a +
 - Keep the default color mapping
 
-![3 icons with badges. 1 is a small dot. 2 is a larger circle with a 1 digit number. 3 is an oval with a 4 digit number.](assets/asset-001-small-badge-on-a-navigation-item-large-badge-1e7a53355c.png)
+![3 icons with badges. 1 is a small dot. 2 is a larger circle with a 1 digit number. 3 is an oval with a 4 digit number.](assets/asset-001-small-badge-on-a-navigation-item-large-badge-1e7a53355c.webp)
 
 *Small badge on a navigation item; Large badge on a navigation item; Large badge with max characters on a navigation item*
 
@@ -26,6 +26,6 @@ Source: https://m3.material.io/components/badges/overview
 
 - Color: New color mappings and compatibility with dynamic color (Dynamic color takes a single color from a user's wallpaper or in-app content and creates an accessible color scheme assigned to elements in the UI. [More on dynamic color](https://m3.material.io/m3/pages/dynamic/choosing-a-source))
 
-![Navigation bar showing 4 icons with different badge variants in a bright red color.](assets/asset-002-badges-have-new-color-mappings-4f6efdebc4.png)
+![Navigation bar showing 4 icons with different badge variants in a bright red color.](assets/asset-002-badges-have-new-color-mappings-4f6efdebc4.webp)
 
 *Badges have new color mappings*

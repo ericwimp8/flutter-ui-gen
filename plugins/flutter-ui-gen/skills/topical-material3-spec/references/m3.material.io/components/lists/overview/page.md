@@ -8,7 +8,7 @@ Source: https://m3.material.io/components/lists/overview
 - Show icons, text, and actions in a consistent format
 - Choose between standard and segmented styles
 
-![1 list contains 3 items, each with a label text, supporting text, and trailing text. A music app shows list items with leading images.](assets/asset-001-a-list-item-s-label-text-supporting-text-56135027f7.png)
+![1 list contains 3 items, each with a label text, supporting text, and trailing text. A music app shows list items with leading images.](assets/asset-001-a-list-item-s-label-text-supporting-text-56135027f7.webp)
 
 *A list item's label text, supporting text, image, and trailing icon can be customized to create a variety of lists*
 
@@ -50,7 +50,7 @@ Supported platforms:
 - [MDC-Android](https://github.com/material-components/material-components-android/blob/master/docs/components/List.md#m3-expressive)
 - [Jetpack Compose](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#ListItem%28kotlin.Function0,androidx.compose.ui.Modifier,kotlin.Function0,kotlin.Function0,kotlin.Function0,kotlin.Function0,androidx.compose.material3.ListItemColors,androidx.compose.ui.unit.Dp,androidx.compose.ui.unit.Dp%29)
 
-![2 party planning lists with 2 completed list items each. In 1 list, the selected items are highlighted.](assets/asset-002-expressive-lists-feature-improved-selection-states-1b994d7d97.png)
+![2 party planning lists with 2 completed list items each. In 1 list, the selected items are highlighted.](assets/asset-002-expressive-lists-feature-improved-selection-states-1b994d7d97.webp)
 
 *Expressive lists feature improved selection states*
 
@@ -64,10 +64,10 @@ Supported platforms:
 - In most cases, elements in a list item are middle-aligned
 - If a list is 88dp or larger, or contains three or more lines of text, elements are top-aligned
 
-![3 variants of lists in M2.](assets/asset-003-m2-non-standard-heights-and-alignments-207c973938.png)
+![3 variants of lists in M2.](assets/asset-003-m2-non-standard-heights-and-alignments-207c973938.webp)
 
 *M2: Non-standard heights and alignments*
 
-![3 variants of lists in M3 baseline.](assets/asset-004-m3-baseline-standardized-heights-and-alignments-cf51802e47.png)
+![3 variants of lists in M3 baseline.](assets/asset-004-m3-baseline-standardized-heights-and-alignments-cf51802e47.webp)
 
 *M3 (baseline): Standardized heights and alignments*

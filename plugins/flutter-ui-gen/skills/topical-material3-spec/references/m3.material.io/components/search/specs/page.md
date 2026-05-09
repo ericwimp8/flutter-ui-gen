@@ -21,11 +21,11 @@ Search comes in two styles:
 - Contained: Has an expressive (M3 Expressive is a major update to Material 3, adding visually stunning features, components, and variants, plus updates to the shape, motion, and typography systems. [More on M3 expressive](https://m3.material.io/blog/building-with-m3-expressive)) look and feel. It uses a filled container to separate a search bar from a list (Lists are continuous, vertical indexes of text and images. [More on lists](https://m3.material.io/m3/pages/lists/overview)) of suggestions or results
 - Divided ( baseline (Baseline variants and styles are the original M3 component designs. They may not have the latest features introduced in M3 Expressive, like updated motion, shapes, type, and styles.) ): Doesn’t have the latest visual style, motion, or flexibility
 
-![An email inbox search bar in a contained style.](assets/asset-002-the-contained-style-has-a-persistent-filled-container-f92535d4b2.png)
+![An email inbox search bar in a contained style.](assets/asset-002-the-contained-style-has-a-persistent-filled-container-f92535d4b2.webp)
 
 *The contained style has a persistent, filled container, expressive motion, and rounded shape*
 
-![An email inbox search bar in a divided style.](assets/asset-003-the-divided-baseline-style-uses-a-divider-to-b0ce86bc16.png)
+![An email inbox search bar in a divided style.](assets/asset-003-the-divided-baseline-style-uses-a-divider-to-b0ce86bc16.webp)
 
 *The divided (baseline) style uses a divider to separate the search bar from suggestions and results*
 
@@ -33,19 +33,19 @@ Search comes in two styles:
 
 Search suggestions and results appear in customizable lists, with two layout options: full-screen and docked. [More on search layouts](https://m3.material.io/m3/pages/search/guidelines#4f6c921c-795f-4e06-9b12-27ae7d502adb)
 
-![Full-screen search results with a search bar in the contained style.](assets/asset-004-full-screen-layout-in-the-contained-style-de8cf0602a.png)
+![Full-screen search results with a search bar in the contained style.](assets/asset-004-full-screen-layout-in-the-contained-style-de8cf0602a.webp)
 
 *Full-screen layout in the contained style*
 
-![Docked search results with a search bar in the contained style.](assets/asset-005-docked-layout-in-the-contained-style-66bd54d80d.png)
+![Docked search results with a search bar in the contained style.](assets/asset-005-docked-layout-in-the-contained-style-66bd54d80d.webp)
 
 *Docked layout in the contained style*
 
-![Full-screen search results with a search bar in the divided style.](assets/asset-006-full-screen-layout-in-the-divided-style-8889eaf143.png)
+![Full-screen search results with a search bar in the divided style.](assets/asset-006-full-screen-layout-in-the-divided-style-8889eaf143.webp)
 
 *Full-screen layout in the divided style*
 
-![Docked search results with a search bar in the divided style.](assets/asset-007-docked-layout-in-the-divided-style-fe4b3ecfd9.png)
+![Docked search results with a search bar in the divided style.](assets/asset-007-docked-layout-in-the-divided-style-fe4b3ecfd9.webp)
 
 *Docked layout in the divided style*
 
@@ -66,7 +66,7 @@ Use the table's menu to select a token set. The search bar set only contains tok
 
 Search includes a search bar and a container for suggestions and results. The container is empty by default. Use the list (Lists are continuous, vertical indexes of text and images. [More on lists](https://m3.material.io/m3/pages/lists/overview)) component to add content. In the divided (baseline) style, a divider separates the search bar and results.
 
-![6 elements of search.](assets/asset-008-search-bar-container-leading-icon-supporting-text-trailing-3b41050e32.png)
+![6 elements of search.](assets/asset-008-search-bar-container-leading-icon-supporting-text-trailing-3b41050e32.webp)
 
 *Search bar container; Leading icon; Supporting text; Trailing icon and avatar (optional); Input text; Container for search suggestions or results*
 
@@ -77,7 +77,7 @@ Search includes a search bar and a container for suggestions and results. The co
 3. With two trailing icon buttons
 4. With trailing icon button and avatar
 
-![4 search bars with different trailing elements.](assets/asset-009-4-search-bars-with-different-trailing-elements-650400bf25.png)
+![4 search bars with different trailing elements.](assets/asset-009-4-search-bars-with-different-trailing-elements-650400bf25.webp)
 
 ## Color
 
@@ -85,13 +85,13 @@ Color values are implemented through design tokens (Design tokens are the buildi
 
 ### Full-screen layout
 
-![6 full-screen search color roles in light and dark themes.](assets/asset-010-surface-container-low-on-surface-variant-on-surface-c653ababa3.png)
+![6 full-screen search color roles in light and dark themes.](assets/asset-010-surface-container-low-on-surface-variant-on-surface-c653ababa3.webp)
 
 *Surface container low; On surface variant; On surface variant; Surface container high; On surface variant; On surface*
 
 ### Docked layout
 
-![6 docked search color roles in light and dark themes.](assets/asset-011-surface-container-high-on-surface-variant-on-surface-8b35036d7f.png)
+![6 docked search color roles in light and dark themes.](assets/asset-011-surface-container-high-on-surface-variant-on-surface-8b35036d7f.webp)
 
 *Surface container high; On surface variant; On surface variant; Surface container high; On surface variant; On surface*
 
@@ -101,7 +101,7 @@ States are visual representations used to communicate the status of a component 
 
 ### Search bar
 
-![4 search bar states in light and dark mode.](assets/asset-012-enabled-hovered-focused-pressed-ripple-d7b2e2ced3.png)
+![4 search bar states in light and dark mode.](assets/asset-012-enabled-hovered-focused-pressed-ripple-d7b2e2ced3.webp)
 
 *Enabled; Hovered; Focused; Pressed (ripple)*
 
@@ -109,7 +109,7 @@ States are visual representations used to communicate the status of a component 
 
 Search includes a container for suggestions and results. The container is empty by default. Use the list component to add content.
 
-![4 search result states in light and dark mode.](assets/asset-013-enabled-hovered-focused-pressed-ripple-6e11eda9af.png)
+![4 search result states in light and dark mode.](assets/asset-013-enabled-hovered-focused-pressed-ripple-6e11eda9af.webp)
 
 *Enabled; Hovered; Focused; Pressed (ripple)*
 
@@ -117,21 +117,21 @@ Search includes a container for suggestions and results. The container is empty 
 
 ### Search bar
 
-![Search bar with leading and trailing icon size and padding measurements.](assets/asset-014-unfocused-search-bar-with-leading-and-trailing-icon-de4867a159.png)
+![Search bar with leading and trailing icon size and padding measurements.](assets/asset-014-unfocused-search-bar-with-leading-and-trailing-icon-de4867a159.webp)
 
 *Unfocused search bar with leading and trailing icon measurements*
 
-![Search bar with trailing avatar size and padding measurements.](assets/asset-015-unfocused-search-bar-with-avatar-measurements-2e09f2f9f8.png)
+![Search bar with trailing avatar size and padding measurements.](assets/asset-015-unfocused-search-bar-with-avatar-measurements-2e09f2f9f8.webp)
 
 *Unfocused search bar with avatar measurements*
 
 In M3 Expressive, the search bar expands when focused. The margins change from 24dp to 12dp.
 
-![Unfocused search bar margins of 24dp.](assets/asset-016-unfocused-search-bar-margin-measurements-88bb7c4cab.png)
+![Unfocused search bar margins of 24dp.](assets/asset-016-unfocused-search-bar-margin-measurements-88bb7c4cab.webp)
 
 *Unfocused search bar margin measurements*
 
-![Focused search bar margins of 12dp.](assets/asset-017-focused-search-bar-margin-measurements-9be9223928.png)
+![Focused search bar margins of 12dp.](assets/asset-017-focused-search-bar-margin-measurements-9be9223928.webp)
 
 *Focused search bar margin measurements*
 
@@ -150,11 +150,11 @@ In M3 Expressive, the search bar expands when focused. The margins change from 2
 
 #### Contained style
 
-![Full-screen layout size and padding measurements in contained style.](assets/asset-018-full-screen-search-padding-and-size-measurements-for-476a2f4872.png)
+![Full-screen layout size and padding measurements in contained style.](assets/asset-018-full-screen-search-padding-and-size-measurements-for-476a2f4872.webp)
 
 *Full-screen search padding and size measurements for contained style*
 
-![Docked layout size and padding measurements in contained style.](assets/asset-019-docked-search-padding-and-size-measurements-for-contained-4a39edac5f.png)
+![Docked layout size and padding measurements in contained style.](assets/asset-019-docked-search-padding-and-size-measurements-for-contained-4a39edac5f.webp)
 
 *Docked search padding and size measurements for contained style*
 
@@ -173,10 +173,10 @@ In M3 Expressive, the search bar expands when focused. The margins change from 2
 
 #### Divided style
 
-![Full-screen layout size and padding measurements in divided style.](assets/asset-020-full-screen-search-padding-and-size-measurements-for-55efce2ad2.png)
+![Full-screen layout size and padding measurements in divided style.](assets/asset-020-full-screen-search-padding-and-size-measurements-for-55efce2ad2.webp)
 
 *Full-screen search padding and size measurements for divided style*
 
-![Docked layout size and padding measurements in divided style.](assets/asset-021-docked-search-padding-and-size-measurements-for-divided-8c74694070.png)
+![Docked layout size and padding measurements in divided style.](assets/asset-021-docked-search-padding-and-size-measurements-for-divided-8c74694070.webp)
 
 *Docked search padding and size measurements for divided style*

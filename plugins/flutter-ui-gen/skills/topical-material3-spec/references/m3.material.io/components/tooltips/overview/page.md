@@ -8,7 +8,7 @@ Source: https://m3.material.io/components/tooltips/overview
 - Use rich tooltips to provide more details, like describing the value of a feature
 - Rich tooltips can include an optional title, link, and buttons
 
-![2 variants of tooltips.](assets/asset-001-plain-tooltip-rich-tooltip-b1615743a6.png)
+![2 variants of tooltips.](assets/asset-001-plain-tooltip-rich-tooltip-b1615743a6.webp)
 
 *Plain tooltip; Rich tooltip*
 
@@ -27,10 +27,10 @@ Source: https://m3.material.io/components/tooltips/overview
 - Color: New color mappings and compatibility with dynamic color (Dynamic color takes a single color from a user's wallpaper or in-app content and creates an accessible color scheme assigned to elements in the UI. [More on dynamic color](https://m3.material.io/m3/pages/dynamic/choosing-a-source))
 - Shape: Rich tooltips (Rich tooltips provide additional context about a UI element. They can optionally contain a subhead, buttons, and hyperlinks.) have more rounded corners
 
-![GM2 rich tooltip.](assets/asset-002-m2-rich-tooltips-have-slightly-rounded-corners-9c6dc9d216.png)
+![GM2 rich tooltip.](assets/asset-002-m2-rich-tooltips-have-slightly-rounded-corners-9c6dc9d216.webp)
 
 *M2: Rich tooltips have slightly rounded corners*
 
-![GM3 rich tooltip.](assets/asset-003-m3-rich-tooltips-have-more-rounded-corners-and-3812056486.png)
+![GM3 rich tooltip.](assets/asset-003-m3-rich-tooltips-have-more-rounded-corners-and-3812056486.webp)
 
 *M3: Rich tooltips have more rounded corners and support dynamic color*

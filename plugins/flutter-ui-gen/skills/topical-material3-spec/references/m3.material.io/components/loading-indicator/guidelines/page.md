@@ -46,7 +46,7 @@ When a process can transition from indeterminate (unknown progress) to determina
 
 ## Anatomy
 
-![2 parts of an active indicator.](assets/asset-008-active-indicator-container-optional-f30f2f38ee.png)
+![2 parts of an active indicator.](assets/asset-008-active-indicator-container-optional-f30f2f38ee.webp)
 
 *Active indicator; Container (optional)*
 
@@ -54,7 +54,7 @@ When a process can transition from indeterminate (unknown progress) to determina
 
 The active indicator is a looping shape morph sequence composed of seven unique Material 3 shapes. [More about the Material shape library](https://m3.material.io/m3/pages/shape/overview-principles#579dd4ba-39f3-4e60-bd9b-1d97ed6ef1bf)
 
-![Active indicator with shape morph.](assets/asset-009-the-active-indicator-morphs-shape-to-capture-attention-07f4c92da9.png)
+![Active indicator with shape morph.](assets/asset-009-the-active-indicator-morphs-shape-to-capture-attention-07f4c92da9.webp)
 
 *The active indicator morphs shape to capture attention*
 
@@ -62,7 +62,7 @@ The active indicator is a looping shape morph sequence composed of seven unique 
 
 When the container is visible, the active indicator should change color from primary to on-primary-container. The container should be visible when the loading indicator is placed over other content. This helps it stand out better by giving it a stronger contrast. It’s not needed when the loading indicator is placed directly on a surface. The container should be used with pull-to-refresh behavior.
 
-![Active indicator with container.](assets/asset-010-the-container-is-a-circle-that-provides-extra-1b2abf94d8.png)
+![Active indicator with container.](assets/asset-010-the-container-is-a-circle-that-provides-extra-1b2abf94d8.webp)
 
 *The container is a circle that provides extra contrast from body content*
 
@@ -94,7 +94,7 @@ Loading indicators can be placed within other components, such as buttons (Butto
 
 Loading indicators default to 48dp, but the size is flexible. It should be between 24dp to 240dp, depending on the placement and the window size. Avoid exceeding the minimum and maximum sizes. The ratio between the container and the active indicator stays the same when resizing the loading indicator. Reserve very large progress indicators for large and extra-large windows, like desktop.
 
-![Loading indicators can range from 24dps to 240dps.](assets/asset-015-loading-indicators-can-range-in-size-from-24-f72414b937.png)
+![Loading indicators can range from 24dps to 240dps.](assets/asset-015-loading-indicators-can-range-in-size-from-24-f72414b937.webp)
 
 *Loading indicators can range in size from 24–240dp*
 

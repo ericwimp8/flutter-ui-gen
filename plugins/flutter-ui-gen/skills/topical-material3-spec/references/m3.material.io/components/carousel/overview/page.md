@@ -40,7 +40,7 @@ Additional layouts and configurations:
 - Hero carousel layout (The hero carousel layout shows at least one large and one small item at a time.)
 - Multi-browse layout (The multi-browse carousel layout shows at least one large, medium, and small carousel item at a time.)
 
-![Items of different widths in an uncontained multi-aspect ratio layout.](assets/asset-002-new-carousel-layout-uncontained-multi-aspect-ratio-1d544f510b.png)
+![Items of different widths in an uncontained multi-aspect ratio layout.](assets/asset-002-new-carousel-layout-uncontained-multi-aspect-ratio-1d544f510b.webp)
 
 *New carousel layout: uncontained multi-aspect ratio*
 
@@ -52,7 +52,7 @@ This component is new in Material 3.
 - Motion: Carousel items move at a different speed than their content, creating a parallax effect
 - Interaction: When scrolled, carousel items snap into place to maintain the same layout. Hero carousels (The hero carousel layout shows at least one large and one small item at a time.) swipe through one item at a time. Multi-browse carousels (The multi-browse carousel layout shows at least one large, medium, and small carousel item at a time.) scroll through many items at once.
 
-![Carousel in a contained layout with a large item and a small item.](assets/asset-003-hero-carousels-scroll-through-one-large-item-at-a20836c4de.png)
+![Carousel in a contained layout with a large item and a small item.](assets/asset-003-hero-carousels-scroll-through-one-large-item-at-a20836c4de.webp)
 
 *Hero carousels scroll through one large item at a time*
 

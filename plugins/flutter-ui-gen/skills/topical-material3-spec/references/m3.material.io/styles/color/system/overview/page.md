@@ -18,15 +18,15 @@ For products migrating from M2 to M3, start by mapping the baseline color scheme
 
 *Learn about the value and function of Material 3’s dynamic color system and how it differs from past color systems*
 
-![Primary, on primary, primary container, and on primary container roles shown in baseline light theme color scheme.](assets/asset-002-the-baseline-color-scheme-doesn-t-dynamically-change-c27d9017c8.png)
+![Primary, on primary, primary container, and on primary container roles shown in baseline light theme color scheme.](assets/asset-002-the-baseline-color-scheme-doesn-t-dynamically-change-c27d9017c8.webp)
 
 *The baseline color scheme doesn't dynamically change*
 
-![Diagram showing an input color resulting in a simplified illustration of four roles of a color scheme. Shown in green and yellow in light theme.](assets/asset-003-a-dynamic-color-scheme-changes-the-ui-s-a76320017e.png)
+![Diagram showing an input color resulting in a simplified illustration of four roles of a color scheme. Shown in green and yellow in light theme.](assets/asset-003-a-dynamic-color-scheme-changes-the-ui-s-a76320017e.webp)
 
 *A dynamic color scheme changes the UI's colors based on different inputs, like a wallpaper*
 
-![Diagram showing an orange input color generating a static orange color scheme for an auto heating UI element.](assets/asset-004-specific-colors-such-as-semantic-colors-can-be-7c210adfae.png)
+![Diagram showing an orange input color generating a static orange color scheme for an auto heating UI element.](assets/asset-004-specific-colors-such-as-semantic-colors-can-be-7c210adfae.webp)
 
 *Specific colors, such as semantic colors, can be set to not dynamically change*
 
@@ -61,15 +61,15 @@ May 2025
 
 Color roles support three levels of contrast so people can select the one that best suits their vision needs. Contrasts also are tokenized.
 
-![Three levels of contrast](assets/asset-006-standard-contrast-778430f12c.png)
+![Three levels of contrast](assets/asset-006-standard-contrast-778430f12c.webp)
 
 *Standard contrast*
 
-![Three levels of contrast](assets/asset-007-medium-contrast-5c0584ec29.png)
+![Three levels of contrast](assets/asset-007-medium-contrast-5c0584ec29.webp)
 
 *Medium contrast*
 
-![Three levels of contrast](assets/asset-008-high-contrast-a104b7896f.png)
+![Three levels of contrast](assets/asset-008-high-contrast-a104b7896f.webp)
 
 *High contrast*
 
@@ -103,7 +103,7 @@ Affected components:
 - Icon buttons
 - Segmented buttons
 
-![Comparison of the color before and after the update, with FAB and button examples.](assets/asset-009-colors-used-for-text-and-icons-now-appear-5e172764c3.png)
+![Comparison of the color before and after the update, with FAB and button examples.](assets/asset-009-colors-used-for-text-and-icons-now-appear-5e172764c3.webp)
 
 *Colors used for text and icons now appear more colorful*
 
@@ -117,7 +117,7 @@ Same color system, explained in a new way. Updated sections include:
 - [Advanced customizations](https://m3.material.io/m3/pages/advanced/overview)
 - [Color resources](https://m3.material.io/m3/pages/color-resources)
 
-![Diagram illustrating guidelines being reorganized](assets/asset-010-the-guidelines-have-been-reorganized-and-updated-34e37facd9.png)
+![Diagram illustrating guidelines being reorganized](assets/asset-010-the-guidelines-have-been-reorganized-and-updated-34e37facd9.webp)
 
 *The guidelines have been reorganized and updated*
 
@@ -127,7 +127,7 @@ Feb 2023
 
 [Tone-based surface color roles](https://material.io/blog/tone-based-surface-color-m3) have replaced the previous approach of surfaces at +1 to +5 elevation. The new color roles are not tied to elevation (Elevation is the distance between two surfaces on the z-axis. [More on elevation](https://m3.material.io/m3/pages/elevation/overview)) and offer more flexibility and support for color features, such as user-controlled contrast (User-controlled contrast is a dynamic color feature enabling users to choose from one of three levels of color contrast: standard, medium, and high. [More on user-controlled contrast](https://m3.material.io/m3/pages/color/how-the-system-works#0207ef40-7f0d-4da8-9280-f062aa6b3e04)).
 
-![Simplified tablet UI showcasing the application of surface roles, shown in light theme](assets/asset-011-new-tone-based-surface-colors-offer-more-flexibility-6aeca2f6bd.png)
+![Simplified tablet UI showcasing the application of surface roles, shown in light theme](assets/asset-011-new-tone-based-surface-colors-offer-more-flexibility-6aeca2f6bd.webp)
 
 *New tone-based surface colors offer more flexibility and support*
 
@@ -137,7 +137,7 @@ Technical changes were made to align the color system with Android SysUI:
 - Updated the chroma for the neutral palette, increasing it from 4 to 6
 - Slightly darkened surface roles in dark theme
 
-![Before and after swatch of the default light theme surface, showcasing the difference in chroma and tone](assets/asset-012-changes-in-tone-and-chroma-in-the-default-8dc9fa5e4c.png)
+![Before and after swatch of the default light theme surface, showcasing the difference in chroma and tone](assets/asset-012-changes-in-tone-and-chroma-in-the-default-8dc9fa5e4c.webp)
 
 *Changes in tone and chroma in the default light theme surface*
 
@@ -147,6 +147,6 @@ Feb 2023
 
 Additional accent colors in the scheme provide more flexibility and choice for color application. In particular, a new set of fixed colors (Fixed colors keep the same color value in light and dark themes, as opposed to regular container colors, which change tone between themes, or static colors, which don't change at all. [More on fixed colors](https://m3.material.io/m3/pages/color-roles/tab-1#26b6a882-064d-4668-b096-c51142477850)) for the primary, secondary, and tertiary accent groups provide colors which stay the same across light and dark themes.
 
-![Fab and star icon show in fixed and fixed dim roles, in both light and dark theme](assets/asset-013-additional-accent-colors-provide-more-choice-for-color-f952e559f0.png)
+![Fab and star icon show in fixed and fixed dim roles, in both light and dark theme](assets/asset-013-additional-accent-colors-provide-more-choice-for-color-f952e559f0.webp)
 
 *Additional accent colors provide more choice for color application*

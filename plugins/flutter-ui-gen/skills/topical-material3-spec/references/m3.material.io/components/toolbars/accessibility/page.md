@@ -38,11 +38,11 @@ Focus lands on the first interactive element.
 
 Use Tab to navigate through all other actions.
 
-![Navigating the top app bar using arrow or tab on a keyboard.](assets/asset-003-use-tab-to-navigate-through-interactive-elements-bf1d3d1445.png)
+![Navigating the top app bar using arrow or tab on a keyboard.](assets/asset-003-use-tab-to-navigate-through-interactive-elements-bf1d3d1445.webp)
 
 *Use Tab to navigate through interactive elements*
 
-![Activating actions in the top app bar using space or enter on a keyboard.](assets/asset-004-use-space-or-enter-to-activate-actions-6e0cb98afb.png)
+![Activating actions in the top app bar using space or enter on a keyboard.](assets/asset-004-use-space-or-enter-to-activate-actions-6e0cb98afb.webp)
 
 *Use Space or Enter to activate actions*
 
@@ -61,6 +61,6 @@ On mobile, it can be a generic container.
 
 All actions inside the toolbar should follow their respective accessibility guidelines.
 
-![A toolbar on web, with a “toolbar” role label.](assets/asset-005-on-web-use-the-toolbar-role-395ff824a6.png)
+![A toolbar on web, with a “toolbar” role label.](assets/asset-005-on-web-use-the-toolbar-role-395ff824a6.webp)
 
 *On web, use the toolbar role*

@@ -9,7 +9,7 @@ Source: https://m3.material.io/components/buttons/overview
 - Two shape options: round and square
 - Keep labels concise and use sentence case
 
-![5 variants of buttons.](assets/asset-001-elevated-button-filled-button-filled-tonal-button-outlined-e157966c5c.png)
+![5 variants of buttons.](assets/asset-001-elevated-button-filled-button-filled-tonal-button-outlined-e157966c5c.webp)
 
 *Elevated button; Filled button; Filled tonal button; Outlined button; Text button*
 
@@ -56,7 +56,7 @@ New padding for small buttons:
 - 16dp (recommended to match padding of new sizes)
 - 24dp (no longer recommended)
 
-![4 button changes in the expressive update.](assets/asset-002-five-sizes-toggle-selection-two-shapes-two-small-7f55e302c2.png)
+![4 button changes in the expressive update.](assets/asset-002-five-sizes-toggle-selection-two-shapes-two-small-7f55e302c2.webp)
 
 *Five sizes; Toggle (selection); Two shapes; Two small padding widths*
 
@@ -66,10 +66,10 @@ New padding for small buttons:
 - Icons: Standard size for leading and trailing icons is now 20dp
 - Shape: Fully-rounded corner radius and additional height options
 
-![Rectangular M2 buttons.](assets/asset-003-m2-buttons-have-a-height-of-36dp-and-891c7383bf.png)
+![Rectangular M2 buttons.](assets/asset-003-m2-buttons-have-a-height-of-36dp-and-891c7383bf.webp)
 
 *M2: Buttons have a height of 36dp and slightly rounded corner radius*
 
-![Round-cornered M3 buttons.](assets/asset-004-m3-default-buttons-are-taller-at-40dp-and-72c8e0052d.png)
+![Round-cornered M3 buttons.](assets/asset-004-m3-default-buttons-are-taller-at-40dp-and-72c8e0052d.webp)
 
 *M3: Default buttons are taller at 40dp and have fully rounded corners*

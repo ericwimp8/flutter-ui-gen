@@ -16,7 +16,7 @@ The chip label needs at least 3:1 contrast with the background.
 
 A chip that performs an action should present the same semantics as a button (Buttons let people take action and make choices with one tap. [More on buttons](https://m3.material.io/m3/pages/common-buttons/overview)) to a platform's accessibility API.
 
-![The chip label needs to pass 3:1 contrast.](assets/asset-001-high-contrast-helps-differentiate-chips-clustered-together-aca9950816.png)
+![The chip label needs to pass 3:1 contrast.](assets/asset-001-high-contrast-helps-differentiate-chips-clustered-together-aca9950816.webp)
 
 *High contrast helps differentiate chips clustered together*
 
@@ -65,7 +65,7 @@ To ensure that this density setting can be easily reverted when it's active, kee
 
 The accessibility label for a chip is the chip's label text. Additional actions, like remove, are labeled separately.
 
-![Accessibility tags for a chip.](assets/asset-004-accessibility-tags-should-include-both-the-label-and-5d69e1e4eb.png)
+![Accessibility tags for a chip.](assets/asset-004-accessibility-tags-should-include-both-the-label-and-5d69e1e4eb.webp)
 
 *Accessibility tags should include both the label and role*
 
@@ -73,7 +73,7 @@ The accessibility label for a chip is the chip's label text. Additional actions,
 
 For multi-select chip sets, Space or Enter will select the focused chip and allow you to select all of the chips. Space or Enter will also deselect a focused selected chip.
 
-![Accessibility tags for a multi-select chip.](assets/asset-005-while-multiple-chips-can-be-selected-only-one-d4272cd9c7.png)
+![Accessibility tags for a multi-select chip.](assets/asset-005-while-multiple-chips-can-be-selected-only-one-d4272cd9c7.webp)
 
 *While multiple chips can be selected, only one can be in focus*
 
@@ -83,7 +83,7 @@ The accessibility label should align with each list item’s text label.
 
 For list items with text and an icon, the accessibility label should be marked as decorative to avoid redundant verbalizations.
 
-![Accessibility tags for a drop-down list chip.](assets/asset-006-the-accessibility-label-should-be-the-text-label-9a55cc5122.png)
+![Accessibility tags for a drop-down list chip.](assets/asset-006-the-accessibility-label-should-be-the-text-label-9a55cc5122.webp)
 
 *The accessibility label should be the text label*
 
@@ -96,7 +96,7 @@ Each chip is a focusable element.
 - If a chip only has a remove icon, the entire chip and icon are one focusable element.
 - If a chip has a second action, like select, then the chip content and remove icon are two separate focusable elements.
 
-![A focused remove action within a chip.](assets/asset-007-the-remove-action-is-focused-when-the-chip-f5efdf6f53.png)
+![A focused remove action within a chip.](assets/asset-007-the-remove-action-is-focused-when-the-chip-f5efdf6f53.webp)
 
 *The remove action is focused when the chip can also be selected*
 
@@ -106,23 +106,23 @@ Material requires that chips use a secondary indicator to show that they are int
 
 - Add a label before the chip group suggesting interaction, such as Select type
 
-![Label saying “Select type” above a series of chips, with “Extra soft” selected.](assets/asset-008-labels-introducing-a-chip-group-can-indicate-that-e0018e20a6.png)
+![Label saying “Select type” above a series of chips, with “Extra soft” selected.](assets/asset-008-labels-introducing-a-chip-group-can-indicate-that-e0018e20a6.webp)
 
 *Labels introducing a chip group can indicate that they are selectable*
 
 - Provide interactive page context, such as Filter results, indicating chips can be selected to narrow results
 
-![Page context saying “Filter results” above chips listing different categories.](assets/asset-009-page-context-can-indicate-how-search-results-will-f37ddf8b53.png)
+![Page context saying “Filter results” above chips listing different categories.](assets/asset-009-page-context-can-indicate-how-search-results-will-f37ddf8b53.webp)
 
 *Page context can indicate how search results will be narrowed by selecting chips*
 
 - Use the outline color role, instead of outline variant, to ensure a minimum 3:1 contrast
 - Include an interactive chip label, such as Turn on lights, or leading icon
 
-![A selectable chip with more pronounced outline stroke.](assets/asset-010-chips-can-show-they-are-interactive-with-a-bc5ee8e4ce.png)
+![A selectable chip with more pronounced outline stroke.](assets/asset-010-chips-can-show-they-are-interactive-with-a-bc5ee8e4ce.webp)
 
 *Chips can show they are interactive with a darker outline color stroke*
 
-![A chip labeled “Turn on lights” with a leading icon related to lights.](assets/asset-011-chips-can-also-use-a-leading-icon-or-ef38ae9cf6.png)
+![A chip labeled “Turn on lights” with a leading icon related to lights.](assets/asset-011-chips-can-also-use-a-leading-icon-or-ef38ae9cf6.webp)
 
 *Chips can also use a leading icon or label to show interactivity*

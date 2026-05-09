@@ -8,7 +8,7 @@ You can apply colors in places or ways that aren’t provided by default.
 
 Use multiple color schemes in the same app experience, such as a baseline scheme combined with a dynamic content-based scheme.
 
-![Smart home control screen showing media controls, light controls, and wifi and thermostat controls. Annotation 1 points to the media controls, which are colored in a teal scheme. Annotation 2 points to the remaining controls, colored in a red scheme.](assets/asset-001-a-teal-content-based-color-scheme-from-the-6bae26a4c4.png)
+![Smart home control screen showing media controls, light controls, and wifi and thermostat controls. Annotation 1 points to the media controls, which are colored in a teal scheme. Annotation 2 points to the remaining controls, colored in a red scheme.](assets/asset-001-a-teal-content-based-color-scheme-from-the-6bae26a4c4.webp)
 
 *A teal content-based color scheme from the local album art, applied to media controls; A red user-generated color scheme from the user's wallpaper, applied to the rest of the UI*
 
@@ -31,15 +31,15 @@ If your app features content-rich moments, such as a media player, it can enhanc
 - Limit the number of color source types per screen: Limit a screen to two color schemes from different source types. Too many color schemes on the same screen may lead to confusion and visual disarray. For example, a baseline or user-generated color scheme can be combined with one type of on-screen content (such as album art).
 - Don’t replace semantic colors: Use caution when applying content-based color in places where a semantic color or conventional color meaning is important for usability. For example, a common red error message or a common green positive action shouldn’t be replaced with dynamic content-based color because it may interfere with someone’s understanding.
 
-![Photo options screen in a red theme. Photo editing controls are displayed underneath the photo, and are colored in a teal scheme sourced from the photo.](assets/asset-002-when-many-types-of-information-and-actions-share-d680d0f7d6.png)
+![Photo options screen in a red theme. Photo editing controls are displayed underneath the photo, and are colored in a teal scheme sourced from the photo.](assets/asset-002-when-many-types-of-information-and-actions-share-d680d0f7d6.webp)
 
 *When many types of information and actions share a screen, use content-based color to add hierarchy and draw attention to the content. This screen uses a content-based scheme sourced from the photo to draw attention to the photo editing controls.*
 
-![A feed of cards listing different activities. The first card shows an image of a yellow tape cassette, and its UI is colored in a yellow scheme. The second card shows an image of a green plant, and its UI is colored in a green scheme.](assets/asset-003-in-lists-and-collections-of-repeated-items-that-d66917c492.png)
+![A feed of cards listing different activities. The first card shows an image of a yellow tape cassette, and its UI is colored in a yellow scheme. The second card shows an image of a green plant, and its UI is colored in a green scheme.](assets/asset-003-in-lists-and-collections-of-repeated-items-that-d66917c492.webp)
 
 *In lists and collections of repeated items that benefit from differentiation, content-based color can help associate related elements. This helps people quickly distinguish and pair related information, such as a list item and its associated action. In this list of activities, each card is colored with a scheme sourced from its main image.*
 
-![Media control screen where a podcast called Early Aughts is playing. The screen displays a teal colored album art for the podcast. The entire screen is colored in a teal scheme.](assets/asset-004-full-screen-content-based-color-moments-can-orient-bf9f1ff3bf.png)
+![Media control screen where a podcast called Early Aughts is playing. The screen displays a teal colored album art for the podcast. The entire screen is colored in a teal scheme.](assets/asset-004-full-screen-content-based-color-moments-can-orient-bf9f1ff3bf.webp)
 
 *Full-screen content-based color moments can orient users within a content-driven experience, such as a media control or a purchase flow. This media control screen is colored entirely in a scheme sourced from the in-context album art.*
 
@@ -47,7 +47,7 @@ If your app features content-rich moments, such as a media player, it can enhanc
 
 You can change a component’s default color mapping, or apply colors to your own custom components.
 
-![A custom volume slider component next to a design software UI palette displaying a list of color roles. The primary color role is linked to the mute button on the volume slider.](assets/asset-005-colors-can-be-remapped-on-existing-material-components-551e13d711.png)
+![A custom volume slider component next to a design software UI palette displaying a list of color roles. The primary color role is linked to the mute button on the volume slider.](assets/asset-005-colors-can-be-remapped-on-existing-material-components-551e13d711.webp)
 
 *Colors can be remapped on existing Material components, or can be mapped as desired to custom-built components, such as this unique volume slider.*
 

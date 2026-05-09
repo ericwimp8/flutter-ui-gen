@@ -14,7 +14,7 @@ There are two variants of button groups: standard and connected. Standard button
 - A selected toggle button also changes color
 - Adjacent buttons move and temporarily change width
 
-![A welcome screen with a colorful standard button group. 2 pink icon buttons are narrow, and 1 purple button is labelled “Get started".](assets/asset-002-button-groups-add-more-expression-to-a-product-6b4b52032c.png)
+![A welcome screen with a colorful standard button group. 2 pink icon buttons are narrow, and 1 purple button is labelled “Get started".](assets/asset-002-button-groups-add-more-expression-to-a-product-6b4b52032c.webp)
 
 *Button groups add more expression to a product*
 
@@ -24,11 +24,11 @@ Mix and match the different button variants, widths, and colors to emphasize wha
 - Avoid mixing sizes frequently
 - Only use a different shape in a group when a button is selected, or to add meaning or contrast
 
-![A standard button group with 3 buttons of different colors but the same square shape.](assets/asset-003-do-use-the-same-shapes-for-buttons-in-74a867ac8f.png)
+![A standard button group with 3 buttons of different colors but the same square shape.](assets/asset-003-do-use-the-same-shapes-for-buttons-in-74a867ac8f.webp)
 
 *Do Use the same shapes for buttons in a group, but change other properties like width and color*
 
-![A standard button group with 3 buttons, including a round primary button. A square button is used to add items.](assets/asset-004-caution-reserve-shape-differences-in-button-groups-for-cfac964f44.png)
+![A standard button group with 3 buttons, including a round primary button. A square button is used to add items.](assets/asset-004-caution-reserve-shape-differences-in-button-groups-for-cfac964f44.webp)
 
 *Caution Reserve shape differences in button groups for key interactions*
 
@@ -42,7 +42,7 @@ Connected button groups can be used to toggle between similar actions
 
 Use connected button groups when the button content is related, and buttons can be selected.
 
-![A shopping app with an option to choose the volume of an item using a connected button group.](assets/asset-005-closely-related-actions-work-well-in-a-connected-2200f5e3df.png)
+![A shopping app with an option to choose the volume of an item using a connected button group.](assets/asset-005-closely-related-actions-work-well-in-a-connected-2200f5e3df.webp)
 
 *Closely related actions work well in a connected button group*
 
@@ -50,7 +50,7 @@ Connected button groups should be used for single or multi-select patterns that 
 
 Avoid using a connected group when none of the buttons can be toggled.
 
-![2 filters using connected button groups of 2 and 4 items. The group with 4 items has multiple buttons selected.](assets/asset-006-use-the-connected-button-group-with-single-or-a92cdd8d6c.png)
+![2 filters using connected button groups of 2 and 4 items. The group with 4 items has multiple buttons selected.](assets/asset-006-use-the-connected-button-group-with-single-or-a92cdd8d6c.webp)
 
 *Use the connected button group with single or multi-select patterns*
 
@@ -58,13 +58,13 @@ Avoid using a connected group when none of the buttons can be toggled.
 
 Avoid mixing color styles in connected button groups; it can make selection and emphasis unclear.
 
-![Selecting a button in a connected button group labelled “My files,” “Shared,” and “Computers.”](assets/asset-007-don-t-mix-color-styles-in-connected-button-9d0a8229e3.png)
+![Selecting a button in a connected button group labelled “My files,” “Shared,” and “Computers.”](assets/asset-007-don-t-mix-color-styles-in-connected-button-9d0a8229e3.webp)
 
 *Don’t mix color styles in connected button groups*
 
 ## Anatomy
 
-![1 element of a button group.](assets/asset-008-container-a23f1aa6ff.png)
+![1 element of a button group.](assets/asset-008-container-a23f1aa6ff.webp)
 
 *Container*
 
@@ -72,7 +72,7 @@ Avoid mixing color styles in connected button groups; it can make selection and 
 
 The standard button group container has padding between buttons so they can animate width and shape without disrupting the product layout. The standard button group hugs the width of the buttons inside.
 
-![The container hugs the buttons. Inner padding is highlighted.](assets/asset-009-button-groups-can-animate-without-affecting-their-surroundings-cbd00eddb8.png)
+![The container hugs the buttons. Inner padding is highlighted.](assets/asset-009-button-groups-can-animate-without-affecting-their-surroundings-cbd00eddb8.webp)
 
 *Button groups can animate without affecting their surroundings*
 
@@ -80,7 +80,7 @@ The connected button group should span the width of the page or surface it’s p
 
 In larger windows, consider adding a maximum width to the connected group to avoid it growing too wide.
 
-![2 connected button groups, with 2 and 4 buttons respectively, spanning the same width on a screen, with margins from the edge.](assets/asset-010-connected-button-groups-increase-the-widths-of-each-0bac60af24.png)
+![2 connected button groups, with 2 and 4 buttons respectively, spanning the same width on a screen, with margins from the edge.](assets/asset-010-connected-button-groups-increase-the-widths-of-each-0bac60af24.webp)
 
 *Connected button groups increase the widths of each button inside and expand to their container width*
 
@@ -99,7 +99,7 @@ Button groups and individual buttons can be set to fixed or flexible resizing:
 
 If adjusting button width manually, avoid stretching icon buttons beyond the wide setting.
 
-![Two button groups, each with distinct width, size, and padding adjusted to fit two different window sizes.](assets/asset-011-buttons-can-have-width-size-and-padding-manually-4b87ef0a95.png)
+![Two button groups, each with distinct width, size, and padding adjusted to fit two different window sizes.](assets/asset-011-buttons-can-have-width-size-and-padding-manually-4b87ef0a95.webp)
 
 *Buttons can have width, size, and padding manually adjusted to fit different window sizes*
 

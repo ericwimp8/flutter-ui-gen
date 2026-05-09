@@ -36,11 +36,11 @@ Shift+Tab instead focuses on the last radio if none are selected.
 
 Use the arrows to navigate between options.
 
-![The Tab key focuses on the first of 2 stacked radio buttons.](assets/asset-002-tab-brings-the-focus-to-the-initially-selected-bcb291a789.png)
+![The Tab key focuses on the first of 2 stacked radio buttons.](assets/asset-002-tab-brings-the-focus-to-the-initially-selected-bcb291a789.webp)
 
 *Tab brings the focus to the initially selected item or the initial radio option*
 
-![The up and down arrow keys move through a list of stacked radio buttons.](assets/asset-003-arrows-move-to-next-element-in-a-list-4e853a20fd.png)
+![The up and down arrow keys move through a list of stacked radio buttons.](assets/asset-003-arrows-move-to-next-element-in-a-list-4e853a20fd.webp)
 
 *Arrows move to next element in a list*
 
@@ -59,12 +59,12 @@ If the UI text is correctly linked to the radio button, assistive tech such as a
 
 The accessibility (Accessible design makes products usable for people with all kinds of abilities. [More on accessibility](https://m3.material.io/m3/pages/overview/principles)) label for a group of radio buttons is typically the same as its title. The role is Radio group.
 
-![Accessibility tags for a radio button group.](assets/asset-004-label-the-radio-group-based-on-the-category-bf34892377.png)
+![Accessibility tags for a radio button group.](assets/asset-004-label-the-radio-group-based-on-the-category-bf34892377.webp)
 
 *Label the radio group based on the category title*
 
 The accessibility (Accessible design makes products usable for people with all kinds of abilities. [More on accessibility](https://m3.material.io/m3/pages/overview/principles)) label for an individual radio button is typically the same as its adjacent text label.
 
-![Accessibility tags for a radio button.](assets/asset-005-label-the-radio-button-based-on-its-label-e5b1d65f2f.png)
+![Accessibility tags for a radio button.](assets/asset-005-label-the-radio-button-based-on-its-label-e5b1d65f2f.webp)
 
 *Label the radio button based on its label text*

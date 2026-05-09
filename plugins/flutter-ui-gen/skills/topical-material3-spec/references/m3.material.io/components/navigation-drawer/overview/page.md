@@ -8,7 +8,7 @@ Source: https://m3.material.io/components/navigation-drawer/overview
 - Two variants: standard and modal
 - Put the most frequent destinations at the top and group related destinations together
 
-![2 variants of navigation drawers: standard and modal.](assets/asset-001-standard-navigation-drawer-modal-navigation-drawer-3d980077ac.png)
+![2 variants of navigation drawers: standard and modal.](assets/asset-001-standard-navigation-drawer-modal-navigation-drawer-3d980077ac.webp)
 
 *Standard navigation drawer; Modal navigation drawer*
 
@@ -35,10 +35,10 @@ The navigation drawer is no longer recommended. Use the expanded navigation rail
 - Shape: Rounded corners at the ending edge of the drawer
 - States (States show the interaction status of a component or UI element. [More on states](https://m3.material.io/m3/pages/interaction-states/overview)): Updated color and shape for indicating selected state
 
-![M2 navigation drawer with 4 destinations in a mail app. The active destination “Inbox” is rectangular.](assets/asset-002-m2-navigation-drawer-had-square-corners-and-a-80fc7e1dd6.png)
+![M2 navigation drawer with 4 destinations in a mail app. The active destination “Inbox” is rectangular.](assets/asset-002-m2-navigation-drawer-had-square-corners-and-a-80fc7e1dd6.webp)
 
 *M2: Navigation drawer had square corners and a rectangular shape indicating the active destination*
 
-![M3 navigation drawer with 4 destinations in a mail app. The active destination “Inbox” has rounded corners.](assets/asset-003-m3-navigation-drawer-has-rounded-corners-new-color-8ba9ead574.png)
+![M3 navigation drawer with 4 destinations in a mail app. The active destination “Inbox” has rounded corners.](assets/asset-003-m3-navigation-drawer-has-rounded-corners-new-color-8ba9ead574.webp)
 
 *M3: Navigation drawer has rounded corners, new color mappings, and an updated style for indicating the active destination*

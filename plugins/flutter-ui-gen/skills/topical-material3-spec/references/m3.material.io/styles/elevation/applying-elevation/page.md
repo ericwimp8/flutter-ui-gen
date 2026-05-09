@@ -4,7 +4,7 @@ Source: https://m3.material.io/styles/elevation/applying-elevation
 
 Material 3’s elevation system is deliberately limited to just a handful of levels. This creative constraint means you need to make thoughtful decisions about your UI’s elevation story.
 
-![Diagram showing the 5 elevation levels and their respective dp values.](assets/asset-001-material-uses-six-levels-of-elevation-each-with-87d2df4445.png)
+![Diagram showing the 5 elevation levels and their respective dp values.](assets/asset-001-material-uses-six-levels-of-elevation-each-with-87d2df4445.webp)
 
 *Material uses six levels of elevation, each with a corresponding dp value. These values are named for their relative distance above the UI’s surface: 0, +1, +2, +3, +4, and +5. An element’s resting state can be on levels 0 to +3, while levels +4 and +5 are reserved for user-interacted states such as hover and dragged.*
 
@@ -18,7 +18,7 @@ To successfully depict elevation, a surface must show:
 - Overlap with other surfaces, either at rest or in motion
 - Distance from other surfaces
 
-![3 images. The first shows a violet square overlapping a white square. The second shows 2 overlapping squares with the same color, but with shadows beneath the top square. The third shows a violet square overlapping a dark gray square.](assets/asset-002-two-overlapping-surfaces-with-distinct-tonal-values-two-464667e944.png)
+![3 images. The first shows a violet square overlapping a white square. The second shows 2 overlapping squares with the same color, but with shadows beneath the top square. The third shows a violet square overlapping a dark gray square.](assets/asset-002-two-overlapping-surfaces-with-distinct-tonal-values-two-464667e944.webp)
 
 *Two overlapping surfaces with distinct tonal values; Two overlapping surfaces with the same tonal values separated via shadow; Two overlapping surfaces with the same tonal values separated via scrim*
 
@@ -31,17 +31,17 @@ By default, Material 3's surfaces use tonal difference to indicate separation. O
 - Giving surfaces a drop shadow
 - Placing a scrim behind a surface
 
-![Elevation, scrim, and tonal differences used to indicate separation.](assets/asset-003-a-fab-s-elevation-helps-separate-it-from-8392f993dd.png)
+![Elevation, scrim, and tonal differences used to indicate separation.](assets/asset-003-a-fab-s-elevation-helps-separate-it-from-8392f993dd.webp)
 
 *A FAB's elevation helps separate it from body content; A scrim appears below a modal to communicate importance; Tonal differences between a navigation bar and body content indicate separate surfaces*
 
 For interactive components, edges must create sufficient contrast between surfaces (by meeting or exceeding accessible contrast ratios) for them to be seen as separate from one another.
 
-![FAB separated from the surface beneath it using a shadow.](assets/asset-004-do-ensure-floating-elements-have-sufficient-contrast-with-05e2567860.png)
+![FAB separated from the surface beneath it using a shadow.](assets/asset-004-do-ensure-floating-elements-have-sufficient-contrast-with-05e2567860.webp)
 
 *Do Ensure floating elements have sufficient contrast with surfaces beneath*
 
-![FAB without shadows, insufficiently separated from the surface beneath it.](assets/asset-005-don-t-don-t-use-colors-with-insufficient-34ab6a17a1.png)
+![FAB without shadows, insufficiently separated from the surface beneath it.](assets/asset-005-don-t-don-t-use-colors-with-insufficient-34ab6a17a1.webp)
 
 *Don’t Don't use colors with insufficient contrast. The relationship between surfaces must be clear.*
 
@@ -49,7 +49,7 @@ For interactive components, edges must create sufficient contrast between surfac
 
 You can pick from a range of surface and surface container color roles. These roles are not tied to elevation, and provide flexibility for defining containment areas. Any overlapping containment areas or components should have different color roles in order to visually communicate separation. [More on surface color roles](https://m3.material.io/m3/pages/color-roles/tab-1#89f972b1-e372-494c-aabc-69aea34ed591)
 
-![Diagram of email home screen with "1" indicating the list item background color and "2" indicating the navigation bar background color.](assets/asset-006-surface-surface-container-ce2ec6d311.png)
+![Diagram of email home screen with "1" indicating the list item background color and "2" indicating the navigation bar background color.](assets/asset-006-surface-surface-container-ce2ec6d311.webp)
 
 *Surface; Surface container*
 
@@ -59,11 +59,11 @@ Shadows can express the degree of elevation between surfaces in ways that other 
 
 Both a shadow’s size and amount of softness or diffusion express the degree of distance between two surfaces. For example, a surface with a shadow that's small and sharp indicates a surface’s close proximity to the surface behind it. Larger, softer shadows express more distance.
 
-![Podcast app with each show displayed as a card separated from the background using small dark shadows.](assets/asset-007-smaller-sharper-shadows-indicate-a-surface-s-close-fad9cc0420.png)
+![Podcast app with each show displayed as a card separated from the background using small dark shadows.](assets/asset-007-smaller-sharper-shadows-indicate-a-surface-s-close-fad9cc0420.webp)
 
 *Smaller, sharper shadows indicate a surface’s close proximity to the surface behind it*
 
-![Podcast app with each show displayed as a card separated from the background using more fuzzy and diffused shadows.](assets/asset-008-larger-softer-shadows-express-more-distance-between-a-0e5837ad6a.png)
+![Podcast app with each show displayed as a card separated from the background using more fuzzy and diffused shadows.](assets/asset-008-larger-softer-shadows-express-more-distance-between-a-0e5837ad6a.webp)
 
 *Larger, softer shadows express more distance between a surface and the one behind it*
 
@@ -75,7 +75,7 @@ When it comes to applying shadows, less is more. The fewer levels in your UI, th
 
 When a background is patterned or visually busy, the hairline style might not provide sufficient protection. In these cases, use elevation to separate and emphasize elements such as cards, chips, or buttons.
 
-![Buttons with shadows separating them from a background image.](assets/asset-009-interactive-elements-are-emphasized-with-elevation-5974cb4c00.png)
+![Buttons with shadows separating them from a background image.](assets/asset-009-interactive-elements-are-emphasized-with-elevation-5974cb4c00.webp)
 
 *Interactive elements are emphasized with elevation*
 
@@ -93,6 +93,6 @@ A scrim can bring focus to specific elements by increasing the visual contrast o
 
 Scrims use the scrim color role (Color roles are assigned to UI elements based on emphasis, container type, and relationship with other elements. This ensures proper contrast and usage in any color scheme.) at an opacity of 32%.
 
-![Large screen news app with a navigation rail separated from the body content by a scrim.](assets/asset-011-scrims-help-bring-focus-to-important-elements-like-11cf654aab.png)
+![Large screen news app with a navigation rail separated from the body content by a scrim.](assets/asset-011-scrims-help-bring-focus-to-important-elements-like-11cf654aab.webp)
 
 *Scrims help bring focus to important elements like the navigation rail*

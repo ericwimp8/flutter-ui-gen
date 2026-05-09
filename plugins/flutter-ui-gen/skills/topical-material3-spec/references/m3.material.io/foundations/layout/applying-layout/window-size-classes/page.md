@@ -12,7 +12,7 @@ All devices fall into one of five Material Design window size classes: compact, 
 
 Rather than designing for an ever increasing number of display states, focusing on window size classes sizes ensures layouts work across a range of devices.
 
-![3 window size classes from small to expanded.](assets/asset-001-compact-medium-expanded-5ca645b5cb.png)
+![3 window size classes from small to expanded.](assets/asset-001-compact-medium-expanded-5ca645b5cb.webp)
 
 *Compact; Medium; Expanded*
 
@@ -31,7 +31,7 @@ Large and extra-large window size classes are used on devices like laptops, desk
 
 Note: Large and extra-large window size classes are coming soon to Jetpack Compose.
 
-![2 large and extra-large window size classes.](assets/asset-002-large-extra-large-786ffce59b.png)
+![2 large and extra-large window size classes.](assets/asset-002-large-extra-large-786ffce59b.webp)
 
 *Large; Extra-large*
 
@@ -48,11 +48,11 @@ However, since most layouts contain vertically scrolling content, it's rare that
 
 ## Designing across window sizes
 
-![The 3 window size classes.](assets/asset-003-email-app-shown-in-the-three-window-classes-a52bda00b8.png)
+![The 3 window size classes.](assets/asset-003-email-app-shown-in-the-three-window-classes-a52bda00b8.webp)
 
 *Email app shown in the three window classes: compact, medium, and expanded*
 
-![The 2 larger window size classes.](assets/asset-004-email-app-shown-in-large-and-extra-large-5842626cbd.png)
+![The 2 larger window size classes.](assets/asset-004-email-app-shown-in-large-and-extra-large-5842626cbd.webp)
 
 *Email app shown in large and extra-large window classes*
 
@@ -76,13 +76,13 @@ Parts of the UI that are hidden on smaller screens can be revealed in medium, ex
 
 For example, on a compact device the navigation drawer is collapsed by default and accessed via a menu button; on an expanded device, such as a large tablet or laptop, the navigation drawer can be open by default to reveal more actions and features.
 
-![Email app layout in a compact window and an expanded window](assets/asset-005-an-email-app-s-navigation-drawer-is-revealed-d9f45c76e0.png)
+![Email app layout in a compact window and an expanded window](assets/asset-005-an-email-app-s-navigation-drawer-is-revealed-d9f45c76e0.webp)
 
 *An email app’s navigation drawer is revealed in the expanded window size class*
 
 The same can be true for revealing additional [panes](https://m3.material.io/m3/pages/understanding-layout/parts-of-layout), such as when an expanded device has room to simultaneously display an inbox pane and a pane containing a selected email. Additional real-estate doesn’t just mean making the same thing bigger.
 
-![Messaging app layout in a compact window and an expanded window.](assets/asset-006-an-expanded-layout-for-this-messaging-app-reveals-f9138e4573.png)
+![Messaging app layout in a compact window and an expanded window.](assets/asset-006-an-expanded-layout-for-this-messaging-app-reveals-f9138e4573.webp)
 
 *An expanded layout for this messaging app reveals a second pane showing message threads*
 
@@ -92,7 +92,7 @@ When dividing the screen into layout [panes](https://m3.material.io/m3/pages/und
 
 Compositions using a single pane work best on compact and medium window size classes while two panes work best for the expanded, large, and extra-large window size classes.
 
-![Compact and medium windows have a single pane. The expanded, large, and x-large window size classes have 2 panes.](assets/asset-007-rough-layout-areas-across-three-window-class-sizes-bc8ea84efc.png)
+![Compact and medium windows have a single pane. The expanded, large, and x-large window size classes have 2 panes.](assets/asset-007-rough-layout-areas-across-three-window-class-sizes-bc8ea84efc.webp)
 
 *Rough layout areas across three window class sizes*
 
@@ -102,11 +102,11 @@ For example, two panes are possible in the medium window class but might not res
 
 However, lower density content that benefits from quick navigation between items might work well.
 
-![Medium window with 2 panes of low-density content: an email setting menu and a list of setting switches.](assets/asset-008-a-settings-view-offering-quick-navigation-and-actions-b424210cb6.png)
+![Medium window with 2 panes of low-density content: an email setting menu and a list of setting switches.](assets/asset-008-a-settings-view-offering-quick-navigation-and-actions-b424210cb6.webp)
 
 *A settings view offering quick navigation and actions is a good use of two panes in a medium layout*
 
-![Video app in a medium window has 1 pane for portrait layout and 2 for landscape.](assets/asset-009-rotating-a-device-often-changes-the-window-class-218455ab59.png)
+![Video app in a medium window has 1 pane for portrait layout and 2 for landscape.](assets/asset-009-rotating-a-device-often-changes-the-window-class-218455ab59.webp)
 
 *Rotating a device often changes the window class. A two-pane layout for an expanded window size class may need to adapt to a one-pane layout for medium or compact window size classes.*
 
@@ -117,7 +117,7 @@ Single-pane layouts can create focus attention on one action or view, creating a
 - Video calls
 - Creative applications
 
-![Video calling app in a single-pane landscape layout in an expanded window size class.](assets/asset-010-immersive-single-pane-layout-for-a-video-call-54e7ec5ad8.png)
+![Video calling app in a single-pane landscape layout in an expanded window size class.](assets/asset-010-immersive-single-pane-layout-for-a-video-call-54e7ec5ad8.webp)
 
 *Immersive single-pane layout for a video call*
 
@@ -136,7 +136,7 @@ Resizing elements can give imagery more prominence or make room for larger typog
 
 In every window class, the ideal line length for text is 40-60 characters. When resizing elements containing text, use margins and typographic properties like line height, font weight, and typography size to keep lines within 40-60 characters.
 
-![Card in compact and medium layouts. The image and text are rearranged and resized to be more legible in the medium layout.](assets/asset-011-a-smaller-card-in-a-compact-layout-can-3894e6771d.png)
+![Card in compact and medium layouts. The image and text are rearranged and resized to be more legible in the medium layout.](assets/asset-011-a-smaller-card-in-a-compact-layout-can-3894e6771d.webp)
 
 *A smaller card in a compact layout can be resized larger in a medium or expanded layout*
 
@@ -154,13 +154,13 @@ Consider:
 
 Internal elements can be anchored to the left, right, or center as a parent container scales. Internal elements can also maintain fixed positions, as seen in the example of a floating action button (FAB) within a navigation drawer.
 
-![Comparison of compact and medium window sizes with tabs anchored to the middle of the layout.](assets/asset-012-tabs-can-remain-anchored-to-the-middle-of-7c9c0108a1.png)
+![Comparison of compact and medium window sizes with tabs anchored to the middle of the layout.](assets/asset-012-tabs-can-remain-anchored-to-the-middle-of-7c9c0108a1.webp)
 
 *Tabs can remain anchored to the middle of a layout in both compact and medium window class sizes*
 
 In the case of a button, the icon and text label within the button container can remain anchored to each other, staying centered as the button container scales horizontally.
 
-![Label text remains the same size and centered as button size increases.](assets/asset-013-button-icons-and-label-text-can-remain-anchored-cd47ef1e33.png)
+![Label text remains the same size and centered as button size increases.](assets/asset-013-button-icons-and-label-text-can-remain-anchored-cd47ef1e33.webp)
 
 *Button icons and label text can remain anchored to each other no matter the width*
 
@@ -172,15 +172,15 @@ Use caution when swapping components by ensuring that the interchangeable compon
 
 The component swap should always serve a functional and ergonomic purpose for the user.
 
-![A compact layout’s navigation bar becomes a navigation rail in an expanded layout.](assets/asset-014-do-swap-a-navigation-bar-in-a-compact-b271a7d794.png)
+![A compact layout’s navigation bar becomes a navigation rail in an expanded layout.](assets/asset-014-do-swap-a-navigation-bar-in-a-compact-b271a7d794.webp)
 
 *Do Swap a navigation bar in a compact layout for a navigation rail in a medium or expanded layout*
 
-![A compact layout’s navigation rail becomes a navigation drawer in an extra-large layout.](assets/asset-015-do-a-collapsed-navigation-rail-in-medium-or-268d47ddb8.png)
+![A compact layout’s navigation rail becomes a navigation drawer in an extra-large layout.](assets/asset-015-do-a-collapsed-navigation-rail-in-medium-or-268d47ddb8.webp)
 
 *Do A collapsed navigation rail in medium or expanded layouts can become an expanded navigation rail in large or extra-large layouts*
 
-![A button is swapped out for a menu in a shopping app.](assets/asset-016-don-t-arbitrarily-swap-components-that-aren-t-6b4eae0f86.png)
+![A button is swapped out for a menu in a shopping app.](assets/asset-016-don-t-arbitrarily-swap-components-that-aren-t-6b4eae0f86.webp)
 
 *Don’t arbitrarily swap components that aren’t functionally equivalent, such as swapping a button with a menu*
 
