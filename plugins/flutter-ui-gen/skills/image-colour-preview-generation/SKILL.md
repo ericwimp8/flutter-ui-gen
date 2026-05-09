@@ -25,6 +25,24 @@ Save generated preview images under the project root:
 image-colour-preview-output/
 ```
 
+These are ImageGen preview artefacts for helping a user understand the generated theme. They are not deterministic spec renders. The generated `material_theme.json` and Flutter `ColorScheme` remain the source of truth for exact values.
+
+## Mandatory Style And Colour Rules
+
+These rules apply to every generated image and override any default ImageGen tendency to beautify, relight, redesign, or reinterpret the reference.
+
+- ImageGen is mandatory. Do not replace ImageGen with local PNG remapping, scripted recolouring, deterministic rendering, canvas drawing, screenshot composition, or manual patching unless the user explicitly asks for that different workflow.
+- If ImageGen cannot accept the local reference path or cannot produce a usable image, stop and report the limitation. Do not silently substitute another generation method.
+- The output must be a direct flat-colour remap of the reference image. Preserve the original reference layout and visual structure as closely as possible.
+- Role-mapped UI regions must use the exact generated Material role hex colours from `material_theme.json`. Treat each mapped role as a literal target fill colour.
+- Do not introduce gradients, glow, relighting, soft shadows, vignette effects, glass effects, texture, colour blending, atmospheric lighting, or tonal drift on mapped UI regions.
+- Do not make the image more polished, cinematic, dimensional, photorealistic, or stylized. The priority is semantic colour accuracy, not visual embellishment.
+- Keep mapped surfaces flat. Anti-aliased edges are acceptable, but the central area of each mapped component should match its target role colour as closely as ImageGen can manage.
+- Do not change component shapes, spacing, alignment, image crop, phone positions, board layout, tile order, labels, or visible UI inventory.
+- Do not add extra labels, helper text, hex values, badges, callouts, hover states, tooltips, legends, or diagnostic overlays.
+- For `scheme-board.png`, preserve the original Material board layout with flat rectangular colour tiles. Do not convert it into separate cards, rounded swatches, gradients, or a new palette presentation.
+- If ImageGen cannot satisfy these constraints perfectly, make the closest possible flat remap and report any visible drift or structure changes.
+
 ## Material References
 
 Use `flutter-ui-gen:topical-material3-spec` before changing these mappings. The relevant pages are:
@@ -45,13 +63,13 @@ Material role pairing matters. Use each container role with its matching `on...`
 ## Workflow
 
 1. Load the generated theme JSON and identify the selected light and dark schemes.
-2. Load the local reference asset before each ImageGen call so ImageGen has the correct visual source in context.
-3. Generate `image-colour-preview-output/app-light.png` from `assets/material-app-reference-light.png` and the Image 1 mapping.
-4. Generate `image-colour-preview-output/app-dark.png` from `assets/material-app-reference-dark.png` and the Image 2 mapping.
-5. Generate `image-colour-preview-output/scheme-board.png` from `assets/material-scheme-reference.png` and the Image 3 mapping.
+2. Resolve the three reference assets to absolute local paths.
+3. Generate `image-colour-preview-output/app-light.png` with ImageGen using the Light App Prompt Template.
+4. Generate `image-colour-preview-output/app-dark.png` with ImageGen using the Dark App Prompt Template.
+5. Generate `image-colour-preview-output/scheme-board.png` with ImageGen using the Scheme Board Prompt Template.
 6. Generate the three images sequentially. Do not combine them into one ImageGen call.
-7. Preserve composition, scale, typography mood, phone framing, copy, and component placement. Only recolour role-mapped UI surfaces and controls.
-8. Preserve plant photography as content imagery. Preserve flat plant illustrations unless the user explicitly asks to harmonise illustration colours.
+7. Put the absolute local reference image path directly in each ImageGen prompt. Do not rely on the model inferring the reference from conversation context alone.
+8. Copy the generated images into `image-colour-preview-output/` with the required names if ImageGen writes them somewhere else.
 
 ## Asset Files
 
@@ -59,6 +77,213 @@ Material role pairing matters. Use each container role with its matching `on...`
 assets/material-app-reference-light.png
 assets/material-app-reference-dark.png
 assets/material-scheme-reference.png
+```
+
+## ImageGen Prompt Templates
+
+Use these templates as the actual ImageGen prompts. Replace `{...}` placeholders with absolute file paths or generated role hex values from `material_theme.json`. Do not paraphrase the prompts into looser instructions.
+
+### Light App Prompt Template
+
+```text
+Use the local reference image at this exact path as the visual template: {absolute_path_to_assets/material-app-reference-light.png}
+
+Regenerate the same image as a flat Material 3 colour preview.
+
+Preserve the reference image composition exactly: same canvas size, phone positions, component placement, shapes, spacing, labels, text, icons, plant photo, plant illustrations, and bottom component samples. Do not redesign, crop, resize, relight, stylize, simplify, or add anything.
+
+Use only flat solid colours for mapped UI regions. Do not use gradients, glow, lighting, shadows, texture, glass effects, blending, atmospheric effects, or tonal drift. Anti-aliased edges are acceptable, but the interior of each mapped UI region should use the exact target colour.
+
+Use this light Material colour scheme:
+surface: {light.surface}
+onSurface: {light.onSurface}
+onSurfaceVariant: {light.onSurfaceVariant}
+surfaceContainer: {light.surfaceContainer}
+surfaceContainerLow: {light.surfaceContainerLow}
+surfaceContainerHighest: {light.surfaceContainerHighest}
+outline: {light.outline}
+outlineVariant: {light.outlineVariant}
+primary: {light.primary}
+onPrimary: {light.onPrimary}
+primaryContainer: {light.primaryContainer}
+onPrimaryContainer: {light.onPrimaryContainer}
+secondaryContainer: {light.secondaryContainer}
+onSecondaryContainer: {light.onSecondaryContainer}
+tertiaryContainer: {light.tertiaryContainer}
+onTertiaryContainer: {light.onTertiaryContainer}
+inverseSurface: {light.inverseSurface}
+inverseOnSurface: {light.inverseOnSurface}
+
+Apply these mappings:
+- outer canvas and phone screens: surface
+- phone frames/strokes: outlineVariant
+- main text and section headings: onSurface
+- room headings and "Monstera Unique": primary
+- supporting plant names and secondary icons: onSurfaceVariant
+- task list cards: surfaceContainer
+- info banner and carousel cards: tertiaryContainer
+- info banner and carousel text/icons: onTertiaryContainer
+- selected checkboxes: primaryContainer with check icon onPrimaryContainer
+- profile icon button: secondaryContainer with icon onSecondaryContainer
+- filled text field: surfaceContainerHighest
+- outlined text field outline: outline
+- neutral assist chip: surfaceContainerLow with onSurface
+- blue assist/suggestion chips: primaryContainer with onPrimaryContainer
+- dark filter chip: inverseSurface with inverseOnSurface
+- purple filter chip: tertiaryContainer with onTertiaryContainer
+- filled primary button: primary with onPrimary
+- tonal buttons and extended FAB: secondaryContainer with onSecondaryContainer
+- text/outlined plus buttons: primary text/icons, outline where outlined
+- large central FAB: tertiaryContainer with onTertiaryContainer
+
+Preserve the plant photo colours. Preserve the flat plant illustration colours unless they conflict with mapped UI surfaces.
+```
+
+### Dark App Prompt Template
+
+```text
+Use the local reference image at this exact path as the visual template: {absolute_path_to_assets/material-app-reference-dark.png}
+
+Regenerate the same image as a flat Material 3 colour preview.
+
+Preserve the reference image composition exactly: same canvas size, phone positions, component placement, shapes, spacing, labels, text, icons, plant photo, plant illustrations, and bottom component samples. Do not redesign, crop, resize, relight, stylize, simplify, or add anything.
+
+Use only flat solid colours for mapped UI regions. Do not use gradients, glow, lighting, shadows, texture, glass effects, blending, atmospheric effects, or tonal drift. Anti-aliased edges are acceptable, but the interior of each mapped UI region should use the exact target colour.
+
+Use this dark Material colour scheme:
+surface: {dark.surface}
+onSurface: {dark.onSurface}
+onSurfaceVariant: {dark.onSurfaceVariant}
+surfaceContainer: {dark.surfaceContainer}
+surfaceContainerLow: {dark.surfaceContainerLow}
+surfaceContainerHighest: {dark.surfaceContainerHighest}
+outline: {dark.outline}
+outlineVariant: {dark.outlineVariant}
+primary: {dark.primary}
+onPrimary: {dark.onPrimary}
+primaryContainer: {dark.primaryContainer}
+onPrimaryContainer: {dark.onPrimaryContainer}
+secondaryContainer: {dark.secondaryContainer}
+onSecondaryContainer: {dark.onSecondaryContainer}
+tertiaryContainer: {dark.tertiaryContainer}
+onTertiaryContainer: {dark.onTertiaryContainer}
+inverseSurface: {dark.inverseSurface}
+inverseOnSurface: {dark.inverseOnSurface}
+
+Apply these mappings:
+- outer canvas and phone screens: surface
+- phone frames/strokes: outlineVariant
+- main text and section headings: onSurface
+- room headings and "Monstera Unique": primary
+- supporting plant names and secondary icons: onSurfaceVariant
+- task list cards: surfaceContainer
+- info banner and carousel cards: tertiaryContainer
+- info banner and carousel text/icons: onTertiaryContainer
+- selected checkboxes: primaryContainer with check icon onPrimaryContainer
+- profile icon button: secondaryContainer with icon onSecondaryContainer
+- filled text field: surfaceContainerHighest
+- outlined text field outline: outline
+- neutral assist chip: surfaceContainerLow with onSurface
+- blue assist/suggestion chips: primaryContainer with onPrimaryContainer
+- dark filter chip: inverseSurface with inverseOnSurface
+- purple filter chip: tertiaryContainer with onTertiaryContainer
+- filled primary button: primary with onPrimary
+- tonal buttons and extended FAB: secondaryContainer with onSecondaryContainer
+- text/outlined plus buttons: primary text/icons, outline where outlined
+- large central FAB: tertiaryContainer with onTertiaryContainer
+
+Preserve the plant photo colours. Preserve the flat plant illustration colours unless they conflict with mapped UI surfaces.
+```
+
+### Scheme Board Prompt Template
+
+```text
+Use the local reference image at this exact path as the visual template: {absolute_path_to_assets/material-scheme-reference.png}
+
+Regenerate the same Material colour scheme board as a flat exact-colour preview. Preserve the reference image composition exactly: same canvas shape, same two stacked sections, same Light Scheme panel, same Dark Scheme panel, same tile positions, tile sizes, tile order, labels, spacing, borders, rounded panel corners, and dark outer background. Do not redesign, crop, resize, restyle, simplify, add hex values, add captions, add cards, add extra labels, add tooltips, or remove any visible tile.
+
+This is a flat colour mapping task. Every labelled colour tile must use the exact hex colour for the role named by that tile. Use solid fills only. No gradients. No lighting. No soft shadows. No glow. No texture. No glass effects. No blending. No tonal drift. No automatic palette interpretation. Do not choose similar colours. Use the exact hex values below.
+
+Keep the text labels exactly as in the reference image. Do not add hex values to the labels. Do not include the hover copy icon or "Copy hex color" tooltip from the reference; remove those transient hover overlays and show the underlying normal board.
+
+LIGHT SCHEME ROLE FILLS:
+Primary tile fill: {light.primary}
+On Primary tile fill: {light.onPrimary}
+Primary Container tile fill: {light.primaryContainer}
+On Primary Container tile fill: {light.onPrimaryContainer}
+Secondary tile fill: {light.secondary}
+On Secondary tile fill: {light.onSecondary}
+Secondary Container tile fill: {light.secondaryContainer}
+On Secondary Container tile fill: {light.onSecondaryContainer}
+Tertiary tile fill: {light.tertiary}
+On Tertiary tile fill: {light.onTertiary}
+Tertiary Container tile fill: {light.tertiaryContainer}
+On Tertiary Container tile fill: {light.onTertiaryContainer}
+Error tile fill: {light.error}
+On Error tile fill: {light.onError}
+Error Container tile fill: {light.errorContainer}
+On Error Container tile fill: {light.onErrorContainer}
+Surface Dim tile fill: {light.surfaceDim}
+Surface tile fill: {light.surface}
+Surface Bright tile fill: {light.surfaceBright}
+Surf. Container Lowest tile fill: {light.surfaceContainerLowest}
+Surf. Container Low tile fill: {light.surfaceContainerLow}
+Surf. Container tile fill: {light.surfaceContainer}
+Surf. Container High tile fill: {light.surfaceContainerHigh}
+Surf. Container Highest tile fill: {light.surfaceContainerHighest}
+On Surface tile fill: {light.onSurface}
+On Surface Var. tile fill: {light.onSurfaceVariant}
+Outline tile fill: {light.outline}
+Outline Variant tile fill: {light.outlineVariant}
+Inverse Surface tile fill: {light.inverseSurface}
+Inverse On Surface tile fill: {light.inverseOnSurface}
+Inverse Primary tile fill: {light.inversePrimary}
+Scrim tile fill: {light.scrim}
+Shadow tile fill: {light.shadow}
+
+DARK SCHEME ROLE FILLS:
+Primary tile fill: {dark.primary}
+On Primary tile fill: {dark.onPrimary}
+Primary Container tile fill: {dark.primaryContainer}
+On Primary Container tile fill: {dark.onPrimaryContainer}
+Secondary tile fill: {dark.secondary}
+On Secondary tile fill: {dark.onSecondary}
+Secondary Container tile fill: {dark.secondaryContainer}
+On Secondary Container tile fill: {dark.onSecondaryContainer}
+Tertiary tile fill: {dark.tertiary}
+On Tertiary tile fill: {dark.onTertiary}
+Tertiary Container tile fill: {dark.tertiaryContainer}
+On Tertiary Container tile fill: {dark.onTertiaryContainer}
+Error tile fill: {dark.error}
+On Error tile fill: {dark.onError}
+Error Container tile fill: {dark.errorContainer}
+On Error Container tile fill: {dark.onErrorContainer}
+Surface Dim tile fill: {dark.surfaceDim}
+Surface tile fill: {dark.surface}
+Surface Bright tile fill: {dark.surfaceBright}
+Surf. Container Lowest tile fill: {dark.surfaceContainerLowest}
+Surf. Container Low tile fill: {dark.surfaceContainerLow}
+Surf. Container tile fill: {dark.surfaceContainer}
+Surf. Container High tile fill: {dark.surfaceContainerHigh}
+Surf. Container Highest tile fill: {dark.surfaceContainerHighest}
+On Surface tile fill: {dark.onSurface}
+On Surface Var. tile fill: {dark.onSurfaceVariant}
+Outline tile fill: {dark.outline}
+Outline Variant tile fill: {dark.outlineVariant}
+Inverse Surface tile fill: {dark.inverseSurface}
+Inverse On Surface tile fill: {dark.inverseOnSurface}
+Inverse Primary tile fill: {dark.inversePrimary}
+Scrim tile fill: {dark.scrim}
+Shadow tile fill: {dark.shadow}
+
+Panel/background mapping:
+Outer screenshot background: dark surface {dark.surface}
+Light Scheme rounded panel background: light surface {light.surface}
+Dark Scheme rounded panel background: dark surface {dark.surface}
+Dark Scheme panel border: dark outlineVariant {dark.outlineVariant}
+Heading text: matching onSurface for each section.
+
+Again: exact flat tile fills only. The result should look like the same reference board with the same layout, but recoloured with the exact role hex values listed here.
 ```
 
 ## Image 1 Mapping: Light App Reference
@@ -88,7 +313,7 @@ Top-level app text:
 
 Primary app panels:
 
-- task list cards: filled cards using `surfaceContainerHigh`
+- task list cards: filled cards using `surfaceContainer`
 - task card body text: `onSurface`
 - task card supporting text: `onSurfaceVariant`
 - info banner container: `tertiaryContainer`
@@ -98,8 +323,8 @@ Primary app panels:
 
 Controls inside phone screens:
 
-- selected checkboxes: container `primary`, check icon `onPrimary`
-- profile icon button: filled icon button container `primary`, person icon `onPrimary`
+- selected checkboxes: container `primaryContainer`, check icon `onPrimaryContainer`
+- profile icon button: tonal icon button container `secondaryContainer`, person icon `onSecondaryContainer`
 - standard navigation/action icons: `onSurfaceVariant`
 - care/about list icons: `onSurface`
 
@@ -157,7 +382,7 @@ Top-level app text:
 
 Primary app panels:
 
-- task list cards: filled cards using `surfaceContainerHigh`
+- task list cards: filled cards using `surfaceContainer`
 - task card body text: `onSurface`
 - task card supporting text: `onSurfaceVariant`
 - info banner container: `tertiaryContainer`
@@ -167,8 +392,8 @@ Primary app panels:
 
 Controls inside phone screens:
 
-- selected checkboxes: container `primary`, check icon `onPrimary`
-- profile icon button: filled icon button container `primary`, person icon `onPrimary`
+- selected checkboxes: container `primaryContainer`, check icon `onPrimaryContainer`
+- profile icon button: tonal icon button container `secondaryContainer`, person icon `onSecondaryContainer`
 - standard navigation/action icons: `onSurfaceVariant`
 - care/about list icons: `onSurface`
 
