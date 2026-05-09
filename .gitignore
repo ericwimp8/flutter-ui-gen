@@ -1,0 +1,15 @@
+*
+
+!.gitignore
+!README.md
+!.agents/
+!.agents/plugins/
+!.agents/plugins/marketplace.json
+!plugins/
+!plugins/flutter-ui-gen/
+!plugins/flutter-ui-gen/**
+
+**/.DS_Store
+**/.dart_tool/
+**/.packages
+**/build/

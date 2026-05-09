@@ -1,0 +1,33 @@
+{
+  "name": "flutter-ui-gen",
+  "version": "0.1.1",
+  "description": "Flutter UI generation support with bundled Material 3 specification references and theme generation tooling.",
+  "author": {
+    "name": "Eric Wimp"
+  },
+  "license": "UNLICENSED",
+  "keywords": [
+    "flutter",
+    "material-3",
+    "ui-generation",
+    "theme-generation"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Flutter UI Gen",
+    "shortDescription": "Material 3 references and Flutter UI generation support.",
+    "longDescription": "Flutter UI generation plugin with bundled Material 3 specification references, visual assets, and theme generation tooling.",
+    "developerName": "Eric Wimp",
+    "category": "Design",
+    "capabilities": [
+      "Reference",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use Material 3 references for this Flutter UI.",
+      "Generate a Material 3 Flutter theme.",
+      "Create a responsive Flutter UI from these ideas."
+    ],
+    "brandColor": "#6750A4"
+  }
+}

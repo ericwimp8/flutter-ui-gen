@@ -1,0 +1,512 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "material_theme_colour_generation",
+    "materialColorUtilitiesPackage": "material_color_utilities"
+  },
+  "input": {
+    "userIntent": "orange with red highlights and warm cream surfaces",
+    "recipe": "vibrant",
+    "sourceColor": "#C75A32",
+    "contrastLevel": 0.0,
+    "paletteOverrides": {
+      "tertiary": {
+        "hue": 25.982,
+        "chroma": 76.328,
+        "keyColor": {
+          "hex": "#B3261E",
+          "hct": {
+            "hue": 25.982,
+            "chroma": 76.328,
+            "tone": 39.688
+          }
+        }
+      },
+      "neutral": {
+        "hue": 48.0,
+        "chroma": 8.0,
+        "keyColor": {
+          "hex": "#85746B",
+          "hct": {
+            "hue": 50.163,
+            "chroma": 8.046,
+            "tone": 50.143
+          }
+        }
+      },
+      "neutralVariant": {
+        "hue": 48.0,
+        "chroma": 12.0,
+        "keyColor": {
+          "hex": "#8B7265",
+          "hct": {
+            "hue": 48.371,
+            "chroma": 12.061,
+            "tone": 50.053
+          }
+        }
+      }
+    }
+  },
+  "source": {
+    "argb": "0xffc75a32",
+    "hex": "#C75A32",
+    "hct": {
+      "hue": 37.317,
+      "chroma": 56.368,
+      "tone": 51.479
+    }
+  },
+  "schemes": {
+    "light": {
+      "brightness": "light",
+      "variant": "vibrant",
+      "contrastLevel": 0.0,
+      "roles": {
+        "primaryPaletteKeyColor": "#FC5400",
+        "secondaryPaletteKeyColor": "#9A6E4E",
+        "tertiaryPaletteKeyColor": "#B3261E",
+        "neutralPaletteKeyColor": "#85746C",
+        "neutralVariantPaletteKeyColor": "#8B7265",
+        "background": "#FFF8F6",
+        "onBackground": "#241913",
+        "surface": "#FFF8F6",
+        "surfaceDim": "#EBD6CC",
+        "surfaceBright": "#FFF8F6",
+        "surfaceContainerLowest": "#FFFFFF",
+        "surfaceContainerLow": "#FFF1EB",
+        "surfaceContainer": "#FFEAE0",
+        "surfaceContainerHigh": "#FAE4D9",
+        "surfaceContainerHighest": "#F4DED4",
+        "onSurface": "#241913",
+        "surfaceVariant": "#FCDCCD",
+        "onSurfaceVariant": "#574237",
+        "inverseSurface": "#3B2E27",
+        "inverseOnSurface": "#FFEDE5",
+        "outline": "#8B7265",
+        "outlineVariant": "#DEC0B2",
+        "shadow": "#000000",
+        "scrim": "#000000",
+        "surfaceTint": "#AB3600",
+        "primary": "#AB3600",
+        "onPrimary": "#FFFFFF",
+        "primaryContainer": "#FFDBCF",
+        "onPrimaryContainer": "#822700",
+        "inversePrimary": "#FFB59C",
+        "secondary": "#7E5537",
+        "onSecondary": "#FFFFFF",
+        "secondaryContainer": "#FFDCC5",
+        "onSecondaryContainer": "#633E22",
+        "tertiary": "#B4271F",
+        "onTertiary": "#FFFFFF",
+        "tertiaryContainer": "#FFDAD5",
+        "onTertiaryContainer": "#910809",
+        "error": "#BA1A1A",
+        "onError": "#FFFFFF",
+        "errorContainer": "#FFDAD6",
+        "onErrorContainer": "#93000A",
+        "primaryFixed": "#FFDBCF",
+        "primaryFixedDim": "#FFB59C",
+        "onPrimaryFixed": "#390C00",
+        "onPrimaryFixedVariant": "#822700",
+        "secondaryFixed": "#FFDCC5",
+        "secondaryFixedDim": "#F1BC97",
+        "onSecondaryFixed": "#301400",
+        "onSecondaryFixedVariant": "#633E22",
+        "tertiaryFixed": "#FFDAD5",
+        "tertiaryFixedDim": "#FFB4AA",
+        "onTertiaryFixed": "#410001",
+        "onTertiaryFixedVariant": "#910809"
+      },
+      "palettes": {
+        "primaryPalette": {
+          "hue": 37.317,
+          "chroma": 200.0,
+          "keyColor": {
+            "hex": "#FC5400",
+            "hct": {
+              "hue": 37.461,
+              "chroma": 86.597,
+              "tone": 59.008
+            }
+          },
+          "tones": {
+            "0": "#000000",
+            "10": "#390C00",
+            "20": "#5C1900",
+            "30": "#822700",
+            "40": "#AB3600",
+            "50": "#D54500",
+            "60": "#FF570A",
+            "70": "#FF8B63",
+            "80": "#FFB59C",
+            "90": "#FFDBCF",
+            "95": "#FFEDE8",
+            "99": "#FFFBFF",
+            "100": "#FFFFFF"
+          }
+        },
+        "secondaryPalette": {
+          "hue": 55.317,
+          "chroma": 24.0,
+          "keyColor": {
+            "hex": "#996E4E",
+            "hct": {
+              "hue": 55.96,
+              "chroma": 23.645,
+              "tone": 50.066
+            }
+          },
+          "tones": {
+            "0": "#000000",
+            "10": "#301400",
+            "20": "#49280E",
+            "30": "#633E22",
+            "40": "#7E5537",
+            "50": "#996E4E",
+            "60": "#B68765",
+            "70": "#D3A17D",
+            "80": "#F1BC97",
+            "90": "#FFDCC5",
+            "95": "#FFEDE3",
+            "99": "#FFFBFF",
+            "100": "#FFFFFF"
+          }
+        },
+        "tertiaryPalette": {
+          "hue": 25.982,
+          "chroma": 76.328,
+          "keyColor": {
+            "hex": "#B3261E",
+            "hct": {
+              "hue": 25.982,
+              "chroma": 76.328,
+              "tone": 39.688
+            }
+          },
+          "tones": {
+            "0": "#000000",
+            "10": "#410001",
+            "20": "#690003",
+            "30": "#910809",
+            "40": "#B4271F",
+            "50": "#D74034",
+            "60": "#FA5A4A",
+            "70": "#FF8A7B",
+            "80": "#FFB4AA",
+            "90": "#FFDAD5",
+            "95": "#FFEDEA",
+            "99": "#FFFBFF",
+            "100": "#FFFFFF"
+          }
+        },
+        "neutralPalette": {
+          "hue": 48.0,
+          "chroma": 8.0,
+          "keyColor": {
+            "hex": "#85746B",
+            "hct": {
+              "hue": 50.163,
+              "chroma": 8.046,
+              "tone": 50.143
+            }
+          },
+          "tones": {
+            "0": "#000000",
+            "10": "#241913",
+            "20": "#3B2E27",
+            "30": "#52443C",
+            "40": "#6B5B53",
+            "50": "#85746B",
+            "60": "#9F8D84",
+            "70": "#BBA79E",
+            "80": "#D7C2B9",
+            "90": "#F4DED4",
+            "95": "#FFEDE5",
+            "99": "#FFFBFF",
+            "100": "#FFFFFF"
+          }
+        },
+        "neutralVariantPalette": {
+          "hue": 48.0,
+          "chroma": 12.0,
+          "keyColor": {
+            "hex": "#8B7265",
+            "hct": {
+              "hue": 48.371,
+              "chroma": 12.061,
+              "tone": 50.053
+            }
+          },
+          "tones": {
+            "0": "#000000",
+            "10": "#28180F",
+            "20": "#3F2C22",
+            "30": "#574237",
+            "40": "#71594D",
+            "50": "#8B7265",
+            "60": "#A68B7E",
+            "70": "#C2A597",
+            "80": "#DEC0B2",
+            "90": "#FCDCCD",
+            "95": "#FFEDE5",
+            "99": "#FFFBFF",
+            "100": "#FFFFFF"
+          }
+        },
+        "errorPalette": {
+          "hue": 25.0,
+          "chroma": 84.0,
+          "keyColor": {
+            "hex": "#DE3730",
+            "hct": {
+              "hue": 25.01,
+              "chroma": 84.045,
+              "tone": 50.068
+            }
+          },
+          "tones": {
+            "0": "#000000",
+            "10": "#410002",
+            "20": "#690005",
+            "30": "#93000A",
+            "40": "#BA1A1A",
+            "50": "#DE3730",
+            "60": "#FF5449",
+            "70": "#FF897D",
+            "80": "#FFB4AB",
+            "90": "#FFDAD6",
+            "95": "#FFEDEA",
+            "99": "#FFFBFF",
+            "100": "#FFFFFF"
+          }
+        }
+      }
+    },
+    "dark": {
+      "brightness": "dark",
+      "variant": "vibrant",
+      "contrastLevel": 0.0,
+      "roles": {
+        "primaryPaletteKeyColor": "#FC5400",
+        "secondaryPaletteKeyColor": "#9A6E4E",
+        "tertiaryPaletteKeyColor": "#B3261E",
+        "neutralPaletteKeyColor": "#85746C",
+        "neutralVariantPaletteKeyColor": "#8B7265",
+        "background": "#1B110B",
+        "onBackground": "#F4DED4",
+        "surface": "#1B110B",
+        "surfaceDim": "#1B110B",
+        "surfaceBright": "#44362F",
+        "surfaceContainerLowest": "#160C07",
+        "surfaceContainerLow": "#241913",
+        "surfaceContainer": "#291D17",
+        "surfaceContainerHigh": "#342721",
+        "surfaceContainerHighest": "#3F322B",
+        "onSurface": "#F4DED4",
+        "surfaceVariant": "#574237",
+        "onSurfaceVariant": "#DEC0B2",
+        "inverseSurface": "#F4DED4",
+        "inverseOnSurface": "#3B2E27",
+        "outline": "#A68B7E",
+        "outlineVariant": "#574237",
+        "shadow": "#000000",
+        "scrim": "#000000",
+        "surfaceTint": "#FFB59C",
+        "primary": "#FFB59C",
+        "onPrimary": "#5C1900",
+        "primaryContainer": "#822700",
+        "onPrimaryContainer": "#FFDBCF",
+        "inversePrimary": "#AB3600",
+        "secondary": "#F1BC97",
+        "onSecondary": "#49280E",
+        "secondaryContainer": "#633E22",
+        "onSecondaryContainer": "#FFDCC5",
+        "tertiary": "#FFB4AA",
+        "onTertiary": "#690003",
+        "tertiaryContainer": "#910809",
+        "onTertiaryContainer": "#FFDAD5",
+        "error": "#FFB4AB",
+        "onError": "#690005",
+        "errorContainer": "#93000A",
+        "onErrorContainer": "#FFDAD6",
+        "primaryFixed": "#FFDBCF",
+        "primaryFixedDim": "#FFB59C",
+        "onPrimaryFixed": "#390C00",
+        "onPrimaryFixedVariant": "#822700",
+        "secondaryFixed": "#FFDCC5",
+        "secondaryFixedDim": "#F1BC97",
+        "onSecondaryFixed": "#301400",
+        "onSecondaryFixedVariant": "#633E22",
+        "tertiaryFixed": "#FFDAD5",
+        "tertiaryFixedDim": "#FFB4AA",
+        "onTertiaryFixed": "#410001",
+        "onTertiaryFixedVariant": "#910809"
+      },
+      "palettes": {
+        "primaryPalette": {
+          "hue": 37.317,
+          "chroma": 200.0,
+          "keyColor": {
+            "hex": "#FC5400",
+            "hct": {
+              "hue": 37.461,
+              "chroma": 86.597,
+              "tone": 59.008
+            }
+          },
+          "tones": {
+            "0": "#000000",
+            "10": "#390C00",
+            "20": "#5C1900",
+            "30": "#822700",
+            "40": "#AB3600",
+            "50": "#D54500",
+            "60": "#FF570A",
+            "70": "#FF8B63",
+            "80": "#FFB59C",
+            "90": "#FFDBCF",
+            "95": "#FFEDE8",
+            "99": "#FFFBFF",
+            "100": "#FFFFFF"
+          }
+        },
+        "secondaryPalette": {
+          "hue": 55.317,
+          "chroma": 24.0,
+          "keyColor": {
+            "hex": "#996E4E",
+            "hct": {
+              "hue": 55.96,
+              "chroma": 23.645,
+              "tone": 50.066
+            }
+          },
+          "tones": {
+            "0": "#000000",
+            "10": "#301400",
+            "20": "#49280E",
+            "30": "#633E22",
+            "40": "#7E5537",
+            "50": "#996E4E",
+            "60": "#B68765",
+            "70": "#D3A17D",
+            "80": "#F1BC97",
+            "90": "#FFDCC5",
+            "95": "#FFEDE3",
+            "99": "#FFFBFF",
+            "100": "#FFFFFF"
+          }
+        },
+        "tertiaryPalette": {
+          "hue": 25.982,
+          "chroma": 76.328,
+          "keyColor": {
+            "hex": "#B3261E",
+            "hct": {
+              "hue": 25.982,
+              "chroma": 76.328,
+              "tone": 39.688
+            }
+          },
+          "tones": {
+            "0": "#000000",
+            "10": "#410001",
+            "20": "#690003",
+            "30": "#910809",
+            "40": "#B4271F",
+            "50": "#D74034",
+            "60": "#FA5A4A",
+            "70": "#FF8A7B",
+            "80": "#FFB4AA",
+            "90": "#FFDAD5",
+            "95": "#FFEDEA",
+            "99": "#FFFBFF",
+            "100": "#FFFFFF"
+          }
+        },
+        "neutralPalette": {
+          "hue": 48.0,
+          "chroma": 8.0,
+          "keyColor": {
+            "hex": "#85746B",
+            "hct": {
+              "hue": 50.163,
+              "chroma": 8.046,
+              "tone": 50.143
+            }
+          },
+          "tones": {
+            "0": "#000000",
+            "10": "#241913",
+            "20": "#3B2E27",
+            "30": "#52443C",
+            "40": "#6B5B53",
+            "50": "#85746B",
+            "60": "#9F8D84",
+            "70": "#BBA79E",
+            "80": "#D7C2B9",
+            "90": "#F4DED4",
+            "95": "#FFEDE5",
+            "99": "#FFFBFF",
+            "100": "#FFFFFF"
+          }
+        },
+        "neutralVariantPalette": {
+          "hue": 48.0,
+          "chroma": 12.0,
+          "keyColor": {
+            "hex": "#8B7265",
+            "hct": {
+              "hue": 48.371,
+              "chroma": 12.061,
+              "tone": 50.053
+            }
+          },
+          "tones": {
+            "0": "#000000",
+            "10": "#28180F",
+            "20": "#3F2C22",
+            "30": "#574237",
+            "40": "#71594D",
+            "50": "#8B7265",
+            "60": "#A68B7E",
+            "70": "#C2A597",
+            "80": "#DEC0B2",
+            "90": "#FCDCCD",
+            "95": "#FFEDE5",
+            "99": "#FFFBFF",
+            "100": "#FFFFFF"
+          }
+        },
+        "errorPalette": {
+          "hue": 25.0,
+          "chroma": 84.0,
+          "keyColor": {
+            "hex": "#DE3730",
+            "hct": {
+              "hue": 25.01,
+              "chroma": 84.045,
+              "tone": 50.068
+            }
+          },
+          "tones": {
+            "0": "#000000",
+            "10": "#410002",
+            "20": "#690005",
+            "30": "#93000A",
+            "40": "#BA1A1A",
+            "50": "#DE3730",
+            "60": "#FF5449",
+            "70": "#FF897D",
+            "80": "#FFB4AB",
+            "90": "#FFDAD6",
+            "95": "#FFEDEA",
+            "99": "#FFFBFF",
+            "100": "#FFFFFF"
+          }
+        }
+      }
+    }
+  }
+}

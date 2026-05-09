@@ -1,0 +1,10 @@
+name: material_theme_colour_generation
+description: Draft Material 3 theme colour generator for Flutter UI generation.
+publish_to: none
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  material_color_utilities: ^0.13.0
